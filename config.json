@@ -1,0 +1,23 @@
+{
+  "pipeline_settings": {
+    "output_directory": "extracted_pdfs",
+    "max_file_size_mb": 100,
+    "chunk_size_characters": 50000,
+    "download_timeout_seconds": 300
+  },
+  "github_settings": {
+    "repository": "pdf-library",
+    "branch": "main",
+    "raw_base_url": "https://raw.githubusercontent.com/{username}/pdf-library/{branch}/"
+  },
+  "extraction_settings": {
+    "preferred_library": "auto",
+    "extract_images": false,
+    "preserve_formatting": true
+  },
+  "claude_integration": {
+    "max_chunk_size": 50000,
+    "include_page_markers": true,
+    "include_metadata_headers": true
+  }
+}
