@@ -24,9 +24,17 @@ import hashlib
 import argparse
 import urllib.request
 import urllib.parse
+import http.cookiejar
 from datetime import datetime
 from pathlib import Path
 from typing import Optional, Tuple, Dict, Any
+
+# Try to import gdown for better Google Drive support
+try:
+    import gdown
+    HAS_GDOWN = True
+except ImportError:
+    HAS_GDOWN = False
 
 # Try to import PDF libraries
 try:
@@ -102,14 +110,113 @@ class PDFExtractor:
         """Convert Google Drive file ID to direct download URL."""
         return f"https://drive.google.com/uc?export=download&id={file_id}"
 
+    def _download_google_drive_large_file(self, file_id: str, output_path: Path) -> bool:
+        """Download large files from Google Drive with confirmation bypass."""
+        # Use gdown if available (best option for Google Drive)
+        if HAS_GDOWN:
+            print("Using gdown for Google Drive download...")
+            try:
+                url = f"https://drive.google.com/uc?id={file_id}"
+                gdown.download(url, str(output_path), quiet=False)
+                return output_path.exists() and output_path.stat().st_size > 1000
+            except Exception as e:
+                print(f"gdown failed: {e}, trying manual method...")
+
+        # Manual method with cookie handling for large files
+        print("Using manual download with confirmation bypass...")
+
+        base_url = "https://drive.google.com/uc?export=download"
+
+        # Create cookie jar and opener
+        cookie_jar = http.cookiejar.CookieJar()
+        opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cookie_jar))
+
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        }
+
+        try:
+            # First request to get confirmation token
+            url = f"{base_url}&id={file_id}"
+            request = urllib.request.Request(url, headers=headers)
+            response = opener.open(request, timeout=60)
+            content = response.read()
+
+            # Check if we got HTML (confirmation page) or actual file
+            if content[:4] == b'%PDF':
+                # Already got PDF content
+                with open(output_path, 'wb') as f:
+                    f.write(content)
+                return True
+
+            # Try to extract confirmation token
+            content_str = content.decode('utf-8', errors='ignore')
+
+            # Look for confirmation token in various formats
+            confirm_token = None
+            patterns = [
+                r'confirm=([0-9A-Za-z_-]+)',
+                r'download_warning[^"]*"([^"]+)"',
+                r'/uc\?export=download&amp;confirm=([^&]+)&amp;',
+                r'name="confirm" value="([^"]+)"',
+            ]
+
+            for pattern in patterns:
+                match = re.search(pattern, content_str)
+                if match:
+                    confirm_token = match.group(1)
+                    break
+
+            # Also check cookies for download warning token
+            for cookie in cookie_jar:
+                if 'download_warning' in cookie.name:
+                    confirm_token = cookie.value
+                    break
+
+            if confirm_token:
+                print(f"Found confirmation token, downloading large file...")
+                # Download with confirmation token
+                confirm_url = f"{base_url}&confirm={confirm_token}&id={file_id}"
+                request = urllib.request.Request(confirm_url, headers=headers)
+
+                with opener.open(request, timeout=600) as response:
+                    content_length = response.headers.get('Content-Length')
+                    if content_length:
+                        file_size = int(content_length)
+                        print(f"File size: {file_size / (1024*1024):.2f} MB")
+
+                    downloaded = 0
+                    with open(output_path, 'wb') as f:
+                        while True:
+                            chunk = response.read(CHUNK_SIZE)
+                            if not chunk:
+                                break
+                            f.write(chunk)
+                            downloaded += len(chunk)
+
+                            if content_length:
+                                percent = (downloaded / file_size) * 100
+                                print(f"\rProgress: {percent:.1f}% ({downloaded / (1024*1024):.2f} MB)", end="")
+
+                    print()  # New line after progress
+
+                return output_path.exists() and output_path.stat().st_size > 1000
+            else:
+                print("Could not extract confirmation token. File may require authentication.")
+                return False
+
+        except Exception as e:
+            print(f"Error in manual download: {e}")
+            return False
+
     def _download_file(self, url: str, output_path: Path, show_progress: bool = True) -> bool:
         """Download a file from URL with progress indicator."""
         try:
             # Check if it's a Google Drive URL
             drive_id = self._extract_google_drive_id(url)
             if drive_id:
-                url = self._get_google_drive_download_url(drive_id)
                 print(f"Detected Google Drive URL. File ID: {drive_id}")
+                return self._download_google_drive_large_file(drive_id, output_path)
 
             print(f"Downloading from: {url}")
 

@@ -1,0 +1,742 @@
+# Chunk 4 of 26
+# Document: Analysis of Evidence
+# Characters: 48340
+
+--- Page 63 ---
+Evidence and inference: some food for thought
+31
+3 Identify each testimonial proposition that you believe would not be admissible as
+evidence under the rules of evidence. State why that evidence is inadmissible and
+identify the rule of evidence that supports each conclusion. Identify only those
+propositions that you conclude are inadmissible. Would the exclusion of this evidence
+affect the result of your analysis under question 2? For each proposition excluded,
+would the exclusion promote the search for truth? If not what other policies are
+served by the exclusion?
+7. Whose baby II? Morrison v. Jenkins 80 C.L.R. 626 (Aust. 1949)
+[Melbourne, Oct. 13, 14, 17, 18; Dec. 22. Latham C.J., Rich, Dixon, McTiernan and
+Webb JJ.]
+[In proceedings to obtain the custody of a child, the applicants, Mr. and Mrs. M., alleged
+that there had been a confusion of identity between their child and that of Mr. and Mrs.
+J. at the hospital at which the two children were born at about the same time and that
+each mother had been given the child of the other. They accordingly sought an order
+for custody of the child which was – and had been for some four years – in the custody
+of Mr. and Mrs. J. The primary judge found that the child was in fact that of Mr. and
+Mrs. M., and he ordered that they have the custody of the child.
+Held, by RICH, DIXON and WEBB JJ. (LATHAM C.J. and MCTIERNAN J. dis-
+senting) that the order should be set aside because, per RICH and DIXON JJ., the
+evidence left the parentage of the child so much in doubt that it would not be for the
+child’s welfare to remove it from its present custody: per WEBB J. (LATHAM C.J. and
+MCTIERNAN J. contra), the evidence as a whole did not warrant the conclusion of the
+primary judge that the child belonged to the appellants.]
+Decision of the Supreme Court of Victoria (Full Court), (1949) V.L.R. 277
+afﬁrmed . . .
+LATHAM C.J. On 22nd June 1945 a baby girl was born to Mrs. Alberta Gwen
+Morrison in the labour ward at the Kyneton Hospital in Victoria. Within the preceding
+ﬁve minutes a baby girl had been born in the same ward to Mrs. Jessie Jenkins. Mrs.
+Morrison and her husband claim that the baby known as Nola Jenkins, who has lived
+with the Jenkins family ever since Mrs. Jenkins left the hospital, is her (Mrs. Morrison’s)
+baby and that the girl known as Johanne Lee Morrison who was given to Mrs. Morrison
+at the hospital as her baby is not in fact her child. Mr. and Mrs. Morrison took pro-
+ceedings against Mr. and Mrs. Jenkins by way of habeas corpus, claiming the custody
+of Nola . . .
+The case for Mr. and Mrs. Morrison was supported by their own afﬁdavits and by
+afﬁdavitsofMrs.AmeliaWilliams(Mrs.Morrison’smother),Dr.DouglasJohnThomas
+andDr.LucyMeredithBryce–clinicalpathologistshighlyskilledinthemakingofblood
+tests, which is a very specialized form of medical practice. Mr. and Mrs. Jenkins made
+afﬁdavits in reply, as also did Sister Lockhart and Sister Cass of the Kyneton Hospital.
+These two nurses attended upon the occasion of the conﬁnement of the two ladies,
+Mrs. Morrison and Mrs. Jenkins. The parties, the nurses and Dr. Lucy Bryce were cross-
+examined upon their afﬁdavits. An afﬁdavit by Dr. Gerald Loughran, who delivered
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 64 ---
+32
+Analysis of Evidence
+both children, was also ﬁled on behalf of Mr. and Mrs. Jenkins. Dr. Loughran at the
+time of the trial was absent in Singapore and was not available for cross-examination.
+The learned trial judge examined the evidence in detail and approached the question
+of the parentage of Nola by asking four questions, which were as follows: – “1. Was the
+female child to which Mrs. Morrison gave birth on June 22, 1945, in the labour ward of
+the Kyneton District Hospital the offspring of the union between her and her husband
+William Henry Morrison? 2. Was the female child that was brought to Mrs. Morrison
+before she left the labour ward the female child to which she had given birth about
+half an hour earlier? 3. If the female child so brought to her was not the child to which
+she had given birth, was there an opportunity for a mistake to be made by which some
+other female child could have been substituted for the child to which she had given
+birth? 4. If there was such an opportunity, what other child could have been mistakenly
+substituted for the child to which Mrs. Morrison had given birth?”
+The answers which his Honour gave to these questions were as follows: 1. Yes;
+2. No; 3. Yes; 4. Johanne Lee. Bearing in mind the gravity of the issues before the Court,
+his Honour was thoroughly convinced that Nola was the daughter of Mr. and Mrs.
+Morrison and, after considering what course of action would be for the welfare of Nola,
+he made an order that Nola should be delivered up to Mr. and Mrs. Morrison, and that
+they should have custody of her.
+As to some matters there is no room for doubt. In the ﬁrst place, it is established
+beyond question that a female child was born to Mrs. Morrison in the Kyneton Hospital
+on 22nd June 1945.
+In the second place, I regard it as also completely established that that child (whoever
+she was) was the issue of Mr. and Mrs. Morrison. Mrs. Morrison gave evidence that she
+had never had sexual intercourse with any person other than her husband. She was not
+cross-examined upon this matter. The learned trial judge believed her evidence. There
+is in my opinion no ground whatever for suggesting at this stage in the proceedings
+that Mrs. Morrison had been unchaste and that the child which was born to her was
+not the child of her husband.
+The three separate sets of blood tests applied to Mr. and Mrs. Morrison and Johanne
+Lee show, according to the uncontradicted scientiﬁc evidence, that the child Johanne
+Lee, although she might be the child of Mrs. Morrison, cannot possibly be the child of
+Mr. and Mrs. Morrison. This proposition has not been challenged at any step of the
+case. The scientiﬁc evidence on this point is conclusive . . .
+Mr. and Mrs. Jenkins submitted an afﬁdavit by Dr. Loughran (who could not be
+cross-examined) to the effect that he made blood tests of them and of Nola and that
+according to his recollection the tests showed that Nola could be their child. They
+declined to have any further tests made by the highly-qualiﬁed experts who were avail-
+able. No evidence was given by any witness to the effect that Dr. Loughran’s evidence,
+even if completely accepted, showed or even tended to show that Nola actually was
+the child of Mr. and Mrs. Jenkins or that she could not be the child of Mr. and Mrs.
+Morrison. It is established that Johanne Lee is the child which was brought to Mrs.
+Morrison within not more than half an hour of the birth of her child and is the child
+which has been in her custody ever since. It is therefore clear that a mistake was made
+in the hospital and that Mrs. Morrison was given the wrong baby . . .
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 65 ---
+Evidence and inference: some food for thought
+33
+Sisters Cass and Lockhart gave evidence to the effect that before the two babies were
+born to Mrs. Jenkins and Mrs. Morrison either two cots containing clothes marked with
+the names of the mothers or one cot containing such garments was in the labour ward.
+The learned trial judge rejected this and other evidence of the nurses and accepted the
+evidence of Mrs. Morrison. He also accepted the evidence of Mrs. Morrison that the
+two babies were taken out of the labour ward at the same time in the arms of Sister
+Atkinson. I cannot see how a court of appeal could justify a reversal of the decision
+of the learned judge with reference to evidence of this character by believing evidence
+which the learned judge had rejected by reason of his opinion of the credibility of the
+witnesses. But, in any case, the evidence as to whether there were two cots or only one
+cot in the ward and where any cot was in the ward and as to whether Sister Atkinson
+took the babies out in her arms or otherwise is on the margin of the case.
+The ﬁndings of the learned trial judge as to the credibility of the evidence of the
+various witnesses were hardly challenged. Upon appeal, though not at the trial, consid-
+erable attention was directed to evidence given by Mrs. Williams, the mother of Mrs.
+Morrison, that on the day when the children were born she was shown a baby by Sister
+Lockhart as being Mrs. Morrison’s child and that that child had a fair complexion.
+Johanne Lee has a dark complexion. This evidence appears to me to be unimportant.
+Whether the evidence of Mrs. Williams is accepted or not, it leaves untouched the
+certain conclusion that Johanne Lee is not Mrs. Morrison’s baby. Sister Lockhart may
+have shown Mrs. Williams the right baby, but even if the conclusion arose at a later time
+than that found by the learned trial judge, it still leaves for determination the problem
+of the identiﬁcation of Mrs. Morrison’s child . . .
+Johanne Lee was substituted for the baby born to Mrs. Morrison. The question for
+determination is whether Nola was Mrs. Morrison’s baby for whom Johanne Lee was
+substituted. The circumstances of the two births, which were practically simultaneous,
+the fact that Sister Atkinson had no midwifery experience as to tagging babies with
+some identifying label, that the two babies were taken out of the ward together by Sister
+Atkinson to be bathed by Sister Lockhart, wrapped up in some wrapper provided by
+the hospital, though possibly also with bunny rugs round them, that there was only one
+bath in which to bathe them, that the baby which was brought to Mrs. Morrison half an
+hour after birth as her baby was unclothed, wearing no identifying garments, that the
+learned trial judge did not accept the evidence of the nurses that there were cots in the
+ward tagged with the names Morrison and Jenkins, that there was every opportunity
+for confusion between the Morrison and Jenkins babies, and the most important fact
+that Johanne Lee is not the child of Mr. and Mrs. Morrison, so that Mrs. Morrison got
+the wrong baby, all go to support the conclusion that the Jenkins baby was by mistake
+given to Mrs. Morrison.
+But it was argued that two other female children were born in the hospital at about
+the same time, namely to Mrs. Hayes on 19th June and to Mrs. Perry on 20th June, and
+thatoneofthesebabiesmighthavebeensubstitutedforthebabyborntoMrs.Morrison.
+Mrs. Morrison’s baby was born on 22nd June. Sister Lockhart gave evidence that she did
+not think it was possible to mix up a newly-born baby with a baby who was even only
+twenty-four hours old. This evidence was apparently accepted at the trial by all parties
+as obviously true. No cross-examination was directed against it. The Hayes baby was
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 66 ---
+34
+Analysis of Evidence
+about three days and the Perry baby about two days older than Mrs. Morrison’s child.
+No evidence was given to support the speculation that Mrs. Morrison’s baby was given
+to Mrs. Hayes or Mrs. Perry or that she was given one of their babies. In my opinion
+there was ample evidence to support the ﬁnding of the learned trial judge that Nola is
+the child of Mrs. Morrison . . .
+RICH J. . . . Moreover, there is real doubt whether Nola is the child of the Morrisons
+and this is another factor to be taken into consideration in determining the issue of
+welfare. I am not satisﬁed that the scientiﬁc evidence is infallible. At most it goes to
+show that Johanne Lee is not the child of the Morrison union. But it neither shows nor
+purports to show that Nola Jenkins is the child of that union although it does show that
+Johanne Lee could be the child of Mrs. Morrison. On this issue the appellants must
+exclude every other reasonable hypothesis. Did a mistake in fact occur? The evidence
+of Mrs. Williams is inconsistent with that of her daughter, the female appellant, and
+is also inconsistent with the ﬁnding of the learned primary judge that the exchange of
+babies occurred shortly after birth. Moreover at the time of the alleged mistake two
+other recently born babies – the Perry and Hayes children – were born on the 19th and
+20th June in the same nursery in the same hospital. The appellants had no evidence as to
+these children or their mothers or that either mother had ever seen her child before the
+morning of 22nd June. In these circumstances the possibility of a mistake with either of
+these children cannot be excluded. Thus the probability of a mistake with the Jenkins’
+child to the exclusion of any other is considerably lessened, if, indeed, a mistake did
+in fact occur. A decision as to parentage will not bind the child and at a later stage in
+other proceedings – for example under a will or settlement in which the child should
+be a party [to] a decision contrary to that in the instant case would be a grievous blow
+to the happiness and welfare of the child. Indeed in a proceeding to which the child is
+not a party the Court has no jurisdiction to decide a question of legitimacy . . .
+DIXON J. . . . The inference that Nola is the child of the Morrisons rests of course
+wholly on circumstantial evidence. Notwithstanding the wealth of detail gone into,
+particularly as to the circumstances of the birth of the two children, the whole case
+depends upon a chain consisting of a very few evidentiary facts or circumstances and
+some steps in reasoning which together are relied upon as warranting the inference.
+The ﬁrst of these facts or steps is the conclusion deposed to by scientiﬁc witnesses that
+Johanne Lee belongs to a blood group that is inconsistent with her being the child of
+Mr. Morrison. This conclusion the Jenkins are powerless to deny. The second step is
+the inference that she is therefore not the child of Mrs. Morrison. Any other inference
+would reﬂect upon Mrs. Morrison and the Jenkins make no such reﬂection. The third
+is the fact that from the time that Mrs. Morrison left the hospital with a girl child and
+until the scientists took the blood tests there has been no change in the identity of that
+child and she is Johanne Lee and was the child submitted to the blood tests. This fact
+is proved by the Morrisons. Nothing of course could be more probable and it may be
+accepted as possessing as much certainty as attaches to the proof of any fact in human
+affairs. But as it is an essential step in the reasoning it must not be omitted. The fourth
+step is proof that at the hospital where both women were conﬁned there was a real
+chance of confusion between the female child which Mrs. Morrison bore and some
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 67 ---
+Evidence and inference: some food for thought
+35
+other female child. The ﬁfth step is the elimination of the possibility that any other
+child but Mrs. Jenkins’ could have been attributed to Mrs. Morrison. The sixth step is
+the inference that correspondingly Mrs. Jenkins must have received Mrs. Morrison’s
+child.
+By this chain of reasoning the result that Nola is Mrs. Morrison’s child is said to
+be established. To make good the last three steps a great deal of evidence was adduced
+at the hearing. The events of the morning of 22nd June 1945 when both women were
+delivered of female children within ten or ﬁfteen minutes in the same labour ward were
+inquired into in great detail. I should have thought that neither nurses nor patients
+could be expected to observe or recall so much and that their attempts to reconstruct
+the incidents of the morning could not safely be relied upon. But two conclusions
+emerge which are clear enough. One is that there was no routine for identifying babies
+which excluded the possibility of mistake and the other is that because two women were
+delivered by the same doctor and nursing staff in the same ward within such a short
+time there was a greater liability to confusion.
+But in my opinion the further inference or conclusions which have been drawn as to
+the precise manner in which the babies were handled and exactly by whom are doubtful
+and in some respects speculative and they are unsafe.
+Two other recently born female children were in the hospital, one born on 20th and
+the other on 19th of June. It does not appear whether they were full-term children nor
+was the condition of the mothers or any other circumstances proved really relevant
+to the possibility or impossibility, likelihood or unlikelihood, of the confusion (if one
+took place) being with either of those children. The case for the Morrisons naturally
+was that their child was confused with the Jenkins’ child immediately after the birth
+of the children. That was the view which Barry J. adopted and acted upon. But Mrs.
+Morrison’s mother, who visited the hospital later on the same day, in the afternoon,
+said that she was shown a child as her daughter’s which was not the child her daughter
+brought home from the hospital. The tendency of her evidence if it were correct was
+to show a confusion at some later time and not as a result of the birth of two children
+at nearly the same time in the same ward. There would therefore be little or no reason
+to suppose that the confusion was with Mrs. Jenkins’ child rather than with one of the
+other two girl babies.
+The only further fact I shall mention is that little or nothing is known concerning the
+blood grouping of the Jenkins and Nola. They submitted themselves to their medical
+adviser for a blood test and he reported that it disclosed that Nola might be their child,
+that is that their blood grouping was consistent with their being the parents of Nola.
+He made an afﬁdavit to that effect but he was abroad and not available for cross-
+examination. The Jenkins declined to submit themselves and the child to further blood
+tests . . .
+With any chain of circumstantial evidence the chances of error in the conclusion
+arise ﬁrst from the chances of error in each fact or consideration forming the steps
+and second from the chance of error in reasoning to the conclusion from the whole of
+those facts and considerations. It is therefore wrong to take each fact or consideration
+separately, to assess the possibilities of error in ﬁnding it is established and then if you
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 68 ---
+36
+Analysis of Evidence
+think it should be found afterwards to treat it as a certainty and pass to the next fact or
+consideration and so on to the conclusion. The possibilities of error at all points must
+be combined and assessed together.
+In the present case I think that when all the possibilities are taken into account
+there is too much uncertainty in the inference that Nola is the child of Mr. and Mrs.
+Morrison to warrant an order taking her from Mr. and Mrs. Jenkins and placing her in
+the custody of Mr. and Mrs. Morrison. It was a sound exercise of the discretion of the
+Supreme Court to leave her in the custody of Mr. and Mrs. Jenkins . . .
+McTIERNAN J. . . . The evidence proves that the child born to Mrs. Morrison on
+22nd June 1945 in the labour ward of the Kyneton District Hospital was begotten by
+her husband. This fact is an irresistible inference from the evidence, given by Mrs.
+Morrison, that she never had sexual intercourse with any man other than her husband.
+Barry J. believed this evidence. There is no ground upon which an appeal court could
+properly decide that his Honour erred in believing this evidence or why the Court itself
+should disbelieve it or suspect that the child born to Mrs. Morrison was not begotten by
+her husband. The scientiﬁc evidence of the blood tests, the validity and the reliability of
+whichareestablishedbytheevidence,provesthatJohanneLee,achildunderthecustody
+of the appellants, could be the child of Mrs. Morrison but not of her and her husband.
+TheevidencefurtherprovesthatJohanneLeeisthebabywhowasgiventoMrs.Morrison
+after she had given birth to a child at the above-mentioned time and place, upon the
+supposition that it was the child to which she had given birth; she was the child whom
+Mrs. Morrison took with her from the hospital when she returned to her home.
+These facts establish beyond any reasonable doubt that Mrs. Morrison was given a
+baby to which she did not give birth and the baby is Johanne Lee.
+The next crucial question is when was the mistake made at the hospital which led to
+the substitution of Johanne Lee for the baby to which Mrs. Morrison gave birth. The
+answer to this question is that the mistake was made within half an hour of the birth
+of Mrs. Morrison’s own child. This fact is proved by the following evidence elicited by
+the cross-examination of Mrs. Morrison: – Q. “May we take it that that was the baby
+that was brought back to you within half an hour at the outside of its birth and that
+you took away with you when you ultimately left the hospital? – Yes.” Q. “So that, if any
+mistake was made, in the transposition of these babies, it was prior to that time? – Yes.”
+Barry J. accepted this evidence. It proved that the result of the mistake was complete
+before the afternoon of 22nd June. Mrs. Morrison’s baby was then in the possession of
+some other woman.
+In the light of this fact, Mrs. Williams’ evidence, to which importance was attached
+in the Full Court, can have but small signiﬁcance. It probably provides the reason why
+Barry J. paid no attention to Mrs. Williams’ evidence (a fact noticed in the Full Court);
+she was not cross-examined. Mrs. Williams is Mrs. Morrison’s mother; her evidence is
+in an afﬁdavit ﬁled in support of the appellant’s application.
+To whom was the baby born to Mrs. Morrison given?
+The evidence proves that the parturitions of Mrs. Morrison and Mrs. Jenkins
+occurred at the same time and place and their babies were born within ﬁve to ten
+minutes of each other: their simultaneous parturitions created an emergency described
+in the evidence, arrangements had to be made quickly to cope with it.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 69 ---
+Evidence and inference: some food for thought
+37
+The evidence further proves that in this hospital a female baby was born on 19th June
+1945; and another female baby was born on 20th June 1945.
+Assuming that each of these babies was born at the latest point of time to make
+those dates respectively their birthdays, then on the morning of 22nd June, when
+Mrs. Morrison and Mrs. Jenkins gave birth to their babies, the ﬁrst of the two other
+babies would then be ﬁfty-ﬁve hours old, and the second thirty-one hours old. If either
+was born at an earlier hour she would of course be older.
+It is reasonably certain that before the morning of 22nd June these older babies
+would have been placed under the usual routine of a baby’s life. They would have been
+more than once bathed, dressed, fed, and have been in the possession of their mother.
+It is hardly probable that either would at that stage of her life have been placed with a
+woman not her mother.
+Sister Lockhart, a double-certiﬁcated nurse, said in the course of her evidence that
+she did not think it was possible to mix up a newly-born baby with a baby forty-eight
+hours old.
+It is less probable that confusion could have taken place between Mrs. Morrison’s
+baby and one of the older babies, than between her baby and Mrs. Jenkins’ baby. The
+births of their babies were almost contemporaneous.
+Barry J. found that a nurse carried them out, one on each arm, from the labour ward
+to the nursery to be bathed, and they were left unattended until Sister Lockhart bathed
+them.
+The ﬁeld within which the mistake could occur, upon any reasonable view, must be
+limitedtothetwomothersandthetwobabieswhowerealltogetherinthecomparatively
+small labour ward, receiving the attention of the doctor and nurses: these two mothers
+and babies were involved in the same set of circumstances . . .
+There is no evidence which could raise a doubt that the members of the hospital
+staff did give each of the babies born on 19th June and 20th June respectively to her
+mother. It is not a probable hypothesis that Mrs. Morrison’s baby was exchanged for
+one of those babies, upon a reasonable view of the circumstances . . .
+Mrs. Morrison said that the child brought to her within half an hour of the birth
+was dark and unclad and was the child she took home with her. Mrs. Williams said the
+baby shown to her on that afternoon and which a member of the nursing staff told her
+was her daughter’s baby was a fairskinned baby and resembled Mrs. Morrison’s other
+children. This incident might possess signiﬁcance only if Mrs. Morrison was present.
+She was not present . . .
+WEBB J. . . . If there had been only two infants in the Kyneton District Hospital on
+22nd June, 1945, namely those born on that day, this Court would, I think, be obliged
+to restore the judgment of Barry J. and give the custody of Nola to the Morrisons as
+their child. The onus of proof was on the Morrisons, but the credibility of witnesses was
+for the learned judge to determine. His Honour believed Mrs. Morrison when she said
+that the child born to her on 22nd June, 1945, was by her husband, and he naturally
+acceptedtheevidenceofthebloodteststhatJohannewasnotachildbyMr.Morrison.So
+he could properly have concluded that Nola was the child of the Morrisons, if there were
+only the two infants in the hospital on 22nd June, 1945. The same result would follow
+if it had been common ground that Mrs. Morrison and Mrs. Jenkins each received a
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 70 ---
+38
+Analysis of Evidence
+newly-born baby on the morning of 22nd June, 1945. Mrs. Morrison and Mrs. Jenkins
+each claim to have received a newly-born infant that day. Mrs. Morrison contends
+that Mrs. Jenkins did receive a newly-born baby, because Mrs. Morrison is claiming
+Nola from Mrs. Jenkins. But the case for Mrs. Jenkins is that if Mrs. Morrison did not
+get her own baby, she got one of the older babies born on 19th and 20th June, 1945,
+and not the baby of Mrs. Jenkins. The conduct of the proceedings and the judgment
+indicate that there was no common ground that Mrs. Morrison and Mrs. Jenkins each
+received a newly-born baby. Sister Lockhart, who made an afﬁdavit on behalf of Mr.
+and Mrs. Jenkins, was cross-examined with a view to showing that Mrs. Morrison’s
+child was not given to one of the mothers of the two older infants born on 19th and
+20th June, 1945, and the judgment gives ground for holding why Mrs. Morrison’s child
+was not given to one of these two mothers, namely, an assumption by his Honour as
+to the ability of mothers generally to recognize their infants, and the evidence of Sister
+Lockhart as to the impossibility in ordinary circumstances of mixing up a newly-born
+baby with one twenty-four hours old.
+Part of the cross-examination of Sister Lockhart was as follows: – “Is there much
+difference between a newly-born baby and a baby twenty-four hours old from the point
+of view of telling the difference to a nurse or a mother? . . . Sometimes there is. Are they
+any more likely, and better developed, any different characteristics? . . . Oh! the features
+settle a bit sometimes. Would you think it possible to mix up a newly-born baby with
+a baby twenty-four hours old? . . . I don’t think so.”
+These questions suggest the possibility that the infant born on 20th June was born
+about midnight of that date. Of course the baby born on 20th June was at least thirty-
+one hours older than the babies born about 7 a.m. on 22nd June; but the older the baby
+is the less likely is it to be mistaken for a newly-born baby.
+His Honour in his judgment under the heading “What other child could have been
+substituted for Mrs. Morrison’s?” says: – “It appears that between the 19th June 1945
+and 22nd June 1945, four female children were born at the Kyneton District Hospital.
+A female child was born on the 19th, another on the 20th and the two children, the
+circumstances of whose births have been examined, on the 22nd. It was submitted by
+Mr. Hudson that the evidence did not exclude the possibility that some baby other than
+Mrs. Jenkins’ child may have been mistakenly exchanged for Mrs. Morrison’s baby. I do
+not think there is any substance in this submission. It appears to me most unlikely that
+a mother of a child born on the 19th or 20th would fail to detect a mistake if a child
+born on the 22nd were brought to her. Moreover, Sister Lockhart was asked: ’Would
+you think it possible to mix up a newly-born baby with a baby twenty-four hours old?’
+and she answered, ‘I don’t think so.’ If this be excluded as a possibility the ﬁndings of
+fact I have set forth earlier leave open only one conclusion, and it is that the only baby
+that could have been exchanged for Mrs. Morrison’s baby was the baby born to Mrs.
+Jenkins.”
+Neither the cross-examination of Sister Lockhart nor the judgment of Barry J. deal
+with the actual condition of the two mothers of the older infants or the appearance of
+those infants. It is conﬁned to mothers and infants generally. There was no evidence to
+show the actual condition of these two mothers on 22nd June. Neither may have been
+in a condition to receive or to recognize her infant. Further there was no evidence that
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 71 ---
+Evidence and inference: some food for thought
+39
+neither of the two older infants could have been mistaken on 22nd June for a newly-
+born infant. Either or both could have been prematurely born. There was no evidence
+to the contrary. It is not a matter of common knowledge that under no circumstances
+could a baby two or three days old be mistaken for a newly-born infant. Sister Lockhart
+said twice that sometimes there is a noticeable difference before saying she did not
+think it possible to mix up a newly-born baby with a baby twenty-four hours old; that
+is, of course, if both mothers and both infants are normal at the time of the exchange,
+in which event no evidence is really necessary to show a mistake would not be likely
+to occur. I do not think that any presumption arose that the other two mothers and
+infants were normal, or that the Morrisons had given enough evidence, as a result of
+getting these obvious answers from Sister Lockhart, to shift the onus of proof to Mr.
+and Mrs. Jenkins that one of the two other mothers or one of the two older infants was
+not normal in condition or appearance on 22nd June, 1945. The onus of proof is not
+shifted by a mere statement of what is common knowledge. Although Mrs. Morrison
+had ether administered to her at the birth of her child on 22nd June she appears to have
+been in a normal condition when she received Johanne; but if Johanne was prematurely
+born on 20th June, or even on the 19th, she might have appeared newly-born on 22nd
+June . . .
+Questions
+1 Frame the ultimate proposition that the Morrisons would have had to have proven in
+order to satisfy the judges of the High Court. From the portions of their opinions
+included here, was each judge assessing the evidence and inferences against the same
+ultimate probandum? If not, how many different versions of the ultimate probandum
+were used? Was each judge applying the same standard of review?
+2 In all, ten afﬁdavits were submitted and seven witnesses were cross-examined on their
+afﬁdavits. Which direct assertions by afﬁdavit or on cross-examination were disputed
+or contradicted at trial? Which were undisputed and uncontradicted?
+3 All judges (or all but one) agree that “It was a baby other than the baby known as
+Johanne Lee Morrison that was the baby borne by Mrs. Morrison.” This is an
+inference critical to the case. What evidential data (here assertions by afﬁdavit or by
+testimony) are relevant to this inference? Do these data directly support this inference,
+or are there intermediate inferences that must be made? How do the data and any
+intermediate inferences combine to support this inference? The judges agreed upon
+the conclusion that the evidence supported this inference, but is the reasoning by
+which each reached that conclusion the same?
+4 Latham, C.J., and McTiernan, J., thought the evidence provided by Mrs. Williams
+“unimportant.” Rich and Dixon, J.J., attached considerable signiﬁcance to it. What is
+the inference that Mrs. Williams’s assertions can be argued to have established that is
+relevant to the case? How does that inference undermine the argument that the
+evidence proved that “It was Nola who was the baby born to Mrs. Morrison”?
+5 In light of the evidence, how conﬁdent are you that Nola was the natural child of
+Mr. and Mrs. Morrison? If we today had conclusive blood tests on all four children
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 72 ---
+40
+Analysis of Evidence
+and their parents analyzed by the leading experts in the ﬁeld, how much would you
+bet that their conclusion would be that Nola was the Morrisons’ child? What odds
+would you give or ask on a $100 bet?
+6 Based upon the portions of the opinions you have read (a) what is the rule of law that
+the majority applied in Morrison v. Jenkins? (b) What is the standard of review the
+High Court applied? (c) What is the standard of proof that an Australian trial judge
+should apply in a similar paternity/custody case in the future? How do (a), (b), and
+(c) differ?
+7 How does the decision of the High Court differ from the Judgment of Solomon?
+Which is more rational?
+8. An investigation: basic concepts in analysis and evaluation
+You are a police cadet in Jonesville on your very ﬁrst assignment. A report of what
+sounds like a murder has just been received. A team has been sent out to investigate.
+Youhavebeeninstructedtoreceiveandorganizeallinformationpotentiallyrelevant
+to the investigation as it comes in from various sources. From time to time you will
+beaskedtomakeprovisionalevaluationsofthedata.Youwillalsobeaskedtoanswer
+some “academic” questions as part of your training.
+A
+It is reported that:
+1 Y was murdered in his home at 4:30 p.m. on January 1st.
+2 W1 says that she saw a person with characteristics, a, b, c, and d enter Y’s home at
+4:15 p.m. on January 1st.
+3 X has characteristics a, b, c, and d.
+Assuming that each of these propositions is true, answer the following questions:
+a
+Do you suspect that, “It was X who murdered Y” (probandum A, hereinafter “Pa”)?
+b
+Are propositions 2 and 3 relevant to Pa?
+c
+Do propositions 2 and 3 prove Pa to be true on the balance of probabilities?
+d
+Can you infer from W1’s statement that X was in Y’s house at 4:30 p.m.?
+Give reasons for your answers.
+B
+Deduction. Using not more than 12 further evidential propositions (such as, W2
+says that he saw X strike Y at 4:20 p.m.) in each instance:
+i Construct an argument proving that it was necessarily the case that “It was X who
+murdered Y.”
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 73 ---
+Evidence and inference: some food for thought
+41
+ii Construct an argument proving that it was necessarily the case that “It was not X who
+murdered Y.”
+C
+You now have the following additional data:
+4 W2 says that he saw X, who was known to him, running out of Y’s home at 4:45 p.m.
+on January 1st.
+5 W2 says that X was in a state of great agitation.
+6 W3 says that he overheard X on Christmas Day say angrily to Y: “I shall not forget this.”
+7 A forensic laboratory report states that hairs found on a chair in the room in which
+Y’s body was found are almost certainly X’s.
+On the basis of propositions 1 to 7, indicate which of the following most closely
+approximates your current state of belief (select one):
+a
+It is possible that X murdered Y.
+b
+It is more likely than not that X murdered Y.
+c
+The odds are 3 to 1 that X murdered Y.
+d
+It is established beyond reasonable doubt that X murdered Y.
+e
+I do not have any belief about Pa.
+Give reasons for your answer.
+D
+You now have the following additional data. What difference does each proposition
+make to the judgment you made in (C)? Consider each item ﬁrst on its own and
+then in combination with each and then all of the other items:
+8 W3, who is X’s brother, says that he saw X enter Y’s home about 4:05 p.m. on
+January 1st.
+9 W4 says that he was observing Y’s home between 4 p.m. and 5 p.m. on January 1st
+and that a person who had characteristics a, b, and d was the only person he saw
+enter and the only person he saw leave during this period.
+10 There is no record that X has ever committed a crime of violence.
+11 X has two convictions for shoplifting; the most recent occurred ﬁve years ago.
+Indicate the current state of your belief after considering each of these propo-
+sitions in connection with propositions 1 to 7. State brieﬂy how each of the new
+items of information and all of them combined affect your belief.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 74 ---
+42
+Analysis of Evidence
+E
+Further data. What difference does it make to your state of belief about Pa based on
+propositions 1 to 11 if one of the following items of information is added to your
+data? Consider each separately and in combination with the others.
+12 X claims to have been in a house ﬁve miles from the scene of the murder between
+2 p.m. and 5 p.m. on January 1st.
+13 Z states that she was with X in a house ﬁve miles from the murder between 4 p.m. and
+4:24 p.m. on January 1st.
+14 A new pathologist’s report suggests that Y might have died at any time between 2 p.m.
+and 6 p.m. on January 1st.
+15 The same report suggests that the cause of death was probably a blow with a blunt
+instrument, but could have been from natural causes (such as from striking his head
+on a table as he fell), but this seems unlikely. No blunt instrument has been found on
+the premises.
+Give reasons for your answers.
+F
+Ancillary evidence (evidence about evidence). What difference does it make to your
+state of belief about Pa based on propositions 1 to 15 if one of the following items
+of information is added to your data? Consider each separately and in combination
+with the others.
+16 W1 is a bank manager?
+17 W2 is very short-sighted?
+18 W2 is Y’s brother and stands to beneﬁt ﬁnancially from Y’s death?
+19 W1 seemed to be very nervous and hesitant when questioned by the police?
+20 W3 is a licensed private investigator?
+21 Z is a prostitute?
+a In what respect or respects is the information about W1, W2, W3, W4, and Z relevant
+to an assessment of that witness’s credibility? Be speciﬁc.
+b Is any of these witnesses likely to be biased?
+c How is the new information relevant to your assessment of the likelihood of Pa?
+Give reasons for your answers.
+G
+Revise your judgment about Pa in the light of the following background information;
+in each case consider the item separately and then jointly with all the other items
+in this section.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 75 ---
+Evidence and inference: some food for thought
+43
+22 X is female.
+23 X is a 65-year-old volunteer social worker.
+24 Y was X’s son.
+25 Y’s “home” was an apartment in a building with 20 apartments.
+26 Y’s home was in an apartment building with three separate entrances.
+27 At an identiﬁcation parade (line-up) held three days after the murder, W1 failed to
+identify X.
+Give reasons for the effect each proposition and all propositions together have on
+your judgment.
+H
+General propositions. In arguments about evidence, several different kinds of general
+propositions play an important role both as discrete steps in an argument and as
+background knowledge. At this stage it is useful to make elementary distinctions
+between scientiﬁc truths (such as the law of gravity, that eyewitness identiﬁcation
+evidence is often unreliable), common sense generalizations (such as that running
+away is indicative of a sense of guilt), commonly held beliefs (such as national or
+ethnic stereotypes, including prejudices, that suggest that a person of such origins
+has certain characteristics), and general background information bearing on the
+present case (case speciﬁc generalizations, such as a generalization about X’s habits
+or Y’s character).
+28 A recent report of empirical research on eyewitness evidence suggests that eyewitness
+statements reporting identifying characteristics of a suspect made in circumstances
+approximating those under which W1 observed a person entering Y’s home
+(proposition 2) are only 100 percent correct in 5 percent of the cases.
+29 A recent scientiﬁc report suggests that properly conducted laboratory matching of
+traces of human hair in conditions approximating those upon which the conclusions
+reﬂected in proposition 7 were based are correct in over 95 percent of cases.
+30 X regularly had afternoon tea with Y on Sundays.
+31 Few parents murder their children.
+32 Features a, b, c, d were as follows: (a) white hair; (b) approximate height of ﬁve feet;
+(c) a pronounced limp; (d) the wearing of a cheap brown coat.
+State all the generalizations that you think may be helpful in interpreting the signif-
+icance of these propositions. Classify each generalization.
+I
+Construct a list of ten propositions relevant to Pa. Can you think of a more efﬁcient
+way of marshaling the data? If so, describe it.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 76 ---
+44
+Analysis of Evidence
+J
+You are the ofﬁcer who has just been appointed to be in charge of the investigation.
+Review the information gathered so far:
+a
+Is there any missing evidence?
+b
+Is there an absence of important evidence about Y and how she met her death?
+c
+Is there any direct evidence of the identity of the murderer, if this was murder?
+d
+What direct or circumstantial evidence is there relating to X’s opportunity to kill Y?
+e
+Imagine three possible scenarios that might explain Y’s death. Use these to identify
+good questions to ask at the next stage in this investigation.
+f
+Construct a plausible story incorporating all the data in propositions 1 to 30 that
+indicates that it was almost certainly X who was the killer. Now construct an
+alternative, rival, story that indicates that it was almost certainly W3, and not X, who
+was the killer.
+g
+Can you eliminate any of the witnesses as suspects at this stage?
+K
+Other standpoints.
+a
+You are X’s attorney about to interview her for the ﬁrst time about this event. What
+information do you hope to obtain from her? Why?
+b
+You are the prosecuting attorney. You have to decide whether to arrest and charge
+anyone in connection with the murder on the basis of the information contained in
+propositions 1 to 32. Is it sufﬁcient for this purpose? If not, how far short is it of being
+sufﬁcient?
+L
+Concepts.(a)Reviewtheglossaryatpp.379–87below.Elucidatethemeaningofeach
+ofthefollowingtermsastheywereusedinthecontextofthisexercise: relevance;pro-
+bative force; proof; evidence; inference; ancillary evidence; missing evidence; incom-
+plete evidence; credibility; reliability; corroboration; theory of the case; hypothesis;
+story; elimination; common sense generalization. In what respects, if any, does their
+usage in this context differ from ordinary everyday usage and their technical use in
+legal discourse?
+(b) “The law of evidence is a conceptual mineﬁeld.” Most writers are agreed that
+it is important to distinguish clearly between “materiality,” “relevance,” “admissi-
+bility,” and “weight” (or “probative force”); but there is no agreed terminology and
+some issues of substance are hidden in some of the debates about words.
+One widely-held view might be restated in simpliﬁed form as follows: “materiality”
+concerns what has to be proved for the proponent to succeed (the facts in issue) and is
+governed by substantive law; “relevance” denotes a direct or indirect probative relation
+between an evidentiary fact and a factum probandum (”tends to support” or “tends
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 77 ---
+Evidence and inference: some food for thought
+45
+to negate”) and is a matter of logic; “probative force” denotes the strength of such
+support or negation; it is based on “experience,” but there are few settled criteria for
+evaluation; questions of “admissibility” concern the exclusion of otherwise relevant
+evidence and are governed by the law of evidence (including the principles governing
+judicial discretions to exclude). (Twining (1985) 153.)
+This quotation purports to restate “one widely-held view” about the distinctions
+between materiality, relevance, weight, and admissibility. What are the main points
+at which this view might be challenged? To what extent do you accept this view?
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 78 ---
+2
+Fact investigation and the nature
+of evidence
+“Have you ever given any attention to the Science of Evidence?” said Mr. Grodman.
+“How do you mean?” asked the Home Secretary, rather puzzled, but with a melancholy
+smile. “I should hardly speak of it as a science; I look at it as a question of common
+sense.”
+“Pardon me, sir. It is the most subtle and difﬁcult of all the sciences. It is indeed
+rather the science of the sciences. What is the whole of inductive logic, as laid down
+(say) by Bacon and Mill, but an attempt to appraise the value of evidence, the said
+evidence being the trails left by the Creator, so to speak? The Creator has (I say it in all
+reverence) drawn a myriad red herrings across the track. But the true scientist refuses
+to be bafﬂed by superﬁcial appearances in detecting the secrets of Nature.”1
+A. Introduction: connecting the dots
+Everyone draws inferences from evidence. The dog barks, you infer that someone
+is approaching the house; a loud horn sounds behind me, I infer that the driver
+is impatient or angry; there is a peculiar smell in the playroom after last night’s
+teenage party; cigarettes? Hash? Or just leftover pizza? There is a fresh scratch on
+the front fender of my car with traces of red paint; Aunt Edna has just roared off
+in her new red Ferrari. There are dark clouds overhead, footprints in the sand,
+lipstick on the shirt, ﬁngerprints on the steering wheel of a stolen car. All tell tales.
+Inferential reasoning is a basic human skill.
+All disciplines, from archeology to zoology, from history to astronomy, from
+statistics to decision theory, have largely shared problems of evidence and inference
+(Twining and Hampsher-Monk, 2003). As Bentham said: “The ﬁeld of evidence
+is no other than the ﬁeld of knowledge” (Bentham 1810:1). Practicing lawyers,
+policemen, and judges as well as accountants, aeronautical engineers, auditors,
+intelligence analysts, and anyone involved in diagnosing damaged or faulty motor
+cars,computers,orhumanbodiesareallinvolvedinanalyzingandusingevidenceas
+partoftheirwork.Lawisdifferentonlyinthatsubstantivelawdeﬁnesthehypotheses
+1 Zangwill (1895) (cited by Wigmore as the frontispiece of The Principles of Judicial Proof )
+46
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press

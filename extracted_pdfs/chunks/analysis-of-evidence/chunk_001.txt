@@ -1,0 +1,1432 @@
+# Chunk 1 of 26
+# Document: Analysis of Evidence
+# Characters: 49419
+
+--- Page 1 ---
+Analysis of Evidence
+This is an enjoyable and rigorous introduction to the construction and criticism
+of arguments about questions of fact, and to the marshalling and evaluation of
+evidence at all stages of litigation. It covers the principles underlying the logic of
+proof; the uses and dangers of story-telling; standards for decision and the rela-
+tionship between probabilities and proof; the chart method and other methods of
+analyzing and ordering evidence in fact-investigation, in preparing for trial, and in
+connection with other important decisions in legal processes and in criminal inves-
+tigation and intelligence analysis. Most of the chapters in this new edition have been
+rewritten; the treatment of fact investigation, probabilities and narrative has been
+extended; and new examples and exercises have been added. Designed as a ﬂexible
+tool for undergraduate and postgraduate courses on evidence and proof, students,
+practitioners and teachers alike will ﬁnd this book challenging but rewarding.
+Terence Anderson is Professor of Law at the University of Miami. He is an
+experienced litigator and teacher of courses on methods of analysis, evidence and
+trialpractice.Hiswritingsincludearticlesdevelopingandillustratingtopicscovered
+in this book.
+David Schum is Professor of Law and of Systems Engineering at George Mason
+UniversityandHonoraryProfessorofEvidenceScience,UniversityCollegeLondon.
+William Twining is Quain Professor of Jurisprudence Emeritus, University
+College London, and a regular Visiting Professor at the University of Miami School
+of Law. His writings on evidence include Rethinking Evidence (2nd edn., Cambridge
+University Press).
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 2 ---
+Law in Context
+The series is a vehicle for the publication of innovative scholarly books that treat law and
+legal phenomena critically in their social, political and economic contexts from a variety of
+perspectives. The series particularly aims to publish scholarly legal writings that bring fresh
+perspectives to bear on new and existing areas of law taught in universities. A contextual
+approachinvolvestreatinglegalsubjectsbroadly,usingmaterialsfromothersocialsciences,
+and from any other discipline that helps to explain the operation in practice of the subject
+under discussion. It is hoped that this orientation is at once more stimulating and more
+realistic than the bare exposition of legal rules. The series includes original books that
+have a different emphasis from traditional legal textbooks, while maintaining the same
+high standards of scholarship. They are written primarily for students of law and of other
+disciplines, but most also appeal to a wider readership. Recent publications include books
+on globalization, transnational legal processes, and comparative law. In the past, most
+authors have come from, or been based in, Europe or the Commonwealth. In the future,
+wealsoexpecttopublishauthorsfrom,orbasedin,theUnitedStatesorCanada,particularly
+those who adopt a clear transatlantic perspective. The books will include subject areas
+that have a transnational signiﬁcance, drawing on European as well as North American
+scholarship.
+Series Editors
+William Twining, University College London
+Christopher J. McCrudden, University of Oxford
+Books in the series
+Anderson, Schum & Twining: Analysis of Evidence
+Ashworth: Sentencing and Criminal Justice
+Barton & Douglas: Law and Parenthood
+Bell: French Legal Cultures
+Bercusson: European Labour Law
+Birkinshaw: European Public Law
+Birkinshaw: Freedom of Information: The Law, the Practice and the Ideal
+Cane: Atiyah’s Accidents, Compensation and the Law
+Clarke & Kohler: Property Law: Commentary and Materials
+Collins: The Law of Contract
+Davies: Perspectives on Labour Law
+de Sousa Santos: Toward a New Legal Common Sense
+Diduck: Law’s Families
+Elworthy & Holder: Environmental Protection: Text and Materials
+Fortin: Children’s Rights and the Developing Law
+Glover-Thomas: Reconstructing Mental Health Law and Policy
+Gobert & Punch: Rethinking Corporate Crime
+Harlow & Rawlings: Law and Administration: Text and Materials
+Harris: An Introduction to Law
+Harris: Remedies in Contract and Tort
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 3 ---
+Harvey: Seeking Asylum in the UK: Problems and Prospects
+Hervey & McHale: Health Law and the European Union
+Lacey & Wells: Reconstructing Criminal Law
+Lewis: Choice and the Legal Order: Rising above Politics
+Likosky: Transnational Legal Processes
+Maughan & Webb: Lawyering Skills and the Legal Process
+Moffat: Trusts Law: Text and Materials
+Norrie: Crime, Reason and History
+O’Dair: Legal Ethics
+Oliver: Common Values and the Public-Private Divide
+Oliver & Drewry: The Law and Parliament
+Picciotto: International Business Taxation
+Reed: Internet Law: Text and Materials
+Richardson: Law, Process and Custody
+Roberts & Palmer: Dispute Processes-ADR and the Primary Forms of Decision Making
+Scott & Black: Cranston’s Consumers and the Law
+Seneviratne: Ombudsmen: Public Services and Administrative Justice
+Stapleton: Product Liability
+Turpin: British Government and the Constitution: Text, Cases and Materials
+Twining: Globalisation and Legal Theory
+Twining & Miers: How to do Things with Rules
+Ward: A Critical Introduction to European Law
+Ward: Shakespeare and Legal Imagination
+Zander: Cases and Materials on the English Legal System
+Zander: The Law-Making Process
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 4 ---
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 5 ---
+Analysis of Evidence
+Second edition
+Terence Anderson
+Professor of Law, University of Miami
+David Schum
+Professor of Systems Engineering and Law, George Mason University
+William Twining
+Quain Professor of Jurisprudence Emeritus, University College London
+with online appendices at
+www.cambridge.org/9780521673167
+by Philip Dawid, University College London
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 6 ---
+cambridge university press
+Cambridge, New York, Melbourne, Madrid, Cape Town, Singapore, São Paulo
+Cambridge University Press
+The Edinburgh Building, Cambridge cb2 2ru, UK
+First published in print format
+isbn-13
+978-0-521-67316-7
+isbn-13
+978-0-511-61058-5
+© Terence Anderson, David Schum and William Twining 2005
+2005
+Information on this title: www.cambridge.org/9780521673167
+This publication is in copyright. Subject to statutory exception and to the provision of
+relevant collective licensing agreements, no reproduction of any part may take place
+without the written permission of Cambridge University Press.
+isbn-10
+0-521-67316-x
+Cambridge University Press has no responsibility for the persistence or accuracy of urls
+for external or third-party internet websites referred to in this publication, and does not
+guarantee that any content on such websites is, or will remain, accurate or appropriate.
+Published in the United States of America by Cambridge University Press, New York
+www.cambridge.org
+paperback
+ OCeISBN 
+paperback
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 7 ---
+To our children and grandchildren
+To Anne, Carolyn, and Penelope
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 8 ---
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 9 ---
+Contents: summary
+Preface
+xvii
+Acknowledgments
+xxv
+Tables of cases and statutes
+xxvii
+List of abbreviations
+xxxii
+1
+Evidence and inference: some food for thought
+1
+2
+Fact investigation and the nature of evidence
+46
+3
+Principles of proof
+78
+4
+Methods of analysis
+112
+5
+The chart method
+123
+6
+Outlines, chronologies, and narrative
+145
+7
+Analyzing the decided case: anatomy of a cause c´el`ebre
+159
+8
+Evaluating evidence
+224
+9
+Probabilities, weight, and probative force
+246
+10 Necessary but dangerous: generalizations and stories
+in argumentation about facts
+262
+11 The principles of proof and the law of evidence
+289
+12 The trial lawyer’s standpoint
+315
+Glossary of terms and symbols
+379
+References
+388
+Index
+396
+ix
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 10 ---
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 11 ---
+Contents
+Preface
+xvii
+Acknowledgments
+xxv
+Tables of cases and statutes
+xxvii
+List of abbreviations
+xxxii
+1
+Evidence and inference: some food for thought
+1
+A.
+Introduction
+1
+B.
+Evidence and inference in non-legal contexts
+2
+1.
+Whose baby I? The judgment of Solomon
+2
+2.
+The intelligence analyst: an intelligence scenario “from
+the top-down”
+3
+3.
+The doctor and the detective: Joseph Bell and Sherlock
+Holmes
+8
+a.
+The doctor
+8
+b.
+The detective
+9
+4.
+Generalizations and stories: Sam’s party
+10
+C.
+Evidence and inference in legal contexts
+10
+1.
+Two murders
+10
+a.
+The murder of Y
+10
+b.
+Bywaters and Thompson
+10
+2.
+Imaginative reasoning: The Nine Mile Walk
+11
+3.
+Generalizations, stories, and arguments
+18
+a.
+Brides in the bath: closing speech
+18
+b.
+Huddleston v. United States
+19
+c.
+Miller v. Jackson
+20
+4.
+Evidence from two causes c´el`ebres
+21
+a.
+Commonwealth v. Sacco and Vanzetti
+21
+b.
+People v. Simpson
+23
+5.
+United States v. Richard Able
+23
+6.
+Sargent v. Southern Accident Co.
+28
+7.
+Whose baby II? Morrison v. Jenkins
+31
+8.
+An investigation: basic concepts in analysis and evaluation
+40
+xi
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 12 ---
+xii
+Contents
+2
+Fact investigation and the nature of evidence
+46
+A.
+Introduction: connecting the dots
+46
+Post 9/11 investigation: an exercise
+52
+B.
+Fact investigation: generating dots and explanations for
+them
+55
+1.
+Types of logical reasoning and justiﬁcation
+55
+2.
+Abductive reasoning and the generation of a new idea
+56
+3.
+Generating explanations for dots or triﬂes
+58
+C.
+On the credentials of evidence
+60
+1.
+Evidential foundations of argument
+60
+2.
+On relevance
+62
+3.
+The credibility of evidence and its sources
+63
+a.
+Tangible evidence
+64
+b.
+The credibility of testimonial evidence
+65
+c.
+Ancillary evidence about testimonial credibility
+attributes
+67
+d.
+Credibility v. competence
+70
+4.
+On the probative force of evidence
+71
+D.
+A substance-blind approach to evidence
+71
+3
+Principles of proof
+78
+A.
+Introduction: evidence in legal contexts
+78
+B.
+The Rationalist Tradition
+78
+1.
+The tradition described
+79
+2.
+Principles of proof, rules of procedure and evidence, and
+the Rationalist Tradition
+81
+C.
+Rationale
+87
+Notes and questions on rules of evidence concerning
+relevance
+88
+D.
+Notes on terminology and inferential relationships
+90
+A preliminary exercise: State v. Archer (I)
+94
+E.
+Probative processes and logical principles
+96
+1.
+Probative processes
+96
+2.
+The logical principles
+98
+3.
+Application of the principles in legal disputes
+103
+The exercise continues: State v. Archer (II)
+109
+The Prosecutor’s standpoint
+109
+4
+Methods of analysis
+112
+A.
+Introduction
+112
+B.
+The methods and a protocol for their use
+113
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 13 ---
+Contents
+xiii
+1.
+Methods of analysis and analytic devices
+113
+2.
+A seven-step protocol for analysis: a generalized account
+114
+5
+The chart method
+123
+A.
+The chart method: an overview
+123
+B.
+The seven-step protocol for the chart method: a detailed
+account
+124
+C.
+The symbols and their use
+134
+1.
+The basic Wigmorean palette
+134
+2.
+The chart method illustrated
+136
+3.
+Additional symbols, conventions and their utility
+140
+4.
+Three advantages of symbols and charting
+141
+The exercise continues: State v. Archer (III)
+143
+1.
+Defense counsel’s standpoint
+143
+2.
+Defense investigation
+144
+6
+Outlines, chronologies, and narrative
+145
+A.
+The outline method of analysis
+145
+B.
+Analytic devices: chronologies and narratives
+147
+C.
+The litigation context
+149
+1.
+The stages of a case and the methods of analysis
+149
+a.
+The pleading stage
+150
+b.
+Before the close of discovery and investigation
+151
+c.
+Final trial preparation
+152
+D.
+Theories, themes, stories, and situation-types
+153
+State v. Archer (IV): the exercise concludes
+158
+1.
+The prosecution standpoint
+158
+2.
+The defense standpoint
+158
+7
+Analyzing the decided case: anatomy of a cause c´el`ebre
+159
+A.
+Introduction
+159
+B.
+The trial of Bywaters and Thompson
+160
+1.
+Preliminary matter
+160
+a.
+The indictments
+160
+b.
+Dramatis personae
+162
+c.
+Leading dates in the case
+163
+2.
+The judgment on Thompson’s appeal: Rex v. Thompson
+(1922)
+164
+3.
+Evidence from the trial: the Prosecution
+170
+a.
+Extracts from testimony (including statements made
+by the accused)
+170
+b.
+Index to selected exhibits
+178
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 14 ---
+xiv
+Contents
+c.
+A selection of Thompson’s earlier letters
+179
+d.
+Thompson’s later letters
+189
+4.
+Evidence from the trial: the Defense
+203
+a.
+Extracts from cross-examination of Bywaters
+203
+b.
+Further extracts from the cross-examination of Bywaters
+209
+c.
+Extracts from the examination of Thompson
+209
+d.
+Further extracts from the examination of Thompson
+211
+e.
+Extracts from cross-examination of Thompson
+213
+C.
+Comments
+219
+D.
+Notes and questions on Rex v. Bywaters and Thompson
+220
+8
+Evaluating evidence
+224
+A.
+Introduction
+224
+B.
+Evaluating the weight and probative force of evidence
+226
+1.
+No rules of weight
+226
+2.
+Traditional modes of expressing weight and
+probative force
+227
+C.
+Standards for decision
+230
+1.
+Lawyering standards
+231
+a.
+Standards for lawyer-client decisions
+232
+b.
+Standards for lawyers’ decisions
+234
+2.
+Standards for decisions in adjudication
+237
+a.
+Standards for decisions disposing of a case as a matter
+of law
+237
+b.
+Standards for decisions on admissibility
+238
+c.
+The case as a whole: burdens of proof and the civil and
+criminal standards
+242
+d.
+Appellate review: standards for limiting discretion
+244
+9
+Probabilities, weight, and probative force
+246
+A.
+Introduction
+246
+B.
+Flirtations involving law and probability
+247
+C.
+Probability and the force or weight of evidence
+250
+1.
+Conventional probability and Bayes’s Rule
+251
+2.
+Evidential support and evidential weight: non-additive
+probabilistic beliefs
+253
+3.
+Baconian probability and completeness of evidential
+coverage
+257
+4.
+Wigmore and the fuzzy weight of evidence
+260
+10
+Necessary but dangerous: generalizations and stories
+in argumentation about facts
+262
+A.
+Generalizations
+262
+1.
+Reprise and introduction
+262
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 15 ---
+Contents
+xv
+2.
+Degrees of certainty
+263
+3.
+Types of generalizations
+265
+a.
+Case-speciﬁc generalizations
+266
+b.
+Background generalizations
+269
+c.
+Scientiﬁc knowledge and expertise
+270
+d.
+General knowledge
+270
+e.
+Experience-based generalizations
+271
+f.
+Synthetic-intuitive generalizations
+(belief generalizations)
+271
+4.
+Judicial notice and cognitive consensus
+273
+a.
+Judicial notice
+273
+b.
+Cognitive consensus
+273
+5.
+Dangers of generalizations
+276
+6.
+Generalizations: the practitioner’s standpoint
+277
+a.
+Case-speciﬁc generalizations
+278
+b.
+Experience-based and synthetic-intuitive generalizations
+278
+c.
+Formulation and appraisal
+279
+Protocol for assessing the plausibility and validity of a
+generalization in the context of an argument
+279
+B.
+Stories necessary, but dangerous
+280
+Protocol for assessing the plausibility, coherence, and
+evidentiary support for a story
+281
+C.
+The relationship between stories and generalizations
+282
+D.
+Generalizations, stories, and themes: questions
+and exercises
+285
+11
+The principles of proof and the law of evidence
+289
+A.
+Introduction
+289
+B.
+What is the law of evidence? A Thayerite overview
+290
+C.
+One law of evidence?
+294
+D.
+Linking the principles of proof and the law of evidence:
+relevance as the main bridge
+295
+E.
+Analyzing for admissibility
+295
+F.
+Analysis under the United States Federal Rules of Evidence
+299
+1.
+Rules codifying the principles of proof and regulating
+their applications in judicial trials
+299
+2.
+Analysis and the rules designed to regulate the probative
+processes
+301
+3.
+Analysis and mandatory exclusionary rules
+304
+4.
+A Wigmorean protocol for analyzing problems in the use
+and admissibility of evidence under the Federal Rules
+and its application
+305
+a.
+The hearsay problem
+306
+b.
+The protocol applied
+309
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 16 ---
+xvi
+Contents
+12
+The trial lawyer’s standpoint
+315
+A.
+A Wigmorean lawyer prepares for trial
+315
+1.
+Of charts and other analytic devices
+315
+2.
+The trial book: an organizational device
+317
+3.
+The trial book: an art form
+323
+B.
+Two simple cases
+325
+1.
+Suggested format
+325
+2.
+Materials for Police v. Weller
+326
+3.
+Materials for Police v. Twist
+329
+C.
+The art of plausible proof: theory, story, and theme revisited
+333
+1.
+Introduction
+333
+2.
+More food for thought
+335
+a.
+K. Llewellyn: Who are these men?
+335
+b.
+Bywaters and Thompson: Who is this woman?
+336
+c.
+Is Ford Motor Company guilty of killing girls with a Pinto?
+337
+D.
+Two more complex trial problems
+341
+1.
+Introduction
+341
+2.
+The criminal case: United States v. Wainwright
+343
+3.
+The civil case: The Estate of James Dale Warren
+356
+Glossary of terms and symbols
+379
+References
+388
+Index
+396
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 17 ---
+Preface
+The why, what, and how of this book
+The why
+Inferential reasoning, analyzing and weighing evidence, forming judgments about
+what has happened in the past or what is likely to happen in the future are a
+necessary part of coping with the problems of everyday living. They are basic human
+skills that form part of ordinary practical reasoning. Historians, detectives, doctors,
+engineers, and intelligence analysts have to develop and apply these skills with rigor
+and precision in specialized professional contexts. So do lawyers.
+These skills have not traditionally formed part of professional training. Perhaps
+this is because they are perceived to be “mere common sense”; or because it has been
+felt that they can only be learned by practical experience “on the job”; or because
+of a belief that these are matters of “intuition” or that great lawyers or historians or
+detectives or diagnosticians are “born and not made.”1
+This book starts from a different premise. Building on the work of the American
+legal scholar John Henry Wigmore (1863–1943), we believe that skills in analyzing
+and marshaling evidence and in constructing, criticizing and evaluating arguments
+about disputed questions of fact are intellectual skills that can and should be taught
+effectivelyandefﬁcientlyinlawschools.Theyareasessentialapartof“legalmethod”
+as legal analysis and reasoning about questions of law. Common sense, intuition,
+and practical experience all have a part to play in exercising these skills, but they are
+not adequate substitutes for a systematic grounding in what Wigmore called “the
+principles of proof.” This book is designed to enable students to lay a foundation
+and to develop the basic skills to a high degree before they enter practice as lawyers
+or in other spheres of activity that involve practical reasoning.
+Between us we have accumulated more than ﬁfty years of experience in teaching
+analysis of evidence in a variety of courses in several different countries. This book
+builds on that experience. It is designed as a ﬂexible tool to lay a foundation for
+mastering a necessary set of basic intellectual and professional skills in fact anal-
+ysis. They include techniques for structuring a problem and organizing a mass of
+data (macroscopic analysis) and techniques for detailed analysis and evaluation of
+1 For a detailed account see Rethinking Ch. 2.
+xvii
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.001 Published online by Cambridge University Press
+
+
+--- Page 18 ---
+xviii
+Preface
+particular data and phases of complex arguments (microscopic analysis). Our main
+purpose is to present a vehicle for learning certain usable basic skills of analysis,
+argument, and practical problem-solving. The primary audience is law students,
+especially in courses on evidence and trial practice, but the early chapters and many
+of the examples can be used to learn about and develop skills of inferential reasoning
+in other contexts.
+The what
+Chapter 1, “Evidence and inference: some food for thought,” is a series of materials,
+cases, questions, and exercises. These are designed to achieve three objectives. First,
+to engage the interest of students and other readers, we have included some familiar
+and not so familiar examples illustrating the range of contexts in which inferential
+reasoning is necessary or useful. Second, we have provided examples that introduce
+concepts and issues that are developed in the remainder of the book so that readers
+can actively think about them from the outset. Third, these materials include con-
+crete examples and exercises that are used as the basis for explaining and illustrating
+materials presented in later chapters. We have deliberately presented a wide variety
+of materials so that teachers can select which examples to use to introduce the sub-
+ject and which can be studied later or omitted altogether. All of these examples have
+been used in the classroom, none of the authors use them all in one course, and
+each has his favorites. This is not a reading chapter; rather the idea is to encourage
+readers to engage actively with some concrete examples before moving on to the
+more abstract material that follows. Some teachers have used selected examples
+to illustrate concepts in subsequent chapters that students have been assigned to
+read later. Others may choose to recommend that their students begin by reading
+Chapters 2 and 3, referring back to particular examples as they appear in the text.
+Chapter 2, “Fact investigation and the nature of evidence,” introduces basic
+concepts and considerations that apply to evidence and inference across many
+contexts, with particular reference to the generation and testing of hypotheses in the
+process of any kind of factual investigation. This is illustrated vividly by the problem
+of “connecting the dots” in intelligence analysis. It deals speciﬁcally with the idea of
+“a substance-blind approach,” which considers the basic inferential characteristics
+orcredentialsofevidence(relevance,credibility,andprobativeforce)withoutregard
+to the substance or content of the evidence or to the context of the inquiry. This
+classiﬁcation of evidence allows us to say general things about evidence regardless
+of its substance.
+Chapter 3, “Principles of proof,” develops these ideas in a legal context. It
+describes the “Rationalist Tradition” that has been the foundation of Anglo-
+American evidence scholarship and explains why it is relevant to contemporary
+legal practice. It identiﬁes the forms of logic that must be used in analyzing evidence
+or in justifying conclusions based upon evidence and demonstrates how they can
+be applied to legal disputes, using the ﬁnal exercise in Chapter 1, “An investigation.”
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.001 Published online by Cambridge University Press
+
+
+--- Page 19 ---
+Preface
+xix
+Chapter 4, “Methods of analysis,” introduces the main methods of analysis used
+in preparation for trial and their relations to each other: chronologies, the outline
+method, narrative, and the chart method. It presents a general seven-step protocol
+that ﬁts all of them, using the material from the O. J. Simpson case from Chapter 1
+to illustrate its application. We have included this generalized account as a separate
+chapter for two reasons: ﬁrst, some teachers may wish to provide an overview
+of approaches without going into detail about the chart method. Second, in our
+experience we have found this an effective way of easing students into the rigors of
+the chart method.
+Chapter 5, “The chart method,” is the heart of the book for those who wish to
+master the most rigorous method of analysis. It is a substantially revised version of
+the method that Wigmore developed for the analysis of mixed masses of evidence
+early in the last century. It is an intellectual procedure for analyzing and organizing
+a complex body of evidential data and demonstrating precisely how the inferences
+from that data can be marshaled in support of and in opposition to the ultimate
+proposition that must be proved. It also makes it possible to subject selected phases
+of a complex argument to rigorous microscopic analysis. Such analysis can be used
+to identify and construct arguments about whether evidence should be admitted or
+its use restricted, as well as to evaluate the strengths and weaknesses of the particular
+phase of the argument based upon that data. Each step of the method is illustrated
+using United States v. Able and the O. J. Simpson example from Chapter 1.
+Chapter 6, “Outline, chronologies, and narratives,” considers other methods
+of analysis in the context of litigation. The outline method is a familiar device.
+Variations of it are common. It is, on its face, less difﬁcult to grasp and easier to use
+than the chart method. Chronologies and narratives are other devices commonly
+usedinpracticetoorganizetheavailableevidenceandtodevelopandtestarguments
+based on that evidence. Part C of that chapter, “The litigation context,” describes
+which of the methods is best suited to the various stages of a case.
+Chapter 7 uses an edited version of the record of R. v. Bywaters and Thompson
+to illustrate how the chart method can be applied to a complex decided case. The
+questions at the end have been organized to reﬂect the seven-step protocol. In
+our experience, if students immerse themselves in the detail and then are guided
+through the case using these questions step by step they readily grasp the basics
+of Wigmorean analysis. However, other cases involving mixed masses of evidence
+about which there is scope for reasoned disagreement, such as Sacco and Vanzetti,
+or O. J. Simpson, or the Lindbergh Baby (Bruno Hauptman), or any other complex
+case, can also be used for this purpose, provided that a detailed record is available
+and there is a historical doubt about the event.
+Wigmore’s presentation of the principles of reasoning and methods of analysis
+falls squarely within the mainstream of Anglo-American scholarship, but he did not
+satisfactorilyaddressaclassofproblemsthatareimportantforlawyersandthathave
+emerged in recent debates as central issues for scholars. How is the strength of an
+inference to be determined? How is the net persuasive value of a mass of evidence
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.001 Published online by Cambridge University Press
+
+
+--- Page 20 ---
+xx
+Preface
+to be assessed? How are judgments about the probative force of different items
+of evidence to be combined? How can the lawyer (or the trier of fact) determine
+whether a mass of evidence, which logically supports the truth of the proposition
+ultimately to be proved, satisﬁes the applicable standard of proof? What do we mean
+when we say a proposition has been proven to be “more probable than not,” proven
+by “clear and convincing evidence,” or proven “beyond a reasonable doubt”? We
+confront these problems in Chapters 8 and 9.
+Chapter 8, “Evaluating evidence,” ﬁrst presents the traditional vocabularies that
+lawyers and others use in arguing about these issues in court. The next part,
+“Standards for decision,” introduces the distinction between standards intended
+to guide the decision-makers’ exercise of discretion, such as the standards deﬁn-
+ing the burden of proof, and standards designed to deﬁne the limits of discretion,
+such as the standards that appellate courts apply in deciding whether the decision
+below exceeded those limits. That part moves beyond the familiar standards of
+proof to consider standards for other decisions that are involved in the total process
+of litigation from the ﬁrst interview of a client to pre-trial decisions, through the
+trial process and beyond, including standards for lawyers’ decisions, decisions to
+prosecute, and other standards for decision in litigation and adjudication.
+Chapter9,“Probabilities,weight,andprobativeforce,”providesabasicintroduc-
+tion to probability theory. It outlines the debates about the application of different
+theories of probability in legal contexts and elucidates some basic concepts. These
+debates mainly focus upon whether probability theory should be used in evaluating
+evidence for cases-as-a-whole – i.e. arguments to a judge or jury. As a practical
+matter, practitioners, judges, and most legal academics have rejected the use of
+Bayes’s Theorem and other axioms of probability for these purposes, but have rec-
+ognized that they should play a role in speciﬁc contexts – for example, in paternity
+suits, or disparate impact cases, as the basis for many scientiﬁc or expert opinions,
+or in wrongful death or total disability cases. There are further reasons why lawyers
+should be familiar with these concepts. Probability assessments have an important
+role as an aid to making many pre-trial decisions. The decision to prosecute or
+to contest a case requires analysis of the probability that liability or guilt will be
+established and, in a civil case, an estimate of the probable quantum of damages.
+Negotiations to settle a case or to reach a plea agreement are often argued in terms
+of probability assessments made by each of the parties.2 Lawyers also need to be
+equipped to recognize fallacies and misuses of statistics that may be made by their
+opponents.
+Chapter 9 provides the theoretical background to the separate appendix on
+Probabilities and Proof by Philip Dawid, which is included on the website for this
+book.3 Theappendixisabasicpracticalintroductiontostatisticalmethodappliedto
+2 A simple formula for negotiating a settlement is discussed in Ch. 8 with an exercise based on Sargent
+v. General Accident Co., a case presented for other purposes in Ch. 1.
+3 Appendix I at www.cambridge.org/9780521673167. There is a second Website for the book at
+http://analysisofevidence.law.miami.edu/.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.001 Published online by Cambridge University Press
+
+
+--- Page 21 ---
+Preface
+xxi
+legal examples. It explores the theoretical and practical problems posed by the use of
+mathematical probabilities in evaluating evidence. It introduces some basic axioms
+of probabilistic analysis and, through a series of problems and exercises, illustrates
+their application in contexts such as DNA, paternity suits, discrimination cases, and
+actuarial analysis.
+Chapter 10, “Necessary but dangerous,” explores at greater length the roles of
+generalizations and stories in argumentation about questions of fact and the rela-
+tions between them. This is mainly a theoretical chapter, but it includes two simple
+protocols that a lawyer might use in testing key generalizations or potential stories
+in preparing for trial.
+Chapter 11, “The principles of proof and the law of evidence,” explores the
+intimate relationship between the principles of proof and the law of evidence,
+recapping on points where the connections have been touched on previously, espe-
+cially in relation to basic concepts and exploring these in more detail in relation to
+hearsay.
+Chapter 12, “The trial lawyer’s standpoint,” integrates the materials and methods
+introduced in Chapters 2 to 11 into the practical context of preparation for trial.
+This chapter includes two simple trafﬁc cases that have been adapted from exercises
+used at the Inns of Court School of Law in London and two more complex problems
+drawn from the oldest National Trial Competition in the United States. We have
+found that these cases work well either as a basis for class discussion or as problems
+for simulated mini-trials on either side of the Atlantic.
+Changes in this edition
+First, David Schum has joined us as a co-author. Trained in probability and psy-
+chology, he has in recent years been concerned with evidence as a multi-disciplinary
+subject. In Evidential Foundations of Probabilistic Reasoning (1994) he argued that
+other disciplines had a lot to learn about evidence from law, but that lawyers could
+also beneﬁt by considering those features of evidence that cross all or most dis-
+ciplines. This “substance-blind” approach to relevance, credibility, and probative
+force is introduced in Chapter 2, with particular reference to investigation and
+inquiry in both legal and non-legal contexts.
+Second, scientiﬁc evidence, such as DNA, and the bearing of probability theory
+and practical statistics on evidence in legal contexts have increased in importance
+in recent years. Chapter 9 contains a brief introduction to probability theory; the
+Appendix provides a practical introduction to the application of statistical methods
+to legal issues as an optional extra. Placing this on the website has made it possible
+to shorten the hard copy of the book, while substantially expanding the treatment
+of statistics.
+Third, Wigmorean analysis has become much better known outside legal circles
+as well as within law. Specialists in decision theory, artiﬁcial intelligence, and in
+other areas have taken great interest in assisting intelligence analysts in “connecting
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.001 Published online by Cambridge University Press
+
+
+--- Page 22 ---
+xxii
+Preface
+the dots” or trying to make sense out of masses of evidence. Wigmore’s methods
+are now being routinely applied in such efforts. They have also been applied to
+investigation of multiple crimes and insurance fraud (Schum (1987), Leary (2003),
+Twining (2003)). We have expanded the scope of this edition to take account of
+such developments, especially in relation to intelligence analysis post 9/11.
+Fourth, there have been many developments in the law of evidence, civil and
+criminal procedure, and in scientiﬁc evidence.4 Evidence scholarship has continued
+to be a lively and pluralistic ﬁeld. It is now a well-established area in comparative
+law. Evidence is becoming increasingly recognized as an exciting multidisciplinary
+subject of great importance in many spheres of practical activity (Schum (1994);
+Twining and Hampsher-Monk (2003); Twining (2003)). The ﬁrst edition did not
+deal in detail with how the principles of proof and the law of evidence interact. We
+have added Chapter 11 in order to make this relationship clear and to facilitate the
+integration of the logic of proof and the rules of evidence in teaching.5
+All of these developments have been taken into account in revising this edition.
+However, the principles of inferential reasoning, the basic concepts, and the skills
+involved in analyzing and marshaling mixed masses of evidence are quite stable. We
+have retained examples that we have found work well in teaching, even though some
+of them are quite old. We have dropped others and streamlined the presentation.
+We have tried to make the book more ﬂexible and accessible to a variety of users,
+by giving clearer signposts.
+Throughout this period the authors have continued to think, write, and teach
+in this area. Our ideas have continued to develop and we have learned from the
+experience of using the ﬁrst edition in teaching and from the critical feedback of
+hundreds of students and some colleagues. Almost all our students have found
+the process of learning the method challenging and hard work (the motto of our
+courses has been “tough, but fun”); nevertheless, the vast majority have succeeded
+in mastering the basic techniques and many have produced work of outstanding
+quality. Interestingly, the subject has worked best with ﬁrst year law students in
+Miami, where it is a popular elective in the second semester. Many of our students
+have reported that they have found the approach very helpful in practice, some
+claimingthatitwasthemostusefulcoursethattheyhadinlawschool.Ofcourse,they
+4 For England these developments are surveyed in Zander (2003), Dennis (2004), and Roberts and
+Zuckerman (2004).
+5 Throughout this edition we indicate important points of contact between the principles of proof
+and the law of evidence. For this purpose, we have used the Federal Rules of Evidence (as amended
+up to Dec. 1, 2002). This is a coherent, accessible, and important code that falls four-square within
+the Rationalist Tradition. In respect of English law we make regular reference to Ian Dennis, The
+Law of Evidence (2nd edn, 2002), especially Chs. 1–4, which is generally in tune with our approach.
+So is Roberts and Zuckerman, Criminal Evidence (2004). Michael Zander’s Cases and Materials
+on the English Legal System (9th edn, 2003) contains useful discussions of debates and reforms
+concerning evidence and procedure in recent years. The main points of direct connection between
+the principles of proof and the law of evidence concern matters such as the basic concepts, relevance,
+standards of proof, and judicial notice, topics in respect of which there are not great differences
+between common law jurisdictions.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.001 Published online by Cambridge University Press
+
+
+--- Page 23 ---
+Preface
+xxiii
+do not spend time drawing elaborate charts in straightforward cases, but the basic
+techniques of evidence marshaling and argument construction can become habits
+of mind that are invaluable and efﬁcient in handling both simple and complex cases.
+This is hardly surprising because Wigmore’s method is essentially a systematization
+of the “best practice” of good lawyers.
+Most of our students and some colleagues are converts. Moreover, the type of
+analysis involved in the chart method has in recent years attracted interest in a
+number of ﬁelds, including police investigation, intelligence analysis, and various
+other spheres of practical decision-making (Schum (1987); Leary (2003), Twining
+(2003)). There are, however, still some skeptics, not least among teachers of the
+law of evidence (Roberts (2002), Murphy (2001); response by Twining (2005)). We
+have tried to address their central criticism that the ﬁrst edition was too substantial
+and complex to use in an ordinary law of evidence course, and we hope that this
+edition is more accessible and user friendly.
+How to use this book
+Our main purpose is to present a vehicle for learning certain usable basic skills of
+analysis, argument, and practical problem-solving; hence this book can be used
+as core or supplemental material in a variety of ways and in a variety of courses.
+Chapter 1 contains a number of concrete examples and exercises that can be used
+selectively for different purposes.
+First, the book can be used as the basis for a self-standing course on analysis of
+evidence.Allthreeauthorshaveuseditinthiswayforoveradecadeinapostgraduate
+course in London, in ﬁrst degree courses for lawyers and non-lawyers at George
+Mason University, and, most successfully, as a popular ﬁrst year elective at the
+University of Miami Law School.
+Second, this edition has been designed so that it can also be used as part of
+orthodox evidence courses. Anderson has regularly used it during the ﬁrst three
+weeks of a standard four-credit course on the Law of Evidence in Miami; Twining
+teaches it as the ﬁrst third of the year-long course on Evidence and Proof in the
+London LLM, the second half of which is devoted to selected topics in the Law of
+Evidence, the remainder being devoted to a brief introduction to statistical analysis.
+Other law teachers who have tried to introduce this approach at the start of their
+courses on evidence have tended to ﬁnd the ﬁrst edition too substantial and too
+dense to use in three to four weeks. With this in mind we have reorganized the book,
+shortened several chapters, and indicated more clearly how the principles of proof
+underpin and are integrated into evidence doctrine. We have also provided some
+guidance to teachers who wish to take some short cuts in order to ﬁt this subject
+into a few weeks.
+We would emphasize, however, that there are no short cuts to learning
+the basic skills involved. If the learning objectives include mastering the basic
+techniques of evidence marshaling and the construction and criticism of rigorous
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.001 Published online by Cambridge University Press
+
+
+--- Page 24 ---
+xxiv
+Preface
+arguments about disputed questions of fact, these can only be acquired by repeated
+practice involving exercises that are inevitably time consuming for students.
+However, it is our experience that a student who has acquired these skills can
+much more rapidly and efﬁciently understand the law of evidence and its practical
+applications. In short, studying analysis of evidence takes time, but it also saves
+time. In our view, the basic approach can be taught in a minimum of eight to ten
+contact hours together with at least two written exercises.
+Third, while the obvious and tested uses are in basic or advanced courses in
+evidence and trial or pre-trial advocacy, we believe that some chapters can also
+be usefully employed in any skills course that seeks to develop the intellectual
+component of practical lawyering skills (and indeed in pre-law and other under-
+graduate courses concerned with rigorous reasoning about disputed questions of
+fact). Handling evidence is a basic human skill and a neglected aspect of “thinking
+like a lawyer.” Wigmorean analysis is beginning to feature in the training of intel-
+ligence analysts, police investigators, and others. It deserves to be a regular part of
+the curriculum of ﬁrst degrees in law.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.001 Published online by Cambridge University Press
+
+
+--- Page 25 ---
+Acknowledgments
+This book has been in gestation for over thirty years. During this period we have
+become indebted to so many people that it is impossible to name them all. In
+addition to those to whom inadequate acknowledgment was made in the ﬁrst edi-
+tion, we have since incurred many further debts. In preparing this edition, special
+thanks are due to colleagues, librarians, and deans in the law schools of George
+MasonUniversity,theUniversityofMiamiandUniversityCollegeLondon;toPhilip
+Dawid, who has prepared Appendix I on Probabilities and Proof for the website;
+to our students who have continued to be our most persistent critics and sup-
+porters; to Christopher Allen, Kola Abimbola, Ricardo Bacusas, Erica Becher-
+Monas, Philip Dawid, Ian Dennis, Jason Goldsmith, Michael Graham, Susan Haack,
+Richard Leary, Donald Nicolson, Mike Redmayne, Paul Roberts, Peter Tillers, and
+Bill Widen for many useful comments and suggestions; to Deborah Burns, Colette
+Hanna, Eileen Russell, Erna Stoddart, and, especially, Gloria Lastres, for unstint-
+ing assistance with word-processing, scanning, preparation of charts, and much
+else; to Noah Cox and Sisi Tran for research assistance; and, as ever, to our fami-
+lies, especially Anne, Carolyn, and Penelope for their tolerance, support, help, and
+love.
+We are grateful to the sources identiﬁed below for permission to reprint or
+reproduce parts of the following works.
+In Chapter 1, Harry Kemelman, The Nine Mile Walk, with copyright Harry
+Kemelman, is reproduced with permission of the author’s agents. Extracts from
+Morrison v. Jenkins, 80 C.L.R. 626 (Aust. 1969) are reproduced with permission of
+The Law Book Company Ltd.
+In Chapter 2, the cartoon at Figure 2.1 is reproduced with permission of both
+the artist John Trevor and the Albuquerque Journal in New Mexico.
+In Chapter 7, the trial record extract from Filson Young, ed., The Trial of Bywaters
+and Thompson (2nd edn., 1951), is reproduced with permission of William Hodge
+and Company in Edinburgh.
+In Chapter 12, the extract from Dart, Is the Ford Motor Company Guilty of Killing
+Girls with a Pinto? copyright 1980 by the Atlanta Constitution, is reproduced with
+permission. Exhibits and text In the Matter of James Dale Warren (1981) and the
+xxv
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 26 ---
+xxvi
+Acknowledgments
+United States v. Wainwright (1981) are reproduced with the permission of the Texas
+Young Lawyers Association and the National Trial Competition Committee.
+Every effort has been made to secure necessary permissions to reproduce copy-
+right material in this work, though in some cases it has proved impossible to trace
+copyright holders. If any omissions are brought to our notice, we will be happy to
+include appropriate acknowledgments on reprinting.
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 27 ---
+Table of cases
+Australia
+Morris v Jenkins 80 CLR 626 (Aust 1949)
+31–39, 130
+England
+Bater v Bater [1951] P 35
+243
+Candler v Crane Christmas & Co [1951] 2 KB 164
+156, 285
+H (Minors) (Sexual Abuse: Standard of Proof), Re [1996] AC 563
+243
+Miller v Jackson [1977] 3 All ER 340
+20–1, 287
+R v Clark [2003] EWCA Crim 1020
+298
+R v Hepworth and Fearnley [1955] 2 QB 600
+242
+R v Sang [1980] AC 402
+87
+R v Smith (George Joseph) [1914–15] 84 KB 2153 (Brides in the Bath)
+18, 286,
+296–8, 298, 304
+R v Turnbull [1977] QB 224
+227
+United States
+Addington v Texas, 441 US 418 (1979)
+243
+Anderson v City of Bessemer, 470 US 564 (1970)
+245
+Bradwell v Illinois, 83 US 130 (1872)
+266
+Chambers v Mississippi, 410 US 284 (1973)
+140
+Commonwealth v Sacco, 255 Mass 369, 151 NE 839 (1926)
+2, 335
+Commonwealth v Sacco, 259 Mass 128, 156 NE 57 (1927)
+2, 335
+Commonwealth v Sacco, 261 Mass 12, 158 NE 167 (1927)
+2, 335
+Crawford v Washington, 541 U.S. 36 (2004)
+140, 308, 314
+Daubert v. Merrel Dow Pharmaceuticals, Inc., 509 U.S. 578 (1993)
+300
+General Electric Co. v. Joiner, 522 U.S. 166 (1997)
+300
+Huddleston v United States, 485 US 681 (1988)
+19, 131, 132, 279, 287, 304
+Icicle Seafoods Inc v Worthington, 475 US 709 (1986)
+245
+Kumho Tire Company, Ltd. v. Carmichael, 526 U.S. 137 (1998)
+300
+xxvii
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 28 ---
+xxviii
+Table of cases
+Old Chief v United States, 519 US 172 (1997)
+87, 147, 241
+People v Collins, 68 Cal 2d 319, (1968)
+249–50
+Robinson v Diamond Housing Corp, 267 A 2d 833 (DC Ct App 1970)
+238
+Robinson v Diamond Housing Corp, 463 F 2d 853 (DC Cir 1972)
+238
+Sargent v Massachusetts Accident Co, 307 Mass 246, 29 NE 2d 825 (1940)
+28
+Shepard v United States, 290 US 96 (1933)
+309
+Tome v United States, 513 US 150 (1995)
+140
+US v Myers, 550 F 2d 1036 (5th 1977)
+101
+Causes c´el`ebres1
+Commonwealth v Woodward, (1997) (Boston Nanny case)
+160
+Commonwealth v Sacco and Vanzetti, (1921)
+xix, 2, 21–2, 160, 253–4, 285–6,
+335–6
+New Jersey v Hauptmann, (1935) (Lindbergh baby kidnapping)
+xix, 160
+People v. Simpson (1995) (double murder)
+xix, 2, 23, 115, 117, 118–20, 122, 129,
+131, 145–8, 154, 160
+R v Bywaters and Thompson, 1922
+xix, 2, 10, 159–220, 246, 253–5, 262, 264–5,
+266, 267–8, 278, 288, 336–7
+State v Frank, 1913 (Leo Frank/Mary Phagen murder)
+160
+Tichborne v Lushington, 1871 (claim to estate)
+160
+Hypothetical cases
+Police v Twist
+329–34
+Police v Weller
+160, 325–9, 333–4
+Sargent v. Southern Accident Co.,
+1, 2, 28–31, 104, 126, 154, 233–4, 286
+State v Archer
+94, 109–11, 142–4, 158, 320
+United States v Able,
+xix, 1, 2, 23–8, 74, 125–9, 132, 137, 138, 140, 147, 149,
+239–42, 278, 303, 309–14
+United States v Wainwright
+160, 341, 343–56
+Warren, The Estate of James Dale,
+288, 341, 356–78
+1 References to these causes c´el`ebres are based upon materials in the trial record. Sources where
+additional information may be found are identiﬁed in the References. Additional sources can be
+found on the internet and at the websites for this book.
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 29 ---
+Table of legislation and rules
+England
+Civil Procedure Rules 1999
+r 1(1)
+84
+r 1(2)
+84
+Code for Crown Prosecutors
+s 5.1
+236
+s 6.2
+236
+Construction and Use Regulations 1972
+reg 98(i)(b)
+329, 332
+Criminal Appeal Act 1995
+s 2
+244
+Criminal Justice Act 2003
+281
+Part 10
+244
+s 101
+298
+s 103
+298
+Human Rights Act 1998
+294
+Road Trafﬁc Act 1972
+s 3
+326, 327, 329, 330, 333
+s 22
+326, 327, 329, 332, 333
+s 34
+329, 332
+s 40
+329, 332
+s 65
+329, 332
+United States
+California Penal Code
+§187(a)
+117
+Connecticut General Statutes
+§53a–8
+18
+§53a–54a
+17
+xxix
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press

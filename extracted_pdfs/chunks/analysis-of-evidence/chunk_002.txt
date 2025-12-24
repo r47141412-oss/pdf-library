@@ -1,0 +1,869 @@
+# Chunk 2 of 26
+# Document: Analysis of Evidence
+# Characters: 47857
+
+--- Page 30 ---
+xxx
+Table of legislation and rules
+Federal Rules of Civil Procedure
+84, 85
+R 1
+84
+R 11
+234–5
+R 52(a)
+245
+Federal Rules of Criminal Procedure
+84
+R 2
+84
+Federal Rules of Evidence
+xxii, 84, 85, 299–314
+R 102
+84, 300
+R 201
+300
+R 201(b)
+273
+R 401
+62, 86, 88, 252, 261, 299
+R 402
+86, 89, 299
+R 403
+87, 89, 90, 240, 241, 303, 304
+R 404
+87, 89, 90, 281
+R 404(b)
+303, 304, 321
+R 405
+87, 281, 300
+R 406
+281
+R 407
+301, 302
+R 408
+301
+R 409
+301
+R 410
+301
+R 411
+301
+R 501
+87
+R 602
+300
+R 603
+300
+R 608
+300
+R 609
+87
+R 613(b)
+312
+R 701
+87, 300
+R 702
+87, 300, 359
+R 703
+87, 300
+R 704
+87, 300
+R 705
+300
+R 801(1)(B)
+147
+R 801(a)
+312
+R 801(d)(2)
+313
+R 801(d)(2)(D)
+312
+R 803
+309
+R 804
+309
+R 804(b)(1)
+309
+R 804(b)(2)
+309
+R 806
+308, 309
+R 901
+64
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 31 ---
+Table of legislation and rules
+xxxi
+R 902
+87
+art IV
+89
+Internal Revenue Code
+§7201
+125
+United States Attorneys’ Manual
+§9-27.220A
+235
+United States Code
+Title 18 §1111
+343, 352
+Title 18 §1112
+343, 344, 354
+Title 18 §1112(a)
+353, 354
+Title 18 §1113(a)(4)
+354
+United States Constitution
+Amendment IV
+304
+Amendment V
+304
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 32 ---
+Abbreviations
+Some of the points and themes in the text are treated at greater length in other
+writings by the authors. The following abbreviations for the most commonly cited
+works are used in the text and notes:1
+Analysis
+Analysis of Evidence (1st edn) by Terence Anderson and
+William Twining (1991)
+Bazaar
+The Great Juristic Bazaar by William Twining (2002)
+Foundations
+Evidential Foundations of Probabilistic Reasoning by David
+Schum (1994/2001)
+Generalizations I
+On Generalizations I: A Preliminary Exploration by Terence
+Anderson, 40 S. Texas. L. Rev. 455 (1999)
+Rethinking
+Rethinking Evidence by William Twining (1990/1994)
+Sacco-Vanzetti
+A Probabilistic Analysis of the Sacco and Vanzetti Evidence
+(1996)
+Science
+TheScienceofJudicialProof byJ.H.Wigmore(3rdedn,1937)
+Websites
+www.cambridge.org/9780521673167;
+http://analysisofevidence.law.miami.edu
+1 For full references see References at pages 388–95 below.
+xxxii
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 33 ---
+1
+Evidence and inference: some food
+for thought
+A. Introduction
+The ﬁeld of evidence is no other than the ﬁeld of knowledge. (Bentham, An Introductory
+View, Chapter 1)
+Evidence is the basis of justice: exclude evidence, you exclude justice. (Bentham, Ratio-
+nale of Judicial Evidence, Part III, Chapter 1)
+In this chapter we present some concrete examples and exercises that introduce
+the main questions and the basic concepts that are involved in analyzing evidence.
+The purpose of presenting them at this stage is partly to stimulate interest and
+puzzlement and partly to encourage you to start to think actively about some basic
+issues. We use many of the examples and exercises presented here to illustrate points
+developed later in the book.
+The examples in part B raise questions about the similarities and differences
+involved in confronting problems of evidence and inference in different non-legal
+contexts, including bible stories, intelligence analysis, famous “analysts,” and com-
+monplace events. Each develops variations around the central theme that the kind
+of reasoning involved in all these different kinds of factual enquiries is based on the
+same underlying principles that apply differently as the contexts and standpoints
+vary.
+The examples in part C illustrate the same central theme using examples from
+legal contexts. The ﬁrst four examples introduce the process of imaginative reason-
+ing and the roles that generalizations and stories play in arguments about disputed
+questions of fact. The remaining examples involve cases of increasing complexity
+that focus upon the kinds of analysis required at different stages of criminal and
+civil cases and raise issues about the relationship between law and fact, standards
+of proof, and inferential reasoning in both kinds of cases.
+This book is concerned with techniques of analysis, but a central theme is that
+the logic of proof and the law of evidence are closely related and interdependent.
+Sargent v Southern Accident Co. and United States v Able were originally devised as
+examination questions in traditional evidence courses that had analysis of facts as
+a signiﬁcant objective. Each item raises a number of interconnected issues dealing
+1
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 34 ---
+2
+Analysis of Evidence
+with the law of evidence and problems of proof within the context of a case as a
+whole. The ﬁnal exercise, “An investigation,” is intended as a vehicle for reviewing
+the basic concepts and for introducing a vocabulary for discourse about analysis
+and evaluation of evidence.
+In our experience, all of these examples are good vehicles for use in teach-
+ing and reﬂection, but it is not necessary to introduce all of them at the start of
+a course. Several of the examples are used to illustrate important points in the
+text (principally, the cases involving Bywaters and Thompson, Sacco and Vanzetti,
+O. J. Simpson, the United States and Richard Able, Sargent and the Southern
+Accident Co., and An investigation). Readers and teachers may wish to postpone
+the detailed study of these until they come to the relevant topics.
+B. Evidence and inference in non-legal contexts
+1. Whose baby I? The judgment of Solomon
+Then came there two women, that were harlots, unto the king, and stood before him.
+And the one woman said, O my lord, I and this woman dwell in one house; and I was
+delivered of a child with her in the house. And it came to pass the third day after that I
+was delivered, that this woman was delivered also: and we were together; there was no
+stranger with us in the house, save we two in the house. And this woman’s child died
+in the night; because she overlaid it. And she arose at midnight, and took my son from
+beside me, while thine handmaid slept, and laid it in her bosom, and laid her dead child
+in my bosom. And when I rose in the morning to give my child suck, behold, it was
+dead: but when I had considered it in the morning, behold, it was not my son, which
+I did bear. And the other woman said, Nay; but the living is my son, and the dead is
+thy son. And this said, No; but the dead is thy son, and the living is my son. Thus they
+spake before the king.
+Then said the king, The one saith, This is my son that liveth, and thy son is the dead:
+and the other saith, Nay; but thy son is the dead, and my son is the living. And the king
+said, Bring me a sword. And they brought a sword before the king. And the king said,
+Divide the living child in two, and give half to the one, and half to the other. Then spake
+the woman whose the living child was unto the king, for her bowels yearned upon her
+son, and she said, O my lord, give her the living child, and in no wise slay it. But the
+other said, Let it be neither mine nor thine, but divide it. Then the king answered and
+said, Give her the living child, and in no wise slay it: she is the mother thereof. And all
+Israel heard of the judgment which the king had judged; and they feared the king: for
+they saw that the wisdom of God was in him, to do judgment. (I Kings iii, 16–28)
+Questions
+1 Was this case concerned with
+a the interpretation of a rule,
+b a straightforward dispute about past facts,
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 35 ---
+Evidence and inference: some food for thought
+3
+c solving a problem for the future, or
+d a combination of some or all of these?
+2 Which of the following questions were pure questions of fact, and which were directly
+in issue in this case?
+a Who was the natural mother?
+b Who would look after the child better?
+c Who had a right to the child?
+d What disposition would be in the best interests of the child?
+3 What general assumptions about the relations between mothers and children are
+implicit in this passage? Do you believe them to be universally or generally true today?
+What is the basis for your belief?
+4 Do you think that (a) both women genuinely believed that the child was theirs?
+(b) both women believed that Solomon would carry out his threat?
+5 Does this story suggest that Solomon’s “wisdom” was founded on the notion that he
+was a clever investigator; a just judge; an enlightened problem-solver; or a potentially
+good poker-player?
+6 There are different versions of the Bible. In the Revised Standard Edition of the Bible,
+the last sentence reads: “And all Israel heard the judgment which the king had
+rendered; and they stood in awe of the king, because they perceived that the wisdom
+of God was in him, to render justice.” What evidence should a biblical scholar
+examine to determine which version is the most accurate? What standards should she
+apply? What evidence should a Justice of the United States Supreme Court examine to
+determine the meaning of a clause of the Constitution of the United States? What
+standards should the Justice apply?
+2. The intelligence analyst: an intelligence scenario “from the top-down”
+Investigations and inferences in intelligence analysis share many elements of such
+tasks that are performed in other areas such as law, medicine, history, and science.
+There are three disciplines in which persons performing analytic tasks must be
+prepared to encounter and evaluate every imaginable substantive kind of evidence;
+thesedisciplinesarelaw,intelligenceanalysis,andhistory.Establishingtherelevance,
+credibility, and inferential [probative] force of evidence is just as important in
+intelligence analysis as it is in law.
+During fact investigation in law, as well as in intelligence investigations, hypothe-
+ses are generated as explanations for what is being observed. The generation of
+hypotheses requires imaginative reasoning mixed with critical reasoning. New
+hypotheses are put to use in generating new lines of inquiry and potential evi-
+dence. One criterion for assessing the merit of a new hypothesis concerns how well
+it assists the analyst in generating new and productive lines of inquiry that would
+not have been generated from other existing hypotheses. On occasion, the role of
+hypothesis generation is either downplayed or overlooked entirely. In some cases,
+new hypotheses come in the form of guesses about what has happened or what will
+happen. According to an old saying, hypotheses are like nets; only he who casts
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 36 ---
+4
+Analysis of Evidence
+will catch. In every episode of fact investigation in law, intelligence analysis, or else-
+where, analysts have evidence in search of hypotheses at the same time as they have
+hypotheses in search of evidence. The following is an example from intelligence
+analysis in which a hypothesis is put to use in generating new observable evidence.
+The generation of a new hypothesis from observations we make is frequently
+said to involve “bottom-up” reasoning; generation of new potential evidence from
+a hypothesis is said to involve “top-down” reasoning. In intelligence analysis, as in
+law, both forms of reasoning are necessary.
+An important area of intelligence analysis is called “Indications and Warnings”
+(I & W). The purpose of I & W efforts is to alert decision-makers in our government
+and military organizations to the existence of possible immediate or near-term
+threats that are posed by hostile or potentially hostile forces or organizations. An
+obvious objective of I & W efforts today is to predict and prevent terrorist actions
+such as the destruction of the World Trade Center and parts of the Pentagon that
+we witnessed on September 11, 2001, during which more than 3,000 lives were lost.
+Those tragedies involved the hijacked domestic airliners used essentially as ﬂying
+bombs. There is concern that such a method of destruction might be used again
+in the future. Unfortunately, there are other methods that terrorist organizations
+might employ in their efforts to cause loss of life, destruction, and widespread terror
+in our homeland.
+You are a member of an I & W team. Based upon recent intelligence reports,
+your agency believes that there is a signiﬁcant possibility that one or more terrorist
+groups are planning to commit a major terrorist action involving a “dirty bomb.”
+Dirty bombs involve radioactive, but not ﬁssionable, materials such as strontium,
+cobalt-60, and cesium 137. Such devices can be set off using conventional explosives
+such as TNT, Semtex, or C-4 plastic explosives. They are much less expensive to
+construct and require much less technical expertise.
+A dirty bomb will simply have radioactive materials packed around a core of
+conventional explosives. Such devices can be triggered electronically from remote
+locations. When triggered, a dirty bomb can disperse radioactive material over a
+wide area. Though dirty bombs cause far less destruction and loss of life, they do
+produce serious consequences in any area where they are set off. Persons in the
+immediate vicinity will be subject to serious radiation and the surrounding area
+will be contaminated for long periods of time. A dirty bomb would certainly cause
+panic throughout any country in which it is set off.
+Cesium 137 has already been employed in suspected terrorist activities. In March
+1996 it was reported that certain Chechen leaders had threatened to expose the city
+of Moscow to radioactive devastation. Anonymous calls directed police ofﬁcers to
+a park in Moscow where they would ﬁnd a container of powdered cesium 137.
+Just a few ounces of this material could contaminate an entire city for decades.
+It is estimated that just one ounce of powdered cesium 137 released by a dirty
+bomb could spread radioactive fallout over 60 city blocks. Radioactive materials
+such as strontium, cobalt-60, and cesium 137 have been widely used for various
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 37 ---
+Evidence and inference: some food for thought
+5
+medical and industrial purposes. For example, cesium 137 was used by the Soviets
+to bombard wheat and other seeds to see if radiated seeds would produce more
+abundant crops. It is also used in processing dental X-rays. Unfortunately, large
+numbers of canisters of cesium 137, and other radioactive wastes are known to
+be stored in facilities having little or no security. The Soviets appear to have left
+considerable stores of powdered cesium 137 in various places in Georgia. No one
+knows how much of this stored material has already been stolen or, possibly, sold.
+Your I & W team has been assigned to the task evaluating the capabilities and
+intentions of a certain known terrorist organization codenamed X. Based on recent
+intelligence reports, your team has been asked to evaluate the hypothesis that
+group X may be planning one or more actions using dirty bombs. According to
+one report, a leader in group X was heard to boast that his group will have a very
+unpleasant surprise for an unnamed American city. According to another report,
+a person known to be a member of group X, codenamed “Ned,” was dismissed in
+2002 from a doctoral program in nuclear physics at a university in Germany.
+The I & W team must identify and carefully state the hypothesis regarding terror-
+ist group X, taking into account the information it has. In any intelligence analysis
+regarding the actions of some actual or potential adversary, the analysts need to
+make inferences about an adversary’s capabilities and intentions. Capability and
+intention must be distinguished: having capability does not entail intention, nor
+does having intention entail capability. At the moment, however, the I & W team is
+concerned with the capability of terrorist group X to develop a dirty bomb. Based
+uponinformationaboutgroupX,theagencyconsidersitalmostcertainthatgroupX
+has every intention of using any kind of weapon against the United States, given
+the appropriate opportunity. Group X, like other current terrorist organizations,
+seems to have an implacable hatred of American society and its values. Group X
+has already participated in terrorist activities in which the lives of innocent persons,
+including women and children, have been taken.
+The team has identiﬁed the hypothesis as follows:
+H: Group X now has the capability to assemble a dirty bomb containing cesium
+137.
+There is always an alternative hypothesis which, in this case, can be stated as:
+not-H: Group X does not now have the capability to assemble a dirty bomb
+containing cesium 137.
+The team’s task is now to put hypothesis H to work in generating new evidence. The
+team deems it very unlikely that it could obtain any direct evidence on H. Group X
+maintains very strict control over the security of its operations and is known to have
+employed the most medieval means of punishing any member whom it suspects of
+divulging information about its activities. If they did have such direct evidence of
+H, this evidence would be termed a “nugget.” Lacking any such nugget, they must
+be prepared to mine lots of lower-grade evidential ore.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 38 ---
+6
+Analysis of Evidence
+If hypothesis H is true, one proposition can easily be deduced: that group X
+must have obtained, or will obtain, some powdered cesium 137. It is known that
+such materials seem to be available throughout Eastern Europe including Georgia
+and Poland. But we have no direct evidence that group X has in fact obtained any
+powdered cesium 137. But, if group X has obtained, or will obtain, some pow-
+dered cesium 137, we can deduce that some member of group X has had, or will
+have, contacts with potential suppliers of powdered cesium 137 in Eastern Europe.
+Finally, we deduce that the member of Group X who has had, or will have, contact
+with potential suppliers of cesium 137 has at least some knowledge of radioactive
+substances such as cesium 137. Figure 1.1 summarizes our top-down reasoning. At
+each stage of this top-down reasoning we have a proposition that may be true or
+false.
+H: Group X now has the capability to assemble a 
+dirty bomb containing powdered cesium 137.
+G: Group X has obtained, or will obtain, a quantity of 
+powdered cesium 137
+F: A  member of group X has had, or will have, 
+contacts with potential suppliers of powdered cesium 
+137 in Eastern Europe
+E: The member of Group X who has had or will have 
+contacts with potential suppliers of powdered cesium 
+137 has knowledge of radioactive substances. 
+.
+.
+Figure 1.1 Reasoning stages in the “top-down” intelligence example
+This chain of reasoning ﬁnally leads us to ask a question that can potentially be
+answered:IsthereanyevidencethatanymemberofGroupXhasexpertiseregarding
+radioactive substances? According to the report the team has received, Ned, a known
+memberofgroupX,failedtocompletehisPhD dissertationrequirementsinnuclear
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 39 ---
+Evidence and inference: some food for thought
+7
+physicsatauniversityinGermany.ThoughNedmayhavefailedtocompletehisPhD
+in nuclear physics, we can easily suppose that he knows enough about radioactive
+materials to be highly useful in obtaining such materials as powdered cesium 137
+and in handling such materials during the construction of a dirty bomb. Here is a
+summary of what this top-down reasoning has enabled us to do.
+From hypothesis H the team has generated a new line of inquiry involving the
+activities of group X. It is known that many members of known terrorist organi-
+zations have studied various areas of the sciences in Western universities. It is also
+known that not all of these persons have completed their degree requirements. So,
+just ﬁnding out that Ned left a university without ﬁnishing his degree is, by itself,
+quite uninformative. But the argument we have constructed links Ned with group
+X’s efforts to develop one or more dirty weapons that could easily be used against
+us.
+The top-down reasoning we have developed seems entirely plausible. If H is
+true, this suggests that G is true: Group X must have or will acquire some of this
+radioactive material to develop a dirty bomb using cesium 137. If G is true, this
+suggests that F is true: A member of group X has had or will have contact with
+potential suppliers of cesium 137. Finally, if F is true, this suggests that E may be
+true: Someone in group X is qualiﬁed to inspect the cesium 137, to see what kind
+of container it is in, and how it might best be made available for use by group X in
+constructing a dirty bomb.
+Finally, we note that propositions or events at each stage of reasoning may or
+may not be true; in other words, each proposition represents a source of doubt.
+For a start, H might not be true; perhaps group X has other plans for our dis-
+comfort. Proposition G might not be true either. Perhaps the cost of obtaining a
+sufﬁcient quantity of cesium 137 exceeds the present resources of group X (another
+hypothesis, D, to be explored). Or, perhaps the security of stores of radioactive
+materials in Eastern Europe has tightened in light of public knowledge about how
+weak such security has been in the past (another hypothesis, C, to be explored).
+Proposition F might not be true since obtaining materials like cesium 137 might
+not have to involve any member of group X itself (another hypothesis, B, to be
+explored). It is possible that group X might have obtained some of this material
+without exposing any of its members to the scrutiny of various intelligence agencies.
+Finally, it might not require an unusual degree of expertise in nuclear physics to
+negotiate for and obtain substances like cesium 137 (another hypothesis, A, to be
+explored).
+Questions and a problem
+1 Your I & W team has received evidence from an airline that Ned traveled to Warsaw
+last month and has booked another ﬂight to Warsaw next week. The argument
+the team has constructed establishes the relevance of Ned’s travel activities to
+hypothesis H. Ned is a member of group X who is qualiﬁed to inspect the cesium 137,
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 40 ---
+8
+Analysis of Evidence
+to see what kind of container it is in, and to work out how it might best be made
+available for use by group X in constructing a dirty bomb. In light of those facts, you
+have been asked to recommend steps that should be taken to conﬁrm or negate a new
+hypothesis: Ned is traveling to Warsaw to arrange for or conﬁrm the arrangements for
+the shipping and delivery of cesium 137 to group X. Will this require top-down or
+bottom-up reasoning or both? Identify plausible innocent explanations inconsistent
+with this new hypothesis. (There is a natural tendency to focus on ﬁnding evidence
+that will support a hypothesis, but a good analyst knows that it is equally important to
+seek evidence that would negate the hypothesis.)
+2 How should the I & W team proceed to investigate hypotheses A, B, and C? Does your
+response with respect to each hypothesis involve top-down or bottom-up reasoning
+or both?
+3 Top-down reasoning, as illustrated in the above ﬁctitious example, is very common in
+fact investigation in law. Suppose your ﬁrm represents a client who claims that her
+arm was broken when she slipped and fell down the stairs in the building where her
+doctor has his ofﬁce. You have determined that the ﬁrm must show that the owner or
+manager of the building breached a duty of care to warn persons who might use the
+stairs of any unusual conditions that might cause an injury. The senior partner has
+asked you to advise what steps the ﬁrm should take. Use the top-down method
+illustrated above in formulating your response.
+3. The doctor and the detective: Joseph Bell and Sherlock Holmes
+Sir Arthur Conan Doyle frequently mentioned that a major source of inspiration for
+hisdevelopmentofthecharacterofSherlockHolmeswasaprofessorheencountered
+when he was a student at the University of Edinburgh Medical School. Dr. Joseph
+Bell was then a noted professor of surgery who, in 1887, was president of the Royal
+College of Surgeons in Edinburgh. Dr. Bell was also personal surgeon to Queen
+Victoria whenever she was in Scotland. For a time when he was in medical school,
+Conan Doyle served as an assistant to Dr. Bell. As skilled as Dr. Bell was, it was
+his astonishingly acute inferential or diagnostic skills for which he is now best
+remembered, thanks, perhaps, to Sherlock Holmes. Over the years his students kept
+an account of examples of Dr. Bell’s diagnostic feats, some of which are recorded in
+Britain’s leading medical journals, such as the Lancet. Following is an example of
+his diagnostic skill that today we would say involves the same abductive reasoning
+illustrated in so many of the exploits of Sherlock Holmes and also illustrated in
+Kemelman’s “The Nine Mile Walk.”
+a. The doctor
+The City of Edinburgh and its port city Leith lie on the Firth of Forth. Directly
+north across the Firth lies a town in Fife called Burntisland [pronounced “burnt
+island”]. In Bell’s day, there was no Forth Road Bridge; travelers used any one of a
+number of ferries to cross from Fife to Edinburgh; the closest and most direct ferry
+left Fife from Burntisland. From Leith, a street called Inverleith Row leads in the
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 41 ---
+Evidence and inference: some food for thought
+9
+direction of the University of Edinburgh. To the right of Inverleith Row, just past
+Leith, lie Edinburgh’s Botanical Gardens. Dr. Bell frequently interviewed patients
+in an amphitheater and allowed his students to observe these interviews. Here is
+what his students observed on one occasion.
+A woman, accompanied by a child, was shown into the amphitheater. Dr.
+Bell had never met nor seen this woman before. After greeting her, Dr. Bell ﬁrst
+asked her if she had a good crossing from Burntisland; the woman replied “aye”
+[yes]. Bell then asked her if she had a good walk up Inverleith Row; the woman
+replied “aye.” Then Bell asked her what she did with the other child; the woman
+replied that she had left the child with her sister in Leith. Finally, Dr. Bell asked
+the woman if she was still working at a linoleum factory; the woman replied
+“aye.”
+Dr. Bell’s students were of course astonished by this encounter between Dr. Bell
+and the woman whom he had never seen before. In explanation, Dr. Bell ﬁrst told
+his students that they must have noticed her Fife accent and that the closest ferry
+would have left from Burntisland. He then asked the students if they noticed the red
+clay on her shoes, which he explained was peculiar to areas around the Botanical
+Gardens. Then Bell asked his students if they noticed that a coat the woman was
+carrying over her shoulder was too large for the child who accompanied her; she
+very likely had another child with her when she crossed from Fife. Finally, Dr. Bell
+asked his students to observe the dermatitis on her hands, which he explained was
+peculiar to persons who worked in linoleum factories.
+b. The detective
+“Dr. Watson, Mr. Sherlock Holmes,” said Stamford, introducing us.
+“How are you?” he said cordially, gripping my hand with a strength for which I
+should hardly have given him credit. “You have been in Afghanistan, I perceive.”
+∗∗∗
+“Observation with me is second nature. You appeared to be surprised when I told
+you, on our ﬁrst meeting, that you had come from Afghanistan.”
+“You were told, no doubt.”
+“Nothing of the sort. I knew you came from Afghanistan. From long habit the
+train of thoughts ran so swiftly through my mind that I arrived at the conclusion
+without being conscious of intermediate steps. There were such steps, however. The
+train of reasoning ran, ‘Here is a gentleman of a medical type, but with the air of a
+military man. Clearly an army doctor, then. He has just come from the tropics, for
+his face is dark, and that is not the natural tint of his skin, for his wrists are fair. He
+has undergone hardship and sickness, as his haggard face says clearly. His left arm
+has been injured. He holds it in a stiff and unnatural manner. Where in the tropics
+could an English army doctor have seen much hardship and got his arm wounded?
+Clearly in Afghanistan.’ The whole train of thought did not occupy a second. I
+then remarked that you came from Afghanistan, and you were astonished.” (Conan
+Doyle, A Study in Scarlet (1887)).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 42 ---
+10
+Analysis of Evidence
+Notes and a question
+1 Sir Arthur Conan Doyle frequently mentioned that Dr. Joseph Bell was a major
+source of inspiration for his development of the character of Sherlock Holmes.
+For a time when he was in medical school Conan Doyle served as an assistant to
+Dr. Bell. If you have read any of the Sherlock Holmes stories, you will note the
+similarity between what happened in Dr. Bell’s interview just described and so
+many instances in which Holmes amazed Dr. Watson with his acute
+observational and inferential abilities. Both were highly skilled in the use of
+what would today be called abductive logic. But abductive logic can only
+identify hypotheses to be tested.
+2 In these anecdotes Bell’s and Holmes’s hypotheses were conﬁrmed by the
+woman and Watson respectively. Suppose that they had not. Absent
+conﬁrmation, would you accept Dr. Bell’s or Holmes’s conclusions? Can you
+construct a different scenario in each instance that would also be consistent
+with all of the observed details?
+4. Generalizations and stories: Sam’s party
+Once upon a time, John went to Sam’s party. Sam blew out the candles.1
+Questions
+1 Is this a story?
+2 Can you infer from this passage:
+a That there was a cake?
+b What kind of party this was?
+c Sam’s age?
+3 How would you justify such inferences?
+C. Evidence and inference in legal contexts
+1. Two murders
+a. The murder of Y
+Y was murdered in his home at approximately 4:30 p.m. on January 1. W states that
+she saw X enter Y’s house at 4:15 p.m. on that day. Show how W’s statement tends
+to support the conclusion that it was X who murdered Y.
+b. Bywaters and Thompson
+Edith Thompson was charged with the murder of her husband Percy in that she
+either conspired with or incited her lover, Frederick Bywaters, to murder Percy.
+i In the trial it was assumed that the fact that Edith was 28 and Freddie was 20 was
+relevant to the charge. Is this a reasonable assumption? If so, why?
+1 Adapted with grateful acknowledgment from Nancy Pennington, who uses it with great effect to
+illustrate the idea of confabulation.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 43 ---
+Evidence and inference: some food for thought
+11
+ii Construct a chain of inferences from the fact that Edith was older than Freddie that
+supports the proposition that Edith incited him.
+iii Can the same fact be used as part of an argument in defense of Edith?
+2. Imaginative reasoning: The Nine Mile Walk (Kemelman (1947))
+I had made an ass of myself in a speech I had given at the Good Government Association
+dinner, and Nicky Welt had cornered me at breakfast at the Blue Moon, where we
+both ate occasionally, for the pleasure of rubbing it in. I had made the mistake of
+departing from my prepared speech to criticize a statement my predecessor in the
+ofﬁce of County Attorney had made to the press. I had drawn a number of inferences
+from his statement and had thus left myself open to a rebuttal which he had promptly
+made and which had the effect of making me appear intellectually dishonest. I was new
+to this political game, having but a few months before left the Law School faculty to
+become the Reform Party candidate for County Attorney. I said as much in extenuation,
+but Nicholas Welt, who could never drop his pedagogical manner (he was Snowdon
+Professor of English Language and Literature), replied in much the same tone that he
+would dismiss a request from a sophomore for an extension on a term paper, “That’s no
+excuse.”
+Although he is only two or three years older than I, in his late forties, he always treats
+me like a schoolmaster hectoring a stupid pupil. And I, perhaps because he looks so
+much older with his white hair and lined, gnomelike face, suffer it.
+“They were perfectly logical inferences,” I pleaded.
+“My dear boy,” he purred, “although human intercourse is well-nigh impossible
+without inference, most inferences are usually wrong. The percentage of error is par-
+ticularly high in the legal profession where the intention is not to discover what the
+speaker wishes to convey, but rather what he wishes to conceal.”
+I picked up my check and eased out from behind the table.
+“I suppose you are referring to cross-examination of witnesses in court. Well, there’s
+always an opposing counsel who will object if the inference is illogical.”
+“Who said anything about logic?” he retorted. “An inference can be logical and still
+not be true.”
+He followed me down the aisle to the cashier’s booth. I paid my check and waited
+impatiently while he searched in an old-fashioned change purse, ﬁshing out coins one
+by one and placing them on the counter beside his check, only to discover that the total
+was insufﬁcient. He slid them back into his purse and with a tiny sigh extracted a bill
+from another compartment of the purse and handed it to the cashier.
+“Give me any sentence of ten or twelve words,” he said, “and I’ll build you a logical
+chain of inferences that you never dreamed of when you framed the sentence.”
+Other customers were coming in, and since the space in front of the cashier’s booth
+was small, I decided to wait outside until Nicky completed his transaction with the
+cashier. I remember being mildly amused at the idea that he probably thought I was
+still at his elbow and was going right ahead with his discourse.
+When he joined me on the sidewalk I said, “A nine mile walk is no joke, especially
+in the rain.”
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 44 ---
+12
+Analysis of Evidence
+“No, I shouldn’t think it would be,” he agreed absently. Then he stopped in his stride
+and looked at me sharply. “What the devil are you talking about?”
+“It’s a sentence and it has eleven words,” I insisted. And I repeated the sentence,
+ticking off the words on my ﬁngers.
+“What about it?”
+“You said that given a sentence of ten or twelve words – ”
+“Oh, yes.” He looked at me suspiciously. “Where did you get it?”
+“It just popped into my head. Come on now, build your inferences.”
+“You’re serious about this?” he asked, his little blue eyes glittering with amusement.
+“You really want me to?”
+It was just like him to issue a challenge and then to appear amused when I accepted
+it. And it made me angry.
+“Put up or shut up,” I said.
+“All right,” he said mildly. “No need to be huffy. I’ll play. Hm-m, let me see, how did
+the sentence go? ‘A nine mile walk is no joke, especially in the rain.’ Not much to go on
+there.”
+“It’s more than ten words,” I rejoined.
+“Very well.” His voice became crisp as he mentally squared off to the problem. “First
+inference: the speaker is aggrieved.”
+“I’ll grant that,” I said, “although it hardly seems to be an inference. It’s really implicit
+in the statement.”
+He nodded impatiently. “Next inference: the rain was unforeseen, otherwise he
+would have said, ‘A nine mile walk in the rain is no joke,’ instead of using the ‘especially’
+phrase as an afterthought.”
+“I’ll allow that,” I said, “although it’s pretty obvious.”
+“First inferences should be obvious,” said Nicky tartly.
+I let it go at that. He seemed to be ﬂoundering and I didn’t want to rub it in.
+“Next inference: the speaker is not an athlete or an outdoors man.”
+“You’ll have to explain that one,” I said.
+“It’s the ‘especially’ phrase again,” he said. “The speaker does not say that a nine-mile
+walk in the rain is no joke, but merely the walk – just the distance, mind you – is no
+joke. Now, nine miles is not such a terribly long distance. You walk more than half that
+in eighteen holes of golf – and golf is an old man’s game,” he added slyly. I play golf.
+“Well, that would be all right under ordinary circumstances,” I said, “But there are
+other possibilities. The speaker might be a soldier in the jungle, in which case nine miles
+would be a pretty good hike, rain or no rain.”
+“Yes,” and Nicky was sarcastic, “and the speaker might be one-legged. For that
+matter, the speaker might be a graduate student writing a Ph.D. thesis on humor and
+starting by listing all the things that are not funny. See here, I’ll have to make a couple
+of assumptions before I continue.”
+“How do you mean?” I asked, suspiciously.
+“Remember, I’m taking this sentence in vacuo, as it were. I don’t know who said it or
+what the occasion was. Normally a sentence belongs in the framework of a situation.”
+“I see. What assumptions do you want to make?”
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 45 ---
+Evidence and inference: some food for thought
+13
+“Foronething,Iwanttoassumethattheintentionwasnotfrivolous,thatthespeaker
+is referring to a walk that was actually taken, and that the purpose of the walk was not
+to win a bet or something of that sort.”
+“That seems reasonable enough,” I said.
+“And I also want to assume that the locale of the walk is here.”
+“You mean here in Fairﬁeld?”
+“Not necessarily. I mean in this general section of the country.”
+“Fair enough.”
+“Then, if you grant those assumptions, you’ll have to accept my last inference that
+the speaker is no athlete or outdoors man.”
+“Well, all right, go on.”
+“Then my next inference is that the walk was taken very late at night or very early
+in the morning – say, between midnight and ﬁve or six in the morning.”
+“How do you ﬁgure that one?” I asked.
+“Consider the distance, nine miles. We’re in a fairly well-populated section. Take
+any road and you’ll ﬁnd a community of some sort in less than nine miles. Hadley is
+ﬁve miles away, Hadley Falls is seven and a half, Goreton is eleven, but East Goreton
+is only eight and you strike East Goreton before you come to Goreton. There is local
+train service along the Goreton road and bus service along the others. All the highways
+are pretty well traveled. Would anyone have to walk nine miles in a rain unless it were
+late at night when no buses or trains were running and when the few automobiles that
+were out would hesitate to pick up a stranger on the highway?”
+“He might not have wanted to be seen,” I suggested.
+Nicky smiled pityingly. “You think he would be less noticeable trudging along the
+highway than he would be riding in a public conveyance where everyone is usually
+absorbed in his newspaper?”
+“Well, I won’t press the point,” I said brusquely.
+“Then try this one: he was walking toward a town rather than away from one.”
+I nodded. “It is more likely, I suppose. If he were in a town, he could probably arrange
+for some sort of transportation. Is that the basis for your inference?”
+“Partlythat,”saidNicky,“butthereisalsoaninferencetobedrawnfromthedistance.
+Remember, it’s a nine mile walk and nine is one of the exact numbers.”
+“I’m afraid I don’t understand.”
+That exasperated schoolteacher-look appeared on Nicky’s face again. “Suppose you
+say, ‘I took a ten mile walk’ or ‘a hundred mile drive’; I would assume that you actually
+walked anywhere from eight to a dozen miles, or that you rode between ninety and a
+hundred and ten miles. In other words, ten and hundred are round numbers. You might
+have walked exactly ten miles or just as likely you might have walked approximately ten
+miles. But when you speak of walking nine miles, I have a right to assume that you have
+named an exact ﬁgure. Now, we are far more likely to know the distance of the city from
+a given point than we are to know the distance of a given point from the city. That is,
+ask anyone in the city how far out Farmer Brown lives, and if he knows him, he will say,
+‘Three or four miles.’ But ask Farmer Brown how far he lives from the city and he will
+tell you, ‘Three and six-tenths miles – measured it on my speedometer many a time.’
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 46 ---
+14
+Analysis of Evidence
+“It’s weak, Nicky,” I said.
+“But in conjunction with your own suggestion that he could have arranged trans-
+portation if he had been in a city – ”
+“Yes, that would do it,” I said. “I’ll pass it. Any more?”
+“I’ve just begun to hit my stride,” he boasted. “My next inference is that he was going
+to a deﬁnite destination and that he had to be there at a particular time. It was not a
+case of going off to get help because his car broke down or his wife was going to have a
+baby or somebody was trying to break into his house.”
+“Oh, come now,” I said, “the car breaking down is really the most likely situation.
+He could have known the exact distance from having checked the mileage just as he
+was leaving the town.”
+Nicky shook his head. “Rather than walk nine miles in the rain, he would have
+curled up on the back seat and gone to sleep, or at least stayed by his car and tried to
+ﬂag another motorist. Remember, it’s nine miles. What would be the least it would take
+him to hike it?”
+“Four hours,” I offered.
+He nodded. “Certainly no less, considering the rain. We’ve agreed that it happened
+very late at night or very early in the morning. Suppose he had his breakdown at one
+o’clock in the morning. It would be ﬁve o’clock before he would arrive. That’s daybreak.
+You begin to see a lot of cars on the road. The buses start just a little later. In fact, the
+ﬁrst buses hit Fairﬁeld around ﬁve-thirty. Besides, if he were going for help, he would
+not have to go all the way to town – only as far as the nearest telephone. No, he had
+a deﬁnite appointment, and it was in a town, and it was for some time before ﬁve-
+thirty.”
+“Then why couldn’t he have got there earlier and waited?” I asked. “He could have
+taken the last bus, arrived around one o’clock, and waited until his appointment. He
+walks nine miles in the rain instead, and you said he was no athlete.”
+We had arrived at the Municipal Building where my ofﬁce is. Normally, any argu-
+ments begun at the Blue Moon ended at the entrance to the Municipal Building. But
+I was interested in Nicky’s demonstration and I suggested that he come up for a few
+minutes.
+When we were seated I said, “How about it, Nicky, why couldn’t he have arrived
+early and waited?”
+“He could have,” Nicky retorted. “But since he did not, we must assume that he was
+either detained until after the last bus left, or that he had to wait where he was for a
+signal of some sort, perhaps a telephone call.”
+“Then according to you, he had an appointment some time between midnight and
+ﬁve-thirty –”
+“We can draw it much ﬁner than that. Remember, it takes him four hours to walk
+the distance. The last bus stops at twelve-thirty a.m. If he doesn’t take that, but starts
+at the same time, he won’t arrive at his destination until four-thirty. On the other
+hand, if he takes the ﬁrst bus in the morning, he will arrive around ﬁve-thirty. That
+would mean that his appointment was for some time between four-thirty and ﬁve-
+thirty.”
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 47 ---
+Evidence and inference: some food for thought
+15
+“You mean that if his appointment was earlier than four-thirty, he would have taken
+the last night bus, and if it was later than ﬁve-thirty, he would have taken the ﬁrst
+morning bus?”
+“Precisely. And another thing: if he was waiting for a signal or a phone call, it must
+have come not much later than one o’clock.”
+“Yes, I see that,” I said. “If his appointment is around ﬁve o’clock and it takes him
+four hours to walk the distance, he’d have to start around one.”
+He nodded, silent and thoughtful. For some queer reason I could not explain, I did
+not feel like interrupting his thoughts. On the wall was a large map of the county and I
+walked over to it and began to study it.
+“You’re right, Nicky,” I remarked over my shoulder, “there’s no place as far as nine
+miles away from Fairﬁeld that doesn’t hit another town ﬁrst, Fairﬁeld is right in the
+middle of a bunch of smaller towns.”
+He joined me at the map. “It doesn’t have to be Fairﬁeld, you know,” he said quietly.
+“It was probably one of the outlying towns he had to reach. Try Hadley.”
+“Why Hadley? What would anyone want in Hadley at ﬁve o’clock in the morning?”
+“The Washington Flyer stops there to take on water about that time,” he said quietly.
+“That’s right, too,” I said. “I’ve heard that train many a night when I couldn’t sleep.
+I’d hear it pulling in and then a minute or two later I’d hear the clock on the Methodist
+Church banging out ﬁve.” I went back to my desk for a timetable. “The Flyer leaves
+Washington at twelve forty-seven a.m. and gets into Boston at eight a.m.”
+Nicky was still at the map measuring distances with a pencil.
+“Exactly nine miles from Hadley is the Old Sumter Inn,” he announced.
+“Old Sumter Inn,” I echoed. “But that upsets the whole theory. You can arrange for
+transportation there as easily as you can in a town.”
+Heshookhishead.“Thecarsarekeptinanenclosureandyouhavetogetanattendant
+to check you through the gate. The attendant would remember anyone taking out his
+car at a strange hour. It’s a pretty conservative place. He could have waited in his
+room until he got a call from Washington about someone on the Flyer – maybe the
+number of the car and the berth. Then he could just slip out of the hotel and walk to
+Hadley.”
+I stared at him, hypnotized.
+“It wouldn’t be difﬁcult to slip aboard while the train was taking on water, and then
+if he knew the car number and the berth –”
+“Nicky,” I said portentously, “as the Reform District Attorney who campaigned on
+an economy program, I am going to waste the taxpayers’ money and call Boston long
+distance. It’s ridiculous, it’s insane – but I’m going to do it!”
+His little blue eyes glittered and he moistened his lips with the tip of his tongue.
+“Go ahead,” he said hoarsely.
+I replaced the telephone in its cradle.
+“Nicky,” I said, “this is probably the most remarkable coincidence in the history of
+criminal investigation: a man was found murdered in his berth on last night’s twelve-
+forty-seven from Washington! He’d been dead about three hours, which would make it
+exactly right for Hadley.”
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press

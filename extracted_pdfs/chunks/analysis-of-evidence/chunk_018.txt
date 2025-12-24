@@ -1,0 +1,733 @@
+# Chunk 18 of 26
+# Document: Analysis of Evidence
+# Characters: 47530
+
+--- Page 288 ---
+Probabilities, weight, and probative force
+257
+called Dempster’s Rule that allows us to combine support assignments assigned to
+different items or bodies of evidence. Dempster’s Rule allows us to go from a lack
+of belief to some degree of belief in a proposition in light of further evidence (see
+further Shafer (1976), Schum (1994) 225–43).
+3. Baconian probability and completeness of evidential coverage
+Centuries ago, Sir Francis Bacon proposed the idea that we would be wasting our
+time trying to prove some general hypothesis or proposition just by accumulating
+evidential instances favorable to this hypothesis. Regardless of how many results
+favorable to this hypothesis we have accumulated, all it takes is one demonstrably
+unfavorableresulttodisprovethishypothesis.WhatBaconarguedwasthatwewould
+be far better off performing evidential tests designed to eliminate any hypothesis
+we are considering. The hypothesis that best resists our most concerted efforts to
+eliminate it, as well as any other hypotheses, is the one in which we should have
+increasing conﬁdence. This strategy has become known as induction by elimination.
+The best known development of Bacon’s method was by John Stuart Mill (1843).
+It will not do of course in eliminative testing to perform the same test over and
+over again. This may increase our belief about the reliability of this single test, but
+it will not increase our belief regarding the extent to which any hypothesis holds up
+in many circumstances. In the testing of drugs for their possible toxicity to human
+beings we need to determine whether a drug continues to be non-toxic under such
+conditions as various levels and spacing of dosages, the age and sex of the recipients
+of the drug, and possible interactions with other drugs a person might be taking.
+In short, eliminative testing also needs to be variative in nature. The more different
+conditions under which a hypothesis holds up, the more conﬁdence we can have
+in it.
+John Stuart Mill was not successful in showing how conventional probability is
+applicable in eliminative and variative testing. Nor was the philosopher Karl Popper
+later on, who also advocated eliminative testing, successful in relating conventional
+probability to such testing. Popper did, however, claim that science should strive
+for improbable hypotheses that provide us with the most surprising deductions of
+new phenomena (Popper, 1968). Development of a system of probability expressly
+congenial to eliminative and variative induction awaited the work of L. Jonathan
+Cohen. In Cohen’s major work (1977), he advocated a system of probabilities that
+we now call Baconian to acknowledge their linkage to Bacon’s original ideas about
+eliminative and variative testing. In Cohen’s Baconian probability system, evidence
+is relevant only if it serves to eliminate one or more hypotheses or propositions
+being considered. Such elimination, however, is usually only tentative since later
+evidence may act to explain away the eliminative properties of an earlier item of
+evidence on a certain hypothesis.
+Cohen’sBaconianprobabilitiesdifferconsiderablyfromordinaryprobabilitiesas
+illustrated on the scale in Figure 9.2. First, as in Shafer’s support S scale, a Baconian
+probability of zero has a different meaning as shown in Figure 9.4. On this Baconian
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.010 Published online by Cambridge University Press
+
+
+--- Page 289 ---
+258
+Analysis of Evidence
+Figure 9.4 A Baconian probability scale
+scale zero means lack of proof rather than disproof. A Baconian probability of zero
+for some hypothesis can be revised upward since we can go from lack of proof to
+some proof if justiﬁed by evidence. Notice that we have not put any number to be
+associated with the upper end of the Baconian scale. The reason involves several
+additional properties of Baconian probabilities.
+Cohen’s Baconian probabilities have only ordinal properties. What this means
+is that we can compare them to see which is larger but we cannot perform any
+algebraicoperationsonthem(thoseinvolvingaddition,subtraction,multiplication,
+or division). A Baconian probability for some hypothesis or proposition increases
+as this hypothesis passes more eliminative and variative evidential tests. But the tests
+may not all be comparable since they involve different matters. Thus, for example,
+we cannot say that the Baconian probability of hypothesis H1, which has passed four
+tests, is twice as large as the Baconian probability of hypothesis H2, which has only
+passed two tests. The reason is that the tests passed by these hypotheses may not be
+comparable in terms of their importance or eliminative potential. In short, there is
+no natural unit of Baconian probability as assumed in conventional probabilities
+or on Shafer’s support scale.
+We now come to the most important property of Baconian probability as far as
+concerns the probative weight or force of evidence. In the eliminative and variative
+testing of hypotheses, it is altogether important to consider how many different
+tests have been performed and how completely our testing has involved all relevant
+matters that anyone could think of. In testing the toxicity of a drug, for example,
+regardless of how many other tests drug X has passed, we will not have conﬁdence
+in its being non-toxic if we have failed to check to see whether it remains non-
+toxic when taken with other drugs or if we ignore its possible long-run effects. In
+a Baconian view of probabilistic reasoning the weight of evidence depends in large
+part on how many questions there are that remain unanswered by the evidence we
+have. In short, the Baconian weight of evidence is related to how complete has been
+the coverage of evidence on matters recognized to be relevant in the inference at
+hand. Here is a picture of the Baconian interpretation of the probative weight or
+force of evidence; it involves the “inferential limb” on which we ﬁnd ourselves when
+we attempt to draw a conclusion from evidence.
+Suppose on the basis of a collection of evidence we decide to conclude that
+hypothesis H is true. Figure 9.5 illustrates the inferential limb we ﬁnd ourselves on
+when we draw this conclusion. The length and strength of this limb depends upon
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.010 Published online by Cambridge University Press
+
+
+--- Page 290 ---
+Probabilities, weight, and probative force
+259
+Figure 9.5 Illustrating the Baconian weight of evidence
+two things. First, the strong part of our inferential limb depends on how much
+credible evidence we have that is favorable to hypothesis H. Second, the weak part
+of our inferential limb depends on how many questions regarding the likeliness
+of any of our hypotheses remain unanswered by the evidence we have. Baconian
+probabilities take both of these matters into account. Answers to some of these
+unanswered questions may in fact be favorable to our chosen hypothesis H; but
+other answers may not be at all favorable to H. We cannot know which ones and
+how many will also be favorable until we ask the questions. The basic reason why
+we do not put a speciﬁc number on the right-hand end of the Baconian probability
+scale in Figure 9.4 is that we ordinarily do not know how many tests of hypoth-
+esis H are possible. We can only list those unanswered questions that we have
+recognized.
+Cohen’s system of Baconian probability is the only system that takes speciﬁc
+account of how completely the evidence we have covers matters recognized to be
+relevant in the testing of hypotheses we entertain. Such information is not con-
+veyed, for example, by Bayesian posterior probabilities, even if they are very large
+and near 1.0. Cohen argues that in judging the probative force of evidence we can-
+not ignore how much evidence we have and how completely it covers questions
+relevant to matters at issue. It happens that Cohen’s major work (1977) is espe-
+cially directed at inferences in the ﬁeld of law. In this work, he has assembled a
+large collection of anomalies and paradoxes he says are associated with attempts to
+apply conventional probabilities to inferences in law. A discussion of the anomalies
+and paradoxes Cohen identiﬁed appears elsewhere (Schum, 1979). His work gen-
+erated widespread discussion and much controversy among legal scholars as well
+as probabilists. Not all of the troubles he mentioned were viewed as anomalous or
+paradoxical. But we should not ignore what he has told us about the importance of
+evidential completeness in grading the probative weight of evidence.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.010 Published online by Cambridge University Press
+
+
+--- Page 291 ---
+260
+Analysis of Evidence
+4. Wigmore and the fuzzy weight of evidence
+Wigmore was no probabilist, but he did understand that the linkages between
+probanda in chains of reasoning are probabilistic in nature. This is why we have
+said that a chain of reasoning involves sources of doubt or uncertainty. He described
+the strength of these probabilistic linkages in words rather than numbers. This is
+something that we all do on many occasions when we wish to convey to others our
+beliefs about the likeliness of events when we have no basis for assigning precise
+numerical probabilities to these events. But Wigmore also used the term “force” in
+describing the strength of these probabilistic linkages. He used different symbols
+attached to his arrows linking probanda. One symbol meant “weak probative force”;
+another symbol meant “strong probative force”; another meant “provisional pro-
+bative force”; and there were others. One criticism frequently directed at Wigmore’s
+methods concerns his never providing any method for combining all of these verbal
+probabilistic force gradations in reaching a conclusion about the aggregate force of
+some mass of evidence.
+Wigmore died in 1943, only 22 years before the development of “fuzzy logic”
+by Professor LotﬁZadeh. In a celebrated paper in 1965, Zadeh asked us all to rec-
+ognize how much imprecision is rampant in our inferences, decisions and other
+activities. In probabilistic reasoning, for example, we so often attach words rather
+than numbers to indicate the strength of our conclusions, since we have no basis
+for providing precise single probabilities or even intervals of probabilities. Such
+probabilities Zadeh has called “fuzzy probabilities” recognizing their imprecision.
+Wigmore’s methods for grading probative force are examples of fuzzy probabili-
+ties or hedges. What is especially interesting about Zadeh’s work is that he pro-
+vides methods for combining fuzzy gradations of various things. Following is just
+one example of Zadeh’s concerns about the fuzziness rampant in our everyday
+reasoning.
+Suppose you hear the following argument: “If a person is overworked and under-
+paid, then this person is probably not very satisﬁed with his/her job.” We hear argu-
+ments like this all the time; Zadeh calls such reasoning “inexact” or “approximate.”
+All the words italicized in the sentence above are fuzzy ingredients; there is no pre-
+cision here regarding any of these ingredients. Fuzzy probabilistic qualiﬁers abound
+in the ﬁeld of law, for example: beyond reasonable doubt, balance of probabilities,
+clear and convincing evidence, and probable cause. All these forensic standards of
+decision are necessarily fuzzy since we are unable to provide precise and uncon-
+troversial numerical probabilities, of any kind, to associate with them. In many
+situations we may not be able to improve upon Wigmore’s fuzzy gradations of the
+probative force of evidence. All of the views we have examined have been criticized
+in various ways. Zadeh’s work on fuzzy logic has not escaped criticism. Susan Haack
+(1996) questions the philosophical bona ﬁdes of fuzzy logic and also points out that
+applications of fuzzy logic designed to cope with imprecision involve mechanisms
+that do induce precision.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.010 Published online by Cambridge University Press
+
+
+--- Page 292 ---
+Probabilities, weight, and probative force
+261
+In summary, we have provided four quite different interpretations of what is
+meant by the probative force, weight or strength of evidence. Each view tells us
+something valuable about this important credential of evidence, but no single view
+says all there is to be said. Likelihood ratios from Bayes’s Rule allow us to capture
+many interesting and important evidential and inferential subtleties and are con-
+sistent with what FRE-401 says regarding relevance. Shafer’s direct assessments of
+evidential weight as evidential support allow us to be indecisive in hedging conclu-
+sionsandtowithholdportionsofourbeliefs,andtheyallowustocaptureimportant
+judgmental characteristics that are very common. Baconian interpretations of the
+probative force of evidence alert us to the importance of considering how much
+evidence we have and how completely it covers matters we recognize as relevant
+in inferences we make. Questions we have not yet answered are just as important
+in inferences as those for which we have obtained evidential answers. Finally, Wig-
+more’s fuzzy gradations of the force of evidence are certainly in keeping with the
+many other fuzzy interpretations of uncertainties encountered in the ﬁeld of law.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.010 Published online by Cambridge University Press
+
+
+--- Page 293 ---
+10
+Necessary but dangerous: generalizations
+and stories in argumentation about facts1
+Since, then, our inferences from fact to fact depend upon our belief in general rules
+of connection between fact and fact, generalizations about the way things happen in
+nature, the work of criticizing inferences resolves itself into that of criticizing general-
+izations. (Sidgwick (1884) 9)
+We have seen that generalizations are almost always necessary as warrants for
+every step in inferential reasoning, but that they can often be shown to be the
+weakest points in an argument (Chapter 3). Similarly, we have seen that stories are
+not just an alternative to analytical approaches such as the chart method, but rather
+complement them in important ways (Chapter 6). According to some psychologists
+and practitioners stories are psychologically necessary to decision-making about
+issues of fact. Yet another strand in the literature suggests that stories are wonderful
+vehicles for “cheating” in the process of persuasion in legal contexts. In this chapter
+we look in more detail at the nature of generalizations and stories, their role in
+fact-determination, some reasons why they can be labeled dangerous, some links
+between these dangers, and practical techniques for navigating them in litigation.
+A. Generalizations
+1. Reprise and introduction
+Generalizations are warrants that serve as the “glue” that links an item of evidence
+to a particular interim or ultimate probandum by showing that it is relevant (Foun-
+dations 81–83, 109). We have previously examined the role of generalizations in
+arguments about evidence. In Chapter 3 we identiﬁed the role that generalizations
+perform in the application of the principles of logic in constructing and analyzing
+arguments. The materials from R. v. Bywaters and Thompson illustrated the kinds
+of covert roles that generalizations based upon prejudice may play, roles that make
+them dangerous. Chapters 8 and 9 presented current views on how evidence may
+be evaluated in various contexts. All of those views depend upon the evaluator’s
+1 This chapter is based in large part on two articles (Twining, 1999, and Anderson, 1999). Some of
+the themes are further developed in Bazaar, Chs. 12–16.
+262
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 294 ---
+Necessary but dangerous
+263
+assessment of the strength (the degree of certainty) with which the generalizations
+upon which the arguments being evaluated depend can be expressed.
+In this chapter we integrate these materials and present a more comprehensive
+analysis of the roles generalizations play. In the next section, we focus on how the
+degree of certainty affects the use of generalizations in determining how evidence
+should be evaluated. In Section 3, we examine the ways in which generalizations can
+be classiﬁed and the differences that stem from those classiﬁcations. The legitimacy
+of the common law adversary system of dispute resolution depends in some part
+on an assumption that there is a cognitive consensus, an assumption that members
+of society share a core of basic information and view the world in similar ways. We
+describe and assess this view in Section 4. Section 5 identiﬁes the dangers that stem
+fromtheuseofgeneralizations.Weconcludewithanexaminationofgeneralizations
+from the practitioner’s standpoint.
+2. Degrees of certainty
+Perhaps all and certainly most inferences from particular to particular depend
+upon an unstated generalization.2 When the usually covert generalization is made
+explicit, the inductive reasoning upon which the proposed inference depends can
+be translated into a quasi-deductive form, and that forces into prominence the
+generalization being assumed as a major premise. However, generalizations are
+usually hedged in some way:
+In reasoning from E∗to E at the ﬁrst step, I might assert the following: If we have
+evidence that an event occurred, this event usually (often, sometimes, frequently, etc.)
+did occur. Thus I believe we have some degree of license to reason from evidence E∗to E,
+the event(s) reported in the evidence. But notice that I have hedged this generalization
+or warrant; I did not say: When we have this evidence that an event occurred, this event
+necessarily occurred. If it is inconclusive, evidence about some event does not allow me
+to say that the occurrence of the event is certain. Which hedge I choose depends upon
+the strength of my own belief based upon experiences I have had in evaluating this kind
+of evidence. At this stage I might say: If something like E happens then something like
+F usually (often, sometimes, frequently, etc.) happens . . . (Schum, Foundations, 81–2)
+If one were able to quantify the frequency of an event with reasonable conﬁdence,
+one could formally convert a generalization that is hedged into the major premise
+of a syllogism:
+In all cases of X there is a 0.7 probability (70% likelihood) of Y
+This is a case of X
+Therefore Y is 0.7 probable.
+2 Anderson and Schum are in the “all” camp (see pp. 100–101 above); Twining draws the line at
+“certainly most.”
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 295 ---
+264
+Analysis of Evidence
+However, such estimates need to be treated with great caution: What is the basis for
+the estimate? Who is making the estimate? Might it be biased, purely speculative or
+otherwise unreliable? Is it an example of false precision? And so on.
+However, an inference openly based on a fuzzy generalization is conspicuously
+weak:
+X and Y sometimes occur simultaneously
+This is a case of X
+Therefore Y may have occurred simultaneously.
+It is important to distinguish between the strength of support for a generalization
+and its probative force if it is accepted as true. Here we ﬁnd an interesting feature
+of the operation of generalizations in the kind of argument with which we are
+concerned: the more cautious a generalization, the more plausible it is likely to be,
+but the weaker the support that it gives to the probandum.3 For example, using the
+example of the disparity of age between Edith and Freddie, the generalization, “All
+older women dominate all younger men in all circumstances,” would give strong
+support to the probandum, “Edith dominated Freddie in all circumstances,” if it
+were true. But it clearly is not true. On the other hand, a proposition such as: “In
+intimate relationships the older partner tends to be the dominant partner” is more
+plausible, but it is very vague and at best gives weak support to the probandum that
+Edith incited Freddie to murder her husband.
+Moreover, there are many other possible generalizations that might be imagined,
+some pointing in the opposite direction. Consider again the differences in age
+between Edith and Freddie. We could move by a number of different routes from
+this fact to the intermediate probandum that Edith inﬂuenced Freddie. There are
+several possible generalizations about the relations between an older woman and
+a younger man. A lawyer might argue that in such relationships, for example:
+(a) older women tend to dominate, (b) older women are insecure, (c) older women
+are demanding, (d) older women are more inclined to take initiatives, (e) older
+women play the role of a mother substitute, and so on. Each of these could provide
+a signiﬁcantly different route to support or negate an argument concerning the
+existence, extent, and effect of Edith’s inﬂuence over Freddie. Furthermore, each of
+these generalizations could also lead to other intermediate probanda about motive
+or intent or something else.
+It appears from the argument that counsel for the prosecution in Bywaters and
+Thompson selected (a). Why? Perhaps, because it provides stronger support for the
+intermediate probandum “Edith dominated Freddie or Edith inﬂuenced Freddie.”
+But upon reﬂection, perhaps backed by research, we might conclude that there is
+stronger support for one of the other generalizations (b) through (e). To repeat: it
+3 It is not quite correct to say that the probative force of a generalization varies inversely with
+the strength of support for it, because some universal or near-universal generalizations are well
+founded.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 296 ---
+Necessary but dangerous
+265
+is important to distinguish between the strength of support for the generalization
+and the probative force of the generalization, if it is accepted as true.
+Therearefurthercomplexities.EdithandFreddiecanbecharacterizedingender-
+neutral terms: as partners, lovers, persons, for example. The context can be char-
+acterized in a way that hedges the generalization: in intimate relationships, in love
+affairs, or more vaguely in relationships of this kind. Each of the elements could
+be expressed in heavily loaded emotive terms. To give a crude example: An ageing
+adulteress will manipulate a naive adolescent.
+The important point here is that, for the lawyer, the choice of formulation is
+crucial. The precise, speciﬁc formulation may set up an irrefutable syllogism com-
+pelling the conclusion sought, if the decision-maker accepts the generalization in
+that form as true. But in most cases, the generalization will not be that well estab-
+lished nor that widely shared nor very precise. Probably no one believes that “All
+older women dominate all younger men all of the time,” and some potential jurors
+would probably reject such a generalization even in a much weaker form.
+3. Types of generalizations
+Generalizations can be categorized in different ways for different purposes. In
+Chapter 3, we identiﬁed three axes that could be used in classifying generaliza-
+tions – a generality (or level of abstraction) axis, a reliability (or degree of certainty)
+axis, and a source (or basis) axis. There is a fourth axis that should also be viewed
+as a part of that classiﬁcation scheme – what might be called a commonality axis.
+The commonality axis refers to how widely the generalization would be accepted
+or shared within the particular community in which a disputed question had to be
+resolved.
+At one end of the commonality spectrum are generalizations that are shared only
+by a small number of people. Examples might be drawn for generalizations falling
+along any of the other three axes – e.g., generalizations expressing the prejudice that
+underlay the hatred that separated the Capulets and the Montagues; generaliza-
+tions acquired by experience or study necessary to fully understand and accurately
+evaluate the performances of world-class athletes; or the generalizations under-
+stood only by astrophysicists trying to evaluate data being generated by the Hubble
+telescope.
+At the other end of the spectrum are generalizations that are universally or
+widely shared within the relevant community. Examples clustering at this end of
+the spectrum are similarly diverse – e.g., generalizations based upon prejudices of
+thekindthathaveresultedin“ethniccleansing”inRwandaortheformerYugoslavia;
+generalizations originally based upon scientiﬁc or mathematical principles that are
+now shared generally in most communities – e.g., any object dropped will fall until
+it reaches the ground or some other surface; generalizations derived from common
+experience – e.g., all lighted stove burners are very hot.
+Inmostdiscussionsofgeneralizationsinlegalandothercontexts,generalizations
+have been described and classiﬁed without taking into account the variable revealed
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 297 ---
+266
+Analysis of Evidence
+byplacingthemalongtheaxesidentiﬁedabove.Asaresult,thecategoriescommonly
+used to describe generalizations are overlapping, imprecise, and ambiguous, and
+the descriptions employed often conceal, rather than disclose, differences that are
+important. Nonetheless, lawyers and others who must work with generalizations
+in constructing and critiquing arguments about disputed questions of fact must be
+aware of the descriptions commonly used and of the roles that generalizations so
+described have played and will play in such arguments and critiques.
+Generalizations can be categorized in different ways for different purposes. In
+the context of arguments about questions of fact, it is useful to categorize them
+in terms of source and reliability. From the standpoint of a lawyer, it is useful to
+distinguish between two main types: (a) case-speciﬁc generalizations contrasted
+with (b) background generalizations, which in turn can be classiﬁed roughly in
+terms of their reliability – scientiﬁc/expert, general knowledge, experience-based,
+and synthetic-intuitive (or belief) generalizations. In the context of argumentation
+in legal processes different considerations apply to each category. Generalizations
+can be placed on a spectrum of reliability ranging from well-tested and generally
+accepted propositions, such as those associated with the law of gravity, to largely
+untested and sometimes untestable intuitions, such as the generalizations upon
+which the view that running from the scene of a crime is evidence of guilt, to
+unfounded biases based upon false stereotypes – such as prejudices based on gender,
+race, class, or age.4
+a. Case-speciﬁc generalizations
+These may be used explicitly or implicitly in argument in a particular case. They
+may include descriptions about personal habits or character, or local practices (how
+newlybornbabiesarelabeledinthishospital),orallegationsofageneralnature,such
+as “The employer-defendant in this case regularly discriminated against women in
+its employment practices.”
+Case-speciﬁc background knowledge may be a mixture of particular and general
+information, such as Welt’s use of “local knowledge” in relation to bus time tables
+and the Old Sumter Inn in “The Nine Mile Walk” (above, page 11). A composite
+picture of Edith’s character as a successful businesswoman and a forceful person
+might be used to bolster a generalization to the effect that she was the dominant
+partner in her relationship with her lover.
+Such generalizations may become operative in a speciﬁc case, although fre-
+quently they remain in the background. They may be supported by explicit evidence
+adduced, for example, in an employment discrimination case. But often they may
+alsobeinferredfromthebackgroundbeliefsofthedecision-makers,as,forexample,
+4 A classic example is Bradwell v. Illinois, 83 U.S. 130 (1872) (afﬁrming decision by Illinois Supreme
+Court that women could not be admitted to the bar): “The paramount destiny and mission of
+women are to fulﬁl the noble and benign ofﬁces of wife and mother. That is the law of the Creator.
+And the rules of civil society must be adapted to the general constitution of things, and cannot be
+based on exceptional cases” (Bradley, J., concurring at 141–42).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 298 ---
+Necessary but dangerous
+267
+may have been true about sexual prejudices among jurors at the trial of Bywaters
+and Thompson.5 They may be and frequently are a product of both.
+Especially if they are supported by evidence, case-speciﬁc generalizations tend
+to push out or trump background generalizations. For example, in Bywaters and
+Thompson it was important for the prosecution to prove that Freddie’s attack on
+Percywaspremeditated,forthatwouldsupportthepropositionthatheactedinpur-
+suance of a conspiracy or because of Edith’s incitement. The main evidence in sup-
+port of this was the highly ambiguous tea-room letter (Exhibit 60) and the fact that
+he was carrying a knife. The probative value of this last fact would be considerably
+weaker if it could be shown that Freddie was in the habit of carrying the knife wher-
+ever he went. Freddie claimed this, but his credibility was weak. If Edith’s counsel
+had called one of Freddie’s shipmates as a witness to support this case-speciﬁc gen-
+eralization, that would have weakened the prosecution’s case very signiﬁcantly. In
+the event, both sides had to rely on contradictory or divergent background gen-
+eralizations. The prosecution argued that “Possession of a knife of this kind was
+in itself suspicious,” and that “No reasonable man living in London carries a knife
+like this in his pocket.” The defense argued: “It is not strange for a seafaring man
+visiting foreign countries, to purchase a knife,” and “There are few sailors who do
+not possess a knife.” (See Figure 10.1.) A witness-backed case-speciﬁc generalization
+about Freddy’s habits in this respect would have been much more persuasive than
+any of these background generalizations.6
+The evidence necessary to establish many case-speciﬁc generalizations will ordi-
+narily be admitted automatically. Edith was 28, Freddie was 20, and both sat before
+the jury. It is difﬁcult to see how counsel for the defense could have prevented the
+jury from learning that “Edith is older than Freddie.” In such a circumstance, coun-
+sel must determine what generalizations this fact may evoke in the jurors’ minds
+(e.g., “older women dominate younger men”) and how to enhance or diminish their
+effect. Often important case-speciﬁc generalizations may have to be established by
+evidence.
+It is also possible that evidence might be adduced to enhance or diminish the
+strength of generalizations that might otherwise be held or accepted by the triers
+of fact. For example, psychologists might today be employed to examine Edith and
+Freddie and, on that basis, might be able to express an opinion about whether
+Edith did or could inﬂuence Freddie’s conduct in important matters. Similarly,
+social science survey techniques might conceivably today enable lawyers to produce
+evidence as to what proportion of seafaring men habitually carried knives in their
+coat pockets. The attempt to prove such case-speciﬁc generalizations raises an array
+5 “Mrs Thompson was hanged for immorality” is a remark attributed to her counsel by several
+commentators.
+6 Anderson (1999) also uses the term “context-speciﬁc” generalizations to refer to background gen-
+eralizations that have been made more concrete in the context of a particular case. This is different
+fromcase-speciﬁcgeneralizationsabouthabits,practices,characteretc.,whichare,oratleastshould
+be, based on particular evidence.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 299 ---
+Prosecution
+Defense
+1. The attack was premeditated.
+14. When B arrived at Belgrave Road,
+he had no intention of killing P.T.
+(110, 142).
+2. The murder weapon was a knife owned
+by B (not disputed).
+3. B put the knife in his pocket in order
+15. B’s carrying of the knife was
+to kill P.T. (137).
+innocent (142).
+16. B always carried the knife with him.
+17. a. B contradicted himself. (38–53)
+17. B’s testimony (53).
+b. B’s bias.
+4. Possession of a knife of this kind is in itself
+suspicious (104).
+5. The knife was a deadly weapon (35),
+18. The knife was an ordinary sheath
+a dagger (151), a stabbing instrument
+knife used for many purposes (53).
+(151), a dreadful weapon (132).
+6. a. The knife (exhibit 1.34).
+6. b. The knife (exhibit 1.34).
+7. The evidence of the wounds (22–23).
+19. B’s testimony (implicit, 53).
+20. Foster’s (tool merchant’s)
+testimony (32).
+8. The knife was not a convenient thing to
+21. The knife ﬁtted conveniently in the
+carry about (132, 137).
+inside pocket of B’s overcoat (137).
+22. B’s testimony (implicit, 53).
+23. [Nothing is known re size of coat.]
+23. The coat (exhibit 29).
+9. B purchased the knife in order to kill P.T.
+24. B purchased the knife for an
+innocent purpose.
+25. B purchased the knife over a year
+before the attack.
+20. Consistent with Foster’s testimony
+above.
+10. No evidence that B showed it to
+10. a. No reason why B should
+anyone (132, 139).
+have shown it to anyone (137).
+11. If he had possessed it for long, there would
+have been evidence of jocular remarks (132).
+26. a. B’s bias
+26. B’s testimony (39, 53, 110).
+b. No corroborating evidence (132).
+12. B. was a ship’s clerk, not a sailor (editorial
+27. It is not strange for a seafaring man,
+intervention!) (110).
+visiting foreign countries, to purchase a
+knife (110, 140).
+28. B took the knife abroad with him.
+29. B’s testimony (53).
+13. No reasonable man living in London
+30. There are few sailors who do not
+carries a knife like this in his pocket (140).
+possess a knife (110, 140).
+Figure 10.1 Reconstruction of arguments about the knife (B and T)
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 300 ---
+Necessary but dangerous
+269
+of problems concerning availability, admissibility, and utility that are frequently
+treated in standard texts on evidence and trial practice. However, it is quite unre-
+alistic to expect to use experts for the great majority of propositions used in argu-
+ments about judicial evidence, even when there is potentially applicable scientiﬁc
+material.
+b. Background generalizations
+Karl Llewellyn wrote:
+[W]hen Michael and Adler divided knowledge into two essential categories: “common
+sense” and “scientiﬁc knowledge,” they overlooked . . . that the matter does not thus
+cleave neatly into two signiﬁcant areas, but that it stretches out or sprawls instead
+between two poles. At the one pole is ignorance and pure guess. At the other pole
+is solid and thoroughly systematized scientiﬁc knowledge. “Common sense” is, so to
+speak, in the South Temperate Zone. Uncommon sense, ordered, pondered on with
+care, and tested out once and again in inconclusive but still illuminating corrective
+careful tests – that is so to speak, in the North Temperate Zone. Knowledge does not
+have to be scientiﬁc, in order to be on the way toward Science. Neither does it have to
+be scientiﬁc in order to be extremely useful. (Llewellyn (1936) 22)
+In the absence of experts or other direct evidence, we fall back on background
+generalizations. In the Rationalist Tradition it is assumed that the triers of fact,
+including jurors, come already equipped with a largely shared “stock of knowl-
+edge,” which is the main source of warrants for making inferences in arguments
+about questions of fact. This equipment is commonly described as “general experi-
+ence,”“backgroundknowledge,”“commonsense,”or“society’sstockofknowledge.”
+Again we need to ask, whose experience, sense, or knowledge? As we shall see, each
+of these expressions is somewhat misleading if it is used to refer to the totality
+of the individual and communal beliefs that are used as warrants for inferential
+reasoning.
+What is advanced as knowledge, common sense, or shared beliefs is too var-
+ied to be susceptible to precise classiﬁcation. The bases for such generalizations
+are as varied as the sources for the beliefs themselves – education, direct experi-
+ence, the media, gossip, ﬁction, fantasy, speculation, prejudice, and so on. In legal
+contexts it is useful to draw broad distinctions between different kinds of general-
+izations according to their perceived reliability in a given society at a given time,
+bearing in mind that there is a continuum that ranges from uncontested scientiﬁc
+truths, through “knowledge” based on more or less established forms of expertise,
+to largely uncontested general knowledge, to less established “common sense” gen-
+eralizations, to beliefs that are based on limited experience, faith, speculation, myth,
+or prejudice. Although these are quite rough categories, it is important to realize
+that they can operate quite differently in arguments about questions of fact in legal
+contexts.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 301 ---
+270
+Analysis of Evidence
+c. Scientiﬁc knowledge and expertise
+Scientiﬁc generalizations are based upon scientiﬁc knowledge and research. They
+vary in terms of their reliability. There are those based upon the “laws of science”
+(e.g., the applications of the law of gravity to prove how long it took the victim’s
+body to strike the sidewalk after he was pushed out of the sixteenth-story window).
+There are those based upon well-established principles (e.g., the body of scientiﬁc
+knowledge upon which ﬁngerprint identiﬁcation is based). There are those extrap-
+olated from research ﬁndings that are less well-established or are recognized as less
+reliable (e.g., voice print identiﬁcation or the nature of the relationship between
+prenatal smoking and birth defects). Typically, these are generalizations that are
+established by expert witnesses who testify both as to one or more case-speciﬁc
+generalization, that are relevant (e.g., to establish that the deceased died at 4:30
+p.m.) and, if required, to the scientiﬁc generalizations that support that conclusion.
+The courts have come to rely increasingly on scientiﬁc and other expert evi-
+dence. This in turn has generated problems about the qualiﬁcations of experts,
+the probative helpfulness of expert evidence, how to deal with novel and contested
+“scientiﬁc” ﬁndings, the role of experts in testifying directly to ultimate and penul-
+timate probanda (“the ultimate issue” problem), and the tensions between the
+fallibilism of science and the need for ﬁnality in adjudication.7 It was estimated
+that by 1990 over 70 percent of civil jury trials in the United States involved expert
+evidence and the proportion has been growing. DNA and other advances in foren-
+sic science and technology have already made a profound impact on the investi-
+gation and prosecution of crimes and alleged miscarriages of justice. This trend
+is bound to continue. The leading comparative law scholar, Mirjan Damaska, has
+predicted:
+Let there be no mistake. As science continues to change the social world, great transfor-
+mations of factual inquiry lie ahead for all justice systems. These transformations could
+turn out to be as momentous as those that occurred in the twilight of the Middle Ages,
+when magical forms of proof retreated before the prototypes of our present evidentiary
+technology.8
+d. General knowledge
+General knowledge generalizations are generalizations that would be generally
+acceptedaswellestablishedinagivencommunity:Palmtrees,rain,andhighhumid-
+ityarecommoninMiami,Florida;transactionsinsecuritiestradedontheNewYork
+Stock Exchange are accurately summarized in the Wall Street Journal; most pubs in
+England are afﬁliated in some manner with a brewery, and so on. Many such gen-
+eralizations are so widely known or believed in the particular community that they
+7 Haack (2004).
+8 Damaska (1997) 151. It is beyond the scope of this book to explore the complex issues relating to
+scientiﬁc and expert evidence in detail. However, questions of competence and admissibility are
+touched on in Ch. 11 and some problems relating to statistical evidence are included in Appendix I
+(Probabilities and Proof).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 302 ---
+Necessary but dangerous
+271
+will simply appear in argument without any formal request that they be noticed.
+Many will fall under the doctrine of judicial notice (see below). Others may require
+some proof, but all share the characteristic that they will be accepted as largely
+indisputable at the time and place of the trial.9
+e. Experience-based generalizations
+Sometimes people conﬁdently claim to “know” something on the basis of ﬁrsthand
+experience. Some such experience-based generalizations may be widely shared in
+a community. Some may be based on extensive ﬁrsthand experience (Llewellyn’s
+idea of “horse sense”).10 Most Miami residents have learned from experience that
+torrential rain showers may fall with little advance indication. Others are individual
+generalizations, based on isolated events, sometimes involving unwarranted extrap-
+olations from individual experiences. For example, someone who has been unfairly
+treated by the police may, rightly or wrongly, conclude that all or most police ofﬁcers
+are not to be trusted. If the individual is a juror, the generalization may affect the
+outcome, irrespective of its validity. Someone who has had an unpleasant experi-
+ence with someone from another race or class may develop negative views about all
+members of that race or class. Such beliefs are best treated as unwarranted beliefs
+or prejudices rather than as being genuinely based on experience.
+f. Synthetic-intuitive generalizations (belief generalizations)
+Many “common sense” generalizations can be usefully categorized as beliefs that a
+person synthesizes or intuits from her stock of knowledge and beliefs. Sometimes an
+individual can explain the sources from which she synthesized the generalization.
+Frequently, however, the intuitive predominates – the individual cannot identify
+the source of the generalization or explain why she believes that it is sound.
+The generalizations necessary to support the inferences that ﬂight from the scene
+of a crime is evidence of guilt are examples of “synthetic-intuitive” generalizations.
+We are not aware of any tests that claim to have veriﬁed these generalizations.
+Nonetheless, the generalization “persons who have committed a crime often ﬂee
+from the scene of that crime” seems intuitively right – at least to some middle class
+people.11 In its weakest form, we might accept the transposed generalization upon
+9 Of course, what passes for knowledge in a given society at a particular time may later be shown
+to be untrue. For example, in an earlier era, it was “generally known” that the earth was ﬂat.
+In an appropriate case, evidence that a person was on a ship that was last seen sailing over
+the horizon might have been sufﬁcient to establish that the person was dead. To talk of beliefs
+“passing for” knowledge at different times involves no commitment to a strong relativist position
+in epistemology. On “the passes for fallacy” (the fallacy that because what passes for the truth is
+often no such thing, it follows that there is no objective truth), see Haack (1998) 93.
+10 “Horse-sense is the kind of highly informed, distinctly uncommon, better-than-common, expert
+but not scientiﬁcally demonstrable know-what and know-how which a David Harum had about
+horses and other horse-traders” (Llewellyn, unpublished manuscript (1950) cited in Twining
+(1973) 503).
+11 Note that if someone sees another person running in the vicinity of an event, such as a ﬁght or
+motor accident, to call it “ﬂight” involves an inference: the person could be running to somewhere
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 303 ---
+272
+Analysis of Evidence
+which ﬂight inferences depend, “persons who ﬂee from the scene of a crime are
+sometimes persons who are guilty of that crime.” The generalization thus framed
+could provide only weak support for an inference that the person seen ﬂeeing from
+the scene of a speciﬁc crime was the person who committed that crime: “That
+person may be the person who committed the crime.” There often seems to be no
+clear basis for our acceptance of these generalizations, apart from a synthesis or an
+intuition based upon our personal “stock of knowledge” or “common sense.” This
+is clearly fallible, but it may be all that we have to rely on.12
+One of the claims for Wigmorean analysis is that by making explicit what is
+usually left implicit it readily exposes weak points in argument. In marking stu-
+dents’ exercises in this kind of analysis, we regularly look for non sequiturs in their
+arguments. Very often the non sequitur is based on a faulty generalization, like the
+one in Figure 10.2.
+X was carrying a weapon. 
+X entered the victim's garage.
+G: Persons/strangers who enter other 
+persons' garages usually/often/frequently 
+carry weapons.
+Figure 10.2 Foolish generalizations
+This generalization, once articulated, would seem absurd on its face to most
+people. Constructing generalizations to show disconnects in chains of reasoning is
+a very useful device when evaluating an argument.
+(e.g. to summon help), running from the scene or running past it, for example, a jogger who
+happened to be passing near the scene of the event when it happened. Some people might interpret
+running from the police as good sense rather than an indication of guilt.
+12 A fairly representative statement of the orthodox view is as follows: “More often assumed than
+articulated is the premise that jurors must rely on common sense, or the knowledge and experience
+which they share with the community generally. But ‘common sense’ is frequently wrong . . . Our
+everyday experience of the world comes in crude, unrepresentative chunks, with causal relations
+hopelessly obscured, and with prejudice, superstition, and self-interest inextricably intertwined
+in perception” (Bitterman (1956) A-16). “This is no argument for not using common sense. We
+operate in judicial institutions with the best we have and the inescapable necessity of making
+concessions to the shortness of life” (Levin and Levy (1956) 141–42).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press

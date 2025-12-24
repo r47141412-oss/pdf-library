@@ -1,0 +1,861 @@
+# Chunk 12 of 26
+# Document: Analysis of Evidence
+# Characters: 48898
+
+--- Page 188 ---
+Outlines, chronologies, and narrative
+157
+Thepointtoberecognizedisthatthecommonlawadversarialmodelofadjudica-
+tion allocates roles and functions in an appropriate fashion. The primary responsi-
+bility for analysis is among the responsibilities assigned to the lawyers. It is they who
+analyze the data; construct and critique hypotheses and arguments; and develop
+what they see as the strongest theory of the case on each side.
+They marshal the evidence and arguments that best support (or confound) the
+contending theories. On the basis of that analysis, they construct the stories that
+they will urge the ultimate decision-maker to adopt and identify points on which
+the opposing side’s best story is likely to be most vulnerable.
+In this model, using stories as the basis for decision is efﬁcient. In the common
+law model the trial is a separate and isolated event. The lawyers for the contending
+adversaries present the evidence that they have culled from the universe of available
+and potentially relevant data and present the contending theories, arguments, and
+storiesthattheyhaveselectedanddeveloped.Thecontendingstoriesandthelawyers’
+argumentsattackinganddefendingeachstoryprovide,inprinciple,asoundmethod
+of processing information to aid the judge or jury in resolving, efﬁciently, ﬁnally,
+and accurately, the factual issues necessary to a fair judgment. So long as the analysts
+have done their jobs well, it is hard to see why we would want a system that would
+require the ultimate decision maker to replicate, rather than assess, their work as a
+basis for resolving disputed questions of fact necessary to reach a judgment on the
+case as a whole.14
+Theprocessbywhichjuriesorotherfact-ﬁnderschoosebetweenstoriesislogical.
+The evidence is rarely conclusive. If there are genuine factual disputes, the fact-
+ﬁnder must form a belief by testing the available stories against a recollection of
+the evidence and an assessment of the likelihood that a particular story is the most
+plausible version of what really took place in light of their commonly held beliefs
+or other generalizations. The nature of closing argument is to reassure the fact-
+ﬁnder that the evidence “logically” makes one story the most plausible and to focus
+its attention on the inconsistencies and logical fallacies in the opponent’s story in
+relation to the central legal principles laid down by the judge. Of necessity (because
+of such factors as time and audience attention span), the lawyers must strike for
+the jugular: Normally, only the weakest links in the opposition’s chain of inferences
+and only those that cut against belief in its story-as-a-whole can be attacked; there
+is neither time nor purpose for attack on secondary detail. The making of such a
+focused argument, however, must be preceded by logical, atomistic analysis and be
+combined with judgment.
+Atomistic analysis remains a central tool for identifying the plausible story possi-
+bilities, for checking them for consistency and coherence, and for choosing among
+them. It remains necessary, even though all must concede it is not sufﬁcient. In
+that light, the contribution of the story-theorists is to focus attention upon the
+14 See Anderson (1999) 47 (for a comparison of the adversarial and inquisitorial systems as models
+of decision-making).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.007 Published online by Cambridge University Press
+
+
+--- Page 189 ---
+158
+Analysis of Evidence
+relationships between the logical theory of a case, the dramatic themes by which
+the theory may be developed most plausibly in trial, and the story-as-a-whole.
+State v. Archer (IV): the exercise concludes
+The facts remain as developed through State v. Archer (III) (above, page 143). The
+prosecutor has learned that Archer hosted the party on Saturday, the day preceding
+the murder, and that Boswell and Carl had drinks at Archer’s house on the Tuesday
+after the murder. Through Detective Paul’s interviews and investigations, she has
+also learned that the termination of the partnership between Boswell and Vern was
+initiated by Vern and left Boswell embittered and that Carl believed that Vern’s
+refusal to marry his sister had caused her to commit suicide.
+1. The prosecution standpoint
+a
+Theory of the case. Based upon the available data, state the theory of the case that you
+now think a competent prosecutor should seek to develop. The statement should
+compel the conclusion that Archer is guilty, if the facts assumed are accepted as true.
+It should rely, however, only on those facts that are most likely to be accepted in light
+of the evidence available to the prosecution and the defense. The statement should
+take no more than a paragraph or two.
+b
+Story of the case. On the basis of the theory developed, construct the story that you
+could argue is the only plausible story of what happened. Assuming that further
+investigation did not undermine your provisional theory, this would be the story of
+the evidence that you could recommend that the prosecution develop in her opening
+statement. Again, compress the essential account into a couple of paragraphs.
+c
+Themes for the case. Identify and state the one or, at most, two best themes the
+prosecutor might rely upon in presenting the case, if the provisional theory and story
+withstand further investigation.
+2. The defense standpoint
+Assume the standpoint of counsel for the defendant. Through further interviews,
+counselforthedefensehasalsolearnedthatBoswellwasbitteroverwhatheperceived
+as Vern’s wrongful termination of their partnership and that Carl blamed Vern for
+his only sister’s death. In appraising the case for the defense, you would have made
+an assessment of the prosecution’s case similar to that developed in response to
+item one of this exercise. Now repeat the exercise for the defense (a) stating the
+provisional theory of the case for the defense in narrative form, (b) constructing
+the most plausible story for the defense at this stage, and (c) identifying the one or
+two most promising themes defense counsel might choose to develop.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.007 Published online by Cambridge University Press
+
+
+--- Page 190 ---
+7
+Analyzing the decided case: anatomy
+of a cause c´el`ebre
+A. Introduction
+Rex v. Bywaters and Thompson is one of England’s most famous causes c´el`ebres.
+On January 9, 1923, Frederick Bywaters and Edith Thompson were hanged for the
+murder of Edith’s husband Percy, just three months and six days after his death. The
+case is an example of rough as well as speedy “justice.” Public opinion at the time
+and subsequent commentators have been divided on the question whether Edith
+was guilty as charged and on a number of subsidiary issues.
+In our experience, Bywaters and Thompson is a particularly good vehicle for
+classroom consideration of modiﬁed Wigmorean analysis for several reasons:
+a It is interesting in itself;
+b It is a good test of macroscopic analysis not only because it involves a complex mixed
+mass of evidence, but also because uncertainties about the law relating to aiding and
+abetting, conspiring and incitement, raise challenging questions about precisely what
+it was that the prosecution had to prove in order to establish a case that was sufﬁcient
+to support a conviction in respect of Edith;
+c There were several possible theories of the case available to each side;
+d Several key phases of the evidence, including some passages in Edith’s letters, invite
+careful microscopic analysis; and
+e Some of the key evidentiary issues relate to what Jerome Frank called “wild facts,” that
+is to say issues relating to such elusive matters as motive, intent, the characters and
+relationships of the main actors, and the language of lovers. Edith’s letters in
+particular provide an excellent test of the uses and limitations of careful analysis. As
+one student put it: “If you can analyze Edith’s prose, you can analyze anything.”
+The materials presented here are a selection from the trial record of the proceed-
+ings as published in the Notable British Trials Series (F. Young, 2nd edn., 1951).
+This is only some of the evidence in the case, but it is sufﬁcient for present purposes.
+We recommend that students read through the materials as a whole to orient them-
+selves and to form a general impression and then work systematically through the
+record using the questions at pages 220–23 as a guide. The main disputed issue at
+the trial was and has remained: Was Edith guilty as charged in the ﬁrst indictment?
+The prosecution did not proceed with the second indictment, but it raises some
+interesting issues and provides some clues to the prosecution’s strategy at trial.
+159
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.008 Published online by Cambridge University Press
+
+
+--- Page 191 ---
+160
+Analysis of Evidence
+There is an extensive secondary literature on the case.1 We recommend, however,
+that you work through the material before considering secondary literature, which
+might serve as a diversion from the enterprise of applying modiﬁed Wigmorean
+analysis to a particularly complex and elusive body of evidence and of appraising
+the method in the context of analyzing a decided case.
+OurexperiencehasbeenthatRexv.BywatersandThompson isaparticularlygood
+vehicleforlearninghowtoanalyzeacomplexmixedmassofevidence.Thequestions
+at the end of this chapter are designed to follow the seven step protocol for the chart
+method (Chapter 5, above). The case also provides useful illustrations of several
+points about standpoint, theory and theme, “jugulars,” stories and generalizations
+(see below, Chapter 10), and much else besides. However, many other trial records,
+some rather less complex, are suitable for the purpose. So too are hypothetical
+trial problems such as Wainwright and Weller (below, pages 326–9, 343–78). In
+our experience, the following cases also work well either for discussion in class or
+for written exercises. They are backed up by relevant literature, including the full
+trial record: Sacco and Vanzetti; Leo Frank; Roger Tichborne; New Jersey v. Hauptman
+(the Lindbergh Baby case); Louise Woodward (the Boston nanny case), the Lockerbie
+bombing or O. J. Simpson.2
+B. The trial of Bywaters and Thompson
+(F. Young, ed. 2nd edn, 1951) (excerpts)
+1. Preliminary matter
+a. The indictments
+[Copy Indictment No. 1]
+The King
+Against
+Frederick Edwd. Francis Bywaters
+and Edith Jessie Thompson.
+Central Criminal Court.
+Presentment of the Grand Jury.
+1 See, for example, Weis (1988); Rethinking (1994) Chs. 8 and 9; the powerful novel by F. Tennyson
+Jesse,APintoSeethePeepshow (1934,1979);andWeisandTwininginTwiningandHampsher-Monk
+(2003) Ch. 2.
+2 For bibliographical references see the References section at pages 388–95. The range of usable
+materials is vast. Based on our experience of teaching we recommend the following guidelines
+for selection: (1) Primary materials (e.g. trial records) are preferable to secondary sources; (2)
+The case should be sufﬁciently complex to illustrate the value of macroscopic analysis as a tool of
+fact management; (3) There should be a historical doubt about the outcome. This is important to
+maintainstudentinterestandtoillustratethedialecticsofargument.(4)Itisnotnecessarytoanalyze
+the whole of a complex case. It is enough to identify the ultimate and penultimate probanda and
+competing theories of the case (“the top of the chart”) and then select a few phases of the argument
+for microscopic analysis.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.008 Published online by Cambridge University Press
+
+
+--- Page 192 ---
+Analyzing the decided case: anatomy of a cause c´el`ebre
+161
+F. E. F. Bywaters and E. J. Thompson are charged with
+the following offence: –
+STATEMENT OF OFFENCE.
+MURDER.
+Particulars of Offence.
+F. E. F. Bywaters and E. J. Thompson on the 4th day of October, 1922,
+in the County of Essex, and within the jurisdiction of the Central Criminal Court
+murdered Percy Thompson.
+[Copy Indictment No. 2] 3
+The King
+Against
+Frederick Edwd. Francis Bywaters
+and Edith Jessie Thompson.
+Central Criminal Court.
+Presentment of the Grand Jury.
+F. E. F. Bywaters and E. J. Thompson are charged with
+the following offences: –
+FIRST COUNT:
+STATEMENT OF OFFENCE.
+Conspiracy to Murder contrary to sec. 4 of the Offences against the Person Act,
+1861.
+Particulars of Offence.
+F. E. F. Bywaters andE. J. Thompson onthe20thdayofAugust,1921,and
+on divers days between that date and the 2nd day of October, 1922, in the County of
+Essex, and within the jurisdiction of the Central Criminal Court, conspired together
+to murder Percy Thompson.
+SECOND COUNT:
+STATEMENT OF OFFENCE.
+Soliciting to Murder contrary to sec. 4 of the Offences against the Person
+Act 1861.
+Particulars of Offence.
+E. J. Thompson on the 10th day of February, 1922, and on divers days
+between that day and the 1st day of October, 1922, in the County of Essex, and
+within the jurisdiction of the Central Criminal Court, did solicit and endeav-
+our to persuade and did propose to F. E. F. Bywaters to murder Percy
+Thompson.
+3 Indictment No. 2 was not proceeded with.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.008 Published online by Cambridge University Press
+
+
+--- Page 193 ---
+162
+Analysis of Evidence
+THIRD COUNT:
+STATEMENT OF OFFENCE.
+Inciting to commit a misdemeanour.
+Particulars of Offence.
+E. J. Thompson on the 10th day of February, 1922, and on divers days between
+that day and the 1st day of October, 1922, in the County of Essex, and within the
+jurisdiction of the Central Criminal Court, did unlawfully solicit and incite F. E. F.
+Bywaters unlawfully to conspire with her, the said E. J. Thompson, to murder
+Percy Thompson.
+FOURTH COUNT:
+STATEMENT OF OFFENCE.
+Administering poison with intent to murder contrary to sec. 11 of the Offences
+against the Person Act, 1861.
+Particulars of Offence.
+E. J. Thompson on the 26th day of March, 1922, in the County of Essex, and
+within the jurisdiction of the Central Criminal Court, did administer to and cause
+to be taken by Percy Thompson certain poison or other destructive thing unknown
+with intent to murder the said Percy Thompson.
+FIFTH COUNT:
+STATEMENT OF OFFENCE.
+Administering a destructive thing with intent to murder contrary to sec. 11 of
+the Offences against the Person Act, 1861.
+Particulars of Offence.
+E. J. Thompson on the 24th day of April, 1922, in the County of Essex, and
+within the jurisdiction of the Central Criminal Court, did administer to and cause
+to be taken by Percy Thompson a certain destructive thing, namely, broken glass,
+with intent to murder the said Percy Thompson.
+b. Dramatis personae
+The Trial
+Within The
+Central Criminal Court,
+Old Bailey, London,
+Wednesday 6th December, 1922.
+Judge –
+Mr. Justice Shearman.
+Counsel for the Crown –
+The Solicitor-General,
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.008 Published online by Cambridge University Press
+
+
+--- Page 194 ---
+Analyzing the decided case: anatomy of a cause c´el`ebre
+163
+Mr. Travers Humphreys.
+Mr. Roland Oliver.
+(Instructed by the Director of Public Prosecutions.)
+Counsel for the Prisoner Frederick Bywaters –
+Mr. Cecil Whiteley, K. C.
+Mr. Huntly Jenkins.
+Mr. Myles Elliott.
+(Instructed by Mr. Barrington Matthews.)
+Counsel for the Prisoner Edith Thompson –
+Sir Henry Curtis Bennett, K. C.
+Mr. Walter Frampton.
+Mr. Ivor Snell.
+(Instructed by Mr. F. A. S. Stern.)
+c. Leading dates in the case
+1914
+– Edith Graydon employed at Carlton & White’s, London.
+1915 Jan. 15
+– Percy Thompson married to Edith Graydon.
+1918 Feb.
+– Frederick Bywaters joins Merchant Service.
+1920 July
+– The Thompsons move to 41 Kensington Gardens, Ilford.
+1921 June
+– Bywaters goes with them to Shanklin, I.O.W.
+1921 June 18
+– He returns to live with them as a lodger.
+1921 Aug. 5
+– He quarrels with Thompson and leaves.
+1921 Sept. 9
+– He leaves in S.S. Morea for the East (Correspondence
+between Bywaters and Mrs. Thompson).
+1921 Oct. 29
+– Bywaters returns to England.
+1921 Nov. 3
+– He visits the Thompsons.
+1921 Dec. 1 I
+– He sails again in the Morea (Correspondence continued).
+1922 Jan. 6
+– He returns home.
+1922 Jan. 20
+– He sails again.
+1922 Feb.
+1922 March
+– Correspondence continued.
+– Correspondence continued.
+1922 March 16
+– Bywaters returns home.
+1922 March 31
+1922 April
+1922 March
+– Bywaters sails again in the Morea.
+– Correspondence continued.
+– Correspondence continued.
+1922 May 25
+– Bywaters returns in the Morea.
+1922 June 9
+– Bywaters sails again for the East.
+1922 July
+1922 August
+– Correspondence continued.
+– Correspondence continued.
+1922 Sept. 23
+– Bywaters arrives at Tilbury, works on ship, and sleeps
+at home.
+1922 Sept. 25
+– He meets Mrs. Thompson.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.008 Published online by Cambridge University Press
+
+
+--- Page 195 ---
+164
+Analysis of Evidence
+1922 Sept. 29
+– He leaves ship and goes to his mother’s home.
+1922 Oct. 2
+– He meets Mrs. Thompson by appointment.
+1922 Oct. 3
+– They have tea at Fuller’s, and leave together at 5.15 p.m.
+The Thompsons go to the theatre.
+Bywaters spends the evening at the Graydons, and
+leaves about 11 p.m.
+Percy Thompson murdered at Ilford about midnight.
+1922 Oct. 4
+– Mrs. Thompson visited by police 3 a.m.
+Bywaters arrives at his mother’s house early a.m.
+He goes to town.
+He spends the evening at the Graydons, where he is arrested.
+Statement to police.
+Mrs. Thompson arrested.
+1922 Oct. 5
+– She makes a statement.
+Post-mortem on the body of Thompson.
+Bywaters is charged, and makes a second statement.
+1922 Oct. 9
+1922 Oct. 12
+1922 Nov. 3
+1922 Nov.
+– Knife found in Seymour Gardens.
+– Letters found in Bywaters’ chest on board S.S. Morea.
+– Thompson’s body exhumed. Post-mortem.
+– Bywaters and Mrs. Thompson before Magistrate.
+Committed for trial.
+1922Dec.6–11
+1922 Dec. 21
+– Trial at the Old Bailey.
+– Appeals of Bywaters and Mrs. Thompson heard and
+dismissed.
+1923 Jan. 9
+– Frederick Bywaters hanged at Pentonville.
+Edith Thompson hanged at Holloway.
+2. The judgment on Thompson’s appeal: Rex v. Thompson (1922)
+Royal Courts of Justice, Thursday, 21st December, 1922.
+Court of Criminal Appeal.
+Rex
+v.
+Edith Jessie Thompson.
+Before – The Lord Chief Justice of England,
+Mr. Justice Darling, and
+Mr. Justice Salter.
+Judgment
+The Lord Chief Justice – This appellant, Edith Jessie Thompson, was convicted
+at the Central Criminal Court, together with the last appellant, Frederick Edward
+Francis Bywaters, of the wilful murder of Percy Thompson, and she was sentenced
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.008 Published online by Cambridge University Press
+
+
+--- Page 196 ---
+Analyzing the decided case: anatomy of a cause c´el`ebre
+165
+to death. She now appeals against conviction. The charge against her was in point
+of law that she was what is called a principal in the second degree; that is to say, that
+she was a person present at the commission of the offence who aided and abetted
+the commission of the offence, and, to put it in a slightly different way, the point
+of the charge against this woman was that she incited and aided and abetted the
+commission of this crime upon the night of the 3rd day of October. Now, before I
+come to deal with the argument that has been presented on behalf of the appellant
+by Sir Henry Curtis Bennett, it is necessary, as shortly as possible, to review some of
+the facts of this essentially commonplace and unedifying case. The appellant, Edith
+Jessie Thompson, is twenty-nine years of age. She is the daughter of a Mr. Graydon,
+and seven years ago she married Mr. Percy Thompson, the man now dead, the only
+person who in this case excites any sympathy.
+At the time of his death he was thirty-two years of age. They lived in a part
+of a house at Ilford, called No. 41 Kensington Gardens; and the evidence was
+that the appellant and her husband were not on good terms with each other. She
+was employed as manageress of a ﬁrm of milliners in Aldersgate Street, where she
+received a salary of £6 a week in addition to a bonus. Some time ago, a considerable
+time ago, the appellant made the acquaintance of Bywaters, a young steward on a
+liner, whose case was dealt with this morning. He had stayed with them elsewhere
+and in their own house, and it is quite obvious from many portions of the evidence
+that the terms upon which she and Bywaters had come to be, long before the 3rd
+October of this year, were terms of the most culpable intimacy. Bywaters was from
+time to time absent on his ship. It is not necessary even for the sake of clearness to
+examine closely the chronology in the case; but there were periods when he was at
+home and there were periods when he was away, and the periods when he was away
+are to a great extent covered by a remarkable and deplorable correspondence, full
+of the most mischievous and perilous stuff. In August of last year Bywaters, accord-
+ing to the evidence, made a statement to his mother about the unhappy life of
+Mrs. Thompson, and the evidence showed, if the jury accepted it, as they appar-
+ently did, that on more than one occasion Bywaters had called at the warehouse
+where Mrs. Thompson was employed, that he had kept up this protracted corre-
+spondence with her. The letters which are actually made exhibits began with the
+11th of August, 1921, and they continue right down to the 2nd October, 1922 – that
+is to say, the day before the commission of the crime – and the evidence further was
+that after an absence of some weeks, Bywaters began a new period of leave on the
+29th September last. There was evidence that he was with the appellant at a neigh-
+bouring teashop upon that day; and again upon Tuesday, the 3rd day of October.
+That was the day upon which the crime was committed. On that Tuesday, the 3rd
+October, the appellant and her husband went to a theatre with the husband’s uncle,
+Mr. Laxton. Upon that same evening Bywaters went to the house of the appellant’s
+father; and it appears to have been mentioned at that house that the Thompsons had
+gone to the theatre. Bywaters left about ten o’clock or a little after ten. Somewhat
+later the appellant and her husband, with Mr. Laxton, went to the Piccadilly Tube
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.008 Published online by Cambridge University Press
+
+
+--- Page 197 ---
+166
+Analysis of Evidence
+station, about a quarter to eleven. There, it was said, they were apparently on
+good terms, and it is clear from what followed that they made their way home by
+train to Ilford. Shortly before midnight a Miss Pittard was walking with Mr. and
+Mrs. Clevely from Ilford station, and their way took them through a road called
+Belgrave Road, and when they were between De Vere Gardens and Endsleigh
+Gardens, both places not far from Kensington Gardens, where the Thompsons’
+own house was, Mrs. Thompson came running to him. She was agitated and inco-
+herent. She said – “Oh, my God, will you help me, my husband is ill; he is bleeding.”
+And she said he was on the pavement and asked those persons to go or take her
+and get a doctor. They took her to the house of a doctor, Dr. Maudsley, and then
+Mrs. Thompson ran back. A witness was called named Webber, who lived about 30
+or 40 yards away from that place, and he said that as he was going to bed he heard a
+woman’s voice, a voice which he now recognised as Mrs. Thompson’s voice, calling
+in piteous tones, “Oh, don’t, don’t.” He went outside, and three or four minutes
+later he saw three persons coming from Dr. Maudsley’s house. Mrs. Thompson
+was in front running and sobbing. He followed, and found Mrs. Thompson and
+Mr. Thompson. He asked her if he could help, and she said, “Don’t touch him, don’t
+touch him; a lady and a gentleman have gone off for a doctor.” Miss Pittard and
+Mr. Clevely then came up, and they found the appellant kneeling down by
+Mr. Thompson, who was lying upon the footpath in Belgrave Road with his back
+propped against the wall. The place was dark. Mr. Clevely struck a match, and Miss
+PittardaskedMrs.Thompsonwhathadhappened;andtheappellantanswered,“Oh,
+do not ask me; I do not know. Somebody ﬂew past, and when I turned to speak
+to him blood was pouring out of his mouth.” A few minutes later Dr. Maudsley
+arrived, and he found that Mr. Thompson was dead. He thought he had been dead
+then about ten minutes. Mrs. Thompson was standing by his side, and he described
+her as being confused, hysterical, and agitated. He asked her if Mr. Thompson
+had been ill coming home, and she said “No.” He told her that Mr. Thompson was
+dead, and she said, “Why did not you come sooner and save him?” The doctor made
+no examination then. He saw the blood. He did not see any wound, but he sent for
+thepolice.Apolice sergeant took the appellant to herhouse,andonthewayshesaid,
+“Willhecomeback?Theywillblamemeforthis.”Now,theplacewherethebodywas
+found was about 50 yards from the Thompsons’ house and 1250 yards from Ilford
+station.Itwasanindirectwayfromthestationtothehouse.Thepolicecame,tookthe
+body to the mortuary and undressed it, and it was examined; and a great number of
+wounds were found upon it. The most serious wounds were three stabs, apparently
+inﬂicted from behind, one of which penetrated down to and opened the gullet.
+Mr. Thompson’s brother was sent for, and shortly before two o’clock in the
+morning he arrived at Mrs. Thompson’s house. She told her brother-in-law that
+Mr. Thompson was walking along and suddenly came over queer and said “Oh!”
+and that on the way from the station he had complained of pains in his legs, and
+that she had met a lady and gentleman and had gone for a doctor, and when they
+got back he was dead.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.008 Published online by Cambridge University Press
+
+
+--- Page 198 ---
+Analyzing the decided case: anatomy of a cause c´el`ebre
+167
+At three o’clock in the morning two police sergeants went to Mrs. Thompson’s
+house and saw her. She was asked if she could explain what had happened on the
+road, and she said, “I do not know, I cannot say; I only know that my husband
+suddenly dropped down and screamed out ‘Oh!’ I then rushed across the road and
+saw a lady and gentleman, and asked them if they would help me, and they went
+with me for the doctor.” She was asked whether she could account for the cuts on
+her husband’s neck, and she said, “No. We were walking along, and my husband
+said ‘Oh,’ and I said ‘Bear up,’ thinking he had one of his attacks.” He then fell on
+her, and walked a little further. He then fell up against the wall and then on the
+ground. She was asked if her husband carried a knife, and she said “No.” She was
+asked if she was carrying a knife in her handbag, and she said “No.” She was also
+asked if she or her husband saw or spoke to any person in Belgrave Road, and she
+said, “No; I did not notice any one.” About eleven o’clock in the morning of the
+4th October Inspector Hall saw Mrs. Thompson at her house, and she told him:
+“We were coming along Belgrave Road and just passed the corner of Endsleigh
+Gardens when I heard him call out, ‘Oh, er,’ and he fell up against me. I put out my
+arms to save him, and found blood which I thought was coming from his mouth.
+I tried to hold him up. He staggered for several yards towards Kensington Gardens
+and then fell against the wall and slid down. He did not speak to me; I cannot
+say if I spoke to him. I felt him, and found his clothing wet with blood. He never
+moved after he fell. We had no quarrel on the way; we were quite happy together.
+Immediately I saw blood I ran across the road to a doctor’s. I appealed to a lady
+and gentleman who were passing, and the gentleman also went to the doctor’s. The
+doctor came and told me my husband was dead. Just before he fell down I was
+walking on his right hand side on the inside of the pavement nearest the wall. We
+were side by side. I did not see anybody about at the time. My husband and I were
+talkingaboutgoingtoadance.”ThateveningMrs.Thompsonwastakentothepolice
+station, and on the 5th October she made a statement which became exhibit No. 3 at
+the trial. I shall not read it all; but it is to be observed that in that statement made
+when she went to the police station she says this: “I have always been on affectionate
+terms with my husband. I remember Tuesday, the 3rd October, we both went to
+our respective businesses that day; I met my husband by appointment at a quarter
+to six in Aldersgate Street.” She then describes how they went to the theatre and
+how they came home; and then she describes or purports to describe what took
+place, and she says, amongst other things, this – “I cannot remember whether I
+saw any one else there or not. I know there was no one there when he staggered
+up against me.” She went on to speak of Bywaters and her knowledge of Bywaters.
+She said, “I am not in possession of any letters he wrote to me. I have destroyed
+them all, as is customary with me with all my correspondence. When he was at
+home in England we were in the habit of going out occasionally together without
+my husband’s knowledge.” According to that statement she had not seen Bywaters
+that night; she did not associate Bywaters with what had taken place, and she was on
+good terms with Mr. Thompson, her husband. Now it happened that at the police
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.008 Published online by Cambridge University Press
+
+
+--- Page 199 ---
+168
+Analysis of Evidence
+station she saw Bywaters, who had been taken to the police station, and was in the
+library as she passed, and she then said, “Oh God, oh God, what can I do? Why
+did he do it? I did not want him to do it. I must tell the truth.” And then she made
+a further statement, which is exhibit No. 4. In that short statement she said this –
+“When we got near Endsleigh Gardens a man rushed out from the Gardens and
+knocked me and pushed me away from my husband. I was dazed for a moment.
+When I recovered I saw my husband scufﬂing with a man. The man who I know as
+Freddie Bywaters was running away. He was wearing a blue overcoat and a grey hat.
+I knew it was him although I did not see his face.” The two were afterwards charged
+together. The knife with which these wounds had been inﬂicted was found in a
+neighbouring drain, and I do not think I need dwell upon the rest of the evidence.
+Dr. Spilsbury said that all the wounds except the one on the arm of Mr. Thompson
+were stabs.
+The appellant Bywaters gave evidence ﬁrst, and Mrs. Thompson gave evidence,
+and I shall have to refer in a moment to the denials she made. She said, among
+other things, that she ﬁrst fell in love with Bywaters in September, 1921, and that
+she had told her husband that she had given him cause for divorce. The jury, having
+heard the whole of the evidence, both that which I have summarised and much else,
+came to the conclusion that the appellant was guilty of wilful murder.
+Now, what are the pleas that are put forward on behalf of the appellant in this
+appeal? Sir Henry Curtis Bennett at the outset stated, and very frankly stated, that
+before he came into Court this morning he had decided to abandon that ground of
+appeal which rested upon the allegation that this appellant and Bywaters ought to
+have been tried separately, but were in fact tried together. That ground of appeal is
+not persisted in. But Sir Henry says – he puts it in more than one way, but it is really
+the same contention illustrated and sought to be enforced from different points of
+view – that in order that this appellant might properly be convicted of this crime
+there ought to be evidence showing not merely that as between her and Bywaters
+there was a community of purpose in this matter, but that that community of
+purpose continued right up to the crucial moment when the crime was committed;
+and in regard to that complaint Sir Henry relies especially upon two matters. He
+relies ﬁrst upon the letters and the use to which they were put or not put; and
+secondly, he relies upon certain portions in the summing up, where he says the
+learned judge not only misdirected the jury in the sense of inviting them to ﬁnd
+what they could not ﬁnd, but also omitted to direct the jury in the sense that
+he did not adequately put before the jury what the defence of the appellant was.
+With regard to the letters, in the opinion of this Court there was more than one
+ground upon which the use of these letters could be justiﬁed. It is enough for the
+present purpose to say that they could be justiﬁed upon this ground – that by
+means of them the prosecution were seeking to show that continuously over a long
+period, beginning before and culminating in the time immediately antecedent to
+the commission of the crime, Mrs. Thompson was, with every sort of ingenuity, by
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.008 Published online by Cambridge University Press
+
+
+--- Page 200 ---
+Analyzing the decided case: anatomy of a cause c´el`ebre
+169
+precept and by example, actual or simulated, endeavouring to incite Bywaters to
+the commission of this crime. I am not going to read those letters. There is a great
+mass of them. Many of them were read at the trial. They begin in the summer of
+1921, and they continue until the 2nd October, 1922; that is to say, they continue
+until the day before the day upon which this crime was committed. Now, what is it
+that those letters may reasonably be regarded as showing? First of all, they show a
+passionate and, in the circumstances, a wicked affection between Mrs. Thompson
+and Bywaters. Secondly, they contain what purport to be accounts of efforts which
+have been made, sometimes without the assistance of Bywaters, sometimes with the
+assistance of Bywaters, to get Mr. Thompson out of the way. Thirdly – and this is
+a thread that runs through the whole skein of these letters – there is the continual
+entreaty and hope that that which they both desire will somehow be accomplished.
+Now, in the opinion of the Court, the theory that these letters, so far as they purport
+to describe attempts made upon the life of Mr. Thompson, are mere nonsense –
+“Vapour,” as Bywaters calls them – “Melodramatic nonsense,” as learned counsel
+has thought ﬁt to call them – is a theory which cannot be accepted. But however that
+may be, if the question is, as I think it was, whether these letters were evidence of a
+protracted, continuous incitement to Bywaters to commit the crime which he did in
+the end commit, it really is of comparatively little importance whether the appellant
+was truly reporting something which she had done, or falsely reporting something
+which she merely pretended to do. I am not going to read them; it is not necessary;
+but reference may, perhaps, be made to one of them, which is the last. By this time
+Bywaters was back in this country. The appellant and Bywaters were meeting. They
+had ample opportunity of conversation and arrangement of any plan in which they
+might be interested; and upon the 2nd of October the appellant wrote to him – “I
+tried so hard to ﬁnd a way out of to-night, darlingest, but he was suspicious and still
+is. . . . We ought to be able to use great big things for great big love like ours.” And
+again – “Darlint, it is funds that are our stumbling block – until we have those, we
+can do nothing.” That is not the only passage in the later correspondence in which
+the appellant refers to the importance of money. Then she goes on – “Darlint do
+something to-morrow night will you? something to make you forget. I’ll be hurt I
+know, but I want you to hurt me – I do really – the bargain now seems so one-sided –
+so unfair – but how can I alter it.” And ﬁnally, the last passage – “Don’t forget what
+we talked in the tearoom. I’ll still risk and try if you will – we only have 33/4 years left
+darlingest.” Now, it cannot be said that those letters were not evidence against the
+appellantinsupportofthechargewhichtheprosecutionweremakingupagainsther.
+Taking that long summing up as a whole, and reading one part with the rest of
+what the learned judge says, in the opinion of this Court it is not possible to found
+upon it any unfavourable criticism. The case was clearly put before the jury. There
+was simple evidence, partly direct evidence, partly evidence from which inference
+might properly be drawn; and upon that evidence, in a case which exhibits from
+beginning to end no redeeming feature, the members of the jury have convicted
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.008 Published online by Cambridge University Press
+
+
+--- Page 201 ---
+170
+Analysis of Evidence
+the appellant. In the opinion of this Court there is no reason to interfere with that
+conviction, and this appeal must be dismissed.
+3. Evidence from the trial: the Prosecution
+a. Extracts from testimony (including statements made by the accused)
+Examination of John Hancock
+John Hancock, examined by Mr. Travers Humphreys – I am a detective
+constable. I received a number of letters from Inspector Hall, which I examined
+and had copied. There were also a number of newspaper cuttings in some of the
+letters. On 9th October I found a knife (exhibit No. 1) in a drain on the north side
+of Seymour Gardens, Ilford, about 250 yards from Kensington Gardens, Ilford. I
+handed it to Inspector Hall. I did not ﬁnd any sheath. It is an English knife. I received
+three letters from the witness Miss Jacobs (exhibits 14, 30, and 51). These letters are
+signed by Bywaters. I searched the house at 41 Kensington Gardens, and I found a
+bottle (exhibit 61) in a small drawer in Mr. and Mrs. Thompson’s bedroom. It has a
+label, “Aromatic tincture of opium.” I handed the bottle to Mr. Webster, the analyst.
+Cross-examined by Sir H. Curtis Bennett – Altogether I found 62 letters,
+including telegrams, and of these 32 have been put in as exhibits in this case. In the
+different letters there were some 50 enclosures, cuttings from newspapers, referring
+to a variety of subjects. Of those cuttings about ten referred to cases which were
+more or less in the public eye at the time. I have with me a list of the names of the
+cuttings. It includes the following: –
+The Poisoned Curate.
+Women who Hate all Men.
+Curate’s Household of Three.
+Do Men like Red Haired Women?
+Helping the Doctor.
+Does Courtship Cost too Much?
+The Poisoned Curate.
+Do Women Fail as Friends?
+Drugs for Brother in Hospital.
+Advent of Loveless Women.
+Event of the Season.
+University Mystery.
+Two Women.
+False Friendship.
+Battle of Calves and Ankles.
+An Ideal Love Letter.
+Patient killed by Over-dose.
+Women on the Rack.
+Girl’s Drug Injection.
+Women who Always Act.
+Fuel Control and Love-making.
+Girl’s Death Riddle.
+Holiday Death Pact.
+Men and Marriage.
+My Sweet Offer.
+Masterful men.
+Flat Mystery.
+Winner Her; Winning Him
+Their Married Life.
+Asking her twice.
+Rather the Devil for a Father.
+July Marriages.
+Defence in Disputed Baby Case.
+The Wedding Season.
+Crimes against Love.
+Keeping Her.
+Chicken Broth Death.
+What does She Do with Him?
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.008 Published online by Cambridge University Press
+
+
+--- Page 202 ---
+Analyzing the decided case: anatomy of a cause c´el`ebre
+171
+Poisoned Chocolates.
+Do Women Dislike the Truth?
+Do not Marry a Genius.
+Dangerous Women.
+Woman the Consoler.
+The Ideal Dance Partner.
+The Best Wines that I have drunk.
+Thelittlebottlewhichhasbeenproduced,containingaromatictinctureofopium,
+was found by me in the small drawer in the chest of drawers in the bedroom which
+was occupied by both Mr. and Mrs. Thompson. I did not see any of Mr. Thompson’s
+collars and ties in that drawer. It contained envelopes, notepaper, photographs, and
+gloves. I could not say whether it was his drawer or her drawer.
+Examination of Richard Sellars
+Richard Sellars, examined by Mr. Travers Humphreys – I am a divi-
+sional detective inspector of police, K. Division. At 11 a.m. on 4th October I saw
+Mrs. Thompson at her house, 41 Kensington Gardens, Ilford. I said to her, “I am an
+inspector of police. I understand you were with your husband early this morning
+in Belgrave Road. I am satisﬁed he was assaulted and stabbed several times.” She
+said, “We were coming along Belgrave Road, and just past the corner of Endsleigh
+Gardens, when I heard him call out, ‘Oh-er,’ and he fell up against me. I put out
+my arms to save him, and found blood, which I thought was coming from his
+mouth. I tried to help him up. He staggered for several yards towards Kensington
+Gardens, and then fell against the wall and slid down; he did not speak to me. I
+cannot say if I spoke to him. I felt him, and found his clothing wet with blood.
+He never moved after he fell. We had no quarrel on the way; we were quite happy
+together. Immediately I saw blood I ran across the road to a doctor’s. I appealed
+to a lady and gentleman who were passing, and the gentleman also went to the
+doctor’s. The doctor came, and told me my husband was dead. Just before he fell
+down I was walking on his right hand side, on the inside of the pavement, nearest
+the wall. We were side by side. I did not see anybody about at the time. My husband
+and I were talking about going to a dance.” At that time Mrs. Thompson was in an
+agitated condition. About 7 p.m. on the same day I saw the prisoner Bywaters at
+the Ilford police station, and took possession of the overcoat he was wearing, which
+is the one now produced. I saw Mrs. Thompson again a little later in the same
+evening, after she had made her ﬁrst statement to me, and I afterwards took her
+to the Ilford police station. I spoke to her again on the next day, 5th October, and
+asked her if she would give me any further information regarding her husband’s
+assailant. She said, “I will tell you if I possibly can,” and she made a voluntary state-
+ment which was typewritten, read, and signed (exhibit No. 3). That statement is as
+follows: –
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.008 Published online by Cambridge University Press
+
+
+--- Page 203 ---
+172
+Analysis of Evidence
+Statement of Edith Jessie Thompson
+Edith Jessie Thompson, 41 Kensington Gardens, Ilford, age 28, married,
+states –
+My husband’s name is Percy Thompson. He is a shipping clerk employed by
+Messrs. O. J. Parker & Co., Peel House, Eastcheap, E. C.
+I am employed by Carlton & Prior, millinery manufacturers, 168 Aldersgate
+Street, E.C., as a book-keeper. We have been married six years and have no family.
+We were married in the beginning of the year 1916. In that year my husband
+joined the London Scottish Regiment, he was discharged as medically unﬁt a few
+months later and did no foreign service. I have always been on affectionate terms
+with my husband. I remember Tuesday, 3rd October 1922. We both went to our
+respective businesses that day. I met my husband by appointment at a quarter to
+six, in Aldersgate Street, that day, we went to the Criterion Theatre, we there met
+my uncle and aunt, Mr. and Mrs. J. Laxton, we left the Theatre about 11 p.m., we
+all four went to the Piccadilly Circus Tube, we there separated, my husband and I
+went to Liverpool Street, and we caught the 11.30 train to Ilford, we arrived at Ilford
+about 12 o’clock, we then proceeded along York Road, Belgrave Road and when we
+got between De Vere and Endsleigh Gardens, (we were walking on the right hand
+side) my husband suddenly went into the roadway, I went after him, and he fell
+up against me, and called out “oo-er.” He was staggering, he was bleeding, and I
+thought that the blood was coming from his mouth. I cannot remember whether
+I saw anyone else there or not. I know there was none there when he staggered up
+against me. I got hold of my husband with both hands and assisted him to get up
+against the wall. He stood there for about a minute or two and then slid down on to
+the footway, he never spoke, I fell on the ground with him. I cannot remember if I
+shouted out or not. I got up off the ground and ran along to Courtland Avenue, with
+the intention of calling Dr. Maudsley, but on the way I met a lady and a gentleman
+and I said to them something to this effect, “Can I get a doctor or help me, my
+husband is ill.” The gentleman said, “I will go for the doctor.” Dr. Maudsley arrived
+shortly after, although it seemed a long time. The doctor examined my husband
+and said that he was dead. An ambulance was sent for and the body was removed.
+I was accompanied to my home by two Police Ofﬁcers.
+I know Freddie Bywaters, I have known him for several years; we were at school
+together, at least I wasn’t but my two brothers were. He is residing with his widowed
+mother at 11 Westow St., Norwood. He is a ship’s writer and periodically goes away
+to sea. He has been for a very long time on visiting terms with my family. In June,
+1921, Bywaters came to reside with my husband and myself at No. 41 Kensington
+Gardens. He came as a paying guest. I think he paid 25s. or 27s. 6d. per week. He
+was with us up to the beginning of August, 1921. I remember August Bank Holiday,
+1921. My husband and I quarrelled about something, he struck me. I knocked a
+chair over. Freddie came in and interfered on my behalf. I left the room and I do
+not know what transpired between them. As far as my recollection goes, Freddie
+left on the following Friday, but before he left my husband and he were friends
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.008 Published online by Cambridge University Press
+
+
+--- Page 204 ---
+Analyzing the decided case: anatomy of a cause c´el`ebre
+173
+again. We have been in the habit of corresponding with one another. His letters to
+me and mine to him were couched in affectionate terms. I am not in possession of
+any letters he writes to me. I have destroyed all as is customary with me with all
+my correspondence. The letters shown to me by Inspector Hall and addressed to
+Mr. F. Bywaters are some of the letters that I wrote to Freddie, and were written to
+him without my husband’s consent. When he was at home in England, we were in
+the habit of going out occasionally together without my husband’s knowledge.
+This statement has been read over to me. It is voluntary and it is true.
+(Sgd.) Edith Thompson
+Examination of Richard Sellars, Continued
+After making that statement, Mrs. Thompson and I left the room; I took her to the
+matron’s room. In doing so we passed the library, where Bywaters was detained.
+She saw him as she passed, and she said, “Oh, God; oh, God, what can I do? Why
+did he do it? I did not want him to do it.” She further said almost immediately
+after, “I must tell the truth.” She was hysterical, and I said, “You realise what you
+are saying; what you might say may be used in evidence.” She then proceeded to
+make a statement, which again was written down and signed (exhibit No. 4). It is as
+follows: –
+Statement of Edith Thompson
+When we got near Endsleigh Gardens a man rushed out from the Gardens and
+knockedmeawayandpushedmeawayfrommyhusband.Iwasdazedforamoment.
+When I recovered I saw my husband scufﬂing with a man. The man whom I know
+as Freddie Bywaters was running away. He was wearing a blue overcoat and a grey
+hat. I knew it was him although I did not see his face.
+Examination of Richard Sellars, Continued
+After taking Bywaters’ coat from him, it was examined by Dr. Drought, and after he
+had examined it I said to Bywaters, “We shall detain you and retain possession of
+your overcoat.” He said, “Why, I know nothing about it.” He commenced to speak
+further, and I said, “If you wish to make a statement, it will be better to put it in
+writing.” I cautioned him, and he made a statement which he signed in my presence
+(exhibit No. 5).
+Statement of Frederick Edward Francis Bywaters
+4th October, 1922.
+Frederick Edward Francis Bywaters, 11 Westow Street, Upper
+Norwood, aged 20, Laundry Steward, states –
+I have known Mr. Percy Thompson for about four years and his wife, Edith, for
+about 7 years. Mr. Thompson is a shipping clerk; his wife is in a millinery business,
+and they reside at 41 Kensington Gardens, Ilford. I stayed with them from June
+18th, 1921, to the 1st August, 1921. The ﬁrst week that I was there, I was there as
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.008 Published online by Cambridge University Press

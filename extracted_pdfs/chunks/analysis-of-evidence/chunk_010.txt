@@ -1,0 +1,844 @@
+# Chunk 10 of 26
+# Document: Analysis of Evidence
+# Characters: 49163
+
+--- Page 157 ---
+126
+Analysis of Evidence
+Thus, from the indictment the ultimate probandum can be formulated:
+1 Richard Able (“RA”) knowingly ﬁled a false federal tax return for the year 2003 (“the
+2003 return”) with intent to defraud the government of income tax due and owing on
+not less than $45,000.
+Step 3. Formulate the potential penultimate probanda. The ultimate probandum for
+United States v. Able can be divided into seven penultimate probanda:
+2 RA knowingly ﬁled a false income tax return for the year 2003.
+3 RA ﬁled a tax return for the year 2003.
+4 The tax return that RA ﬁled for 2003 was false.
+5 RA knew his 2003 tax return was false when he ﬁled it.
+6 At the time RA ﬁled his 2003 tax return, he intended to defraud the government of
+income tax due and owing on not less than $45,000.
+7 RA owed the government taxes on an additional $45,000 at the time he ﬁled his 2003
+tax return.
+8 RA intended to defraud the government of the taxes due and owing at the time he
+ﬁled his 2003 tax return.
+In United States v. Able the law was reasonably clear. However, situations often
+arise in which it is not certain how a court will interpret the applicable law. For
+instance, in Sargent (page 28) it is not clear how a court will interpret the insurance
+policy: Would being killed by a bear or dying from starvation count as an “accidental
+injury”? Such questions need to be researched, but if research does not provide a
+clear answer, how is the analyst to proceed? There is no easy way out. As a rule
+of thumb one needs to prepare alternative arguments based on “pessimistic” and
+“optimistic” interpretations of the applicable law, bearing in mind that the most
+pessimistic interpretation is likely to be the foundation for the strongest case that
+one’s opponent is likely to present.
+Step 4. Formulate the provisional theories of the case (and choose the strategic ulti-
+mate, penultimate, and intermediate probanda that best ﬁt the theory or theories).
+For any case, the analyst must formulate what she sees as the strongest provisional
+theories of the case for both sides. This is necessary for two reasons. First, the advo-
+cate needs to know the theory she is most likely to confront in order to assess how
+the evidence will be marshaled against her client. Second, if the opposing theory
+is not developed, the advocate may wind up developing a theory that misses the
+point, a theory that attacks a “straw man.”4
+4 If the problem is a complex one involving a mixed mass of evidence, it is likely that there will be a
+range of possible theories each of which would lead the analysis in signiﬁcantly different directions.
+In order to make the task manageable, it may be necessary to eliminate some possibilities and
+concentrate on one or more speciﬁc theories. Even historians and scientists do not have inﬁnite
+resources to pursue endless lines of inquiry. Typically advocates have to settle for one theory (or at
+least a limited number) at a fairly early stage. The precise timing of such choices naturally varies
+according to circumstance. On the relationship between stories, theories, and themes see Ch. 10
+below.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.006 Published online by Cambridge University Press
+
+
+--- Page 158 ---
+The chart method
+127
+Thus, for United States v. Able, in order to effectively develop a theory for the
+defense, we need to identify the theory that the prosecutors are likely to adopt. For
+the government in Able, the theory is likely to be:
+Prior to leaving practice in 2002, RA was earning more than $450,000 per year.
+When he became a professor, his income dropped precipitously. The amount
+he needed to support the lifestyle he wanted to maintain and meet his other
+obligations exceeded the amount that the law school paid him. His income for
+2003 was $170,000 – $125,000 from the law school and $45,000 in fees. In order
+to avoid paying the additional amount that was due as a result of the $45,000 in
+fees he had received, RA ﬁled a false tax return that only reported the $125,000 he
+had earned as salary and from which an amount sufﬁcient to satisfy the taxes due
+on that amount had been withheld. Thus, RA knowingly ﬁled a false tax return
+for 2003 with intent to defraud the federal government of the taxes that were due
+and owing on the additional $45,000 he had received as fees.
+Given the probable theory the government will adopt, the strongest provisional
+theory for Able might be:
+RA fully disclosed all his income to Timothy Cooper, his accountant, and relied
+upon Cooper to prepare and ﬁle his pre-signed return. RA informed Cooper he
+had received $125,000 in salary from the law school at their ﬁrst meeting. On
+April 12, his girlfriend, Jane Evans, delivered a letter to Cooper’s ofﬁce advising
+him that RA had also earned $45,000 in fees. With that letter RA enclosed a blank
+tax return that he had signed and a signed check payable to the Internal Revenue
+Service with the amount left blank. In that letter, RA advised Cooper that he
+was going to be out of town until after April 15, 2004, and instructed Cooper to
+complete the return and to insert in the check the amount that was due to the
+government. Thus, RA did not know that the tax return Cooper prepared and
+ﬁled was false and RA fully intended to pay any additional taxes that were due
+and owing on the $45,000 he had received as fees.
+Having identiﬁed these provisional theories, it is possible to strategically refor-
+mulatethepenultimateprobandatosimplifytheanalysisbyrephrasingpropositions
+3, 4, 5, 7, and 8 to focus the analysis more precisely on the material facts that are in
+dispute:
+3 An income tax return for the year 2003 (“the 2003 return”) signed by RA was ﬁled.
+4 The 2003 return was false.
+5 At the time the 2003 return was ﬁled, RA knew that the 2003 return was false.
+7 At the time the 2003 return was ﬁled, RA owed the government taxes on the $45,000
+RA received as fees during the year 2003.
+8 At the time the 2003 return was ﬁled, RA intended to defraud the government of the
+taxes due and owing on $45,000.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.006 Published online by Cambridge University Press
+
+
+--- Page 159 ---
+128
+Analysis of Evidence
+As restated, only penultimate probanda 5 and 8 are in dispute. These propositions
+should be the analyst’s “targets” in analyzing and marshaling the evidence . This
+macroscopic analysis of the case is depicted in charted form in Figure 5.1.
+Figure 5.1 Chart (Able)
+Step 5. Formulate the key-list.
+a. What is a key-list? A key-list is a numbered list of propositions of three kinds.
+First, there are the propositions developed and reﬁned at the macroscopic level –
+the ultimate and penultimate probanda and propositions identiﬁed as necessary in
+light of the provisional theory adopted, e.g., that OJS had a motive to murder NBS.
+Second, there are propositions that can be directly inferred from the evidential data,
+e.g., from an autoptic proference of the 2003 tax return, we can infer that the tax
+return reported that RA only earned $125,000 in 2003. Third, the list includes all
+the intermediate proponent’s assertions, opponent’s explanatory, rival, and denial
+propositions, and any propositions the proponent may use to undermine the oppo-
+nent’s propositions or to strengthen her assertion in light of the opponent’s attacks.
+Collectively, the key-list must include every proposition that the analyst concludes
+is important to the arguments in support of and against the ultimate probandum.
+The list is a key-list because every symbol in the chart has a number that identiﬁes
+the proposition on the key-list which it depicts.
+b. Formulating the propositions. The ﬁrst step is to identify those items of evi-
+dential data that are available to be offered and convert them into simple proposi-
+tions–i.e.propositionsinvolvingonlyoneconditionandsusceptibletotheresponse
+“true/false,” “proven/not proven,” “probable/not probable,” etc. The next step is to
+identifyeachinferredpropositionthatisnecessarytoshowhowanevidentialpropo-
+sition supports or undermines a fact of consequence – a penultimate probandum or
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.006 Published online by Cambridge University Press
+
+
+--- Page 160 ---
+The chart method
+129
+the credibility of a witness’s assertion. The process is not as mechanical as it might
+seem. The analyst must confront two types of difﬁculty.
+First, formulating the propositions on a key-list involves more than merely mak-
+ing explicit what was perhaps formerly implicit or only partially expressed. It also
+involves reﬁnement of expression, analogous to what is involved in drafting a statute
+or formal document on the basis of a rough set of instructions. Indeed, the formu-
+lation of the ultimate probandum may well require the same level of drafting skill
+and precision. The formulation of evidential data into key-list propositions does
+not require, for most practical purposes, the same degree of precision and rigor as
+the drafting of legal instruments. The point at which precision becomes pedantry
+typically depends on context. But the analogy with drafting is nevertheless useful.
+Second, identifying and formulating the intermediate inferential propositions
+necessary to establish the relevance of an evidential proposition to a fact of conse-
+quence (a penultimate probandum or a proposition bearing upon the credibility
+of a testimonial assertion or an item of tangible evidence) is ordinarily the hardest
+and most important task. For example, the endorsement by the Las Vegas branch
+of Able’s bank on the $25,000 check that Richard Able received from the New York
+law ﬁrm supports a chain of inferences leading to an inference that RA had motive
+to ﬁle a false tax return to avoid paying taxes on that amount. But the weaknesses
+in that argument become apparent only if the intermediate inferential steps nec-
+essary to support motive are identiﬁed with precision – i.e. RA gambled with all
+or substantially all of the $25,000 supporting a further inference that RA lost all or
+substantially all of the $25,000. The explanations that undermine the strength of
+these inferences – i.e. RA may not have gambled or may have gambled with only a
+modest amount, and RA may have won or may have quit after he had lost an amount
+he could comfortably afford – and the generalizations that make them plausible are
+not apparent absent precision.
+There are no ﬁxed rules for drafting propositions, but it is possible to give some
+guidance by way of advice. For example: Be precise. Be clear (avoid ambiguities).
+Normally, each proposition on the key-list should make one point only, and this
+should be signaled (for example, “It was OJS who killed NBS” rather than “OJS
+killedNBS”).Sotoo,wherepossible,propositionsshouldbestatedintheafﬁrmative
+rather than the negative. Trying to chart a negative creates difﬁculties that should
+be unnecessary. Choose an appropriate level of generality for each proposition. So
+far as possible, use language that signals clearly the connections with immediately
+adjacent propositions. Be succinct and strive for economy – a cogent argument
+needs to be well structured, economical, and clear. Again, skill in drafting a key-list
+involves art as well as science.
+c. Selecting propositions to be included. From the universe of data available, the
+key-list may (and probably must) be limited to what is relevant to the ultimate
+probandum. But visualizing what is relevant requires an intuitive application of the
+inductive process we are trying to make explicit. Beware of cutting out potentially
+relevant material too early; err on the side of over-inclusion in the ﬁrst cut. It is
+simple to strike unnecessary evidentiary propositions from the key-list after the
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.006 Published online by Cambridge University Press
+
+
+--- Page 161 ---
+130
+Analysis of Evidence
+chart is complete; it may well be impossible to see signiﬁcant relations if necessary
+data have been omitted.
+The process of developing and organizing the key-list is also reﬂexive. The ulti-
+mate and penultimate probanda suggest intermediate probanda we want to reach.
+But the evidential proposition may also suggest direct and intermediate inferences
+and combinations whose relevance will be apparent only when formulated. The
+propositions on the list should be ordered “logically,” but there is a danger that
+too early an effort at structure and coherence will cause us to overlook important
+hypotheses.
+Several points deserve further comment. First, identifying standpoint and rec-
+ognizing the limits it imposes are crucial. For example, if the project calls for the
+analysis of a decided case such as Morrison v. Jenkins (page 31), the data available for
+analysis are ﬁxed. Nothing can be added. The role of the analyst is analogous to the
+role of a historian. In this context, all the evidence has been collected. The exercise
+then is to analyze a given mixed mass of evidence that constitutes the data upon
+which the decision was based in light of a declared ultimate probandum. If this
+standpoint is adopted, the natural next step is to compile a key-list. This involves
+identifying, formulating, and ordering the reported propositions that are relevant
+to the ultimate probandum or probanda as given, as well as any unstated inferential
+propositions necessary to demonstrate the relevance of each reported proposition.
+If the standpoint is that of an advocate, however, the problem of selection must
+be addressed. Selection implies a given collection of pre-existing propositions from
+which one chooses those that are relevant. But even where there is a ﬁnite body of
+materialforanalysis,suchasapre-trialcollectionofdepositionsanddocuments,the
+propositions are not already there, lined up like candidates on parade. A complex
+processofextracting,individuating,andmakingexplicitstatementsinpropositional
+form is involved, allowing considerable scope for both choice and creativity. To be
+sure,theremaybestatementsintherecordthatmaybeliftedverbatimintoakey-list,
+but these are likely to be exceptional.
+Selection also requires more than sorting out the relevant from the irrelevant.
+A proposition is relevant if it has some probative connection with an ultimate
+probandum, that is, it tends to support, tends to negate, or tends to explain that
+probandum either directly or indirectly. Relevance is a necessary condition for
+inclusionofanevidentialpropositiononakey-list,butitisnotasufﬁcientcondition.
+There is an almost inﬁnite possibility of regress and of more and more minute
+analysis of any body of evidentiary materials. Inclusion in a key-list inevitably
+involves making judgments of importance (non-triviality) that go beyond mere
+theoretical relevance. Wigmore’s Science does not, and probably could not, provide
+a clear set of criteria of importance. The importance criterion is simple to state, but
+difﬁcult to apply. The ﬁnal product must include all, but only, those propositions
+that are important in light of the theory of the case the advocate has adopted and the
+theory that she anticipates opposing counsel will adopt. Again, in the preliminary
+stages, caution must be exercised: Weeding is easier than inserting.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.006 Published online by Cambridge University Press
+
+
+--- Page 162 ---
+The chart method
+131
+It is often difﬁcult to judge whether to include generalizations on the key-list.
+For example, it would clutter the key-list and obscure the argument if every gen-
+eralization that serves as a warrant for an inference is included in the key-list. For
+example, the proposition that X testiﬁed to Y tends to support Y because of the
+generalization, “Testimonial evidence is usually true.” These and other common
+generalizations are usually left unstated.
+Ontheotherhand,anargumentoritsstrengthmaydependuponageneralization
+that is not obvious and that may be disputed. For example, in “The Nine Mile Walk”
+(pages 11–17), Welt asserts, “An inference can be logical and still not be true . . . Give
+meanysentenceoftenortwelvewords,andI’llbuildyoualogicalchainofinferences
+that you never dreamed of when you framed the sentence.” Kemelman challenges
+Welt with the sentence, “A nine mile walk is no joke, especially in the rain.” Later
+in the story when it appears Welt’s inferences may be true as well as logical, he asks
+Kemelman, “Where did you get that sentence?” Kemelman responds, “It was just
+a sentence. It simply popped into my head.” Welt immediately argues, “It couldn’t
+have! It’s not the sort of sentence that pops into one’s head.” Welt’s argument
+depends upon an experience-based generalization that was not apparent until he
+explained it: “If you had taught composition as long as I have, you’d know that when
+you ask someone for a sentence of ten words or so, you get an ordinary statement
+such as ‘I like milk’ – with the other words made up by a modifying clause like,
+‘because it is good for my health.’ The sentence you offered related to a particular
+situation.”
+One value of the chart method is that it enables the analyst to make explicit what
+is normally left implicit. Because of the dangers and uncertainties surrounding
+generalizations in the context of argumentation, it is good discipline to articulate
+at least those generalizations that may play a signiﬁcant role in the argument and
+that are not obvious or are vulnerable to attack.5
+d. Ordering the propositions on the key-list. The propositions on the ﬁnal key-list
+should be ordered, to the extent feasible, so that the structure of the argument is
+apparent on its face. The easiest type of key-list for the reader to use is one that
+presents the propositions in a form that conforms to the outline method of analysis
+(discussed in Chapter 6, below). The penultimate probanda are the main headings,
+and the supporting propositions are organized in a way that outlines the argument
+under that heading.
+This is not always feasible and, in some cases, it may facilitate the analyst’s work
+to adopt other organizing principles. For example, some analysts prefer to ﬁrst
+extract and individuate all of the evidential propositions onto the key-list before
+beginning to identify the inferential propositions necessary to demonstrate their
+relationships to the penultimate probanda (or to credibility). Clearly, if the chart is
+the end product, there is no logical necessity for order within the key-list: The chart
+deﬁnes the order. But practically, reading the key-list and working through a chart
+5 Huddleston provides another illuminating example. See Chapter 1 at page 19 above.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.006 Published online by Cambridge University Press
+
+
+--- Page 163 ---
+132
+Analysis of Evidence
+are both enhanced if the propositions on the list are ordered logically. Common
+sense, taking into account the purpose of the effort and the needs of the audience,
+is likely to be a safe guide.
+Step 6. Preparing the chart(s). The end products are the chart and the key-list. The
+actual mechanics required to draw a chart are always laborious. They are especially
+laborious in one’s ﬁrst attempts. The struggle is not only with the logic, but also
+with recalling the correct symbols and laying it all out on paper. Based upon our
+experiences and those of our students, we offer some suggestions that may aid those
+embarking on a project for the ﬁrst time.
+a After clarifying your standpoint, always start by charting the ultimate and
+penultimate probanda and work “down” as far as your provisional theory allows. This
+will serve several purposes: It will help you to visualize the structure of the case; it will
+let you plan the space allocations for the chart or charts; and it may show you ways of
+reorganizing parts of your key-list. (The macroscopic chart of Able above at page 128
+provides a simple example.)
+b Break the chart into sectors, and complete one sector at a time. If the evidential
+propositions related to a particular penultimate probandum seem manageable in
+number, chart them ﬁrst. Do the charting in “sector charts” on separate sheets of
+81/2′′ × 11′′ paper6 and then identify these sector charts on a chart of your ultimate
+and penultimate probanda. For example, in the Simpson case, the lawyers might have
+charted the propositions bearing on opportunity as one sector. In the macroscopic
+charting of the ultimate and penultimate probanda, under proposition 3, “It was OJS
+who committed the act that caused NBS’s death,” the analyst would have had, as one
+of the principal supports, the proposition, “OJS had an opportunity to commit the act
+that caused NBS’s death.” Under the symbol for that proposition, the analyst might
+have put “See chart B.” It is annoying to see a new relationship or possibility after you
+have charted ﬁfteen propositions in a sector; it is devastating to encounter the same
+problem after you have charted 150 propositions on a single sheet of paper. Moreover,
+the ﬁnal product is easier to work with (and store) if it ﬁts in a binder or standard ﬁle.
+c Do not assume that an autoptic proference or a proposition will appear only once in
+the chart. A logic chart is not a jigsaw puzzle in which each piece ﬁts in only one place.
+Do not assume that a piece of evidence supports only one inference. For example, the
+prior tax returns in United States v. Able not only support inferences about how much
+money he made as a partner in a law ﬁrm, but also support an important defense
+inference – Able regularly relied upon accountants to prepare his income tax returns.7
+d At every stage, check that each inferential relationship charted involves a genuine
+inference. The best test is to ask whether the claimed inference is necessary to address
+6 Most students draw their draft chart by hand, and those who are not comfortable with computer
+drawing must draw their ﬁnal charts in the same way. There are standard logic templates that
+have the necessary symbols. Using protractors with 81/2′′ × 11′′ graph paper facilitates the manual
+drawing process.
+7 The use of the same proposition to support different parts of an argument creates a signiﬁcant risk
+of “circularity,” as illustrated by the analysis of Huddleston. See Anderson (1999) 468.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.006 Published online by Cambridge University Press
+
+
+--- Page 164 ---
+The chart method
+133
+a real doubt. This step is critical. The function of the chart is to enable the preparer
+and the audience to spot ﬂaws not previously apparent in the analysis and to enable
+the advocate to correct or emphasize the ﬂaw.
+e Detect and avoid common charting errors. It is important to remember that an
+argument is different from a chronological table or a story. The relations between
+propositions on a key-list in logical analysis are based upon relevance: propositions
+tend to support or tend to negate other propositions. A common error in microscopic
+analysis is using propositions to tell a story in terms of temporal relations (“and then,”
+“and then” . . . ) or causal relations (“x happened because y happened”). Such errors
+can easily be detected when the propositions are charted. They are often depicted as a
+“string of pearls” all supporting a single proposition. On a chart, there is a single node
+with ﬁve or ten nodes depicted as each providing independent support for that node.
+If ten witnesses assert they saw X enter Y’s house at 4:15 p.m., the relationships are
+correctly depicted. Otherwise the string indicates a problem. Alternatively, they are
+depicted as a vertical string of pearls – e.g., a single testimonial assertion supporting a
+catenate chain of ﬁve or more inferential steps supporting a single conclusion. Again,
+it is possible to have that many nodes in a chain, but it is so rare as to excite immediate
+suspicion.8
+Step 7. Reﬁning and completing the analysis. The chart and key-list are means not
+ends. As a guide to work, the ﬁrst ﬁve steps have proven useful in practice. But
+at each step the judgments made and the analysis were necessarily tentative. The
+end is to develop a logically sound analysis that, in light of the analyzer’s speciﬁc
+objectives, organizes a mass of evidence and charts the inferences necessary to relate
+allsigniﬁcantrelevantdatatotheultimatepropositioninissue.Typically,theprocess
+of revision and reﬁnement is continuous, with judgments previously made being
+revised in each succeeding step of the analysis. But the chart and key-list completed
+through step 6 provide the ﬁrst real opportunity for analyzing and evaluating the
+case-as-a-whole and testing the judgments initially made. This is where the true
+value of the analysis as both intellectual exercise and practical work emerges most
+clearly. For that reason, the analysis of the whole should be done as a separate
+step.
+Time permitting, this step should not be undertaken immediately and, in prac-
+tice, should ordinarily be a collegial activity. Lay the record, the key-list, and the
+chart aside for a few days. Ask a fellow student or a partner to read the record, the
+key-list, and the chart to see if he or she can follow it, attack it, offer fresh insights.
+Then, using the ﬁrst six steps as a guide, work through the materials and reﬁne or
+adjust the key-list and chart as necessary.
+For the trial lawyer, this is obviously and necessarily a continuous process. The
+early phases of an investigation have suggested a tentative theory: The available
+evidence, in light of established legal principles, suggests a plausible theory by
+which a desirable ultimate proposition might be proven. But new supporting and
+8 Other common errors are described and illustrated at the Analysis website.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.006 Published online by Cambridge University Press
+
+
+--- Page 165 ---
+134
+Analysis of Evidence
+conﬂicting data will be added, and the analysis and theory must be continuously
+revised. Indeed, the key-list and chart that the lawyer used in preparing for trial
+must be ﬁnally reviewed and revised in light of the evidence actually admitted
+and excluded during the course of the trial in order to prepare for closing argu-
+ment. The utility of the key-list and chart, in that context, is that it makes it
+possible for the lawyer to see immediately the effect of the evidence unexpect-
+edly admitted or excluded on the theory of the case as previously developed and
+charted.
+The ﬁnal step should produce a product that accounts for all the signiﬁcant
+relevant data that are available and that precisely and clearly identiﬁes the logical
+organization and inferences necessary to relate those data to the ultimate proban-
+dum. In the aggregate, it establishes and makes available for critical review the
+lawyer’s theory of the case and in practice it provides the foundation for preparing
+and executing the next task in the case at hand.
+C. The symbols and their use
+Wigmore’s chart method employs a system of symbols speciﬁcally designed to make
+it feasible to depict the evidence and arguments that bear upon the material facts
+in a legal dispute in graphic form. In this section, we ﬁrst present the symbols and
+discuss their use. We then address the question: Do the beneﬁts justify the effort?
+1. The basic Wigmorean palette9
+The modiﬁed Wigmorean charting system or palette presented in this book requires
+only eight symbols. Five are likely to be required for any chart:
+the square for depicting testimonial assertions;
+⃝
+the circle for depicting circumstantial evidence or inferred propositions;
+>
+the open angle to identify an argument that provides an alternative
+explanation for an inference proposed by the other side;
+◁
+a vertical triangle to identify an argument that corroborates a proposed
+inference;
+↑
+←
+a line to indicate the “direction” of a proposed inferential relationship
+between or among propositions – a vertical line indicates “tends to
+support”; horizontal lines indicate “tends to negate or weaken.” The
+direction from evidential data to asserted inferences is always up, from
+bottom to top. Directional arrows are only occasionally necessary where
+the line standing alone might be misunderstood.10
+9 We use the term “palette” as it has been adopted in computer jargon. Programs now exist for
+constructing charts by using a speciﬁed palette of symbols, such as the basic Wigmorean palette
+described in this section. See note 14 below and references cited there.
+10 Each of these is a standard logic symbol that can be drawn using commercially available plastic
+templates.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.006 Published online by Cambridge University Press
+
+
+--- Page 166 ---
+The chart method
+135
+The nature of a judicial trial makes it necessary to have symbols to identify the
+kinds of evidential data or the source of the propositions the tribunal will be asked
+to take as the basis for the arguments advanced. Wigmore speciﬁed two, and we
+have found a third useful:
+∞
+(6) an inﬁnity symbol to identify testimonial assertions that the fact ﬁnd-
+ers will hear or other autoptic proferences they will perceive with their
+other senses;
+¶
+(7) a paragraph symbol to identify facts the tribunal will judicially notice
+or otherwise accept without evidential support; and
+G
+(8) the letter “G” to denote a generalization that is likely to play a signif-
+icant role in an argument in a case, but that is not a proposition that
+will be supported by evidence or that the tribunal will be formally
+asked to notice judicially.
+These symbols satisfy the three conditions necessary for a chart method. First,
+the system makes it possible to distinguish between the principal types of evidential
+datathatwillbepresentedtothetribunal–testimonialassertions,tangibleevidence,
+and judicially noticed facts – and to identify generalizations upon which particular
+arguments depend.
+Second, the system makes it possible to chart the ﬁve different probative processes
+(above pages 94–98) involved in adjudicated cases. Proponent’s assertion can be
+depicted by the use of lines to depict the relationships between a probans and the
+probandum that the proponent claims it supports. The opponent’s explanation can
+be depicted by the use of the open angle, to chart the data or generalizations offered
+to support a proposition that provides an alternative explanation for a proponent’s
+assertion. The opponent’s denial and the opponent’s rival can be depicted by the use
+of squares and circles to depict the opponent’s argument and the use of a line and
+directional arrow to depict the claim that they combine to support a proposition
+that detracts from the related proponent’s assertion – that is, the use of a directional
+arrow,pointingawayfromtheproponent’sassertionandtowardtherivalornegative
+proposition the opponent has advanced.
+Although rare, the distinction between “proponent’s corroboration,” as a proba-
+tive process, and “corroboration,” as a logical structure, can sometimes be impor-
+tant to an advocate preparing for trial or an analyst concerned with showing at
+what stages evidence was introduced at trial. In that context, an additional sym-
+bol to identify the proponent’s corroboration as a separate probative process is
+useful. This may be done by the use of a vertical triangle connected by a line (with
+or without a directional arrow) to the proponent’s assertion that it reinforces to
+show the context in which the evidential data reinforcing the proponent’s claim
+were or will be presented. This additional symbol makes it possible to distinguish
+between the principal support for a proponent’s assertion and the corroborating
+support available if, and perhaps admissible only if, the opponent challenges that
+assertion.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.006 Published online by Cambridge University Press
+
+
+--- Page 167 ---
+136
+Analysis of Evidence
+Finally, the use of lines and directional arrows makes it possible to identify the
+steps and inferential relationships in an argument in which it is claimed that propo-
+sitions are logically related – that is, to depict what Wigmore called the probative
+relations among evidential data and circumstantial propositions in a case and to
+presentachart(orseriesofcharts)showingtheserelationshipsforacase-as-a-whole.
+If the analyst stipulated that the direction of the inferential relationships depicted
+is upward unless otherwise indicated then directional arrows are only necessary for
+identifying rival or denial propositions. See chart 5.2 below.
+2. The chart method illustrated
+These eight symbols are sufﬁcient to construct a chart that depicts the possible argu-
+mentsinacase.Thatpointisillustratedbythekey-listandchartthatfollow.Thekey-
+list takes the propositions from “An investigation” (above, page 40) that were used
+to illustrate different logical structures typically involved in making inferences and
+adds some additional propositions for the defense. The ultimate probandum in the
+case remains, “It was X who murdered Y.” The key-list and chart were prepared from
+the standpoint of a lawyer early in the investigation trying to identify and analyze
+the arguments that might be made from the available evidential data to support the
+intermediate probandum, “X was in Y’s house at 4:30 p.m. on January 1” – the
+time and place of the alleged murder of Y. The chart illustrates how these basic
+symbols might be employed to depict arguments that could be made, based upon
+the available data and how the different probative processes might be depicted
+within a single chart. The key-list and chart will also lay the foundation for some
+additional points developed below.
+Two points merit immediate note. First, the arguments developed in the key-
+list and depicted in the chart represent only one approach that the prosecutor
+might have taken. For example, she might have decided (and might still decide)
+that W2 should be called before W1, so that the convergent testimony might be
+juxtaposed as support for P2 without holding W2 in reserve until W1 had been
+impeached. Similarly, she might have identiﬁed other generalizations she thought
+more signiﬁcant.
+Second, the example in Figure 5.2 presents a simple key-list and a chart that
+ﬁts comfortably on a single page. In a more complex case, it would ordinarily be
+necessary to divide the argument into sectors and then to chart the sectors on dif-
+ferent sheets of paper. For example, it is often useful to chart credibility separately.
+If that is done, the chart of the propositions bearing upon a witness’s credibil-
+ity would culminate in one proposition (or in some cases, two) expressing the
+analyst’s judgment as to the impact on the witness’s credibility. In the credibil-
+ity chart, the analyst would insert an open angle (if the analysis undermines the
+witness’s credibility). If there is evidence reinforcing the witness’s credibility or
+undermining the attack, the analyst would insert a vertical triangle (if there is evi-
+dence that reinforces credibility) or a further open angle (if there are generalizations
+or evidential data that can be marshaled to undermine the attack on the witness’s
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.006 Published online by Cambridge University Press
+
+
+--- Page 168 ---
+The chart method
+137
+credibility). In such a case, only the open angle(s) and the vertical triangle would
+be appended to the credibility node for each assertion the witness makes with a
+reference to the sector chart, e.g., “see chart 15,” where the micro credibility analysis
+is depicted.
+Partial key-list for “Preliminary opportunity chart”
+1 Y is dead; and Y died as a result of an unlawful act; and it was X who committed the act
+that caused Y’s death; and X acted with malice aforethought in committing the act.
+2 Y is dead.
+3 Y died as a result of an unlawful act.
+4 It was X who committed the act that caused Y’s death.
+5 X acted with malice aforethought in committing the act.
+6 X had an opportunity to commit the act that caused Y’s death.
+7 X had a motive to murder Y.
+8 There is other evidence support proposition 4.
+9 Y was murdered in his home at 4:30 p.m. on January 1.
+10 W1 will testify, “I saw a person with characteristics a, b, c, and d enter Y’s house at
+4:15 p.m. on January 1.”
+11 W1 saw a person with characteristics a, b, c, and d enter Y’s house at 4:15 p.m. on
+January 1.
+12 A person with characteristics a, b, c, and d entered Y’s house at 4:15 p.m. on January 1.
+13 X has characteristics a, b, c, and d.
+14 Characteristics a, b, c, and d were as follows: a. white hair; b. approximate height of
+ﬁve feet; c. a pronounced limp; d. the wearing of a cheap brown coat.
+15 G: Few people walk with a pronounced limp.
+16 It was X who entered Y’s house at 4:15 p.m. on January 1.
+17 People who enter or leave a house usually remain or have been in that house for at
+least ﬁfteen minutes.
+18 It may have been someone other than X, who had characteristics similar to X’s, who
+entered Y’s house at 4:15 p.m.
+19 W2 will testify, “I know X.”
+20 W2 knows X.
+21 W2 will testify, “I saw X leave Y’s home at 4:45 p.m. on January 1.”
+22 W2 saw X leave Y’s home at 4:45 p.m.
+23 X left Y’s house at 4:45 p.m.
+24 X was in Y’s home at 4:30 p.m. on January 1.
+25 X will testify, “I was in a house ﬁve miles from the scene of the murder between
+2 p.m. and 5 p.m. on January 1.”
+26 X was in a house ﬁve miles from Y’s house between 2 p.m. and 5 p.m. on January 1.
+27 Z will testify, “I was with X in a house ﬁve miles from Y’s house between 4 p.m. and
+4:24 p.m. on January 1.”
+28 Z was with X in a house ﬁve miles from Y’s house between 4 p.m. and 4:24 p.m. on
+January 1.
+29 X was not in Y’s house at 4:30 p.m. on January 1.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.006 Published online by Cambridge University Press
+
+
+--- Page 169 ---
+138
+Analysis of Evidence
+30 ¶: It gets dark after 4:00 p.m. on January 1.
+31 W1’s observational sensitivity may have been impaired.
+32 At an identiﬁcation parade (line-up) held three days after the murder, W1 failed to
+identify X.
+33 A recent report of empirical research on eyewitness evidence suggests that eyewitness
+statements reporting identifying characteristics of a suspect made in circumstances
+approximating those under which W1 observed a person entering Y’s home
+(proposition 2) are 100 percent correct in only 5 percent of the cases.
+34 W1’s memory and objectivity are open to question.
+35 W1 seemed to be very nervous and hesitant when questioned by the police.
+36 G: People who are very nervous when they are being questioned by the police may
+not be sure that their statements are true.
+37 G: It is normal to be very nervous when being questioned by the police about a
+serious crime.
+38 W1’s veracity may be questioned.
+39 The credibility of W1’s identiﬁcation of the person who entered Y’s house is open to
+serious question.
+40 W1 is telling the truth as he recalls it.
+41 W1 is a bank manager.
+42 G: Bank managers are almost always truthful.
+43 G: Most people would notice and recall that a person they had seen walked with a
+pronounced limp.
+44 It is highly probable that W1 did see a person with characteristics a, b, c, and d enter
+Y’s house at 4:15 p.m. on January 1.
+45 W2 is very short-sighted.
+46 W2’s observational sensitivity may have been impaired.
+47 W2 knew that X regularly visited Y’s house.
+48 Y was X’s son.
+49 W2 is Y’s brother.
+50 X is also W2’s mother.
+51 G: It is probable that a brother would know about regular visits between his mother
+and his brother.
+52 G: When someone sees a person, who has the characteristics of a person known to be
+a regular visitor, leave a house, he or she is likely to conclude that the person leaving
+is the person known to be a regular visitor.
+53 W2’s expectations (objectivity bias) may have caused him to misidentify the person
+he saw leave Y’s house at 4:45 p.m.
+54 W2 stands to beneﬁt ﬁnancially from Y’s death.
+55 G: A mother is usually a beneﬁciary of her son’s estate.
+56 X is probably a beneﬁciary of Y’s estate.
+57 G: Persons who are convicted of murder cannot receive any part of the victim’s estate.
+58 The beneﬁt to W2 would probably increase if X were convicted of Y’s murder.
+59 W2 has a motive to lie.
+60 W2’s veracity is open to doubt.
+61 W2’s identiﬁcation of Y is open to serious challenge.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.006 Published online by Cambridge University Press
+
+
+--- Page 170 ---
+The chart method
+139
+“A” = a proposition reported to the police cadet and assumed to be true. 
+“n” = not charted
+n
+n
+n
+1
+A
+A
+2
+3
+4 
+5
+29
+6
+8
+24
+9
+16
+17
+23
+7
+A
+G
+25
+26
+28
+18
+12
+13
+14
+15
+A
+A
+G
+39
+11
+44
+10
+∞
+35
+37
+36
+A
+G
+G
+38
+34
+31
+32
+33
+30
+A
+40
+41
+42
+43
+¶
+A
+A
+G
+G
+22
+20
+21
+19
+∞
+∞
+61
+60
+53
+46
+47
+52
+45
+A
+G
+51
+50
+49
+G
+48
+49
+A
+A
+59
+57
+54
+55
+56
+58
+G
+A
+G
+A
+27
+∞
+∞
+Figure 5.2 Key-list and chart (“An investigation”)
+The speciﬁed procedures are designed to enhance the rigor and enable the
+“charter” to see possibilities and problems that otherwise might have passed unno-
+ticed. The resulting product makes it possible for others, as well as the “charter,” to
+provide rigorous critique and appraisal of the arguments advanced. But the pro-
+cedures and the charting systems can only complement, never substitute for, the
+intellectual skill and judgment of the lawyer.
+Exercise
+1 You are the young prosecutor charged with presenting the government’s case in Able.
+Review the case ﬁle (at pages 24–27). Analyze Able’s credibility, using the attributes of
+credibility presented in Figure 2.7 (above at page 68) and prepare an organized list of
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.006 Published online by Cambridge University Press
+
+
+--- Page 171 ---
+140
+Analysis of Evidence
+the questions you ask Able on cross-examination to focus the jury’s attention on the
+identiﬁed bases for doubting all of the important testimonial assertions you anticipate
+that Able will make during his direct examination, if he takes the stand.
+2 Switch: You are the defense attorney who will represent Able at trial. You have done
+the same analysis and have identiﬁed questions you think a competent prosecutor
+would ask. How would you suggest Able respond to each question? Are there any
+opponent’s explanations you could offer to undermine any of the points developed by
+the prosecutor’s attack? Is there evidence you might present that would reinforce
+Able’s credibility? If so, prepare a key-list and chart the propositions identiﬁed. On
+that basis, prepare an organized list of the questions you would ask on redirect and
+specify the witnesses you might call to reinforce the credibility of his assertions.
+3. Additional symbols, conventions and their utility
+The key-list and chart presented above provide a foundation for appraising the
+utility of other symbols and conventions that might be used in charting a particular
+problem. The utility of additional symbols and conventions is largely a function of
+the objectives of the person applying the method and of the characteristics of the
+particular problem. We have identiﬁed further symbols and reﬁnements that have
+proven useful when the standpoint is that of a lawyer preparing for trial. We discuss
+speciﬁc symbols and other conventions and appraise their utility in the paragraphs
+that follow.
+There are three symbols that are frequently useful to the lawyer conducting an
+analysis in preparation for trial. As a practical matter, facts are often stipulated to be
+true by the parties (“S”); admitted by the pleadings (“A”); or not subject to genuine
+dispute (“U”). They should, however, be employed with caution and precision.
+Stipulated and admitted facts ordinarily can and must be formally introduced and
+published at trial, albeit without testimony or other autoptic proference. Facts that
+are not subject to dispute must nevertheless be supported by admissible evidence
+unless they have been established by formal admission or stipulation. Precision is
+necessary to ensure that those who might rely on the chart in preparing for trial are
+not misled.
+Every case will differ. The standard conventions may often need to be supple-
+mented or adapted by case-speciﬁc conventions in a complex case. For example,
+in cases in which questionable hearsay or propensity evidence has been or may be
+admitted, two additional conventions may be useful. First, hearsay can be depicted
+byplacingasquareinsidethecircledepictinganout-of-courtassertionthedeclarant
+allegedly made. So too, if there is or was a dispute over the admissibility of certain
+evidential data it is often useful to shade or color code the evidential data and the
+inferences to be derived from those data so that the actual or potential effect of that
+evidence may readily be identiﬁed.11 Indeed, in some cases there may be more than
+11 See, e.g., Chambers v. Mississippi, 410 U.S. 284 (1973) and Crawford v. Washington, 124 S. Ct. 1354
+(2004) (cases in which the admissibility of hearsay evidence was the central issue).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.006 Published online by Cambridge University Press
+
+
+--- Page 172 ---
+The chart method
+141
+one kind of evidential data whose admissibility or use could be challenged, such as
+a case involving both hearsay and propensity evidence that was or may be offered,12
+or cases in which the same kind of evidence may be challenged on different grounds,
+such as a case involving more than one witness testifying to an out-of-court asser-
+tion in which different exceptions to the hearsay rule may apply.13 In such cases,
+multiple colors or shadings may be useful.
+Students embarking on the construction of a chart should realize that the stan-
+dard conventions for the charting system may have to be modiﬁed or supplemented
+for the particular chart. But they should also recognize that it is important to
+articulate precisely any modiﬁed or special conventions adopted, so that others
+familiar with the standard conventions may understand and appraise the prod-
+uct. As in bridge, special conventions are likely to cause trouble unless they are
+understood by your partner.
+To achieve the latter objective, we advise students to begin with the simpliﬁed
+Wigmorean eight-symbol system or palette described above and to explain carefully
+anyadditionalsymbolsorconventionstheyadoptinconstructingaparticularchart.
+The particular advantages of that system are three. The system was speciﬁcally
+designed for charting the evidence in a legal dispute. The system employs symbols
+that can be constructed with standard logic templates that are readily available.
+Moreover and more important, computer software for the construction of charts
+using this system has already been developed and will be further reﬁned in the
+future.14
+4. Three advantages of symbols and charting
+Like other symbol systems, the chart method imposes a barrier to those who would
+use it. They must ﬁrst master the symbols and their deﬁnitions and the protocols
+speciﬁed for their use. Mastering such a system is hard work. This poses a question
+that has thus far only been partly addressed: Are there signiﬁcant advantages that
+can be realized by the use of symbols to chart the evidence and arguments in a legal
+dispute that cannot be as easily achieved by other means? The answer is, in our view,
+a ﬁrm “Yes.” We develop the basis for this view below.
+The chart method, described above, has three essential advantages. First, it
+requiresthepersondoingtheanalysistoidentifyandarticulatepreciselyeachpropo-
+sition that she claims is a necessary step in the arguments in a case. The value to
+be achieved is precision. Second, the method requires that the person employing
+12 See United States v. Abel, 469 U.S. 45 (1984) (a case involving hearsay and extrinsic evidence with
+an improperly prejudicial propensity effect offered to question the credibility of a witness).
+13 See Tome v. United States, 513 U.S. 150 (1995) (a case involving hearsay statements from the same
+declarant offered through different witnesses, where the potential exception depended upon the
+status of the witness).
+14 New technology has begun to make an impact. Construction of Wigmore evidence charts is
+facilitatedthroughtheuseofgraphicdevicessuchasMicrosoftPowerPointTM andthePresentation
+application in AppleworksTM 5 and 6. See further Appendix III on the website.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.006 Published online by Cambridge University Press

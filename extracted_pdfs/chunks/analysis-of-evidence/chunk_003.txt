@@ -1,0 +1,734 @@
+# Chunk 3 of 26
+# Document: Analysis of Evidence
+# Characters: 48453
+
+--- Page 48 ---
+16
+Analysis of Evidence
+“I thought it was something like that,” said Nicky. “But you’re wrong about its being
+a coincidence. It can’t be. Where did you get that sentence?”
+“It was just a sentence. It simply popped into my head.”
+“It couldn’t have! It’s not the sort of sentence that pops into one’s head. If you had
+taught composition as long as I have, you’d know that when you ask someone for a
+sentence of ten words or so, you get an ordinary statement such as ‘I like milk’ – with
+the other words made up by a modifying clause like, ‘because it is good for my health.’
+The sentence you offered related to a particular situation.”
+“But I tell you I talked to no one this morning. And I was alone with you at the Blue
+Moon.”
+“You weren’t with me all the time I paid my check,” he said sharply. “Did you meet
+anyone while you were waiting on the sidewalk for me to come out of the Blue Moon?”
+I shook my head. “I was outside for less than a minute before you joined me. You
+see, a couple of men came in while you were digging out your change and one of them
+bumped me, so I thought I’d wait –”
+“Did you ever see them before?”
+“Who?”
+“The two men who came in,” he said, the note of exasperation creeping into his
+voice again.
+“Why, no – they weren’t anyone I knew.”
+“Were they talking?”
+“I guess so. Yes, they were. Quite absorbed in their conversation, as a matter of fact –
+otherwise, they would have noticed me and I would not have been bumped.”
+“Not many strangers come into the Blue Moon,” he remarked.
+“Do you think it was they?” I asked eagerly. “I think I’d know them again if I saw
+them.”
+Nicky’s eyes narrowed. “It’s possible. There had to be two – one to trail the victim in
+Washington and ascertain his berth number, the other to wait here and do the job. The
+Washington man would be likely to come down here afterwards. If there was theft as
+well as murder, it would be to divide the spoils. If it was just murder, he would probably
+have to come down to pay off his confederate.”
+I reached for the telephone.
+“We’ve been gone less than half an hour,” Nicky went on. “They were just coming in
+and service is slow at the Blue Moon. The one who walked all the way to Hadley must
+certainly be hungry and the other probably drove all night from Washington.”
+“Call me immediately if you make an arrest,” I said into the phone and hung up.
+Neither of us spoke a word while we waited. We paced the ﬂoor, avoiding each other
+almost as though we had done something we were ashamed of.
+The telephone rang at last. I picked it up and listened. Then I said, “O.K.” and turned
+to Nicky.
+“One of them tried to escape through the kitchen but Winn had someone stationed
+at the back and they got him.”
+“That would seem to prove it,” said Nicky with a frosty little smile.
+I nodded agreement.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 49 ---
+Evidence and inference: some food for thought
+17
+He glanced at his watch. “Gracious,” he exclaimed, “I wanted to make an early start
+on my work this morning, and here I’ve already wasted all this time talking with you.”
+I let him get to the door. “Oh, Nicky,” I called, “what was it you set out to prove?”
+“That a chain of inferences could be logical and still not be true,” he said.
+“Oh.”
+“What are you laughing at?” he asked snappishly. And then he laughed too.
+Questions
+1 “The Nine Mile Walk” is a nice example of imaginative reasoning leading to the
+construction of a hypothetical scenario of the events surrounding the murder on the
+Washington Flier. Assume that A and B are the men who have been arrested and that
+C was the victim. Restate Welt’s conclusion in the form of a story starting at the New
+Sumter Inn and ending with the meeting at the Blue Moon Caf´e. Is the story
+plausible? Given Kemelman’s account, what odds might a rational betting person
+calculate as the likelihood that it was either A or B who murdered C?
+2 Welt infers: “It is the man who said: ‘A nine mile walk is no joke, especially in the rain’
+in the Blue Moon Caf´e this morning who is the person who murdered C.” For
+Kemelman, this may be critical.
+a How does Welt support the inference that the statement was made?
+b How does he support the inference that it was made in the Caf´e that morning?
+c Assume that Kemelman’s recollection does not improve. In most jurisdictions, the
+two men would be entitled to a preliminary hearing to determine whether the
+evidence shows that there was and is probable cause to believe that the two men
+are responsible for the murder of C sufﬁcient to justify their (i) arrest and
+(ii) prosecution. Could the prosecution prove that either of the men arrested
+made the statement? Absent evidence that either of the men made the statement,
+could the prosecution show that the police had probable cause to arrest the two
+men?
+3 Two men, A and B, have been arrested on suspicion of the murder of C. B is the one
+who left the Blue Moon by the rear. He was unarmed. Assume that one will be
+charged as principal; the other as accessory. Place yourself in Kemelman’s position
+immediately after Welt has left the ofﬁce. The time for playing Watson to Welt’s
+Holmes is over; you are a prosecutor who must now seek evidence sufﬁcient to prove
+that: It was A (or B) who murdered C.
+a The elements of the crime deﬁne the conditions that the ultimate proposition to be
+proved (the ultimate probandum) must satisfy. Connecticut statutes currently
+provide:
+A person is guilty of murder when, with intent to cause the death of another
+person, he causes the death of such person or of a third person or causes a
+suicide by force, duress or deception . . . (Conn. Gen. Stat. §53a–54a)
+A person, acting with the mental state required for commission of an offense,
+who solicits, requests, commands, importunes or intentionally aids another
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 50 ---
+18
+Analysis of Evidence
+person to engage in conduct which constitutes an offense shall be criminally
+liable for such conduct and may be prosecuted and punished as if he were the
+principal offender. (Conn. Gen. Stat. §53a–8)
+What precisely must Kemelman seek to prove? Frame the ultimate proposition to
+be proved for the murderer and for the accessory. The standard of proof at trial will
+be “beyond reasonable doubt”; what standard should guide (a) the decision to
+arrest, (b) the decision to charge with murder? Are these standards met in the story?
+3. Generalizations, stories, and arguments2
+a. Brides in the bath: closing speech3
+George Joseph Smith, who was married, had gone through a ceremony of marriage
+withthreewomeninclosesuccession–BessieMundy,AliceBurnham,andMargaret
+Lofty. He induced each of them to execute a will naming him as her beneﬁciary. Each
+of them drowned in a bathtub shortly thereafter. He was indicted and tried for the
+murder of Ms. Mundy. The prosecution was permitted to introduce evidence about
+the “marriages,” wills, and circumstances of the death of the other two women. The
+following is an excerpt from the closing speech for the Crown.
+The prisoner and the woman being alone in the house, he had the opportunity of com-
+mitting the crime. The motive of the prisoner has been demonstrated, the opportunity
+admitted, and the exclusion of accident proved. You are entitled to look at the evidence
+as to the two other deaths to see whether the death of Miss Mundy was accident or
+designed, and, if designed, for the beneﬁt of whom? You can also look at that evidence
+to see whether the death was part of a system or course of conduct – horrible as it is to
+think so – of deliberately causing people’s deaths in order that monetary beneﬁt might
+ensue to him.
+The three cases are of such a character that such a large aggregation of resemblances
+cannot have occurred without design. In each case the prisoner went through the form
+of marriage; in each case the ready money of the woman was either realized or drawn
+out of whatever deposit bank it might have been in; in each case there was a will drawn
+in favour of the prisoner absolutely; in each case the will was drawn by a stranger to the
+testatrix; in each case the victim insured her life or was possessed of property which did
+not make it necessary to insure her life; in each case there was a visit to a doctor shortly
+before the death, which, we contend, was unnecessary from the physical condition of
+the patient; in each case the women wrote letters to relatives the night before, or on the
+night on which they died; in each case there was an inquiry as to a bathroom (or the
+provision of a bath); in each case the woman died from drowning, and the prisoner
+was the ﬁrst to discover it; in each case the bathroom doors were unfastened and the
+water was not drawn off until after the doctor had been; and in each case the prisoner
+was putting demonstrably forward the purchase of either ﬁsh, or eggs, or tomatoes to
+show that he was absent from the house in which his wife was lying dead; and in each
+2 These passages are discussed in Rethinking Ch. 7, Bazaar Chs. 12 and 14.
+3 Eric Watson (1915) 261-62.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 51 ---
+Evidence and inference: some food for thought
+19
+case there was the prisoner’s subsequent disappearance and the monetary advantage
+resulting or attempted to be made to result.
+Questions
+This is the peroration of the famous closing speech by Archibald Bodkin QC in R.
+v. George Joseph Smith.
+1 Is this a story or an argument or both?
+2 To what extent does the persuasiveness of the passage depend on (i) logic (ii) rhetoric?
+3 Can you summarize the argument in a single sentence?
+b. Huddleston v. United States, 485 U.S. 681 (1988)
+A federal grand jury indicted Gary Rufus Huddleston, charging that, in April 1985,
+he had sold (count one) and had possessed (count two) Memorex videocassette
+tapes (the “tapes”) that had been stolen in interstate commerce. The tapes had been
+stolen, and Huddleston had sold and had possessed quantities of the tapes. The
+only issue in dispute was whether Huddleston knew that the tapes had been stolen
+at the time he had sold or possessed them. The issue was apparently a close one:
+After two days of deliberations, the jury acquitted Huddleston on the charge that
+he had knowingly sold stolen tapes, but convicted him on the charge that he had
+knowingly possessed stolen tapes.
+According to Huddleston, Leroy Wesby had a large quantity of the tapes, had
+invitedHuddlestontosellthemonacommissionbasis,andhadassuredHuddleston
+that the tapes were legitimate. Huddleston offered and sold quantities of the tapes
+at prices that were below the cost of manufacturing the tapes. Huddleston acknowl-
+edged that he had possessed and sold substantial quantities of the tapes, but claimed
+that he had no knowledge that they were stolen.
+The government introduced evidence that, in February 1985, Huddleston had
+arranged a sale of 38 new 12′′ black and white television sets (the “TV sets”), also
+supplied by Wesby, to Paul Toney, a retailer, for $28 per set. Huddleston did not
+produce a bill of sale at trial and, according to Toney, he got the impression that
+Huddleston could obtain a lot more of these sets.
+The government also offered evidence that in May 1985, Huddleston had offered
+to sell to an FBI undercover agent a large quantity of Amana appliances that also had
+been supplied by Wesby. It was undisputed that these appliances had been stolen.
+Huddleston testiﬁed that he had asked and Wesby had assured him that the TV sets
+and the appliances were legitimate.
+Questions
+1 In its opinion, the Supreme Court said:
+In assessing whether the evidence was sufﬁcient to support a ﬁnding that the
+televisions were stolen, the court here was required to consider not only the direct
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 52 ---
+20
+Analysis of Evidence
+evidence on that point – the low price of the televisions, the large quantity offered
+for sale, and petitioner’s inability to produce a bill of sale – but also the evidence
+concerning petitioner’s involvement in the sales of other stolen merchandise obtained
+from Wesby, such as the Memorex tapes and the Amana appliances. Given this
+evidence, the jury reasonably could have concluded that the televisions were
+stolen, and the trial court therefore properly allowed the evidence to go to the
+jury. (Id. at 691 (emphasis added))
+a The Joint Appendix ﬁled with the Court contained no evidence concerning the
+wholesale price of 12′′ black and white TV sets. How did the Court conclude that
+$28 was a price so low as to excite suspicion that the sets were stolen?
+b Did the fact that the Memorex tapes Huddleston sold in April and the fact that the
+Amana appliances he offered for sale in May were stolen support an inference that
+the TV sets he stole in February were also stolen goods? If so, explain how.
+c For every step in an inferential argument, there must be a generalization that
+makes the step logical. What generalizations would justify the italicized portion of
+the Court’s statement?
+2 The government based its theory of relevance upon a generalization, which, according
+to the Supreme Court, was:
+. . . the televisions were stolen, and proof that petitioner [Huddleston] had engaged
+in a series of sales of stolen merchandise from the same suspicious source would be
+strong evidence that he was aware that each of these items, including the Memorex
+tapes, was stolen. (Id. at 686)
+a Do you ﬁnd the generalization urged by the government persuasive? Are there any
+ﬂaws that should be corrected?
+b How does the fact that the Amana appliances Huddleston offered for sale in May
+were stolen support an inference that Huddleston knew in April that the Memorex
+tapes were stolen?
+c Assuming that the sale of stolen tapes in April and the stolen appliances in May
+support an inference that the TV sets sold in February were stolen, did that fact
+support further inference that Huddleston knew that the Memorex tapes were
+stolen in February?
+d How would you argue that the improper prejudicial effects of introducing
+evidence about (i) Huddleston’s sale of the TV sets and (ii) his offer to sell the
+Amana appliances substantially outweighed any legitimate probative value that
+evidence might have with respect to Huddleston’s knowledge that the
+Memorex tapes were stolen? Examine each transaction separately and then in
+combination. Identify each improper prejudicial effect and then construct your
+argument.
+c. Miller v. Jackson (Lord Denning MR) [1977] 3 All E. R. 340, 340–41 (CA)
+In a summer time village cricket is the delight of everyone. Nearly every village has its
+own cricket ﬁeld where the young men play and the old men watch. In the village of
+Lintz in County Durham they have their own ground, where they have played these
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 53 ---
+Evidence and inference: some food for thought
+21
+last 70 years. They tend it well. The wicket area is well rolled and mown. The outﬁeld
+is kept short. It has a good club-house for the players and seats for the onlookers. The
+village team plays there on Saturdays and Sundays. They belong to a league, competing
+with the neighbouring villages. On other evenings after work they practice while the
+light lasts. Yet now after these 70 years a judge of the High Court has ordered that they
+must not play there any more. He has issued an injunction to stop them. He has done
+it at the instance of a newcomer who is no lover of cricket. This newcomer has built,
+or has had built for him, a house on the edge of the cricket ground which four years
+ago was a ﬁeld where cattle grazed. The animals did not mind the cricket. But now this
+adjoining ﬁeld has been turned into a housing estate. The newcomer bought one of the
+houses on the edge of the cricket ground. No doubt the open space was a selling point.
+Now he complains that, when a batsman hits a six, the ball has been known to land in
+his garden or on or near his house. His wife has got so upset about it that they always go
+out at weekends. They do not go into the garden when cricket is being played. They say
+that this is intolerable. So they asked the judge to stop the cricket being played. And the
+judge, much against his will, has felt that he must order the cricket to be stopped; with
+the consequences, I suppose, that the Lintz Cricket Club will disappear. The cricket
+ground will be turned to some other use. I expect for more houses or a factory. The
+young men will turn to other things instead of cricket. The whole village will be much
+the poorer. And all this because of a newcomer who has just bought a house there next
+to the cricket ground.
+Questions
+1 Is this a story?
+2 Some people ﬁnd this persuasive, but others consider it “unjudge-like.” What reasons
+might be given in support of each view?
+3 Can you show that in this passage, read on its own, Lord Denning (i) contradicted
+himself; (ii) invented some facts; (iii) introduced facts that are not relevant to a claim
+in nuisance?
+4. Evidence from two causes c´el`ebres
+a. Commonwealth v. Sacco and Vanzetti (Mass. 1921)
+Nicola Sacco and Bartolomeo Vanzetti emigrated from Italy to America in the
+early 1900s. They were regularly employed and were respected and well liked by
+everyone who had contact with them. In 1920 Sacco was employed as a shoe-
+edger and Vanzetti as a ﬁsh-peddler. But they were also implacable anarchists.
+Following World War I, there were many instances of what we would today call
+acts of terrorism. Members of anarchistic groups were associated with these acts of
+terrorism, and Sacco and Vanzetti were members of one of these groups. In 1920
+they were charged with felony murder in a commonplace but ruthless crime. They
+were tried, convicted, and executed in 1927. Their trial is arguably the ranking cause
+c´el`ebre in American legal history. Their case has been referred to as “the case that
+will not die.” Arguments exist to this day about whether Sacco and Vanzetti were
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 54 ---
+22
+Analysis of Evidence
+convicted for being murderers or for being anarchists. One major element of the
+argument that they were wrongly convicted concerns the authenticity of certain
+ﬁrearms evidence against Sacco.
+On Thursday, April 15, 1920, two payroll guards, Alessandro Berardelli and
+Frederick Parmenter, were carrying two metal boxes containing $15,773.15 in bills
+and coin, which represented the week’s payroll for employees of the Slater-Morrill
+ShoeCompanyinSouthBraintree,Massachusetts.AstheyheadeddownPearlStreet
+in the direction of this shoe company, Berardelli and Parmenter were attacked by
+two men whom witnesses said were loitering in the vicinity of the crime scene.
+Berardelli was shot four times and died instantly. Parmenter was shot twice and
+died the next day; he was not able to identify his assailants.
+On May 5, 1920, Sacco and Vanzetti were arrested for reasons having nothing
+to do with this crime. Police ofﬁcers Michael Connolly and Frank Vaughn arrested
+them. They had been told that they were suspicious persons and that they had stolen
+a car. At the time of their arrest, Sacco was carrying a 32-caliber Colt automatic
+pistol. On September 11, they were indicted and charged with ﬁrst degree felony
+murder for the slaying of Berardelli and Parmenter.
+At their trial, Ofﬁcer Connolly testiﬁed: “Sacco attempted on several occasions
+to put his hand under his overcoat in spite of being warned [by Connolly] not
+to do so.” Later in the trial, a forensic surgeon, Dr. Magrath, testiﬁed that he had
+extracted four 32-caliber bullets from the body of Berardelli and marked each one
+on its base with Roman numerals I, II, III, and IV. Magrath testiﬁed that Bullet III,
+admitted at trial as Exhibit 18, was the bullet that killed Berardelli. During the trial,
+the prosecution went to considerable lengths to show that Exhibit 18 had been ﬁred
+through the 32-caliber Colt automatic that was alleged to belong to Sacco. The
+court allowed both the prosecution and defense to test-ﬁre bullets through Sacco’s
+32-caliber Colt automatic to see if the markings on the test bullets matched those of
+Exhibit 18 shown at trial. Prosecution and defense ballistics experts disagreed about
+whether Exhibit 18 had been ﬁred through Sacco’s 32-caliber Colt automatic.
+All witnesses to the shooting testiﬁed that one gunman ﬁred four shots in succes-
+sion into Berardelli’s body. When the four bullets are examined together, however,
+it is obvious that the riﬂing pattern on Exhibit 18 does not match the patterns on
+Bullets I, II, and IV. Exhibit 18 cannot have been ﬁred from the same weapon as the
+other three bullets. (The prosecution never showed the four bullets all together at
+trial and were never requested to do so by the defense.)
+Questions
+1 Did Connolly’s testimony that: “Sacco attempted on several occasions to put his hand
+under his overcoat in spite of being warned [by Connolly] not to do so” make it any
+more probable that it was Sacco who shot Berardelli? Identify each inference that must
+be accepted in order to demonstrate that Connolly’s testimony was relevant to the
+proposition it was Sacco who shot Berardelli.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 55 ---
+Evidence and inference: some food for thought
+23
+2 What is the signiﬁcance of the fact that the riﬂing pattern on Exhibit 18 does not
+match the patterns on Bullets I, II, and IV and the resulting inference that Exhibit 18
+cannot have been ﬁred from the same weapon as the other three bullets? What are the
+possible explanations for this discrepancy? Had the comparison been made at trial,
+how would you have explained the discrepancy if you were the prosecutor? If you were
+counsel for Sacco, what additional inferences would you argue that the jury should
+make based upon the comparison of the four bullets?
+b. People v. Simpson (Cal. 1994)
+In July, 1994, the state of California formally charged that Orenthal James Simpson
+(OJS)hadmurderedhisformerwife,NicoleBrownSimpson(NBS),andabystander,
+Ronald L. Goldman (RLG), on June 12, 1994. The trial took place in 1995. One of
+the issues was whether OJS could have had an opportunity to commit the crimes.
+The only evidence presented at trial bearing upon that issue is summarized below.
+Sometime between 10:15 and 10:20 p.m., on June 12, 1994, Pablo Fuentes heard
+the “plaintive wail” of a dog. Around 10:45 p.m., Steven Schwab found NBS’s Akita
+with blood on its paws. At about the same time, Kato Kaelin, a guest in OJS’s house,
+heard three thumps on the wall outside his bedroom that he thought might be an
+earthquake. He went out and walked along a path behind the house, but he did
+not see anything. Alan Park was a limousine driver scheduled to drive OJS to the
+Los Angeles Airport to catch an 11:45 p.m. ﬂight to Chicago. He arrived at OJS’s
+house early. He pressed the buzzer at the gate at 10:40 and again at 10:49 and got no
+answer. At 10:55, Park saw an African-American male dressed in dark clothes enter
+the house. At 10:56, he buzzed again and OJS answered. OJS said he had been in the
+shower and would be out in a few minutes. Kaelin opened the gate and Park drove
+the limo to the front door. There were two black duffel bags on the doorstep. At
+11:00, OJS came out. He was wearing stone-washed blue jeans and a white polo shirt
+and was carrying a coat over his arm and a designer hanging bag. Park shook hands
+with him. He did not notice any cuts or blood on his hand or anything else unusual.
+According to Detective Vannatter, it took about ﬁve minutes to drive, observing the
+speed limit, from NBS’s house at 875 Bundy Drive to OJS’s house at 360 North
+Rockingham Avenue.
+Problems
+1 Construct a story that accounts for each event and observation reported above and
+that shows that OJS almost certainly could have murdered NBS and RLG.
+2 Construct a story that accounts for each event and observation reported above and
+that shows that OJS almost certainly could not have murdered NBS and RLG.
+5. United States v. Richard Able
+YourﬁrmrepresentsRichardAble,thedefendantinUnitedStatesv.Able.Thepartner
+who has prepared the case is ill, and you have been assigned to try it. The following
+is an abstract of the materials in the ﬁrm’s ﬁles.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 56 ---
+24
+Analysis of Evidence
+The Case File
+In January, the United States Attorney for the Middle District of New State ﬁled an
+indictment alleging that Richard Able had knowingly ﬁled a false federal income tax
+return for the year 2003 with intent to defraud the federal government of income tax
+due and owing. The indictment alleged that during 2003 Able had received income
+in an amount no less than $45,000 that had not been included on his income tax
+return for that year. The indictment is otherwise sufﬁcient, and the court has denied
+the defendant’s motion to dismiss.
+Pursuant to the court’s standing discovery order, the government has ﬁled a
+list of prospective witnesses and copies of documents it may seek to introduce in
+evidence. The list of prospective witnesses include: (i) Samuel Baker, managing
+partner in a New York law ﬁrm (the “Law Firm”); (ii) Timothy Cooper, a certiﬁed
+public accountant in New City; (iii) Carol Able, Able’s ex-wife; (iv) Linda Davis,
+a model and Able’s ex-girlfriend; and (v) various bank ofﬁcers, Internal Revenue
+Service ofﬁcials, and others who can lay a proper foundation for certain of the
+documents listed. The documents produced include: (i) a cancelled check in the
+amount of $25,000 dated December 15, 2003, issued by the Law Firm payable to
+Able with endorsements showing that Able cashed it on December 20, 2003, at the
+Citibank branch in Las Vegas; (ii) a 2003 federal income tax return signed by Able
+and by Cooper as the preparer dated April 15, 2004, that reports Able’s gross income
+from all sources for the year 2003 as $125,000; (iii)–(v) Able’s federal income tax
+returns for prior years prepared by a New York accountant reporting gross income
+for 2000 as $375,000; for 2001 as $410,000; and for 2002 as $275,000; (vi)–(vii)
+cancelled checks from two law ﬁrms in New City showing payments to Able during
+2003 aggregating $20,000 as consulting fees and bearing endorsements showing
+that they were deposited in Able’s bank account during that year; (viii) a certiﬁed
+copy of a divorce decree entered by the Supreme Court of New York indicating that
+in 2000 Able agreed and the court ordered him to transfer assets with an aggregate
+value of $750,000 to his wife Carol in full settlement of all claims she might have
+arising from the marriage, for alimony or otherwise, and to pay the sum of $35,000
+per year for the support of his two young children who remained in the custody of
+Carol; (ix) a xerox copy of a love letter from Linda Davis to Able dated December
+1, 2003, that includes the statement, “Remember, darling, what we talked about in
+the disco – no risks, no me”; and (x) micro-ﬁlm copies of Able’s bank statements
+and cancelled checks for the years 1999 through 2003.
+In response to Able’s demand for discovery pursuant to constitutional and statu-
+tory requirements, the government has also produced a copy of reports submitted
+by FBI or IRS agents summarizing interviews with various witnesses. These include
+a three-page memorandum by FBI Agent Dawes stating that he had interviewed
+Timothy Cooper in August 2004 and that, among other things, Cooper had told him
+that Cooper had merged his accounting practice in July 2004 and that his secretary
+had lost or thrown out some materials, such as notes and work papers, contained in
+inactive client-ﬁles. According to the memorandum, Cooper told Dawes that Able
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 57 ---
+Evidence and inference: some food for thought
+25
+was listed as an inactive client at the time because he had not consulted Cooper or
+returned Cooper’s calls concerning preparation of Able’s 2004 income tax return.
+Dawes’s memorandum reported that Cooper could not tell from examining the ﬁle
+whether any materials from Able’s ﬁle had been discarded, but said he thought it
+unlikely. Dawes’s memorandum reported that Cooper had no recollection of how
+the signing of Able’s return was handled, but Cooper said that he usually mailed two
+copies of a return to his clients with an envelope adressed to the Internal Revenue
+Service and a note instructing them to review, sign, and mail the completed returns
+by April 15. The memorandum reports that Cooper could not ﬁnd a copy of such
+a note with the copy of Able’s 2003 return in his ﬁles. Cooper reported that the
+ﬁle contains no information about any income other than Able’s salary, and that
+Cooper did not recall Able informing him that he had received any other income.
+Pursuant to the court’s reciprocal discovery requirement, Able has listed the
+followingpossiblewitnesses:(i)JoanEvans,Able’spresentgirlfriend;(ii)KarlFrank,
+dean of the New State University Law School; and (iii) various New State law
+professorsandNewYorklawyerswhohaveworkedwithAbleduringhisprofessional
+career, as possible character witnesses. Able has also produced for the government
+a xerox copy of a handwritten note reading:
+April 11, 2004
+Dear Tim:
+When we met last month, I gave you the information about my regular and
+summer school salary from the law school and my expenses last year. As promised,
+I have reviewed my bank records and notes and have determined that I received
+$25,000 from my former New York law ﬁrm as my share of a contingent fee they
+received on a case on which I had worked, and $20,000 for miscellaneous consulting
+work I did for ﬁrms here in New City. Because I will be out of town on the 15th, I
+have signed and enclosed a blank, undated 1040 form. I also enclose a signed check
+payable to the Internal Revenue Service with the amount to be ﬁlled in by you. Please
+complete, date, ﬁle, and send me a copy.
+Regards,
+Richard
+Theﬁlealsocontainsmemorandabyyourpartnerbaseduponvariousinterviews.
+These include a memorandum based upon notes from interviews with Able. The
+principal points in that memorandum are as follows:
+i Able spent 12 years with the Law Firm, seven as an associate, and ﬁve as a partner.
+The tax returns for 1999, 2000, and 2001 were prepared by a New York accounting
+ﬁrm that did the returns for all the Law Firm’s partners. They are accurate insofar as
+Able knows.
+ii Able left the ﬁrm in mid-2002 and joined the law faculty at New State University
+where he is presently employed. In 2003, his salary for the academic year was
+$105,000, and he was paid $20,000 for teaching in the summer quarter.
+iii Able says he earned $20,000 for miscellaneous consulting work for New City ﬁrms.
+The $25,000 check represented his share of a court-awarded fee in a case on which he
+had worked while at the Law Firm.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 58 ---
+26
+Analysis of Evidence
+iv Able says he retained Cooper in March 2004. He wrote the April letter just before he
+left for a one-week trip to attend a conference in Chicago. According to Able he gave
+the letter to his girlfriend, Joan Evans, and asked her to deliver it to Cooper after she
+dropped him at the airport. Able said that he did not like Cooper, and he has since
+done his own returns because they are rather simple.
+v Able said that Baker disliked him because Able was one of the “young turk” partners
+who had led the Law Firm into plaintiff’s litigation in which fees were contingent
+upon results. The practice was eventually successful, but Baker was an old-timer who
+thought that kind of practice was inconsistent with the Law Firm’s reputation as an
+old-line corporate and banking ﬁrm.
+vi Able acknowledged that he and his ex-wife Carol had been social cocaine users, and
+he suspects Baker may try to suggest that Able was asked to leave the Law Firm for
+this reason.
+vii Able reported that as part of the settlement with Carol, she had waived any claim to
+his retirement account containing $600,000 and that, after transfering assets valued
+at $750,000 and paying his attorney’s fees and costs, he had about $150,000 in cash,
+which he used to make a $100,000 down payment on a house he bought for $400,000
+and to pay for moving expenses, for repairs and minor improvements to the house,
+and for furniture and other furnishings for the house. Able acknowledged that he
+made himself a promise when he entered practice that he would keep his pensions
+intact until he retired.
+viii Able admitted that he went to Las Vegas with his ex-girlfriend, Linda Davis, in
+December 2003 in an effort to please her. He cashed the Law Firm check at a branch
+of his bank as convenience to be sure he had the cash before Christmas. Able said
+that he returned with more than $15,000 cash, he lent $6,000 to Linda as the down
+payment for a small Porsche, spent the $2,500 on Christmas gifts for Linda and his
+two children, and he used the balance for miscellaneous expenses in January and
+February.
+ix Able said that shortly after their return from Las Vegas, he learned that Linda had a
+reputation as a heavy coke user and as a New City “call girl.” He said they broke up
+when he asked her to sign a note for the $6,000 loan. According to Able, the breakup
+was bitter and Linda has since refused to discuss the loan. Able said he thinks Linda
+would say the $6,000 was a gift or would claim that he “blew” most of the $25,000 at
+the tables in Las Vegas.
+x According to Able, he has not used cocaine even socially since he began dating Joan
+Evans because of her strong religious views. She works as a librarian and is still his
+girlfriend.
+The ﬁle also contains memoranda and notes from telephone and personal inter-
+views indicating that:
+i Joan Evans conﬁrms that she delivered the April 11 letter to Cooper’s ofﬁce and
+handed it to his secretary who identiﬁed herself as Mrs. Cooper. She says that Able
+is a brilliant lawyer and a good man and that he has never used cocaine in her
+presence;
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 59 ---
+Evidence and inference: some food for thought
+27
+ii Baker hung up the telephone after commenting that Able’s taste for cocaine and fast
+women had ﬁnally brought him his just reward;
+iii Carol Able said she bore her ex-husband no ill will and would be happy to testify if it
+would help; and
+iv Cooper and Davis refused to discuss the matter.
+Questions
+1. Provisional theories of the case
+a
+What do you anticipate will be the government’s theory of the case in light of the
+available evidence and your analysis? What will be its principal themes? Its story?
+b
+In light of that analysis and an analysis of the evidence available to you, what will be
+the defendant’s theory of the case? The principal themes? The story?
+2. Admissibility of the evidence
+a
+Trial preparation. The government has identiﬁed four substantive witnesses and nine
+substantive documents through which it intends to prove its case.
+i The government’s documents. In light of the provisional theories, to what fact of
+consequence in the litigation will the government claim each document is
+relevant? Which documents will you seek to exclude and on what basis? How
+should counsel for the government respond, and what is the probable result?
+ii The government’s witnesses. Are you likely to be able to exclude any testimony
+concerning Able’s use of cocaine? What will the government argue and how will
+you respond? How should the court rule? Are there other signiﬁcant lines of
+testimony that the government is likely to seek to elicit that you would expect to
+be able to exclude? If so, which, and on what bases?
+b
+The trial. The government has presented its case and rested. The court has denied
+your motion for a directed verdict.
+i On cross-examination, Cooper testiﬁed that he did not recall seeing Able’s
+April 11th letter; that had his ofﬁce received it, it would have been in the client-ﬁle
+he maintained for Able, and it is not; that his ﬁles were perfectly maintained; that
+he does not recall discussing any papers being lost in his 2004 move; and that he
+has never seen Agent Dawes’s memorandum and it does not refresh his
+recollection. How will you proceed to impeach his credibility in your case in chief?
+How will you respond to the government’s hearsay objections? Are you likely to
+succeed?
+ii Able has identiﬁed the April 11th letter and testiﬁed that he wrote and gave it to
+Joan Evans to deliver it to Cooper. The government has objected to the admission
+of the letter on the grounds that (1) its relevance has not been established; (2) it is
+not the best evidence; and (3) it is inadmissible hearsay. How do you respond?
+iii Apart from Able’s testimony concerning his conversations with Cooper and the
+April 11th letter and Evans’s testimony concerning the delivery to Cooper’s ofﬁce,
+what additional testimony will you seek to introduce through these or other
+witnesses? Why? Does your answer depend upon whether you won or lost
+objections you made during the government’s case? Explain.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 60 ---
+28
+Analysis of Evidence
+3. The Nature of Proof
+Would the application of the rules of evidence result in the exclusion of logically
+relevant evidence? Would the exclusion of such evidence enhance the likelihood
+that the jury would make a true determination? A just determination? Should the
+case of United States v. Able be submitted to the jury? What does it mean to say
+that a jury might ﬁnd that the evidence established Able’s guilt beyond and to the
+exclusion of every reasonable doubt?
+6. Sargent v. Southern Accident Co.4
+You are a lawyer in private practice. Southern Accident Company has retained you
+to defend it in an action by plaintiff Porter E. Sargent, beneﬁciary of a life insurance
+policy issued by the company and covering his son Upham Sargent. The plaintiff
+claims $500,000, the amount payable if the insured suffers an “accidental injury that
+is the sole cause of death resulting within 90 days after the accidental injury.” The
+policy excludes suicide, but not recklessness or engaging in hazardous activities. The
+defendant company does not contend that the plaintiff’s proof of loss was not timely
+or that the plaintiff failed to inform it in writing of all facts known or discovered
+by plaintiff. However, the policy requires “written proof covering the occurrence,
+character, and extent of the loss for which claim is made,” and the company takes
+the position that the facts submitted to it fail to show that Upham Sargent died by
+“accidental injury” within the provisions of the policy.
+Pre-trial discovery proceedings have been completed and the company’s claims
+supervisor is considering making a ﬁnal offer of settlement to plaintiff before trial.
+In order to make that decision he has asked your opinion whether the plaintiff’s
+evidence is sufﬁcient for the plaintiff to avoid a directed verdict in the defendant’s
+favor, that is, whether there is sufﬁcient evidence from which a reasonable jury could
+conclude that Upham Sargent suffered an “accidental injury that was the sole cause
+of death resulting within 90 days after the accidental injury.”
+Your answer will depend on your analysis of the evidence the plaintiff is likely
+to offer at the trial. The plaintiff’s probable evidence, consisting of the testimony
+of ﬁve witnesses, is set forth on the following pages. Assume that all ﬁve witnesses
+will testify at the trial and that all will be credible. Assume the following standard
+for decision: Could a jury of reasonable persons ﬁnd that the evidence presented
+satisﬁed the test on a “balance of probabilities”?
+Plaintiff’s Evidence
+Testimony of Porter E. Sargent. The insured was my son, Upham Sargent. When
+he died he was 21 years old. He was ﬁnancially comfortable, mentally well bal-
+anced, vigorous, athletic, resourceful, courageous, a good swimmer, and of some
+experience in living in wild country without provisions. For several years he had
+taken hazardous and adventurous journeys alone in this country and in Europe.
+4 ThisexercisewasdevisedbythelateProfessorThomasR.Ewaldandisbaseduponthefactsreported
+in Sargent v. Massachusetts Accident Company, 307 Mass. 246, 29 N.E.2d 825 (1940).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 61 ---
+Evidence and inference: some food for thought
+29
+Upham had ﬁnished his junior year in college in the spring of 2002. He lived with
+my wife and myself in our home in Boston until August, 2002, when he left to go
+on a kayak trip in northern Quebec. Before leaving he outlined to me the trip from
+Boston via Montreal to Senneterre. From Senneterre he planned to travel by kayak
+to Mattagami Lake at the head of the Nottaway River. His intention was to run down
+the river in his kayak in a northwesterly direction, into James Bay, and to go to a
+trading post of the Hudson’s Bay Company on James Bay, called Rupert’s House.
+He left Boston on a train for Montreal on August 1, 2002. He traveled with a green
+kayak. The boat was eighteen feet long and not as deep as a canoe. He transported
+the kayak in the baggage car of the train. The kayak had the name “Sargent” burned
+into the wood inside its stern. When he left Boston he also had with him a small
+repeating riﬂe with ammunition, a sleeping robe, matches, $800 in money, snares
+and ﬁshing tackle, and a good supply of food. He had no clothes for winter weather.
+His mother and I said goodbye to him at North Station in Boston on August 1,
+2002. We never saw him again.
+Testimony of George Birdsong. I live on an Indian reservation at the northern reaches
+of the Nottaway River, near its mouth. We are friendly and hospitable Indians, who
+live by trapping and selling the skins at Rupert’s House. The Indians who live at
+Mattagami Lake are equally friendly and hospitable. They trade at Senneterre, to the
+south. The Nottaway River varies from a ﬁfth to a half-mile in width and consists
+of a series of dangerous rapids among large boulders. The river falls about seven
+hundred feet in its course. The only possible channel through rapids is usually near
+one bank or the other. In that river if one should not ﬁnd the channel he could not
+cross to the other side. An upset in the river would probably mean death. Even the
+best canoeists would ﬁnd that river very hazardous. Only three parties are known
+to have descended it safely. The customary route from Mattagami Lake to Rupert’s
+House is much longer and avoids the Nottaway River. There are no portages, roads,
+trails, or paths in the country drained by the river. That country is ﬂat, desolate,
+and unforested, with many swamps and with no elevations of consequence. Fish
+and blueberries are plentiful, and there are some ducks and rabbits.
+IwasvisitingfriendsandworkingonthereservationatMattagamiLakeinAugust
+and September, 2002. I met Upham Sargent when he came there about September
+1, 2002. He told me he was going down the Nottaway River in his kayak. I had never
+heard of anyone trying to go down the Nottaway River in a kayak. I warned him
+that the trip would be very dangerous. Sargent stayed in the Mattagami reservation
+until September 8. That day I saw him load his supplies and belongings into the
+kayak, get into the kayak and set off down the river. I never saw him again.
+In October, 2002, I found his paddle on the bank of the Nottaway River, on the
+fringe of a whirlpool 50 or 60 miles from the mouth of the river.
+Testimony of Henry Largetree. I live near the Nottaway River. I never met Upham
+Sargent. In May 2003 I found the bow section of a green kayak under some rocks
+in the Nottaway River. The place was about 40 miles from the river’s mouth.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press
+
+
+--- Page 62 ---
+30
+Analysis of Evidence
+Testimony of Clarence Rockbound. I am a senior geologist in the service of the Cana-
+dian Government. Among my duties are preparing topographical surveys of various
+localities in Canada. I have surveyed the area of the Nottaway River. The length of
+the river from the head of the Nottaway River in Lake Mattagami to its mouth is
+225 kilometers (140 miles). I prepared the “Nottaway Sheet” of the geological sur-
+vey of Canada. I have never travelled through the rapids of the Nottaway River, but
+from my studies and work in the region I have acquired a general knowledge of the
+character of the river and the region through which it ﬂows. I have descended the
+rapids of another river a little north of the Nottaway in a canoe. It is my opinion
+that an individual in a kayak loaded with supplies could not descend the Nottaway
+River without being drowned. In my opinion based upon my experience, a kayak
+managed by one person and carrying a load cannot stay aﬂoat in the quick water
+of great power that ﬂows among the boulders of the Nottaway River. I also have
+an opinion that it would be possible that in an upset the person would lose his
+kayak and all his equipment and, though he might reach the shore safely, he would
+eventually starve to death. At the same time I believe from my knowledge of the
+Nottaway River area that there were plenty of blueberries there in September and
+October, 2002, on which one could live for a month.
+Testimony of Sergeant Horatio Renfrew. I am a sergeant in the Royal Canadian
+Mounted Police. I was in charge of coordinating the search efforts for Upham
+Sargent. Search parties were organized by the Royal Canadian Mounted Police, the
+Hudson’s Bay Company, Revillon Freres Ltd., the Indians of the Nottaway River
+neighborhood, and other persons in the north country. The searches were made
+during the period from September 20, 2002 to February 28, 2003. I personally made
+an airplane ﬂight in February 2003 over the northern reaches of the Nottaway River
+in the hope of sighting Upham Sargent or his body. I have never found him or his
+body. All of the other search parties reported to me that they had not found Sargent
+or his body. On March 1, 2003, I instructed them to discontinue the search.
+Questions
+1 What is the ultimate proposition of fact, the ultimate probandum, that the plaintiff
+must prove in order to prevail? State the proposition. How many conditions must be
+satisﬁed? State each condition as a simple proposition.
+2 Analyze all of the plaintiff’s evidence to determine whether it is sufﬁcient to avoid a
+directed verdict in the defendant’s favor. Prepare a concise outline identifying as a
+separate proposition each relevant fact that can be shown by the testimony. State as
+separate propositions the relevant inferences that can be drawn from these evidential
+propositions. Complete the analysis by organizing the data in a manner that compels
+the conclusion that the plaintiff does or does not have sufﬁcient evidence to satisfy all
+of the conditions required by the ultimate proposition that he must prove, that is, to
+prove each of the material facts in issue.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.002 Published online by Cambridge University Press

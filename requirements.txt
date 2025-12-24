@@ -1,5 +1,8 @@
 # PDF Extraction Pipeline Dependencies
 
+# Google Drive download support (for large files)
+gdown>=5.0.0
+
 # PDF text extraction libraries (install at least one)
 # PyMuPDF - Best quality extraction, handles most PDFs well
 pymupdf>=1.23.0

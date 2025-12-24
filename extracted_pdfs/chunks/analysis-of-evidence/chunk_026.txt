@@ -1,0 +1,756 @@
+# Chunk 26 of 26
+# Document: Analysis of Evidence
+# Characters: 22340
+
+--- Page 424 ---
+References
+393
+Shapiro, Barbara J. 1982, Probability and Certainty in Seventeenth-Century England,
+Princeton, NJ: Princeton University Press.
+Shapiro, Barbara J. 1991, Beyond Reasonable Doubt and Probable Cause: Historical Per-
+spectives on the Anglo-American Law of Evidence, Berkeley, Cal.: University of California
+Press.
+Sidgwick, Alfred 1884, Fallacies. A View of Logic from the Practical Side, New York:
+D. Appleton.
+Siegel, Michael 1994, “A Pragmatic Critique of Modern Evidence Scholarship,” 88
+Northwestern U. L. Rev. 995.
+Skryms, Brian 1986, Choice and Chance: An Introduction to Inductive Logic, 3rd edn,
+Belmont, Cal.: Wadsworth.
+Stein, Alex 2005, Foundations of Evidence (forthcoming).
+Thayer, J. B. 1898, A Preliminary Treatise on Evidence at the Common Law, Boston: Little,
+Brown.
+Tillers, Peter 1983, “Modern Theories of Relevancy,” from Wigmore on Evidence, 1-1A,
+Tillers Revision, Boston: Little, Brown.
+Tillers, Peter (ed.) 1991, “Decision and Inference in Litigation” (Symposium), 13 Cardozo
+L. Rev. 253–1079.
+Tillers, Peter and Eric Green 1986, “Symposium: Probability and Inference in the Law of
+Evidence,” 66 Boston University L. Rev. 377–952.
+Tillers, Peter and Eric Green 1988, Probability and Inference in the Law of Evidence: The
+Limits and Uses of Bayesianism, Dordrecht, NL: Kluwer.
+Tillers, Peter and David Schum 1988, “Charting New Territory in Judicial Proof: Beyond
+Wigmore,” 9 Cardozo L. Rev. 907.
+Tillers, Peter and David Schum 1991, “A Theory of Preliminary Fact Investigation,” 24
+U. C. Davis L. Rev. 931.
+Toulmin, S. 1964, The Uses of Argument, Cambridge: Cambridge University Press.
+Tribe, Laurence H. 1971, “Trial by Mathematics: Precision and Ritual in the Legal Process,”
+84 Harvard L. Rev. 1329.
+Twining, William 1973, Karl Llewellyn and the Realist Movement, London: Weidenfeld and
+Nicolson.
+Twining, William 1980, “Debating Probabilities,” U Liverpool L. Rev. 51.
+Twining, William (ed.) 1982, Facts in Law, Wiesbaden: Franz Steiner Verlag.
+Twining, William 1985, Theories of Evidence: Bentham and Wigmore, London: Weidenfeld
+& Nicolson.
+Twining, William 1988, “Hot Air in the Redwoods,” 86 Michigan L. Rev. 1523.
+Twining, William 1994, Rethinking Evidence: Exploratory Essays, Evanston, Ill.:
+Northwestern University Press.
+Twining, William 1997, “Civilians Don’t Try: A Comment on Mirjan Damaska’s ‘Rational
+and Irrational Proof Revisited,”’ 5 Cardozo J. of Int. and Comp. L. 69.
+Twining, William 1997, “Freedom of Proof and the Reform of Criminal Evidence,” 31 Israel
+L. Rev. 439.
+Twining, William 1997, “Recent Trends in Evidence Scholarship,” in J. F. Nijboer and
+J. M. Reijntjes (eds.), Proceedings of the First World Conference on New Trends in Criminal
+Investigation and Evidence, Lelystad: Koninklijke Vermande, 13–22.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.015 Published online by Cambridge University Press
+
+
+--- Page 425 ---
+394
+References
+Twining,William1999,“NarrativeandGeneralizationsinArgumentationaboutQuestions
+of Fact,” 40 South Texas L. Rev. 351.
+Twining, William 2002, The Great Juristic Bazaar, Aldershot: Ashgate/Darmouth.
+Twining, William 2002, “The Ratio Decidendi of the Parable of the Prodigal Son” in The
+Great Juristic Bazaar, Ch. 16.
+Twining, William 2003, “Evidence as a Multi-disciplinary Subject,” 2 Law, Probability and
+Risk 91.
+Twining, William 2005, “Taking Facts Seriously – Again” (forthcoming).
+Twining, William and Iain Hampsher-Monk (eds.) 2003, Evidence and Inference in
+History and Law: Interdisciplinary Dialogues, Evanston, Ill.: Northwestern University
+Press.
+Twining, William and David Miers 1999, How to Do Things with Rules: A Primer of Inter-
+pretation, 4th edn, London: Butterworths.
+Wagenaar, W. A., P. J. Van Koppen, and H. F. M. Crombag 1993, Anchored Narratives: The
+Psychology of Criminal Evidence, New York, NY: St. Martin’s Press.
+Walton, Douglas 1989, Informal Logic: a Handbook of Critical Argumentation, New York:
+Cambridge University Press.
+Walton, Douglas 2002, Legal Argumentation and Evidence, University Park, Pa.: State
+University of Pennsylvania Press.
+Watson, Eric (ed.) 1915, The Trial of George Joseph Smith, London and Edinburgh.
+Watson, Thomas J. and Peter Petre 1990, Father, Son and Co.: My Life at IBM and Beyond,
+New York: Bantam Books.
+Weis, Ren´e 2001, Criminal Justice: The True Story of Edith Thompson, London:
+Penguin.
+White, James B. 1985, Heracles’ Bow, Madison: University of Wisconsin Press.
+Whitehead, Alfred North 1939, An Introduction to Mathematics, New York: H. Holt.
+Wigmore, John Henry 1913, “The Problem of Proof,” 8 Illinois L. Rev. 77.
+Wigmore, John Henry 1913, 1988, The Principles of Judicial Proof: As Given by Logic,
+Psychology, and General Experience, and Illustrated in Judicial Trials, Littleton, Colorado:
+F. B. Rothman.
+Wigmore, John Henry 1935, A Students’ Textbook of the Law of Evidence, Chicago: The
+Foundation Press, Inc.
+Wigmore, John Henry 1937, The Science of Judicial Proof, as Given by Logic, Psychol-
+ogy, and General Experience and Illustrated in Judicial Trials, 3rd edn, Boston: Little,
+Brown.
+Wigmore, John Henry 1940, A Treatise on the Anglo-American System of Evidence in Trials
+at Common Law, 2nd edn, Boston: Little, Brown.
+Williams, Glanville 1979, “The Mathematics of Proof I & II,” Crim. L. Rev. 297, 340.
+Williams, Glanville 1980, “A Short Rejoinder,” Crim. L. Rev. 103.
+Wisdom, John 1965, Other Minds, 2nd edn, Oxford: Blackwell.
+Woolf, Lord H. 1996, Access to Justice (Final Report), London: HMSO.
+Wright, Charles A. 1998, Federal Practice and Procedure, St. Paul, Minn.: West.
+Young, Filson 1951, Trial of Frederick Bywaters and Edith Thompson, 2nd edn, Edinburgh
+and London: W. Hodge & Company, Ltd.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.015 Published online by Cambridge University Press
+
+
+--- Page 426 ---
+References
+395
+Zadeh, L. 1965, “Fuzzy Sets,” 8 Information and Control 338.
+Zander, Michael 2003, Cases and Materials on the English Legal System, 9th edn, London:
+LexisNexis UK.
+Zangwill, Israel 1895, The Big Bow Mystery, Chicago: Rand, McNally.
+Zuckerman, Adrian A. S. 1986, “Law, Fact or Justice?” 66 Boston U. L. Rev. 487.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.015 Published online by Cambridge University Press
+
+
+--- Page 427 ---
+Index
+abductive reasoning
+deﬁned, 379
+generally, 54, 56–8, 98–9, 110
+illustrated, 8–10, 11–17
+accuracy, 65
+admissibility of evidence
+analysis, 291, 295–8
+rules of procedure, 87–90
+seven-step protocol, 305–14
+standards for decisions, 238–42
+United States. See Federal Rules of Evidence
+US v Able, 27
+adultery, 219
+Al Qaeda, 47, 52, 53
+ambiguity of evidence, 246
+analogies, 281
+analytic devices, 113–14, 121, 147–8, 155,
+315–17
+ancillary evidence, 42, 63, 64, 67–70, 77
+Anderson, Terence, 304
+anti-nomianism, 226
+appeals, 238, 2–5
+arguments, 60–2, 86. See also inductive and
+deductive argument, inference
+aspirational rationalism, 83
+assumptions, 78–83
+atomistic analysis, 156–8
+authenticity, 60, 64–5, 380
+autoptic proferences, 92, 135, 380
+background information, 42, 43, 51, 269, 273,
+275. See also generalizations
+Bacon, Francis, 229, 257–9
+Bayes, Thomas, 251
+Bayes’s Rule, 250, 251–3, 256, 261
+beliefs, 43, 253–7, 265, 271–2, 278
+Bell, Joseph, 8–9, 286, 287
+Benet, Stephen Vincent, 220
+Bennett, W., 280
+Bentham, Jeremy, 1, 46, 82, 83, 226, 227, 228,
+290, 293
+Bergman, Paul, 77
+bias, 68–9, 380
+Bible, 247
+bin Ladin, Usama, 52
+Binder, David, 77
+blood samples, 64–5
+‘bottom-up’ reasoning, 4, 94
+catenate inferences. See inferences
+character evidence, 89–90, 300
+chart method
+advantages of, 140–2
+analytic devices, 315–17
+chart preparation, 132–3, 315–17
+charts, 95, 128, 138, 307
+features, 113
+gaps, 109
+illustration, 136–8
+key-lists, 95, 113, 124, 128–32, 137–8, 307
+macroscopic level, 123, 159
+micro-charts, 152
+microscopic level, 123–4
+overview, 123–4, 152
+seven-step protocol, 124–34
+symbols, 93, 113, 134–6, 139–42, 387–9
+trial preparation, 315–24
+chronologies, 112, 113–14, 121, 147–8, 153, 155,
+317
+circumstantial evidence, 76, 352, 380
+civil law systems, 294, 299–300
+classiﬁcation of evidence, 71–3
+closing statements, 323
+cognitive competence, 380. See also cognitive
+consensus
+cognitive consensus, 263, 273–6, 380
+Cohen, Jonathan, 249, 257–9, 273–5
+combination, 41, 93, 108–9, 380. See also Bayes’s
+Rule
+common law systems, 78, 87, 299–300
+common sense generalizations, 43, 269, 271,
+273, 274, 277
+commonly held beliefs, 43, 265. See also
+cognitive consensus
+competence, 70–1
+complacent rationalism, 81, 83
+complaint ﬁling, 234–5
+complex proposition. See propositions
+396
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 428 ---
+Index
+397
+compound proposition. See propositions
+Conan Doyle, Arthur, 8–10, 47, 58, 58–9, 286
+conﬂicting evidence, 69–70
+confusion, 89
+conjunction, 103–4, 381
+connecting dots, 46–55
+contradictory evidence, 69–70, 381
+convergence, 103, 106–7, 222, 381
+Cornwell, Patricia, 47
+corroboration, 98, 107, 135, 381. See also
+proponent’s corroboration
+credentials of evidence, 56, 60–71, 247, 381. See
+also evidence
+credibility, 63–74, 381
+attributes
+tangible evidence, 64–5, 381
+testimonial evidence, 65–70, 381
+crime ﬁction, 47
+criminal records, 303
+Cross, Rupert, 243
+Damaska, Mirjan, 270
+Dart, B., Is the Ford Motor Company guilty of
+killing girls with a Pinto?, 337–9
+data. See evidential data
+Davis, John W., 283, 287
+Dawid, Philip, xx, 247
+deductive reasoning, 54–6, 98, 100, 381
+delay, 89
+Dempster’s Rule, 257
+Dennis, Ian, 273
+Descartes, Ren´e, 100
+direct evidence. See evidence
+directly relevant evidence, 62–3, 382
+discretion
+abuse, 245
+admissibility of evidence, 301
+appeals, 2–5, 238
+standards for decisions, 236
+trends, 85
+discovery, 55–8, 99, 151–2, 382
+DNA, 47, 270
+dots, connecting and generating, 46–58
+Doyle, Sir Arthur Conan. See Conan Doyle,
+Arthur
+drama, 324
+efﬁciency, 300
+Eggleston, Richard, 249
+Ekelof, P. O., 249
+eliminative induction, 257–9, 382
+emotion, 281
+epistomology, 79–82, 271, 382
+ethnic cleansing, 265
+European Convention on Human Rights, 294
+evidence
+admissibility. See admissibility of evidence
+classiﬁcation, 71–3
+conﬂicting, 69–70, 103, 107, 381
+credentials, 56, 60, 247, 381
+deﬁned, 382
+direct, 62, 76–7, 269, 382
+evaluation, 224–6
+and events, 60, 248, 256, 263, 382
+marshaling, 99, 384
+one law, 294–5
+and principles of proof, 289, 295
+quantum, 222, 293, 385
+real, 55, 385. See also autoptic proference
+redundant, 385
+tangible. See tangible evidence
+testimonial. See testimonial evidence
+Thayerite theory, 290–4, 295
+trial preparation, 322–3
+US Federal Rules, 299–314
+evidential data
+autoptic proferences, 92, 93, 98
+meaning, 60, 92, 382
+recording, 121
+evidentiary fact, 88, 98, 382
+expert evidence, xxi, 270
+expletive justice, 79
+facts
+facts-in-issue, 80, 91, 383
+fact of consequence, 62, 88, 91, 382
+material facts, 91, 384
+meaning, 92, 382
+ultimate facts, 91
+fact investigations, 54
+factum probandum, 90, 92, 383. See also
+probanda
+factum probans, 92, 222, 383. See also probans
+Fairley, William, 250
+Federal Rules of Civil Procedure, 84
+Federal Rules of Criminal Procedure, 84
+Federal Rules of Evidence
+codiﬁcation, 299
+constitutional exclusionary rules, 304–5
+exclusion of relevant evidence, 303
+generally, 299–314
+principles of proof, 299–300
+probative processes, 301–4
+standards, 84–90
+Wigmorean protocol for admissibility, 305–14
+Feldman, M., 280
+Finklestein, Michael, 250
+FLINTS (Forensic Led Intelligence System), 47
+forensics, 78, 246
+Frank, Jerome, 83, 159
+fuzzy logic, 260, 261
+Gates, Robert, 47
+generalizations
+assessing, 279–80
+background generalizations, 43, 269, 273, 275
+beliefs, 271–2, 278
+case speciﬁc generalizations, 43, 266–9, 278
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 429 ---
+398
+Index
+generalizations (cont.)
+common sense, 43, 269, 271, 273, 274, 277
+commonly held beliefs, 43, 265
+context-speciﬁc generalizations, 267
+dangers, 276–7
+deﬁned, 383
+degrees of certainty, 263–5
+examples, 20–3, 93
+experience-based, 271, 278
+express generalizations, 279–80
+foolish generalizations, 272
+formulation, 279
+general knowledge, 270–1
+generally, 18–20, 43, 56, 100–3, 262–80,
+282–6
+and hearsay, 309
+implied, 280
+importance, 100–1
+likelihood, 225
+nature, 102–3
+practice rules, 277–9
+purpose, 60, 62, 262
+reliability, 266
+scientiﬁc knowledge, 270
+stock of knowledge, 269, 273–4, 277, 283
+and stories, 282–5
+symbol for, 135
+synthetic-intuitive, 271–2, 278
+types, 102–3, 265–72
+Gilbert, Jeffrey, 82, 228, 242, 290
+Glossary
+of Terms, 379–86
+of Symbols, 387
+Green, Eric, 249
+Haack, Susan, 260
+Hampsher-Monk, Iain, xxii, 46
+Hastie, Reid, 280
+hearsay, 66, 139, 248, 305, 306–10, 383
+holism, 156–8
+Holmes, Sherlock, 8, 9–10, 58–9. See Conan
+Doyle, Arthur
+human rights, 294
+hypotheses
+eliminating, 50, 257–9
+generation, 3–7, 12–17, 49, 56–60
+meaning, 60, 383
+prioritizing, 50
+testing, 90
+hypothetical cases
+Estate of Warren, 288, 341, 356–78
+Police v. Twist, 329–34
+Police v. Weller, 160, 325–9, 333–4
+Sargent v. Southern Accident Ins. Co., 28–31,
+104, 233–4
+State v. Archer, 94, 109–11, 142–4, 158, 320
+US v. Able, 23–7, 125–9, 147, 239–41, 303,
+309–14
+US v. Wainwright, 160, 341, 343–56
+IBM, 236
+imaginative reasoning. See abductive reasoning
+inconclusive evidence, 246
+inconsistent statements, 69
+indications and warnings, 4
+inductive reasoning, 55–6, 59, 80, 100, 383
+inferences
+catenate inferences, 60, 71, 107–8, 380
+Conan Doyle, 8–10
+connecting dots, 46–55
+deﬁned, 383
+inferential force. See probative force
+intelligence analysis, 3–8
+Judgment of Solomon, 2, 99, 286
+legal contexts, 10–45
+non-legal contexts, 2–10
+and proof, 94
+upon inference, 384. See also catentate
+inferences
+intelligence analysis, 3–8, 47–50, 99
+interim probanda, 61, 63, 96, 262, 383–4
+intuition, 271, 281
+Iraq, 47
+judicial notice, 273, 300, 383
+juries
+generalizations, 225
+instructions, 227, 317, 351–6, 377–8
+selection, 321
+and stories, 280
+Kemelman, F., The Nine Mile Walk, 11–17, 99,
+131, 151, 266, 287
+Kent, Sherman, 247
+key-lists, 95, 122, 124, 128–32, 137–8, 307
+Kolmogorov, A. N., 253
+Leary, Richard, xxii, xxiii
+Lempert, Richard, 250, 252
+likelihood ratios, 251–3, 261
+Llewellyn, Karl, 269, 271, 283, 287, 335
+logical reasoning
+principles, 98–103
+types, 55–6
+magnets, 51, 119–20, 384
+marshaling. See evidence
+materiality, 91, 290, 384
+methods of analysis
+analytic devices, 113–14, 121, 147–8, 155,
+315–17
+before close of investigation, 151–2
+chart method. See chart method
+chronologies, 112, 113–14, 121, 147–8, 153,
+155, 317
+ﬁnal trial preparation, 152–3
+general, 112–22
+litigation stages, 149–53
+narrative, 114, 148, 153, 155
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 430 ---
+Index
+399
+outline method, 113, 145–6
+pleading stage, 150–1
+seven-step protocol, 113, 114–22, 124–34
+Mill, John Stuart, 100, 257
+mirror imaging, 48
+Moussaoui, Zacarias, 52–3
+Mueller, Robert, 53
+Murphy, Peter, xxiii
+narrative, 114, 148, 153, 155. See also stories
+National Commission on Terrorist Attacks Upon
+the United States, 49–50
+negative evidence, 74
+9/11, 47–51, 52–5
+nuisance, 20–1
+objectivity, 66–7, 68–9
+observational sensitivity, 67, 68, 69
+opening statements, 321–2
+opinion evidence, 66, 300
+opponents’ denial, 96, 98
+opponents’ explanation, 96, 97, 98, 99
+opponents’ rival, 96, 98
+optimistic rationalism, 83
+outline method, 113, 145–6
+Pascal, Blaise, 229, 247
+PE ≫PV, 89. See also prejudicial effect
+Peirce, Charles Sanders, 56–8
+Pennington, Nancy, 280
+penultimate probandum. See probanda
+perjury, 300
+pleadings, 150–1, 235, 317
+Pollock, Frederick, 290
+Popper, Karl, 257
+Powell, Colin, 47
+precedents, 284
+prejudice, 219, 265, 281
+prejudicial effect
+meaning, 89, 240–2
+and probative value, 89, 303–4, 306, 313–14
+prescriptive rationalism, 80, 81, 82
+previous convictions, 303
+principles of proof
+application to legal disputes, 103–9
+Federal Rules of Evidence, 299–300
+generally, 78–111
+and law of evidence, 289, 295
+rationalist tradition, 83–7, 88, 98–103
+Wigmore, 78, 82, 88, 289, 293
+probability
+Baconian probability, 257–9, 261
+Bayes’s Rule, 250, 251–3, 256, 261
+conventional probability, 251–3
+debates, 249
+Dempster’s Rule, 257
+fuzzy logic, 260, 261
+generally, 228–30, 246–61
+history of probability theory, 247–50
+issues, 246–7
+likelihood ratios, 251–3, 261
+meaning, 229, 384
+non-additive probabilistic beliefs, 253–7
+posterior probability, 251
+prior probability, 251
+and probative force, 250–61
+tables, 229, 230
+theories, 229, 246–7
+probanda
+examples, 40, 93
+formulation, 114, 117–18, 125–6
+interim probanda, 61–3, 96, 383
+levels, 61
+meaning, 60, 90, 92, 384–5
+penultimate probanda, 61–3, 91, 118, 126, 384
+ultimate probandum, 60–3, 90–1, 117–18,
+125–6
+probans 92, 383
+probative force
+absence of rules, 226–7
+evaluating, 54, 226–30, 291, 292, 303–4, 306,
+313–14
+gradations, 247
+meaning, 45, 71, 224, 384–5
+and probability theories, 250–61
+traditional modes, 227–30
+weight, 60, 224–9, 246–7, 253–4, 386
+probative processes, 94–8, 103, 135, 301–4
+probative value. See prejudicial effect and
+probative force
+proof
+and inferences, 94
+meaning, 88, 94, 256, 385
+plausible proof, 333–41
+principles. See principles of proof
+propensity evidence, 139, 298
+proponents’ assertion, 96, 98
+proponent’s corroboration, 96, 98
+propositions
+compound (or complex) propositions,
+104–6
+deﬁned, 385
+formulation, 128–9
+general propositions, 43
+integration, 108–9
+key-lists. See key-lists
+ordering, 131–2
+rival propositions, 96, 98
+selection, 129–31
+simple, 91, 104–5, 385
+protocol
+admissibility of evidence, 305–14
+general analysis, 112–22
+chart method analysis, 124–34
+generalization analysis, 279–80
+story assessment, 281–3
+psychology, 78, 282
+public interest, 235, 236
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 431 ---
+400
+Index
+quantitative rules, 385
+quantum of evidence. See evidence
+rationalist tradition
+aspirational rationalism, 83
+complacent rationalism, 81, 83
+and generalizations, 269
+generally, 78–87
+and law of evidence, 294
+prescriptive rationalism, 81
+rules of procedure, 83–90
+real evidence. See evidence
+redundancy. See evidence
+relevance
+and admissibility, 295–8
+direct and indirect relevance, 62, 63, 72, 73,
+77, 382
+Federal Rules of Evidence, 62, 299, 303,
+311–12
+generally, 62–3, 290–2, 295, 306
+meaning, 62–3, 86, 88–90, 290, 385
+reliability, 64–5, 385
+rival propositions, 96, 98
+Roberts, Paul, xxiii
+role, 116
+Root, Elihu, 317
+Root-Stimson system, 317
+rules of procedure
+admissibility, 87–8
+English reform, 84–5, 86
+exclusion of evidence, 87
+objectives, 85
+rationalist tradition, 83–7
+relevant evidence, 86, 88–90
+speed and efﬁciency, 84–5
+United States, 84, 85, 86. See also Federal Rules
+of Evidence
+Rumsfeld, Donald, 47
+Rwanda, 47, 265
+Schum, David, xxi, xxii, xxiii, 48, 76, 100, 253,
+257, 259, 263
+scientiﬁc evidence, xxi, 270
+self-contradictions, 69
+September 11 attacks, 47. See also 9/11
+seven-step protocol, 305–14
+admissibility of evidence, 305–14
+methods of analysis, 113, 114–22, 124–34
+Shafer, G., 253–7, 258, 261
+Sidgwick, Alfred, 262
+similar fact evidence, 18–20, 298
+simple proposition. See proposition
+situation sense, 155–6, 284–5
+Solomon, Judgment of, 2, 99, 286
+South Africa, 47
+standards for decision
+adjudication decisions, 237–45
+admissibility of evidence, 238–42
+appeals, 238, 2–5
+burden of proof. See standards of proof
+categories, 231
+deﬁned, 385
+disposal of cases, 237–8
+ﬁling complaints, 234–5
+generally, 230–45
+issues, 225
+lawyer-client decisions, 232–3
+lawyers’ decisions, 234–7
+pre-trial decisions, 236
+prosecution decisions, 235–6
+rectitude, 79, 82
+standards of proof
+appeals, 2
+categories, 230–1, 242–4
+deﬁned, 385
+England and US, 243
+legal status, 242–3
+standpoint, 115–17, 124–5, 225
+statistical evidence, 78
+Stephen, J. F. L., 290
+stereotypes, 281
+stock of knowledge, 273–6. See also cognitive
+consensus
+stories
+assessing, 157, 281–2
+choice, 334
+dangers, 280–1, 285
+examples, 21, 23, 27
+and generalizations, 282–5
+generally, 156–8, 281–3, 287–8
+meaning, 155, 386
+purpose, 262
+substance-blind approach, xxi, 54, 71–7, 253,
+386
+symbols, 113, 134–6, 139–42, 387
+Talmud, 247
+tangible evidence, 63–5, 73–7, 135, 147,
+386
+Tenet, George, 47
+terminology, 90–4
+terrorism, 4–6, 47–9, 52–3
+testimonial evidence
+ancillary evidence, 67–70
+bias, 68–9
+credibility, 65–71, 74
+deﬁned, 386
+equivocal testimony, 75
+hearsay, 66, 139, 305, 306–9
+inconsistent statements, 69
+objectivity, 66–7, 68–9
+observational sensitivity, 67, 68, 69
+opinions, 66, 300
+symbol for, 135
+unequivocal testimony, 75
+veracity, 66, 68, 69
+Thayer, James Bradley, 226, 289, 290–4, 295
+themes, 153–6, 319, 334, 386
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press
+
+
+--- Page 432 ---
+Index
+401
+theory of a case, 118–20, 126–8, 153–5, 318–19,
+334, 386
+Thorp, Edward, 249–50
+Tillers, Peter, 249
+‘top-down’ reasoning, 4–7
+Toulmin, S., 62
+trial books, 317–24
+trial preparation
+closing statements, 323
+complex examples, 341–78
+drama, 324
+evidence, 322–3
+jury selection, 321
+law, 320
+opening statements, 321–2
+preliminary memoranda, 318–20
+scripts, 322
+simple examples, 325–33
+strategy, 320
+themes, 319
+trial books, 317–24
+Wigmorian approach, 315–24
+Tribe, Lawrence, 250
+truth, rationalist tradition, 79–82, 86, 87
+Twining, William, xxii, xxiii, 45, 46, 249, 275
+ultimate probandum. See probanda
+Victoria, Queen, 8
+Wagenaar, W. A., 280
+warnings: indications and warnings, 4
+warrants, 62, 262, 269, 386. See also
+generalization
+weapons of mass destruction, 47
+weight. See probative force
+White, James Boyd, 283
+Wigmore, John Henry, xvii, xix, xxii, xxiii
+autoptic proferences, 92
+chart method. See chart method
+evaluation of evidence, 115, 226–7
+factum probans, 92
+principles of proof, 48, 78, 82, 88
+probative processes, 94–6, 98
+Science of Judicial Proof, 87–8
+symbols. See symbols
+weight of evidence, 226–7
+Williams, Glanville, 249
+wills, validity, 356–78
+Wisdom, John, 285
+witnesses. See testimonial evidence
+Woolf, Lord, 84
+Young, Filson, 160, 219
+Yugoslavia, 265
+Zadeh, Lotﬁ, 260
+Zangwill, Israel, 46
+Zuckerman, Adrian, 249
+Cambridge Books Online © Cambridge University Press, 2009
+Published online by Cambridge University Press

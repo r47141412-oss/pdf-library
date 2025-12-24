@@ -1,0 +1,743 @@
+# Chunk 20 of 26
+# Document: Analysis of Evidence
+# Characters: 49391
+
+--- Page 320 ---
+11
+The principles of proof and the
+law of evidence
+A. Introduction
+The purpose of this book is to provide a theoretical and practical foundation for
+mastering some speciﬁc analytical skills relating to the construction and criticism
+of arguments about disputed questions of fact. It is not a book about the law of
+evidence, but a central theme has been that the principles of proof and the law
+of evidence are intimately related. Like Wigmore, we believe that understanding
+the principles of proof is a valuable, perhaps a necessary, foundation both for
+understanding the rules and learning how to use them in practice.
+At several points this interdependence has been made explicit. Chapters 1 and
+2 illustrate the extent to which the two subjects share the same basic concepts:
+for example, relevance, materiality, weight/probative force, admissibility, inference,
+credibility, corroboration, prejudicial effect, and so on. In Chapter 3, we saw how
+nearly all secondary writers on evidence, including all the leading treatise writers,
+have worked within a framework of shared assumptions, which we called “The
+Rationalist Tradition.” Those assumptions are common to the principles of proof
+and the basic principles of the law of evidence in common law countries. We also
+saw how relevance and weight are governed by “logic and general experience” rather
+than formal rules and that relevance is the main test of admissibility of evidence.
+As questions of admissibility are increasingly determined by exercise of judicial
+discretion and application of balancing tests in the circumstances of a particular
+case (for example the weighing of prejudicial effect against probative value), so
+too the logic of proof and the practical operation of rulings on admissibility have
+increasingly converged. In Chapter 8, we looked further at the idea that there are no
+rules of weight, and we considered different standards of proof, review, and appeal
+in the context of weighing evidence. In Chapter 10, we considered brieﬂy scientiﬁc
+generalizations and judicial notice. All of these topics are central to understanding
+the law of evidence.
+In this chapter we will seek to synthesize these ideas by presenting a coherent
+overview of the law of evidence as developed by Wigmore’s teacher, James Bradley
+Thayer, and use this as a framework for integrating the principles of proof and
+the technical rules of evidence. We then present an overview of the approach to
+289
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 321 ---
+290
+Analysis of Evidence
+analyzing for admissibility under the Federal Rules of Evidence. The chapter ends
+by proposing a general protocol for analyzing any problem of admissibility.
+B. What is the law of evidence? A Thayerite overview1
+In the Anglo-American tradition there have been four principal attempts to develop
+an explicit general theory of the law of evidence. Gilbert tried to subsume all the
+rules of evidence under a single principle, the “best evidence rule”;2 Bentham saw
+the existing technical rules as an illogical and indefensible morass, and he argued
+that there should be no binding rules at all within the framework of the Natural
+System of Procedure; Stephen tried to ﬁnd a coherent rationale for the whole of the
+law of evidence in the principle of relevancy. Thayer admired Stephen’s enterprise
+but agreed with Sir Frederick Pollock’s judgment that it represented “a splendid
+mistake.”3 Relevance was a matter of logic, not law and “The law has no mandamus
+on the logical faculty.”4 Thayer treated the rules of evidence as a mixed group of
+exceptions to a principle of freedom of proof.
+Nearly all modern writers on evidence in the common law world have accepted
+some version of Thayer’s thesis, and it has more or less explicitly provided the basis
+for most subsequent attempts to codify this branch of the law, including the Federal
+RulesofEvidence.5 Accordingly,Thayeristhenaturalstarting-pointforinterpreting
+the current position.
+The Thayerite conception of the law of evidence has a strikingly narrow focus.
+It concerns processes in court; it is restricted to what facts may be presented to the
+court by whom and the manner of their presentation. It is not directly concerned
+with pre-trial and post-trial events. Over time, many topics previously included in
+books on evidence were exiled to procedure, pleading, or substantive law and, in
+the United States, to constitutional law. Underlying this conception are sharp dis-
+tinctions between materiality, relevance, admissibility, and cogency, each of which
+is governed by a different set of criteria. In constructing an argument on an issue of
+fact, a four-stage intellectual procedure has to be followed, with each stage belong-
+ing to a different sphere of discourse and allocated to a speciﬁc functionary. Thus
+in a contested jury trial the standard pattern is as follows:
+1 What are the facts to be proved? (Facts in issue, ultimate probanda, material facts are
+all synonymous in this context.) This is the issue of materiality. It is governed by
+substantive law and is to be determined by the judge.
+2 Of any fact offered as evidence or potential evidence: Does this fact tend to support or
+tend to negate one or more of the facts in issue? This is the question of relevance; it is
+governed by logic and general experience, and is a matter for the judge.
+1 This section is adapted from Rethinking 188–96.
+2 Gilbert (1754).
+3 Pollock (1899).
+4 Thayer (1898) 314.
+5 For an interesting gloss on Thayer’s account of the shift from “irrational” to “rational” modes of
+proof see Murphy (1999) 334–38.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 322 ---
+The principles of proof and the law of evidence
+291
+3 Of any fact offered as evidence or potential evidence: Is there a rule or principle that
+requires that this item of relevant evidence should be excluded or its use limited
+because either
+(a) it belongs to a class of inadmissible evidence; or
+(b) it would be contrary to the policy of the law to admit this in the circumstances of
+the case?
+This issue of admissibility is governed by the law of evidence, and is a question for the
+judge.
+4 What weight should be given to this item of evidence (or the evidence as a whole) in
+the circumstances of the case? This is the issue of evaluation of weight (or cogency or
+probative force); it is governed by “logic and general experience,” and is a matter for
+the jury or other trier of fact. An alternative interpretation is that the criteria for
+weight of evidence are provided by probability theory, of which there are many
+versions (see above, Chapter 9).
+Thayer’ssurgicalnarrowingdownofthescopeofthelawofevidencewasinspired
+ground-clearing.Hethenmoldedwhatremainedintoasimpleandcoherentsystem,
+based on two principles:
+(1) That nothing is to be received which is not logically probative of some matter
+requiring to be proved; and
+(2) that everything which is thus probative should come in, unless a clear ground of
+policy of law excludes it.6
+The ﬁrst principle (the test of relevance) is exclusionary, but it is not strictly speaking
+part of the law of evidence: “It is not so much a rule of evidence as a presupposition
+involved in the very conception of a rational system of evidence.”7 The second prin-
+ciple is inclusionary and is the basic principle of the law of evidence. It mandates
+the reception of evidence supposed to be logically relevant to the facts in issue,
+subject to exceptions prescribed by law. The main role of technical rules of evidence
+is to prescribe the scope of the exceptions to the general inclusionary principle.
+Thayer’s explanation for the perceived complexity of the subject was essentially his-
+torical. While the exclusionary rules were logically exceptions to a general principle
+of inclusion, the historical process was different:
+What has taken place, in fact, is the shutting out of the judges of one and another thing
+from time to time; and so, gradually, the recognition of this exclusion under a rule.
+These rules of exclusion have had their exceptions; and so the law has come into the
+shape of a set of primary rules of exclusion; and then a set of exceptions to these rules.8
+These exceptions, and exceptions to exceptions, were justiﬁed on disparate grounds:
+Some things are rejectedasbeingoftooslightasigniﬁcance, or as having too conjectural
+and remote a connection; others, as being dangerous in their effect on the jury, and
+likely to be misused or overestimated by that body; others as being impolitic, or unsafe
+6 Thayer (1898) 530; cf. id. 266.
+7 Id. 264–65.
+8 Id. 265.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 323 ---
+292
+Analysis of Evidence
+on public grounds; others on the bare ground of precedent. It is this sort of thing, as I
+said before – the rejection on one or other practical ground, of what is really probative –
+which is the characteristic thing in the law of evidence; stamping it as a child of the jury
+system.9
+ThreepointsaboutThayer’sconceptionofthescopeofthelawofevidencedeserve
+emphasis. First, the core of Thayer’s view of the law of evidence is concerned with
+the regulation of reasoning about disputed questions of fact at trial.10 The law
+of evidence consists mainly of artiﬁcial limitations on free enquiry and ordinary
+reason in the process of arguing about and justifying decisions on such questions.
+Since the law, by and large, leaves judgments about relevancy and weight to logic
+and general experience, the “excluding function” is the main role of the law of
+evidence.
+Secondly, the converse of this last proposition is not the case. The law of evidence
+is only one of several grounds for excluding evidence. In litigation the issues are
+artiﬁcially and sharply deﬁned in advance by substantive law and pleading; histo-
+rians, physical scientists, and others have no strong concept of materiality to limit
+their enquiries in such ways. More evidence is excluded on grounds of irrelevance
+than for any other reason; but relevance is a matter of logic, not law, even if lawyers
+tend to interpret relevance more strictly than most. It should also be remembered
+that Bentham, who wished to abolish all formal rules of evidence, was in favor of
+exclusion of evidence if it was irrelevant or superﬂuous or its adduction would have
+involved preponderant vexation, expense or delay judged by the standard of utility
+in the circumstances of the case.
+Thirdly, Thayer indicates that questions of weight are not and should not be
+governed by rules of law, but they are subject only to “the ordinary rules of human
+thought and experience, to be sought in the ordinary sources, and not in the
+law books.”11 In short, the law prescribes almost no rules for the evaluation of
+evidence.12
+By and large, subsequent treatise writers and codiﬁers have followed Thayer in
+accepting a fairly restrictive view of the law of evidence, but have followed Wigmore
+in including all or most of the “borderline” topics, such as presentation of evidence,
+burdens and presumptions, and appellate review.13
+TheThayeritetheorycanbeinterpretedasstatingthatthelawofevidenceconsists
+of a series of disparate exceptions to a principle of free proof. If a body of law
+is conceived as constituting a series of exceptions to a single principle, it would
+9 Id. 266.
+10 Chapter VI is entitled “The Law of Evidence, and Legal Reasoning as applied to the Ascertainment
+of Facts.”
+11 Thayer (1898).
+12 See above, Ch. 8.
+13 Rethinking Ch. 6 quotes a useful formulation by an Australian lawyer, Philip McNamara (1986),
+which presents a summary overview of the canons of Australian law of evidence in the spirit of
+Thayer under nine basic heads. This is helpful in concretizing Thayer’s theory, but is not included
+here as it does not represent modern US law in respect of a few speciﬁc details.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 324 ---
+The principles of proof and the law of evidence
+293
+seem natural to start by elucidating the nature and scope of that principle, before
+considering the exceptions. What, then, is “free proof”? In the present context, one
+can give a relatively straightforward answer that ﬁts the Thayerite view of the law
+of evidence. “Free proof” means an absence of formal rules that interfere with free
+enquiry and natural or common sense reasoning. In the adversary system, where
+the parties have primary control over what evidence is presented in what form and
+what questions are or are not put to witnesses, the freedom of enquiry by judge,
+jury, or other triers of fact is strictly limited. It is for the parties to determine whom
+and what they see or hear, but not how they evaluate and reason from evidence.
+This “freedom” is largely the freedom of the parties and to a lesser extent that of the
+judge, jury, or trier of fact.14 This conception of “free proof” is entirely compatible
+with the Thayerite picture of the law of evidence.
+We saw in Chapter 3 that Thayer’s disciple, Wigmore, treated the principle of
+proof and the law of evidence as two complementary parts of a single subject, what
+he called judicial evidence. The principles of proof, said Wigmore, were anterior to
+and more important than what he called the “Trial Rules.” It is worth revisiting both
+elements in this claim. Wigmore argued that it was better to study the principles
+of proof before studying the rules. This was not merely because it seems sensible
+to study a basic principle before considering exceptions to it. More important, the
+principles of proof are logically anterior to the law of evidence, as well as providing
+many of their underlying rationales (insofar as they had a rational basis). Thayer
+had made essentially the same point when he claimed that these two basic principles
+of evidence (the exclusionary and inclusionary principles) were not so much part of
+the law of evidence as necessary presuppositions of a rational system of evidence.15
+The exclusion of irrelevant evidence was a matter of logic not law; and there was
+a general presumption in favor of admitting all relevant evidence. In order to have
+a clear view of the law of evidence, one needs ﬁrst to understand these two basic
+principles of proof.
+In our experience, Thayer and Wigmore have both been proved right, but like
+many other teachers of evidence, we have extended the focus of attention beyond the
+courtroom and the contested trial to cover allphases of litigation, from investigation
+to post-trial decisions. This is not only because the law of evidence “casts a long
+shadow,” but also because inferential reasoning is an important part of many pre-
+and post-trial decisions. It is for this reason that we have adopted a “total process”
+14 Thisis,ofcourse,ratherdifferentfromBentham’smodeloftheNaturalSystemofProcedure,which
+was more inquisitorial in nature. Nevertheless, Bentham’s attack on all binding rules of evidence,
+his “anti-nomian thesis,” provides the classic picture of a system of free proof in adjudication:
+no rules excluding classes of witnesses or of evidence; no rules of priority or weight or quantum;
+no binding rules as to form or manner of presentation; no artiﬁcial restriction on questioning or
+reasoning; no right of silence or testimonial privileges; no restrictions on reasoning other than the
+general principles of practical reason; no exclusion of evidence unless it is irrelevant or superﬂuous
+or its adduction would involve preponderant vexation, expense, or delay in the circumstances of
+the particular case. For a detailed discussion see Twining (1985) Ch. 2.
+15 Thayer (1898) 264–65.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 325 ---
+294
+Analysis of Evidence
+model of litigation (both civil and criminal) and have emphasized the importance
+of differentiating the standpoints of different participants at different stages of legal
+processes as well as of different kinds of outside observers.
+C. One law of evidence?
+Our approach in this book combines the ideal type of the Rationalist Tradition,
+a total process model of litigation, principles of proof, methods of marshaling
+arguments, and a substance-blind approach to the credentials of evidence, espe-
+cially relevance, credibility, and probative force. It also deals with the relationship
+between generalizations, narrative, and argument. All of these transcend differences
+between evidentiary problems in civil, criminal, and other contexts. They represent
+the general part of the study of evidence in law within the tradition of Thayer and
+Wigmore. However, detailed study of the technical rules of evidence needs to be
+sensitive to the differences between procedural and institutional contexts and to
+the different rationales and policies underlying criminal and civil proceedings and
+other kinds of litigation. Indeed, in most civil law systems the rules of evidence are
+treated as part of procedure, and civil, criminal, and administrative procedural sys-
+tems belong to different specialisms. In England, especially since the decline of the
+civil jury, most courses on evidence focus almost exclusively on evidence in crim-
+inal proceedings. One of the leading textbooks is now called Criminal Evidence.16
+This trend has probably gone further in England than in most common law
+countries.
+IntheUnitedStates, the situation is more complexfortherehavebeenconﬂicting
+trends. Evidence is still treated as a single subject in most books and courses, partly
+because the jury is still important in civil cases and because the Federal Rules cover
+both civil and criminal evidence. However, in dealing with questions of admissi-
+bility and proof, constant attention must still be paid to the different underlying
+principles, policies, and rationales of civil and criminal litigation. Furthermore,
+the impact of constitutional law on criminal procedure has promoted the separa-
+tion of civil and criminal evidence. However, some important constitutional issues
+are treated more in courses on criminal procedure or constitutional law than in
+courses on evidence, whereas in England the impact of the European Convention on
+Human Rights and the Human Rights Act 1998 can hardly be ignored in a course on
+evidence.
+16 Roberts and Zuckerman (2004). Evidentiary issues arise in all types of proceeding, in all types
+of legal processes and at every stage. However, Roberts argues that the subject becomes more
+manageable and coherent if one focuses on one type of proceeding – viz. criminal process (Roberts
+(2002)). We agree that it is desirable to integrate the law of civil and criminal evidence with their
+differentproceduralcontexts,butwouldreiteratethatthelogicofproofishighlytransferableacross
+legaltraditions,proceduralcontexts,andevendisciplines.Weincludedexercisesinvolvingdifferent
+stages of criminal process, intelligence scenarios, and other non-legal examples to emphasize this
+transferability.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 326 ---
+The principles of proof and the law of evidence
+295
+D. Linking the principles of proof and the law of evidence:
+relevance as the main bridge
+As we have seen, the logic of proof is an important element in studying, for exam-
+ple, judicial notice, similar facts, prejudicial effect/probative value, burdens and
+standards of proof (and for other decisions),17 and presumptions. The increasingly
+important subject of scientiﬁc and expert evidence is a good peg on which to hang
+some of the central epistemological questions concerning evidence.18 However,
+the main bridge between fact analysis/the principles of proof and legal doctrine is
+supplied by the topic of relevance because:
+a Relevance is the most important mechanism of exclusion.
+b The principles of proof are anterior to the other exclusionary rules because they deal
+with the exclusion of relevant evidence. In other words, the question of relevance
+needs to be determined as a preliminary to considering whether a particular
+exclusionary rule applies to a particular item of potential evidence.
+c To understand relevance involves understanding the principles and characteristics of
+inferential reasoning.
+d The law of evidence can be treated as a coherent whole by Thayer’s inclusionary and
+exclusionary principles, which are expressed in terms of relevance within a basic
+framework of argumentation.
+Many modern course books treat relevance as the ﬁrst topic to be studied on the
+lawofevidence.Theyoftendevotesubstantialspacetoit.Whilestayingwiththeidea
+that relevance is the core of both the logic of proof and the rules of evidence, we have
+tried in this book to present a broader and more coherent foundation to the study of
+the rules. It is important that this should be more than just a preliminary topic to be
+studied at the beginning of a course and then forgotten; rather the approach needs
+to be an integral part of the detailed study of most standard topics in an evidence
+course.19
+E. Analyzing for admissibility20
+The connection between the principles of proof and exclusionary rules is clear if we
+think in terms of argumentation. If an item of evidence is inadmissible, this means
+that it may not be part of an argument and so it has no place on the chart. The
+17 On the broader concept of “standards for decision” see above, Ch. 8.
+18 Roberts 324–28. The links between epistemology and scientiﬁc evidence have been brilliantly
+explored by the philosopher Susan Haack. See especially Haack (2003) Ch. 9 and Haack (2004).
+19 A similar point is made by Paul Roberts. In arguing for more attention to be paid to relevance, he
+suggests that after a preliminary consideration at the start of a course, the lessons can be reinforced
+by explicit consideration of it in relation to other topics such as previous misconduct evidence,
+hearsay, and silence. (Roberts (2002) 306–7). See further Roberts and Zuckerman (2004), passim.
+For an illustration see pages 341–43 below.
+20 This heading echoes the title of the excellent Ch. 8 of Palmer (2004), which deals with this subject
+in more detail but at a general level.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 327 ---
+296
+Analysis of Evidence
+exclusionary rules tell us what may or may not be part of an argument. Since these
+formal rules work to exclude relevant evidence, relevance is always a preliminary
+issue. But relevance can only be determined in relation to a material fact or another
+fact of consequence. In other words the ultimate and penultimate probanda need to
+be established before either questions of exclusion because of irrelevance or other
+grounds of inadmissibility can be determined.
+Thus where an issue of admissibility arises, questions of relevance arise twice:
+relevance to a fact of consequence and relevance to credibility. Often the initial
+question of relevance may be unproblematic. For example, in a murder case a
+confession, “I killed Charlie,” is obviously directly relevant to opportunity and
+identity, though it may not tell us anything about criminal intent or a possible
+defense. But the prosecution must ﬁrst lay a foundation, by introducing evidence
+that the confession was voluntary.
+Sometimes the argument can become quite complicated and it may be helpful to
+use a Wigmorean approach to clarify an issue of admissibility. For instance, in the
+case of R. v. George Joseph Smith (the brides in the bath murders) the prosecution
+had plenty of evidence of motive and opportunity, but there was not much evidence
+to support the propositions that Smith caused the death of Bessy Munday and that
+he did so with criminal intent. The prosecution successfully argued that evidence of
+the deaths of two other brides by drowning in similar circumstances was admissible.
+ThepassagefromtheperorationintheclosingspeechbyThomasBodkinQCforthe
+Crown is powerful as rhetoric, but it masks a quite complex argument.21 One can
+reconstruct the argument in Wigmorean terms as follows: Standpoint: counsel for
+the prosecution arguing that details of the deaths of two other brides are admissible.
+Ultimate probandum: GJS murdered Bessie Munday.
+1 GJS caused BM to die by drowning22
+2 GJS acted with criminal intent
+3 There was a large aggregation of resemblances between the deaths of BM and two
+other recent brides
+4 The aggregation of resemblances could not have occurred without design.
+5 The combination of factors a–l is too uncommon to be a coincidence. (G)23
+6 In all three cases factors a–l were present
+21 See above, Ch. 1, C3a.
+22 This could be disaggregated into two propositions relating to cause and identity: A person caused
+BM’s death by drowning; it was GJS who caused BM’s death. Identity was not really in question
+in the case.
+23 The factors emphasized by Bodkin were (a) going through a form of marriage; (b) the ready money
+of the woman was withdrawn or realized; (c) a will was drawn in favor of GJS absolutely; (d) the
+will was drawn by a stranger to the testatrix; (e) the victim either insured her life or had property
+that made this unnecessary; (f) there was a visit to a doctor, which was unnecessary given the
+physical condition of the patient; (g) the woman wrote letters to relatives on the night before she
+died or on the same night; (h) the prisoner was the ﬁrst to discover the drowning; (i) the door was
+unfastened and the water was not drawn off until after the doctor had been; (j) the prisoner put
+forward demonstrably that he had been shopping and absent from the house in which his wife was
+lying dead; (k) the prisoner disappeared after the event; (l) the prisoner achieved or attempted to
+achieve monetary advantage as a result of the death.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 328 ---
+The principles of proof and the law of evidence
+297
+G
+4
+3
+7
+8
+2
+1
+5
+6
+Chart C
+Chart A
+Chart B
+9
+Figure 11.1 R. v. George Joseph Smith (admissibility of similar facts)
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 329 ---
+298
+Analysis of Evidence
+7 In case I factors a–l were present (foundational facts)
+8 In case II factors a–l were present (foundational facts)
+9 In case III factors a–l were present (foundational facts)
+10 Chart A: the evidence supporting 7
+11 Chart B: the evidence supporting 8
+12 Chart C: the evidence supporting 9.
+Several points are worth noting about this example. First, the argument about
+design supports three material facts (causation, identity, and criminal intent). Sec-
+ond, a crucial step in the argument involves a generalization about coincidence. In
+this case, it seems very plausible, but arguments from coincidence are frequency
+arguments that can easily be abused.24 Third, this case should be distinguished from
+similar fact arguments that involve “propensity” as a step in the reasoning. Such
+cases, which have caused a great deal of difﬁculty in all common law countries,
+can also be usefully analyzed by the chart method.25 Here the argument was about
+coincidence to support design and did not involve any reference to the character of
+the accused. Today, such cases all need to be analyzed in terms of prejudicial effect
+versus probative value.26 Fourth, part of the strength of the argument in this case
+arises from a synergy between individual pieces of evidence: several of the common
+factors support the proposition that Smith had so arranged things that he stood to
+gain ﬁnancially, i.e. he had a motive, which further supports design, identity, and
+intent.
+At a general level one can analyze most issues of admissibility by asking four
+questions, as follows:
+1 Does this evidence raise a potential issue of admissibility? (e.g., evidence of
+circumstances of two other murders.)
+2 If so, what is the purpose for which it is being tendered? (To what fact(s) in issue is
+this evidence relevant? In Smith both cause of death and criminal intent.)
+3 What are the facts relevant to the question of admissibility of this evidence?
+(Sometimes referred to as “foundational facts”; e.g., the facts that in each case factors
+a–l were present.)
+4 What evidence tends to prove the existence of the foundational facts? (e.g., the
+evidence that factors a–l were present in Case I and Case II.)27
+24 E.g., R. v. Clark [2003] E.W.C.A. Crim. 1020 (Sally Clark, multiple cot deaths, discussed in
+Appendix I on the website).
+25 See Acorn (1991).
+26 See, however, the Criminal Justice Act 2003, sections 101 and 103: bad character is admissible
+where “it is relevant to an important matter in issue between the defendant and the prosecution,”
+subject to a general condition of “fairness.” For a good discussion see Roberts and Zuckerman
+(2004), suggesting that for most purposes this legislative intervention “reads like a convoluted
+restatement of existing legal principles” (517).
+27 For an extended protocol under the US Federal Rules, see below, Figure 11.2.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 330 ---
+The principles of proof and the law of evidence
+299
+F. Analysis under the United States Federal Rules of Evidence
+The Federal Rules of Evidence, enacted as law in the United States (the “Federal
+Rules”), provide a good vehicle to illustrate the relationship between analysis of
+evidence and rules of evidence because all of the basic rules are prescribed in statu-
+tory form in a uniﬁed code.28 Unlike most common law jurisdictions, the rules do
+not have to be taken from separate codes regulating civil and criminal procedure or
+distilled from piecemeal legislation or appellate decisions or treatises by recognized
+authorities.29 Having authoritative statements of the rules collected and organized
+as a coherent code simpliﬁes the task.
+The rules of evidence fall into three overlapping categories. In the ﬁrst are rules
+adapting the principles of proof to the judicial context. In the second are rules
+designedtoregulatetheprobativeprocessbyidentifyingimproperprejudicialeffects
+that may result from the admission and use of particular kinds of evidence and
+requiring that the trial court weigh those effects against the legitimate probative
+value of the evidence in the case before it. In the third category are rules that require
+the exclusion of evidence without regard to its probative value based upon policies
+that override the importance of establishing truth. Some rules do not ﬁt neatly into
+just one category; an analysis of their application requires consideration of factors
+from two or sometimes all three categories. Nonetheless, the categories provide a
+useful starting-point for considering the relationship between analysis of evidence
+and the application of the rules of evidence prescribed by law.
+1. Rules codifying the principles of proof and regulating their application
+in judicial trials
+Rules401and402codifytheprinciplesofproof.UnderRule401,evidenceisrelevant
+if it has any tendency to make a fact of consequence more probable or less probable
+than it would be in the absence of that evidence. There are only two kinds of facts
+of consequence in any case – the facts that are deﬁned as material by the applicable
+rules of substantive law, and the credibility of evidence once it has been admitted.
+Whether an item of evidential data is relevant can only be demonstrated by applying
+the principles of logic developed above in Chapter 3. Under Rule 402, all relevant
+evidence is admissible, unless it is excluded or its use is limited by the Constitution
+of the United States, by statute, or by another of the Federal Rules.
+Trials in the United States and other common law systems, especially jury trials,
+are designed to be single, continuous events whose beginning point (opening
+statements) and end points (closing statements, jury instruction, deliberation, and
+verdict or decision) are deﬁned in advance. They are not open-ended inquiries of
+the kind undertaken in science and other disciplines. They are closed inquiries in
+28 Fed. Rules Evid., 28 U.S.C.A; also available at http://judiciary.house.gov.
+29 For the confusing fragmentation of sources of the law of evidence in England, see any standard
+text, e.g., Roberts and Zuckerman (2004).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 331 ---
+300
+Analysis of Evidence
+which decision-makers may not have any training or expertise in analyzing evidence
+to resolve disputed questions of fact. For that reason, additional rules are necessary
+to regulate the admission and use of evidence in that context.
+A moderate modern Benthamite or a trained investigator in another discipline
+would accept some of these rules as sensible adaptations. They would probably
+accept as reasonable the requirement that a witness have personal knowledge of
+the matter about which she testiﬁes (Rule 602), that she testify under oath subject
+to the penalties for perjury (Rule 603), that a witness expressing an opinion must
+demonstrate that she is qualiﬁed by training or experience to express the opinion
+and, in the case of experts, that the opinion be based upon reliable principles reliably
+applied to reach the proffered conclusion (Rules 701–705).30
+Most scientists and historians would also recognize the principle that their inves-
+tigations must be limited to some degree by efﬁciency concerns. Resources are ﬁnite,
+and a conclusion, however provisional, must be reached at some point. The need for
+efﬁciency is greater in the jury trial context and, for that reason, they would prob-
+ably recognize that rules adopted to promote efﬁciency must be more stringent
+than might be appropriate in other contexts. Rule 102 articulates efﬁciency as one
+of potentially conﬂicting goals that should be considered in applying the rules of
+evidence. Efﬁciency is one of the grounds used to justify the limits on the kinds of
+evidence that may be used to prove relevant character traits imposed by Rules 405
+(methods of proving character), 608 (character and conduct of witness), and the
+rule authorizing a court to take judicial notice (Rule 201).
+The application of these rules usually requires considerable analysis of the par-
+ticular evidence to determine whether any of the efﬁciency based rules should be
+applied to admit or to exclude or limit the use of that evidence.
+Questions
+1 Which of the other Federal Rules can be justiﬁed, at least in part, based upon having
+as one of their objectives the promotion of efﬁciency?
+2 Which of these rules would a scientist or historian recognize as a sensible limitation
+on the evidence that may be received in a trial?
+3 Rule 403 is based in part on efﬁciency concerns: “Although relevant, evidence may be
+excluded if its probative value is substantially outweighed . . . by considerations of
+undue delay, waste of time, or needless presentation of cumulative evidence.” What
+limits on the judge’s discretion to exclude relevant evidence based upon these
+considerations would a scientist or historian suggest that appellate courts adopt and
+impose?
+30 Three decisions, Daubert v. Merrel Dow Pharmaceuticals, Inc., 509 U.S. 578 (1993); General Electric
+Co. v. Joiner, 552 U.S. 166 (1997); and Kumho Tire Company, Ltd. v. Carmichael, 526 U.S. 137
+(1998), have made questions about the admissibility of scientiﬁc or expert evidence a major area
+of litigation and scholarship in the United States.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 332 ---
+The principles of proof and the law of evidence
+301
+4 Scientists and historians often decline to seek some kinds of evidence based upon the
+considerations expressed in the quoted portion of Rule 403. What limits should be
+imposed upon the scientist’s or the historian’s exercise of discretion not to seek
+additional evidence based upon these grounds, and how should those limits be
+enforced?
+5 Who has the broadest discretion to exclude evidence based upon the quoted
+consideration, with impunity: the trial judge, the scientist, or the historian?
+2. Analysis and the rules designed to regulate the probative processes
+The prejudicial effects that the Federal Rules were designed to regulate can be
+analyzed using a spectrum that has two ends. At one end are limitations based
+upon efﬁciency concerns such as those described above. At the other end are kinds
+of evidence that can be characterized as having improper prejudicial effects only
+becausetheadmission and use of such evidence wouldconﬂictwithpoliciesdeemed
+more important than the probative value such evidence might have in establishing
+truth. The fact that a city repaired a crack in the sidewalk after a citizen had broken
+her leg when it caused her to stumble would be relevant as evidence having a ten-
+dency to show the city recognized that the condition was dangerous and that it was a
+conditionthatcouldhavebeeneasilyﬁxed.Ifthecitythoughtthatrepairingthecrack
+might increase the likelihood that it would be held liable for the citizen’s injuries, it
+might leave it unrepaired until the issue had been resolved. We want the city to ﬁx
+the dangerous condition as soon as possible. Rule 407 excluding evidence of subse-
+quent remedial measures offered to prove negligence, culpable conduct, a defect in
+a product or its design, or the need for a warning or construction was adopted to
+implement this policy. Rules 408 (excluding evidence of settlement discussions to
+prove liability or the amount of damages), 409 (limiting the use of evidence of pay-
+ment of medical or similar expenses), 410 (limiting the use of evidence of pleas and
+plea discussions), and 411 (limiting the use of evidence of liability insurance) were
+all enacted to further similar policy objectives, notwithstanding the probative value
+such evidence might have with respect to facts of consequence that are disputed in
+a particular case.
+Itisimportanttonotethatnoneoftheserulesexcludestheevidenceinallcircum-
+stances. For example, a trial judge has discretion to admit evidence of subsequent
+remedial measures if the evidence is offered for other purposes such as proving
+ownership or control. For that reason, arguments about the admissibility or use of
+evidence covered by these rules require that counsel seeking to have such evidence
+admitted must be able to analyze and articulate the inferences that demonstrate that
+the evidence has probative value for purposes other than the purpose prohibited
+by the rule. Similarly, opposing counsel must be able to identify the impermissible
+prejudicial effects the rule was enacted to avoid and to construct and articulate
+arguments that will persuade the trial judge that the identiﬁed improper prejudi-
+cial effects outweigh the legitimate probative value of the evidence. This requires
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 333 ---
+302
+Analysis of Evidence
+careful analysis of the particular evidence and of the different inferences it might
+support.
+Rulessuchasthese,orthereasonsgivenfortheirenactment,identifyasamatterof
+law the effects that are improperly prejudicial. But when the question is whether the
+improper prejudicial effect outweighs the legitimate probative value of the proffered
+evidence, skill in microanalysis and the use of the logical principles provide the tools
+necessary to construct persuasive arguments bearing upon that issue.
+Exercise
+Rule 407 speciﬁes that the evidence of a subsequent remedial measure is not admis-
+sible to prove negligence or culpability (an improper prejudicial effect), but it is
+admissible to prove ownership or control (a legitimate probative value). Assume
+Mr. Smith was injured when his car crashed as a result of a large hole in a graveled
+road that connected Farmer Jones’s house to the highway. The next day, Farmer
+Jones ﬁlled the hole and put new gravel on the road. Smith sued Jones, and Jones
+alleged the road was owned by her neighbor, and thus the neighbor was responsible
+for its maintenance and repair. At trial, Smith calls a witness who will testify that she
+saw Jones ﬁll the hole and regravel the road on the day after Smith’s accident. Jones
+argues that the evidence is inadmissible to prove that he was negligent or culpable.
+Smith argues it should be admitted to prove Jones’s ownership and control of the
+road.
+1 What test should the court apply in deciding whether the improper prejudicial effects
+the evidence will have as evidence of Farmer Jones’s negligence and culpability require
+that it be excluded notwithstanding its legitimate probative value as evidence that
+Jones owned and controlled the road and was responsible for repair? Should the court
+require that Jones satisfy it that the improper prejudicial effect outweighs the
+legitimate probative value? Substantially outweighs? Is at least equal to the probative
+value? Given the congressional policy that led to the enactment of the rule, should the
+court require that Smith satisfy it that the probative value outweighs the improper
+prejudicial effects? Substantially outweighs? Is at least equal to or greater than the
+prejudicial effects?
+2 In addressing this issue, is the court deciding a question of law or a question of fact? Is
+it applying the rule or using the rule as a guide to the exercise of discretion? If the
+court admits the evidence, can that decision be reversed on appeal? What if it excludes
+the evidence?
+3 As counsel for either of the parties, what other evidence would you ask the trial judge
+to consider in deciding whether to admit the witness’s testimony? What additional
+evidence might strengthen the argument that the evidence should be excluded? What
+additional evidence might strengthen the argument that the evidence should be
+admitted? If counsel for one of the parties had looked for, but been unable to ﬁnd,
+additional evidence that might affect the balance and had reported her efforts to the
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 334 ---
+The principles of proof and the law of evidence
+303
+court, should the court consider the unavailability of the evidence? If opposing
+counsel admitted he had not even looked for additional evidence relevant to the issue,
+what, if any, weight should the court give to this failure?
+Rule 403 articulates the general test under which relevant evidence may be
+excluded. Evidence may be excluded if the improper prejudicial effects of that evi-
+dence substantially outweigh its legitimate probative value. Most of the remaining
+rules authorizing the exclusion of relevant evidence, or the imposition of limi-
+tations on evidence for the purpose for which such evidence may be used, can
+be explained as recurring situations in which judicial experience has shown the
+inherent improper prejudicial effects of speciﬁc kinds of evidence by a margin
+sufﬁcient to justify the exclusion of that kind of evidence or the imposition of lim-
+itations on its use. The problems presented by United States v. Able illustrate these
+points.
+Rule 404(b) reﬂects a social judgment that evidence that an accused has commit-
+ted a crime other than the crime charged will create a substantial risk that the jury
+will convict the accused based upon a judgment that she is a bad person deserving
+of punishment, notwithstanding any weaknesses in the other evidence offered to
+establish guilt of the charged crime. “We try the act, not the actor.” Rule 404(b)
+also recognizes, however, that evidence of another crime may also have a legiti-
+mate probative value with respect to relevant facts, such as motive or identity. In
+such circumstances, the judge has discretion to admit evidence of the other crime,
+notwithstanding its improper prejudicial effects.
+Evidence that Able used cocaine was relevant to motive, which in turn is relevant
+to intent to defraud. Cocaine is an expensive drug, and the decline in Able’s income
+substantially exceeded the decline in his expenses. On the other hand, there is a
+substantial possibility that at least some jurors would vote to convict Abel (a) for
+his cocaine use, or (b) in a belief that it was beyond reasonable doubt that he either
+used cocaine or he intended to defraud the government by ﬁling a false tax return
+and, thus, deserved to be punished, or (c) because a person who violates the law
+by using cocaine is a person who has a propensity to violate the law, and for that
+reason Able’s illegal cocaine use increases the likelihood that he illegally ﬁled a false
+tax return to an extent that justiﬁes overlooking weaknesses in the other evidence
+of guilt offered by the government.
+Able also illustrates the role that microanalysis plays in constructing arguments
+about the admissibility and use of evidence. In the absence of reliable evidence
+concerning the quantity and price of the cocaine Able used, the legitimate pro-
+bative value of cocaine use with respect to ﬁnancial motive was diminished, but
+the improper prejudicial effects remained great. So too, (a) the number of steps
+in the inferential chain necessary to demonstrate the relevance of the fact that the
+$25,000 check from the law ﬁrm was cashed in Las Vegas in December to the exis-
+tence of a motive to falsify Able’s tax return the following April and (b) the plausible
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 335 ---
+304
+Analysis of Evidence
+explanations for each of those inferential steps made it possible to construct a strong
+argument that the improper propensity effects of the endorsement evidence, stand-
+ing alone, and the likelihood the jury would misvalue that evidence, substantially
+outweighedanylegitimateprobativevalueithadwithrespecttomotive.Seepage129
+above.
+Questions
+1 George Joseph Smith was charged with the murder of Bessie Mundy. The relevance
+and legitimate probative value of evidence that two of his other “brides” drowned in
+similar circumstances is discussed and charted above. The improper prejudicial effects
+are not. Were there any improper prejudicial effects other than the obvious propensity
+effects? Assuming Rules 403 and 404(b) had been in effect, construct an argument
+demonstrating that the improper prejudicial effects of that evidence outweighed its
+legitimate probative value.
+2 Smith was not indicted for the other murders. Why not? Consider the following
+proposal to amend Rule 404(b) by adding the following as the second sentence of that
+rule:
+Evidence of another crime shall not be admissible unless the accused has either
+(i) pled guilty to or been convicted of that crime or (ii) had been indicted and is
+being tried for that crime as part of the case in which such evidence is offered.
+Should the proposed amendment be adopted? Why or why not? Justify your
+position.
+3 When the prosecution seeks to introduce evidence of another crime or bad act, how
+much evidence should it have to produce to establish that the other crime or act
+occurred and that the accused was responsible for it? Proof beyond reasonable doubt?
+Clear and convincing evidence? A preponderance of the evidence? Some evidence? See
+United States v. Huddleston, 485 U.S. 681 (1988) for the answer under the Federal
+Rules. See Anderson (1999a) for a Wigmorean critique of the answer and the
+reasoning used to justify it.
+3. Analysis and mandatory exclusionary rules
+Evidence obtained in violation of rights guaranteed by the Constitution and evi-
+dence discovered as a result of such a violation may not be admitted against the
+accused in a criminal trial no matter how strong its probative value may be. This rule
+excludes evidence obtained in violation of the fourth amendment’s prohibition of
+unreasonable searches and seizures or of the ﬁfth amendment’s privilege against self
+incrimination.31 Often such evidence is not only highly probative of the accused’s
+guilt, but also evidence without which the case cannot be prosecuted – e.g., without
+the 20 kilograms of cocaine found in the accused’s apartment through a search that
+was subsequently declared unreasonable, the government could not prosecute the
+31 U.S. Const., amends. IV and V.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press

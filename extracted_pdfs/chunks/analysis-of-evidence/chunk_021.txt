@@ -1,0 +1,711 @@
+# Chunk 21 of 26
+# Document: Analysis of Evidence
+# Characters: 47087
+
+--- Page 336 ---
+The principles of proof and the law of evidence
+305
+accused for possession with intent to distribute. The current rationale for the rule
+is that exclusion is required to deter police misconduct.32
+The application of the constitutional exclusionary rule has always required anal-
+ysis of the evidence bearing upon the circumstances in which the challenged evi-
+dence was obtained. The party opposing admission of evidence on the ground that
+it was unlawfully seized must produce evidence of the circumstances surround-
+ing the search and marshal the available inferences to demonstrate that it was
+an “unreasonable search.” The Supreme Court has enhanced the need for careful
+analysis of the facts (and has diluted the rule) by decisions such as those creat-
+ing special rules authorizing the search of an automobile,33 and those establishing
+an impeachment exception to the exclusionary rule authorizing the use of unlaw-
+fully obtained evidence to impeach the credibility of an accused who takes the
+stand.34
+The other principal source of rules excluding probative evidence are the rules
+establishing privileged communications. Information provided by an accused to
+her lawyer about what happened is likely to be highly probative or likely to iden-
+tify sources from which dispositive evidence of guilt might be obtained. So too,
+statements an accused might make to his physician in order to enable her to treat
+her gunshot wounds would almost certainly have probative value in determining
+whether she was a participant or an innocent bystander in a bank robbery in which a
+number of bank employees and customers had been shot. Society has decided rules
+prohibiting the discovery or use of communications between lawyer and client, doc-
+tor and patient, priest and penitent are necessary to achieve other important ends,
+notwithstanding the limits they impose upon the gathering and use of probative
+evidence.Theapplicationoftheserulesalsorequiresanalysisoftheunderlyingfacts.
+Did the communication occur during the existence of the privileged relationship?
+Did it fall within the scope of that relationship? And so on.
+4. A Wigmorean protocol for analyzing problems in the use and
+admissibility of evidence under the Federal Rules and its application
+Figure 11.2 describes a seven-step protocol for analyzing problems in the use and
+admissibility of evidence. That protocol can be used to illustrate the relationship
+between analysis of evidence and the rules prescribed by law to regulate the admissi-
+bility and use of evidence. The admissibility and use problems presented by hearsay
+evidence are among the most interesting and complex problems addressed by the
+Federal Rules. We begin with a description of the problems from an analytic per-
+spective. We conclude with an application of the protocol to a concrete hearsay
+problem.
+32 The rationale originally had a second prong. Exclusion was necessary to protect the integrity of
+the courts, that is the courts should not be dealing in stolen evidence. The original rationale and
+its evolution through the Court’s decision are described in LaFave (2004) §3.1(b).
+33 The origin and development of the automobile rules are described in LaFave (2004) §3.7.
+34 Id. at § 9.6. For an analysis of the impeachment exception, see Kainen (1992).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 337 ---
+306
+Analysis of Evidence
+1 What is the ultimate probandum for the case in which the proffered evidence is being
+offered? What are the penultimate probanda?
+2 To what fact of consequence is the proffered evidence relevant? Specify the necessary
+inferential steps.
+3 Is there a rule of evidence that the opponent could invoke to challenge the
+admissibility or use of the proffered evidence? If so, specify the rule, and make the
+argument, initially in syllogistic form.
+4 What, if any, are the arguments that the proponent of the evidence may make to avoid
+the application or minimize the effect of the rule or rules? Begin by challenging the
+opponent’s rule-based argument.
+5 Unless it is clear (and it rarely is) that the evidence must be excluded under the rule or
+rules invoked, what is the legitimate probative value of the proffered evidence? What
+are its improper prejudicial effects?
+6 What is the strongest argument that can be made to persuade the court that the
+improper prejudicial effects (“PE”) substantially outweigh (or outweigh) the
+legitimate probative value (“PV”)? That is that PE ≫PV? What is the strongest
+argument the proponent could make to diminish the PE and enhance the PV in order
+to persuade the court that the PE do not substantially outweigh the PV?
+7 Should the proffered evidence be admitted? If admitted should its use be limited? Why?
+Figure11.2 A Wigmorean protocol for analyzing problems in the use and admissibility
+of evidence
+a. The hearsay problem35
+A rule preferring live testimony rather than hearsay ﬁnds strong support in the
+logical principles of proof. In any case in which a statement made by a declarant,
+otherwise than while testifying, is offered to prove the truth of the matter asserted,
+the number of steps in the inferential chain increases and the sources of possible
+error multiply. Consider, for example, the testimony of William in a case in which
+Sam is accused of murdering John: “I heard Donald say, ‘I saw Sam shoot John.”
+In determining whether Donald said, “I saw Sam shoot John,” the decision-maker
+must consider William’s credibility and the factors that might affect his veracity,
+his objectivity, and his observational sensitivity. In doing so, they must answer four
+questions creating at least four possible sources of error. Did William believe he
+had heard Sam’s statement at the time at which William testiﬁed? Did William have
+any expectations that might have caused him to misinterpret Donald’s statement?
+(For example, Donald may have already suspected that it was Sam who murdered
+John and, for that reason, he may have thought he heard “Sam” when in fact
+Donald actually said, “I saw Pam shoot John.”) Given the lapse of time, did William
+accurately remember what he heard John say? Was William’s hearing good and was
+he close enough to hear what John said? Figure 11.3 depicts an investigative key-list
+35 This section is based upon the more comprehensive account and analysis of the hearsay problem
+developed in Schum (1992).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 338 ---
+The principles of proof and the law of evidence
+307
+Key-list for investigative chart
+1 William will testify, “I heard Donald say, ‘I saw Sam shoot John.’”
+2 William heard Donald say, “I saw Sam shoot John.”
+3 Donald said, “I saw Sam shoot John.”
+4 The credibility of William’s testimonial assertion may be open to substantial doubt.
+5 Veracity: Are there any reasons to doubt William’s veracity?
+6 Does William have a motive to lie?
+7 Are there other factors, such as a prior conviction or William’s reputation for honesty,
+that would support an inference that he was a dishonest person?
+8 Objectivity: Are there objective factors that create doubts about the accuracy of
+William’s report?
+9 Did William have any expectancies that might have caused him to misinterpret
+Donald’s statement? (For example, William might have had a strong suspicion that it
+was Sam who shot John and for that reason, he may have thought he heard “Sam”
+when in fact Donald said, “I saw Pam shoot John.”)
+10 Are there any factors upon which to question William’s recollection?
+11 Observational sensitivity: Are there any factors that may create doubts about
+William’s ability to hear what Donald said?
+12 Are there reasons to question William’s ability to hear, e.g., impaired hearing, wax in
+his ears, etc.?
+13 Do the external conditions under which William claims to have heard Donald speak
+provide reasons to doubt William’s ability to hear what Donald said, e.g.: Was the
+statement during happy hour in a crowded bar? Was the statement directed to
+William or did he just overhear what Donald heard said to another person?
+3
+2
+4
+5
+6
+7
+9
+10
+12
+13
+8
+11
+1
+W
+Figure 11.3 An investigative key-list and chart
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 339 ---
+308
+Analysis of Evidence
+and chart that an attorney might use to guide her search for evidence upon which
+to base her cross-examination of William.
+The central distinction between live testimony and hearsay is the availability
+of the right to cross-examine the live witness.36 The attorney for Sam can cross-
+examine William to ensure that the jury is aware of any factors that might call into
+questionWilliam’sveracity,objectivity,orobservationalsensitivity.Shecouldcross-
+examine William to eliminate any ambiguities that might be created by his other
+testimonial assertions. There is no ambiguity in William’s testimony reporting what
+John said and, assuming counsel’s cross-examination did not develop reasons to
+question William’s credibility, a jury might infer, but could only infer, that Donald
+said, “I saw Sam shoot John.”
+Donald’s statement, if admissible, would clearly be offered to prove the truth of
+the matter asserted. From the statement the jury would be asked to infer that (a)
+Donald saw Sam shoot John and from that inference that (b) Sam shot John and
+from that inference, combined with inferences from evidence concerning the cause
+of John’s death, that (c) it was Sam who committed the act that caused John’s death.
+The logical foundation for a rule excluding hearsay or limiting its use stems
+from the fact that the jury will not hear Donald say, “I saw Sam shoot John,” and
+Sam’s attorney cannot cross-examine John to ensure that the jury is aware of any
+factors that may call into question his credibility attributes that might raise doubts
+about his veracity, the objective accuracy of his statement, or his observational
+sensitivity.37 Any or all of these factors might have diminished Donald’s credibility,
+but the jury must assess his credibility without knowing whether or which of these
+factors existed. The sources of doubt about the truth and accuracy of William’s
+testimony must be multiplied by the sources of doubt about the truth and accuracy
+of Donald’s assertion, sources about which the jury lacks information necessary to
+appraise their signiﬁcance. That is the logical problem created by the admission of
+hearsay.Analysisoftheevidenceisnecessarytodemonstratethatthenumberofsteps
+in the inferential chain necessary to establish relevance diminished the probative
+value of the statement and how the inability to present factors that might affect the
+jury’s appraisal of the declarant’s credibility creates, at a minimum, a substantial
+prejudicial effect that is improper by dramatically increasing the likelihood that the
+jury will overvalue or be misled by the assertion.38
+Most deﬁned exceptions to the hearsay rule are also grounded in logic. These
+exceptions are based upon the view that it is possible to identify circumstances
+in which some statements are made that provide intrinsic indicia of reliability
+36 Another distinction that is important is that the decision-maker is able to observe the demeanor
+and reactions of the witness while she is being examined.
+37 Rule806wasadoptedtodiminishthesesourcesofdoubtbypermittingtheopponentoftheevidence
+to introduce some extrinsic evidence to attack the credibility of a declarant whose assertion has
+been admitted under an exception to the hearsay rule.
+38 The United States Supreme Court has decided that the Confrontation Clause, U.S. Const., amend.
+VI, prohibits the admission of hearsay testimonial assertions such as William’s report of what John
+said, Crawford v. Washington, 541 U.S. 36 (2004).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 340 ---
+The principles of proof and the law of evidence
+309
+sufﬁcient to justify their admission, notwithstanding the absence of the declarant.
+These exceptions also reﬂect a policy that not only the indicia of reliability, but
+also the necessity that the statement be admitted, are to be considered. As the need
+increases, the indicia of reliability required are often reduced. For example, the need
+for the admission of a dead declarant’s dying declaration concerning the cause of
+her death is usually high. Unless someone else was present, there may be no other
+evidence. The declarant is unavailable, and the statement, if true, has substantial
+probative value. The indicia of reliability, however, are weak. The only apparent
+indicia are based upon one or both of two generalizations:
+1 People who fear God are unlikely to lie when they believe death is imminent.
+2 The imminence of death concentrates the mind and diminishes the capacity to
+fabricate.
+Neither of these generalizations has been empirically justiﬁed, and both can be
+rebutted by a counter-generalization:
+3 A person who believes that death is imminent also believes that this is her last chance
+to get even or bring down a person she hates.39
+A similar analysis could be made of each of the other exceptions under Federal
+Rules 803 (Availability of Declarant immaterial) and 804 (Declarant unavailable)
+other than the exception for former testimony codiﬁed in Rule 804(b)(1) (where
+admissibility is justiﬁed based upon indicia of accuracy and considerations of fair-
+ness in light of necessity).
+Exercise
+Figure 11.4 is a graph on which the need for the admission of hearsay statements
+and the intrinsic indicia of reliability can be plotted. The authors have depicted
+their view of the need and indicia of reliability for two of the exceptions – Rules 806
+(business records) and 804(b)(2) (dying declarations). Review the other exceptions
+created by Rules 803 and 804, and use the graph to depict your view of need and
+indicia of reliability that might be used to justify the exception.
+b. The protocol applied
+In United States v. Able (pages 23–28), the government gave Able’s counsel a three-
+page memorandum prepared by FBI Agent Dawes stating that he had interviewed
+Timothy Cooper in August 2004 and that, among other things, Cooper had told him
+that Cooper had merged his accounting practice in July 2004 and that his secretary
+had lost or thrown out some materials, such as notes and work papers, contained in
+inactive client-ﬁles. According to the memorandum, Cooper told Dawes that Able
+39 Even if Mrs. Shepard had believed that death was imminent, she may have stated that Dr. Shepard
+had poisoned her in order to bring down her faithless husband so that he would not be able to
+marry the mistress with whom he had tormented her. See Shepard v. United States, 290 U.S. 96
+(1933), for a full account of her statements and the context in which they were made.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 341 ---
+310
+Analysis of Evidence
+Rule 804(b)(2)
+Rule 803(b)
+1.0
+0.0
+1.0
+Indica of reliability
+Necessity of admission
+Figure 11.4 Hearsay graph
+was listed as an inactive client at the time. Dawes’s memorandum reported that
+Cooper could not tell from examining the ﬁle whether any materials from Able’s
+ﬁle had been discarded.
+Dawes’s memorandum also reported that Cooper had no recollection of how the
+signing of Able’s return was handled, but Cooper said that he usually mailed two
+copies of a return to his clients with an envelope addressed to the Internal Revenue
+Service and a note instructing them to review, sign, and mail the completed returns
+by April 15. The memorandum reports that Cooper could not ﬁnd a copy of such
+a note with the copy of Able’s 2003 return in his ﬁles. Cooper reported that the
+ﬁle contains no information about any income other than Able’s salary, and that
+Cooper did not recall Able informing him that he had received any other income.
+The problem included the following additional facts:
+On cross-examination, Cooper testiﬁed that he did not recall seeing Able’s April 11
+letter; that had his ofﬁce received it, it would have been in the client-ﬁle he maintained
+for Able, and it is not; that his ﬁles were perfectly maintained; that he does not recall
+discussing any papers being lost in his 2004 move; and that he has never seen Agent
+Dawes’s memorandum and it does not refresh his recollection.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 342 ---
+The principles of proof and the law of evidence
+311
+Are Agent Dawes’s memorandum and the statement it reports that Cooper made
+admissible?
+How the protocol set out in Figure 11.2 could be used to develop an answer to
+this question is illustrated below.
+1 What is the ultimate probandum for the case in which the proffered evidence is
+being offered? What are the penultimate probanda?
+The ultimate and penultimate probanda in Able were formulated in Chapter 5 (at
+page 126). The ultimate probandum was:
+1 Richard Able (“RA”) knowingly ﬁled a false federal tax return for the year 2003
+(“the 2003 return”) with intent to defraud the government of income tax due and
+owing on not less than $45,000.
+This was partitioned and repartitioned into seven penultimate probanda.
+2 RA knowingly ﬁled a false income tax return for the year 2003.
+3 RA ﬁled a tax return for the year 2003.
+4 The tax return that RA ﬁled for 2003 was false.
+5 RA knew his 2003 tax return was false when he ﬁled it.
+6 At the time RA ﬁled his 2003 tax return, he intended to defraud the government of
+income tax due and owing on not less than $45,000.
+7 RA owed the government taxes on an additional $45,000 at the time he ﬁled his
+2003 tax return.
+8 RA intended to defraud the government of the taxes due and owing at the time he
+ﬁled his 2003 tax return.
+2 To what fact of consequence is the proffered evidence relevant? Specify the
+necessary inferential steps.
+a Cooper’s statements that papers were lost from his inactive client ﬁles when he
+moved his ofﬁce and that Able was an inactive client at that time are relevant to
+two facts of consequence. First, these statements support an inference that the
+April 11 letter might have been lost during the move. That inference supports an
+opponent’s explanation that accounts for the fact the letter was not in Cooper’s ﬁle
+at the time the FBI approached him. That explanatory proposition is relevant
+because it makes the inference that Able’s letter was not delivered to Cooper’s
+ofﬁce, an inference that was supported by evidence that the letter was not in
+the ﬁle and by Cooper’s assertion that his ﬁles had been perfectly maintained.
+For that reason, the explanatory proposition increases the probability that Able’s
+letter was delivered to Cooper’s ofﬁce, which in turn makes it more probable that
+Able intended to disclose and intended that Cooper include the additional
+$45,000 in his tax return and thus makes it less probable that: “2. RA knowingly
+ﬁled a false income tax return for the year 2003,” or that: “8. RA intended to
+defraud the government of the taxes due and owing at the time he ﬁled his
+2003 tax return,” two of the penultimate probanda the government must
+prove.
+Second, the statements are also relevant to Cooper’s credibility because they are
+prior statements that are inconsistent with the testimony he gave on the witness
+stand. Since both statements cannot be true, the probability that his testimonial
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 343 ---
+312
+Analysis of Evidence
+assertions are true is diminished. Since the credibility of a witness who has testiﬁed
+is also a fact of consequence, both statements are relevant.
+b The Dawes memorandum. The assertions made in Dawes’s memorandum are
+relevant to show that Cooper in fact made the statements which the memorandum
+reported he had made. Because Cooper’s statements are relevant to three facts of
+consequence, evidence that he made those statements is also relevant to those facts
+of consequence.
+3 Is there a rule of evidence that the opponent could invoke to challenge the
+admissibility or use of the proffered evidence? If so, specify the rule, and make the
+argument, initially in syllogistic form.
+Both statements ﬁt squarely into the deﬁnition of hearsay.
+a Cooper. Under Rule 801(a) a statement that is an oral assertion made by a
+declarant other than while testifying that is offered to prove the truth of the matter
+asserted is hearsay. Here Cooper is a declarant who made two assertions to Agent
+Dawes during an interview, each of which is being offered to prove the truth of the
+matter asserted, i.e., that papers from Cooper’s inactive client ﬁles were lost during
+a move in 2003 and that Able was an inactive client at that time. Both statements
+are hearsay and hearsay is not admissible under Rule 802.
+b The Dawes memorandum. The two relevant written assertions made in the Dawes
+memorandum (identiﬁed above) are only relevant if they are offered to prove the
+truth of the matter asserted, namely that Cooper made the statements during the
+interview that the memorandum reports that he did. Dawes is the declarant and
+each of the written assertions that Dawes made prior to trial is being offered to
+prove the truth of the matter asserted. Each is hearsay and Rule 802 prohibits their
+admission.
+4 What, if any, are the arguments that the proponent of the evidence may make to
+avoid the application or minimize the effect of the rule or rules? Begin by
+challenging the opponent’s rule-based argument.
+Rule 802 does not prohibit the admission of any of the statements.
+a Cooper: Rule 613(b) authorizes the admission of extrinsic evidence of a prior
+inconsistent statement of a witness if the witness has been afforded an opportunity
+to explain or deny the existence of the same. The Dawes memorandum is extrinsic
+evidence that Cooper made the two prior inconsistent statements. Cooper was
+confronted with and afforded an opportunity to deny or explain those statements
+when he was cross-examined. The statements are offered to undermine Cooper’s
+credibility, not to prove the truth of the matter asserted, and for that purpose, they
+are not hearsay. They are relevant, and Rule 402 requires that they be admitted. If
+the assertions made by Dawes in the memorandum are admissible then the
+assertions attributed to Cooper are also admissible.
+b The Dawes memorandum: The assertions made by Dawes in his memorandum
+are not hearsay. Under Rule 801(d)(2)(D)(2), a statement offered against a party is
+not hearsay if the statement was made by the party’s agent concerning a matter
+within the scope of the agency made during the existence of the relationship. The
+statement is being offered by the defendant against his party-opponent, the United
+States.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 344 ---
+The principles of proof and the law of evidence
+313
+At the time he interviewed Cooper, Dawes was an FBI agent employed by the
+United States. Conducting and documenting interviews in a criminal investigation
+is within the scope of an FBI agent’s employment. Dawes has testiﬁed that he wrote
+the memorandum. Any statements made in that memorandum are excluded from
+the deﬁnition of hearsay by Rule 801(d)(2)(D)(2).
+Moreover, the statements made in the memorandum would in any event be
+admissible under Rule 803(5) (recollection recorded). Assuming he followed FBI
+procedures, Dawes will testify that he dictated the memorandum immediately after
+the interview with Cooper and that he reviewed and corrected the draft no later
+than the following day. The substance of the memorandum was made when it was
+fresh in his memory and, given his training and the procedures he followed, there
+is ample evidence to show that the memorandum reﬂects his knowledge correctly.
+Thus the memorandum could in any event be read to the jury, and the jury could
+consider the statements Dawes made as evidence of the truth of the matters he
+asserted.
+5 Unless it is clear (and it rarely is) that the evidence must be excluded under the rule
+or rules invoked, what is the legitimate probative value of the proffered evidence?
+What are its improper prejudicial effects?
+The only legitimate probative value of the statements is the probative value of
+Cooper’s inconsistent statements with respect to the credibility of the assertions he
+made while testifying. The primary improper prejudicial effect stems from the fact
+that the jury is likely to use these statements as evidence of the truth of the matter
+asserted, notwithstanding any instructions the court may give telling them that they
+are not to consider them for that purpose.
+6 What is the strongest argument that can be made to persuade the court that the
+improper prejudicial effects (“PE”) substantially outweigh the legitimate probative
+value (“PV”)? That is that PE ≫PV? What is the strongest argument the proponent
+could make to diminish the PE and enhance the PV in order to persuade the court
+that the PE do not substantially outweigh the PV?
+a The government. The jury is likely to consider the statements for the truth of the
+matter asserted and infer that Able’s letter may have been one of the papers lost.
+Apart from the fact that the rules prohibit consideration of Cooper’s assertions for
+the truth of the matter they assert, the jury has no foundation upon which to
+accurately appraise the value of these statements for three reasons. First, it is likely
+that Cooper learned of the alleged loss from his secretary, in which event the jury is
+basing its assessment of hearsay within hearsay within hearsay – and so extending
+the inferential chain to its breaking point. Second, the support that these
+statements provide for an inference that Able’s letter was one of the papers lost is
+both weak and ambiguous. The jury will have no evidence indicating the extent of
+the problem. If ﬁve pieces of paper were lost during a move of 5,000 ﬁles, the
+likelihood that Able’s letter was among them is remote. If the boxes containing the
+inactive client ﬁles fell off the truck and the papers in those ﬁles scattered with the
+wind, the likelihood that Able’s letter was among the papers lost would be high.
+But without any evidence to place the problem in context, it is almost certain the
+jury will misvalue this evidence.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 345 ---
+314
+Analysis of Evidence
+b Able. Cooper’s credibility is central. If the jurors accept his testimony about the
+perfection with which he maintained his ﬁles, the likelihood that they will ﬁnd
+Able guilty will increase dramatically. If they have evidence before them showing
+that he either lied or has a seriously defective memory, they are likely to discredit
+all his testimony and the likelihood they would ﬁnd Able guilty will decrease
+accordingly. The probative value of this evidence is high. The government’s
+cynicism about the ability and willingness of the jurors to follow the instructions
+the court gives them is hardly ground for penalizing the defendant. There are no
+irremediable improper prejudicial effects and certainly none that could
+substantially outweigh the probative value of this evidence.
+7 Should the proffered evidence be admitted? If admitted should its use be limited?
+Why?
+This could well be the ﬁrst question in the protocol. Most lay persons can make a
+sound judgment about whether certain evidence should be admitted. Those trained
+in analysis have a more developed “common sense” and basis for their “gut feelings.”
+But most of the time, most of us would get it right even if we did not know the
+intricacies of the rules of evidence and their application. In that context, the answer
+here is easy: Yes, the evidence should be admitted.
+That conclusion can easily be justiﬁed under the policy upon which the hearsay
+rule and its exceptions were based. Given that the source of the information about
+Cooper’s statement is an FBI agent, it is almost certain that Cooper made the
+assertions attributed to him and that those statements were true. FBI agents do not
+reach out to gather evidence that will make the prosecutor’s task more difﬁcult. If they
+report evidence that favors the defense, it is almost certain their report is accurate or
+understates the evidence. Cooper should not be permitted to lie with impunity and, if
+his memory is that bad, the jury should have that information in deciding how much
+reliance they may fairly place on any testimony he gives that implicates Able in the
+alleged crime. Having made that assessment, defense counsel’s task is to ﬁgure out
+how to get in under the rules and the prosecution’s task is to decide whether and how
+strongly she wishes to oppose the admission of the evidence.
+Exercise
+Apply the protocol to determine whether proposition 6 in “An investigation” – “W3
+says that he overheard X on Christmas Day say angrily to Y, ‘I shall not forget this’” –
+could or should be admissible if X is tried for the murder of Y. Would the trial judge
+have to consider the limitations imposed by Crawford v. Washington in resolving
+that issue? Why or why not?
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.012 Published online by Cambridge University Press
+
+
+--- Page 346 ---
+12
+The trial lawyer’s standpoint
+A. A Wigmorean lawyer prepares for trial
+The purpose of this part of the chapter is twofold. First, we want to set Wigmorean
+analysis in general and the chart method in particular in the context of trial prepa-
+ration and practice in the United States.1 All competent lawyers use and apply the
+principles of proof in preparing a case and all use one or more devices to consol-
+idate the results of their analysis. The chart method is simply an additional and a
+more methodical and rigorous device, one that requires making explicit what might
+otherwise be left implicit. Second, we want to describe the processes and devices
+lawyers commonly use to translate and reorganize the products of their analysis of
+the law and facts into a form suitable for use at trial. We start by describing some
+such devices and conclude with a brief discussion of ways in which the products of
+analysis are translated into the tools of advocacy.
+1. Of charts and other analytic devices
+All phases of the trial lawyer’s work involve two fundamental and related processes:
+analysis of law and analysis of fact. At all points from the initial interview onward,
+the lawyer uses her existing legal knowledge to probe for facts that may be relevant
+to the case at hand. These facts in turn suggest further inquiries: the potentially
+applicable legal principles may be expanded, narrowed, or reﬁned by research and
+analysis. The facts known and the products of the legal research and analysis may
+suggest additional lines of factual inquiry. The process is reﬂexive and continuous.
+The analytic component of this process continues through closing argument
+(and beyond). The evidence is in and closed. Given this ﬁnite body of evidential
+data and given the law the trier of fact will apply, how can the evidence be most
+effectively organized and marshaled to support the inferences the lawyer advocates
+that the trier should accept? In theory, however, the investigative process ends as the
+trial begins. The lawyers for each of the parties have a common set of legal principles
+to work with – in the jury trial context, the jury instructions. Each of the lawyers
+1 We chose the United States for two reasons. First, jury trials are more common in the United States
+than in England, especially in civil cases. Second, preparing for a jury trial calls upon all of the
+analytic and other skills that this book seeks to develop.
+315
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.013 Published online by Cambridge University Press
+
+
+--- Page 347 ---
+316
+Analysis of Evidence
+has a deﬁned and relatively settled body of evidential data. There may be variables
+to be resolved: Which of the contending legal principles will be adopted or applied?
+Which of the evidential data will be admitted? Which excluded? But in theory, the
+available chips are all on the table. And the theory comes close enough to reality to
+make the model useful.2
+Under this model, a lawyer trained in the chart method of analysis would have
+identiﬁed the available evidential propositions; charted the possible inferential rela-
+tionships; and prepared a set of strategic charts, each reﬂecting her judgments on
+how to maximize the probability that her theory of the case will be accepted and to
+minimize the risk that opposing counsel will achieve their objectives.3 Collectively,
+the ﬁnal product would be designed to account for all the foreseeable variables.
+If these legal principles are accepted, take this road; if that evidence is excluded,
+fall back to this position and follow this alternative path. The extent to which real-
+ity falls short of the theory merely increases the number of possible variables that
+counsel must anticipate and for which she must plan. Although few lawyers fully
+chart their cases, all use other devices to facilitate their analysis and organization of
+the data. For example, most lawyers analyze and cross-reference the evidential data
+each witness can supply. What precise testimonial assertions can this witness make?
+To what allegations in the pleadings or to what fact required to be proved under
+the jury instructions is each relevant? What other assertions or evidential data exist
+to corroborate or discredit such allegations or facts? Are they or can they be made
+admissible?
+From this witness-by-witness and exhibit-by-exhibit analysis, every lawyer must
+develop a composite which she can use to analyze the case as a whole. Where the
+dispute involves past events, one of the most useful analytical tools is the master
+chronology. Set every event described in the testimonial assertions and documents
+in the sequence in which they are alleged to have occurred. Such a chronology makes
+two objectives possible. It presents the events in the order in which they supposedly
+occurred, the order in which most people think, and thus makes it possible to
+construct stories that the evidence supports. It also makes it easier to identify gaps
+and conﬂicts in the evidence. Similarly, in a criminal or personal injury suit, the
+physical setting where the central events occurred is often critical, and most lawyers
+will reconstruct the events through diagrams or models. Both kinds of composites
+are nothing more than devices to ﬁx the alleged events in time and space and to
+2 In theory, through meticulous investigation and use of discovery mechanisms, both lawyers should
+have a ﬁrm idea of the data available for presentation. In fact, the theory can never be fully realized
+and sometimes not even approached. Not all facts are ever discovered in civil cases, and legal as well
+as practical limitations leave much to be learned during trial on the criminal side. (See discussion
+below.)
+3 Lawyers rarely use the chart method fully in practice because it requires too much time. Less rarely,
+lawyers use the method to chart particular phases of an argument. Lawyers who have been trained
+in the chart method, the most rigorous method of analysis, develop skills that are useful in any
+method of analysis. Two of the authors have taught law students the chart method of analysis for
+more than 20 years, the other for more than ﬁve years. Almost all students have enthusiastically
+acknowledged the beneﬁts of the course.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.013 Published online by Cambridge University Press
+
+
+--- Page 348 ---
+The trial lawyer’s standpoint
+317
+make them concrete. Both are necessary tools for organization and analysis. Both
+are common tools. Both are compatible with Wigmore’s general approach.4
+The chart, as a method of analysis, does not replace other devices; it simply
+provides an additional and rigorous method for analyzing facts and constructing
+and testing arguments at any point in the process. The Wigmorean lawyer will
+have his or her witness-by-witness proposition lists cross-referenced to each other
+and to the pleadings and law; an exhibit-by-exhibit proposition list similarly cross-
+referenced; and, where appropriate, a series of diagrams and other composites. One
+point merits emphasis: All such devices require application of the principles of
+proof.
+As ﬁnal preparation for trial begins, every lawyer uses one or more of the com-
+pilation devices: A master chronology, a model, a map; an index of the evidential
+facts by legal principle and allegation in the pleadings; and so on. Such systems have
+long been commonplace among competent trial lawyers. For example, Elihu Root is
+reported to have developed a seven-document system in the late nineteenth century
+that, with some adaptation, is similar to those in use today. Under the Root-Stimson
+system, lawyers assisting in trial preparation were required to prepare seven docu-
+ments: (1) a pleadings chart to identify, allegation by allegation, which facts alleged
+in the pleadings had been admitted, denied, stipulated, etc., in order to identify
+the material facts-in-issue for trial; (2) a master chronology organizing the facts in
+chronological order and identifying the witnesses or documents by which each will
+be proved; (3) an abstract of the documents to be used, arranged chronologically
+or, where appropriate, by subject matter; (4) a preliminary analysis in outline form
+that identiﬁed every proposition to be proved at trial and identiﬁed the witnesses
+and documents by which each was to be proved; (5) the trial book developed from
+these documents; (6) a memorandum of law for the court outlining counsel’s view
+of the central facts in issue and controlling law to be applied; and (7) the proposed
+jury instructions counsel will ask the court to give. Although developments, such
+as the move to notice pleading, the expanded scope of discovery, and the intro-
+duction of new technologies, require some modiﬁcation, the description of that
+system makes it clear that the basic approaches are timeless. Then to apply the chart
+method simply provides the Wigmorean lawyer with an additional device and skills
+for rigorously ordering the available data and precisely analyzing their relationships
+to the ultimate propositions to be proved.
+2. The trial book: an organizational device
+None of these devices, however, organizes the available data in a form suitable
+for presentation at trial. The ﬁnal pre-trial step must be to reorganize the data
+4 Complex cases may require additional or different devices. For example, many cases require expert
+analysis and testimony. The data must be collected and organized to facilitate this analysis and
+presentation for the speciﬁc case at hand. The point, however, should be clear: All competent
+lawyers use appropriate devices to organize the facts at various stages in the preparation of a case
+for trial.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.013 Published online by Cambridge University Press
+
+
+--- Page 349 ---
+318
+Analysis of Evidence
+in a manner that will facilitate its use at trial. The most common device used
+for this is the lawyer’s “trial book.” The “trial book” is simply a lawyer’s device
+for organizing what he or she needs to try a particular lawsuit. Typically, it will
+include pleadings, checklists, copies of documents to be introduced and statements
+or depositions to be used, outlines for opening and closing, outlines or anticipated
+“scripts”fordirectandcross-examinationofwitnesses,juryinstructions,andmem-
+oranda of law addressing signiﬁcant problems likely to arise during the particular
+trial.
+The trial book serves three kinds of functions. First, preparation of the book
+is a systematic way to prepare for trial. The lawyer is forced to analyze what she
+needs for each segment of the trial from voir dire through closing and verdict. The
+lawyer is also forced to organize the materials into a whole. Like the production
+book for a play, the trial book enables the participants to see the parts and the
+whole and to visualize concretely whether the whole makes sense. Second, during
+the trial, the trial book is a ready reference. The trial book has everything the lawyer
+needs in one place, organized to facilitate easy use. Finally, also during trial, the
+trial book serves as a checklist and an organized vehicle for keeping track of what
+has been and what needs to be done. Counsel (counsel’s partner) can check off
+that essential questions have been asked, that items of documentary evidence have
+been not only identiﬁed but also admitted into evidence. The lawyers can keep
+notes on particular witnesses and for reference in closing argument. This section
+describes the components typically included in a trial book and the relationships
+between each component, the other analytic devices, and the actual phases of the
+trial.5
+1. The preliminary memorandum: an overview of theory, theme, and strategy. The
+lawyer must go into trial with a theory of the case. In this context, the theory of the
+case must combine the legal theory, the factual theory, and a strategic theory on
+how the evidence and arguments should be presented at trial. In preparing the ﬁnal
+chart, the Wigmorean lawyer either knows the legal principles the trier of fact will
+apply or has made judgments about those the trier can be persuaded to apply.6 He
+or she has identiﬁed the central facts-in-issue, the penultimate probanda that are
+in dispute, that must be proved (or challenged). The charts have made it possible
+5 The trial book may take many forms: An indexed notebook, a series of folders, or in a complex
+case, an entire ﬁle cabinet or several boxes, today, the portable computer into which documents,
+deposition transcripts, and other material have been loaded with programs that make it possible to
+search and ﬁnd particular items almost instantaneously. Many trial advocacy manuals have sections
+that describe the author’s view of how a trial notebook should be organized. See for example Mauet
+(2005) 34–37 or Haydock and Sonsteng (1999).
+6 This presentation focuses on preparing a case in which the outcome hinges on disputed questions
+of fact. Many cases, especially in public law areas, hinge upon how disputed questions of law will
+be resolved. Some cases, of course, depend upon the resolution of questions of fact and of law,
+which occasionally remain unanswered as the trial begins. The structure of the trial book and its
+components vary with the function to be served, but the lines of attack and organization are always
+similar to those described here.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.013 Published online by Cambridge University Press
+
+
+--- Page 350 ---
+The trial lawyer’s standpoint
+319
+to identify the plausible logical theories that appear to offer sound opportunities to
+persuade the trier of fact that the ultimate probanda have (or have not) been proven.
+The rules of admissibility have been analyzed to determine the evidential data that
+is likely to be admitted and how it may be used at trial. This analysis provides the
+material from which the lawyer must choose the theory of the case (and perhaps
+alternative and fall-back theories) that will be used at trial. The objective must be
+to choose the theory most likely to maximize the probability of a successful (and to
+minimize the risk of an adverse) outcome for the client.
+The lawyer must also know by that time the characters and materials she must
+use to present the facts at trial and must have made judgments on the relative
+plausibility of the stories that could be developed to make the theories dramatically
+coherent and effective. With this background, the lawyer must also decide what
+themes can be established and used to develop the available theories and reinforce
+the stories. In this context, themes make explicit the concept of persuasive pre-
+sentation. Who are the good guys? The bad guys? What ideas need emphasis to
+create an impression that will enhance the jury’s willingness to accept the story
+chosen?
+In preparation for trial, the lawyer must consider and make strategic judgments
+in choosing among the available theories, the possible themes, and the plausibility
+of the resulting stories as a whole. The lawyer at this stage must choose a theory and
+themes that are consistent with each other and that reinforce the desired story and
+then must organize the evidence so that it can be presented at trial in a manner that
+will make themes and theory come together as a dramatically effective and plausible
+story-as-a-whole. The preliminary memorandum is a device to document and test
+the choices made and to provide an overview of the parts that follow.
+Components of a preliminary memorandum typically include:
+a The introduction. A short summary and outline: Who is suing whom for what on what
+basis? What does the “whom” want and on what basis? What are the one or two
+central facts, the jugular facts, or legal questions upon which the case hinges? How
+will these be addressed? How is the memorandum organized?
+b The facts. The facts distilled to those essential to the theory and presented to tell the
+story and illustrate the chosen themes.7 (The uses of stories and themes are
+addressed in Chapters 6 and 10.) The task here requires skills similar to those
+necessary for the art of preparing the statement of facts in an appellate brief.8
+Typically, these are the intermediate probanda that counsel believes will be
+7 Many courts require a pre-trial memorandum designed both to identify and narrow the facts and
+legal questions in dispute and to establish the parameters of the evidence to be offered. Because it
+is “published” to the court and opposing counsel, the strategic considerations differ; otherwise, its
+functions are similar.
+8 See, e.g., Llewellyn, “Argument: The Art of Making Prophecy Come True,” in Llewellyn (1960)
+236–55. On the role of theory, story, theme, and situation-sense in the broader litigation context,
+see above at pages 153–58.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.013 Published online by Cambridge University Press

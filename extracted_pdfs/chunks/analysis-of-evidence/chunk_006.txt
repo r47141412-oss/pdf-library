@@ -1,0 +1,669 @@
+# Chunk 6 of 26
+# Document: Analysis of Evidence
+# Characters: 46462
+
+--- Page 96 ---
+64
+Analysis of Evidence
+E did actually occur? Unless evidence E∗is perfectly credible, it would be a mistake
+to equate E∗and E. Having evidence that E occurred does not entail that E did in
+fact occur.
+There are two forms of evidence that may be relevant in a legal dispute –
+tangible evidence and testimonial evidence. The attributes that must be consid-
+ered in assessing the credibility of each form differ.15 Credibility involves more than
+one dimension or attribute regardless of what kind of evidence we are considering,
+but the speciﬁc attributes of credibility depend upon what kind of evidence we are
+considering. Attributes of the credibility of testimonial evidence are quite different
+from the attributes of the credibility of tangible evidence.
+a. Tangible evidence
+There are many forms of tangible evidence including objects, documents, sensor
+images, measurements, and a variety of representations such as charts, maps, and
+diagrams. All of these kinds of tangible evidence are open to inspection. What they
+actually reveal in a particular situation is not always obvious.16 The trouble is that
+tangible evidence is not always what it seems to be. Documents can be forged,
+currency counterfeited, images labeled incorrectly, samples of blood mixed up,
+and drugs planted on persons. There are three important attributes that must be
+considered in assessing the credibility of tangible evidence.
+i. Authenticity. Authenticity is the most important element of the credibility of
+tangible evidence. In law, the party seeking to introduce a document, photograph,
+or another item of tangible evidence must offer evidence “sufﬁcient to support
+a ﬁnding that it is what it purports to be” (Federal Rule of Evidence 901). To
+be admissible it must purport to be something that is relevant to a penultimate
+probandum or to the credibility of other evidence in the case.
+There are three major sources of ancillary evidence that may call into question
+the authenticity of tangible evidence. The ﬁrst involves evidence that has been delib-
+erately contrived in order to mislead others such as a forged document. Errors in
+recording, transmitting, or processing evidence is the second source. Tangible evi-
+dence may pass through many hands before it is offered at trial. The opportunities
+for processing or handling errors of various kinds increases with the number of
+hands a tangible item passes through. Blood samples may be mislabeled or even
+15 In many contexts including law, the word “reliability” is often used synonymously for the term
+“credibility.” The difﬁculty is that the term “reliability” has a much more restricted meaning than
+does the term “credibility.” A process of some sort is reliable to the extent that it is consistent,
+repeatable, or dependable. Thus, you believe your car is reliable to the extent that it will continue
+to take you where you want to go for some speciﬁed time in the future.
+16 In many cases, the decision-maker must rely upon the opinions of experts to tell her what event(s)
+a tangible item reveals. For example, a ballistics expert may express an opinion identifying the
+weapon from which a bullet was ﬁred and explain how the markings on the bullet enabled him
+to form that opinion. Experts can be wrong in their interpretation of what event(s) a tangible
+item reveals. It is the bullet that is tangible evidence; the expert’s opinion comes in the form
+of testimonial assertions whose credibility can only be assessed by reference to the credibility
+attributes of testimonial evidence. See below at pp. 65–67.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 97 ---
+Fact investigation and the nature of evidence
+65
+substituted one for another. That is the reason for the requirement that there should
+be evidence establishing the chain of custody from the time the evidence was dis-
+covered (the bloody glove) or generated (an entry into a business record) until the
+time the evidence is presented at trial. If we do not know all of the links in a chain of
+custody, we cannot vouch for the authenticity of a tangible item. Finally, the witness
+whose testimony is offered to establish the authenticity of an item may be mistaken
+or untruthful.
+ii. Accuracy/Sensitivity. Sensing devices of all sorts can supply tangible evidence
+in the form of images such as photographs and other sensor records. The credibility
+issue here concerns whether a sensing device provides the degree of resolution
+necessary for us to discriminate among possible events that may be recorded on
+the image. In some instances the accuracy of a sensing device can be degraded by
+inappropriatesettingsofthedevice’scontrols.Forexample,ifacameraisnotfocused
+properly,thentheimageobtainedmaybeblurred.Insuchcaseswemaynotbeableto
+tell whether the photo does in fact show person X, as the proponent of this evidence
+claims. Courts admit business records as an exception to the hearsay rule only if
+the witness who identiﬁes them knows enough about the process for recording the
+data on which they were based, the process by which they were generated, and how
+they were stored to enable the other party, through cross-examination, to identify
+ﬂaws that might undermine the accuracy of the information they contain. This
+issue of accuracy also applies to demonstrative evidence, such as statistical analyses,
+results of which can be displayed in graphic or pictorial form. Every student of
+elementary statistics learns how easy it is to construct inaccurate and misleading
+graphic accounts of the results of statistical analysis.
+iii. Reliability. A reliable process is one that is repeatable, dependable or consis-
+tent. For some kinds of tangible evidence, reliability refers to the operating charac-
+teristics of the device used to generate it. Such a device is reliable only if it gives the
+same reading or image on repeated applications of the device. No sensing device
+can provide reliable readings if the device is not properly maintained. For example,
+a police radar gun cannot be expected to provide reliable indications of a car’s speed
+if it has not been serviced regularly or if it has been dropped on several occasions.
+Replicable or repeatable processes form the basis for all statistical analyses. The term
+“reliability” in statistical analysis refers to the extent of measurement error that is
+naturally associated with any statistical estimate.
+b. The credibility of testimonial evidence
+i. The basis for a testimonial assertion. An investigator or a lawyer must consider how
+the witness acquired the data upon which her testimonial assertion is based. The
+witness may have acquired the data from one or a combination of three sources. For
+example, person P tells us that event E occurred, and we ask the natural question:
+How do you know that E happened? P can give one of three possible answers. First,
+she may say, “I observed the occurrence of E for myself.” P is claiming personal
+knowledge of the occurrence of event E.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 98 ---
+66
+Analysis of Evidence
+Second, she may say: “I did not observe event E myself, but I learned about
+its occurrence from person Q.” In other words, P obtained information about the
+occurrence of event E at second hand from another person Q. In fact, however, the
+information obtained by P might have come through sources in addition to person
+Q. For example, we might ask Q how she obtained information about event E,
+and she might respond: “I heard about it from person R.” If we cannot question
+R or otherwise discover the primary source of information about event E, then P’s
+testimony has no better status than rumor or gossip. P’s testimony in this case is
+hearsay. Whether or not such evidence would be admitted at trial depends on the
+rules regulating the admissibility and use of hearsay evidence. But hearsay evidence
+is often valuable evidence in advancing fact investigation, even when such evidence
+might not be admissible later at trial.
+Third, P might say: “I did not observe E myself. However, I observed two other
+events C and D from which I inferred that event E also occurred.” This is opinion
+evidence, not based on any personal knowledge of event E. The legal requirement
+that a witness have personal knowledge of events upon which her testimony is based
+addresses the primary difﬁculty such opinion evidence poses. The witness ought to
+tell the decision-maker that she observed C and D so that the decision-maker can
+decide whether those observations justify an inference that E occurred.17
+ii. The credibility attributes of a testimonial assertion. Assessing the credibility
+of any testimonial assertion requires consideration of three attributes: veracity,
+objectivity, and observational sensitivity.
+The term “veracity” has caused many difﬁculties in studies of witness credibility.
+Suppose witness W tells us that event E occurred and we later discover that it did
+not occur. This must mean that we now have conclusive evidence that event E did
+not occur. Question: Was W lying to us in his testimony? The correct answer to
+this question is: “Not necessarily.” Witness W might simply have been mistaken in
+his observation, or was not objective in forming his beliefs. So, a person is being
+untruthful in testimony only if this person testiﬁes against his/her beliefs. We must
+be sure that challenges to a witness’s credibility are based on the correct forms of
+ancillary evidence. For example, evidence that a witness has poor eyesight is not a
+challenge to the witness’s veracity.
+Now consider the objectivity attribute. Suppose we believe that witness W is
+testifying in accordance with her beliefs. She testiﬁes E∗, that event E occurred,
+and she ﬁrmly believes that event E did occur. Now the question is: On what basis
+did she form this belief? Did she form this belief based on accurate and objective
+17 In some circumstances, a witness may be permitted to express an opinion, lay or expert, because
+that is the best or only way the decision-maker can understand the evidence. A lay person might
+testify, “Harold was sad when the boss ﬁred him,” without providing a detailed description of
+facial expression and behavior that led her to conclude he was sad. A qualiﬁed expert might testify,
+“Based upon a comparison of the DNA in the blood found at the scene and the accused’s DNA, it
+is almost certain that the blood at the scene was the accused’s blood,” because a non-expert would
+be unable to understand or interpret the data upon which the expert’s opinion was based.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 99 ---
+Fact investigation and the nature of evidence
+67
+understanding of her sensory evidence, or did she form it on the basis of what she
+either expected or wanted to occur? An illustration: We are all, on occasion, liable
+to believe what we either expect or hope will occur regardless of what our senses tell
+us. By deﬁnition, an objective observer is one who forms a belief based on evidence
+rather than on surmise [expectations] or on desires.
+Suppose we now believe that witness W’s belief about event E was formed objec-
+tively on the basis of sensory evidence. The next question is: How good was this
+sensory evidence? So, we now come to the credibility attribute we have labeled
+“observational sensitivity.” There is much more to this attribute than just consider-
+ing the adequacy of a witness’s sensory systems: vision, hearing, touch, smell, and
+taste. Of course it is true that a person may be mistaken in testimony if his visual
+acuity was poor, and uncorrected, at the time of an observation. But a witness hav-
+ing very acute sensory powers under normal circumstances may still obtain faulty
+sensory evidence.
+Much depends on a witness’s general physical condition at the time of an obser-
+vation. If the person was intoxicated, or under the inﬂuence of some narcotic or
+other chemical substance, we cannot expect this person to make full use of her
+sensory capabilities. Another general consideration concerns the conditions under
+which an observation was made. A person having even very acute visual capabilities
+would not be able to exploit these capabilities under very low levels of illumination.
+Nor would a person with very acute hearing be able to recognize the content of
+speech uttered in the presence of strong background noise.
+c. Ancillary evidence about testimonial credibility attributes
+What is so often overlooked is that the three credibility attributes of ordinary wit-
+nesses just discussed are both time and context dependent. For example, witness
+W might well have been more objective in observations regarding event A than he
+would have been in observations about event B. Our sensory systems are known
+to vary in their sensitivity over time. Fortunately, or unfortunately, no one keeps
+statistical records regarding our veracity, objectivity, and observational sensitivity
+that might subsequently be used if we show up as witnesses in a legal dispute. To
+substitute for a lack of any statistical evidence regarding these attributes we sub-
+stitute a variety of different items of evidence we may have about a person that
+may serve as ancillary evidence regarding attributes of the credibility of ordinary
+witnesses.
+There is no discipline outside of law in which a more extensive effort has been
+made to record various grounds for impeaching or supporting witness credibility.
+Figure 2.7 identiﬁes grounds for impeaching and supporting witness credibility
+that have been compiled over the ages. Each item listed is a form of ancillary
+evidence bearing upon the credibility of ordinary witnesses, but only some, not
+all, of these forms of ancillary evidence can be uniquely associated with one of the
+three credibility attributes we have just discussed.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 100 ---
+68
+Analysis of Evidence
+Figure 2.7 Ancillary evidence concerning attributes of witness credibility
+FirstconsiderthecolumninFigure2.7labeled“Speciﬁc.”Hereareformsofancil-
+lary evidence that can be associated speciﬁcally with one of the credibility attributes:
+veracity, objectivity, and observational sensitivity. We have already discussed some
+of these forms of evidence, but not all of them. In the case of observational sensitiv-
+ity we must be concerned about the quality and duration of a witness’s observation.
+Did the witness get just a brief look or did he have an opportunity to note details
+during an observation? Did the witness have any personal characteristics, e.g., poor
+eyesight, that might have affected her ability to make the observation accurately?
+Did the witness have any area of expertise that would have allowed her to notice
+certain important details that would not have been noticed by witnesses lacking
+that expertise? Was the witness able to allocate full attention to what was being
+observed, or was she distracted in some way during the observation? Sensory bias
+refers to various ways in which our vision, hearing, and other senses might have
+been biased, perhaps by clever forms of deception.
+Three speciﬁc forms of ancillary evidence are listed under the objectivity
+attribute. We have already mentioned how one’s expectancies may inﬂuence beliefs
+as well as the various memory-related factors we discussed. Memory also affects the
+objectivity of a witness’s testimony. Is there any evidence bearing upon the witness’s
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 101 ---
+Fact investigation and the nature of evidence
+69
+ability to accurately recall the observations about which she was called to testify?
+Objectivity bias refers to instances in which a witness may have been biased towards
+believing an event occurred, or did not occur, regardless of the sensory evidence
+she obtained.
+Speciﬁc veracity-related evidence can involve several matters. Various forms of
+prior behavior related to dishonesty are admissible under certain circumstances
+as is any evidence of inﬂuence or corruption among two or more witnesses. The
+demeanor and bearing of a witness while giving testimony may be relevant to her
+credibility. However, not every composed witness is necessarily being truthful and
+not every agitated or distraught witness is being untruthful.
+Finally,thereisathirdcategoryofbiaswehavelabeledtestimonialbias.Regardless
+of what a witness may believe about the occurrence of event E, this person may have
+a distinct preference for revealing or not revealing what she believes. Some persons
+may relish being the bearer of what they believe will be good news to one party or
+the other. Other persons may have a distinct aversion to being the bearer of what
+they regard as bad news for one of the parties in contention.
+The second column in Figure 2.7, labeled “Less Speciﬁc,” contains classes of
+ancillary evidence that may bear upon two of the credibility attributes. For example,
+instructional sets of the sort mentioned earlier and an observer’s objectives may
+bear upon both observational sensitivity and objectivity. Central processes in the
+brain exert control over our senses. Indeed, the retinas of our eyes are extensions
+of our brains. Thus the objectives for which an observation is made can inﬂuence
+visual sensitivity, perhaps by increasing sensitivity. But objectives being entertained
+at the time of observation may also inﬂuence the objectivity with which we form
+beliefs based on the sensory evidence we obtain. We may be more “primed” to
+believe one thing rather than another. In addition, any stakes, motives, or interests
+in observations and testimony can inﬂuence both the objectivity with which we
+form beliefs and our veracity in our testimony about these beliefs.
+An important form of credibility-related ancillary evidence concerns self-
+contradictions, i.e. prior inconsistent statements. A witness may tell a police ofﬁcer
+immediately after some incident that event E occurred, but then later tell someone
+else that event E did not occur. We cannot be sure in such instances whether these
+self-contradictions involve this witness’s objectivity and memory, or whether they
+indicate untruthfulness. In some instances, events interposed since an observation
+may cause a person to revise a belief held earlier. The witness may simply be hon-
+estly reporting a revised belief. Unfortunately, witnesses are known to “change their
+stories” for other reasons involving their veracity – e.g., because they were bribed.
+Finally, the two classes of ancillary evidence with question marks are simply pos-
+sible forms of credibility-related ancillary evidence that would most likely not be
+admissible at trial. However, they may be employed during fact investigation.
+The column labeled “Unspeciﬁc” identiﬁes two of the oldest known forms of
+evidence challenging credibility: contradictory and conﬂicting evidence from other
+witnesses. Contradictory testimony involves events that cannot happen together;
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 102 ---
+70
+Analysis of Evidence
+i.e. they are mutually exclusive. Alibi evidence supplies an example. Joe testiﬁes that
+defendant Mike was at the scene of the crime in Boston at the time the crime was
+committed. Later, witness Mary testiﬁes that Mike was with her at this same time
+in New York City. Mike cannot have been in both places at the same time.
+Conﬂicting or divergent testimony involves testimony about different events that
+may both have occurred but which favor different possibilities. As an example, we
+may have evidence that Mike had the intention to commit the crime. But we may
+also have evidence that Mike did not have the means to commit this crime. Here
+are some reasons why contradictory and conﬂicting evidence are unspeciﬁc as far
+as credibility is concerned. Suppose Mary testiﬁes that event E occurred at a certain
+time. The opposition offers Paul who testiﬁes that event E did not occur at this
+same time; here is a contradiction since E cannot have occurred and not occurred
+at the same time. The opposition asserts that Paul has shown that Mary was being
+untruthfulinhertestimony.Therearetwoproblems,theﬁrstofwhichistheobvious
+fact that the credibility of both Mary and Paul is at issue. Second, suppose that Paul
+is indeed correct about the nonoccurrence of event E. This hardly means that Mary
+was being untruthful; she may have simply made an observational error or was not
+objective in forming her beliefs based on the observation she made. The same kinds
+of troubles occur when witnesses provide conﬂicting testimonies. Finally, some
+forms of self-inconsistency can be linked to any of the three credibility attributes.
+Onemajorpurposeofkeepingcarefultrackoftheassortedgroundsforcredibility
+impeachment and support shown in Figure 2.7 is that we may hear arguments about
+witness credibility that are grounded upon the wrong form of ancillary evidence.
+Here are just two examples of such difﬁculties.
+1 An opponent offers evidence that impeaches the objectivity of witness Mary by
+showing that Mary strongly expected to observe event E. But then this opponent says:
+“We have shown that Mary was not truthful in her testimony.” This conclusion does
+not follow from the evidence given about Mary because she may have truthfully
+reported what she believed at the time of her observation and what she believed at the
+time she gave testimony. What is being challenged is Mary’s objectivity as an observer
+and not her veracity in giving testimony.
+2 The proponent offers a witness Joe who testiﬁes that event E occurred. The opponent
+then offers another witness Walter who asserts that Joe was intoxicated at the time of
+his observation. But then the opponent says: “My evidence from Walter shows that Joe
+was not truthful in his testimony.” There are several troubles here, the most obvious
+of which is that Joe’s alleged intoxication at the time of his observation, if true,
+inﬂuences his observational sensitivity at the time of the event and not his veracity at
+the time of testimony. Second, the opponent can hardly claim access to truth here
+since the credibility of Walter is also at issue.
+d. Credibility v. competence
+The term “competence” has meanings in ordinary discourse that it does not have in
+law.Synonymsfortheword“competence”include:qualiﬁed,adequate,appropriate,
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 103 ---
+Fact investigation and the nature of evidence
+71
+or suitable. In some contexts other than law no distinction is made between the
+competence and the credibility of a source of testimonial evidence. There are some
+situationsinwhichthesetermsareusedsynonymously.Thisinvitesinferentialcatas-
+trophe since not all competent persons are credible and not all credible persons are
+competent. Competence and credibility appear to be independent characteristics.
+You regard your Uncle Harold as the most honest, objective, and observationally
+acute person you have ever known. But you would not solicit an opinion from Uncle
+Haroldaboutagastrointestinalproblemyoucurrentlyfaceifhewasatruckdriveror
+someone else not having the requisite competence to answer your question. On the
+other hand, here is Mr. Smith who is regarded as an extremely competent auditor;
+his opinions are often solicited by well-known industrial organizations. The trouble
+is that Mr. Smith was privy to an episode of “cooking the books” in an organization,
+which he later, untruthfully, denies.
+In legal terms, an ordinary witness is competent if he or she was in a position to
+make an observation, could understand what was being observed, and could coher-
+ently recount the results of this observation. However, the credibility of a witness
+concerns the extent to which her assertions can be believed. Believability depends
+upon attributes concerning veracity, objectivity, and observational sensitivity.
+4. On the probative force of evidence
+The probative force of an item or body of evidence answers the question: “How
+strong is this evidence in favoring or disfavoring some penultimate probandum
+in the case at hand?” This ﬁnal major credential of evidence is in many ways the
+most controversial. Though it is universally recognized that the probative force of
+evidence is commonly graded in probabilistic terms, there is considerable disagree-
+ment among legal scholars and probabilists about how such grading should take
+place.
+Any item of directly relevant evidence must be linked to a penultimate proban-
+dum by a chain of inferences. This chain can contain several links. The ﬁrst link in
+the chain is always the credibility link. The remaining links are those necessary to
+demonstrate the relevance of the item to a penultimate probandum. The probative
+force of an item depends upon the strength of each link in the chain. When there is
+a mass of evidence to consider, there will be many chains of reasoning to consider.
+Assessing the probative force of a mass of evidence requires that the probative force
+of every chain be assessed and that the individual assessments be combined to deter-
+mine the net probative value of the mass with respect to the ultimate probandum.
+There are alternative ways in which the probative force of an item of evidence or of
+a mass of evidence can be assessed. These are discussed in Chapters 8 and 9.
+D. A substance-blind approach to evidence
+Asked to say how many different kinds of evidence there are, we might be tempted to
+throw up our hands and say: “The question is foolish; of course there are unlimited
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 104 ---
+72
+Analysis of Evidence
+varieties of evidence.” This would certainly be true if we were considering the
+substance or content of evidence. By the substance or content of evidence we refer to
+the kind of events the evidence supports. For example, an X-ray image, a spent shell
+casing, a patient’s report of pain at a certain location, a passage from a contract,
+and a reading from an oscilloscope all suggest the occurrence of different kinds of
+events.
+In fact investigation, the investigator may encounter any conceivable kind of
+evidence. Investigators in the ﬁelds of law, history, and intelligence analysis must
+be prepared to evaluate evidence having any conceivable substance. The problem
+then is: How can we ever say anything general about evidence if it comes in so many
+substantive varieties? One answer is provided if we choose to ignore its substance
+and focus instead on its inferential properties. Two of the three evidence creden-
+tials, relevance and credibility, supply us with a very useful scheme for classifying
+evidence. This classiﬁcation scheme does allow us to say some general things about
+evidence that apply regardless of the substance of the evidence.
+As a fundamental basis for a substance-blind classiﬁcation of evidence that rests
+only on inferential issues, we begin by considering two questions:
+1 How does the user or evaluator of an item of evidence stand in relation to the
+evidence? In answering this question we consider the form or type of evidence we
+have. Can the user pick it up and look at it or observe it in some other way? Or, does
+the evidence come from someone else who allegedly made some form of observation?
+Answers to such questions suggest how we are to establish the credibility or
+believability of the evidence.
+2 How does the event reported in the evidence stand in relation to any probanda the
+user is considering (including any ultimate or penultimate probanda)? This is a
+relevance question. It is here that we must distinguish between evidence that has direct
+relevance on some probandum and evidence whose relevance on a probandum is only
+indirect. As we noted, in the latter case we will say that such evidence is ancillary.
+Remember that ancillary evidence is either evidence about evidence or is evidence
+about the strength or weakness of links in a chain of reasoning.
+How any item of evidence is classiﬁed on an inferential basis is always relative to a
+particular context and problem situation. An item of evidence judged to be relevant
+in one inference task may not be so judged in another. Similarly, the credibility
+of evidence and its sources are context-dependent. Our belief about a witness’s
+credibilitymightchangeacrossdifferentcontextsinwhichthiswitnessmighttestify.
+Relevance and credibility, as credentials of evidence, are not necessarily stationary.
+During the course of work on some inferential matter, an analyst may have good
+reasons for changing her mind about either the relevance or the credibility of an
+item of evidence.
+Anyusefulevidenceclassiﬁcationschememusttakeaccountofthesetwomatters.
+It may happen that a certain item of evidence is used in more than one way in a
+particularargument.Inaddition,youmayusethisitemofevidenceindifferentways
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 105 ---
+Fact investigation and the nature of evidence
+73
+Figure 2.8 Substance-blind forms of evidence
+at different stages of work on a case. Finally, argument construction is a creative
+act on your part. Thus, there is a natural subjective element in any classiﬁcation of
+evidence. How you perceive some item of evidence in a given context might not be
+so perceived by others, such as your opponent.
+A substance-blind classiﬁcation of evidence, based on credibility and relevance
+dimensions, is shown in Figure 2.8. Some forms of evidence we have identiﬁed
+might not always be admissible in any trial. But this two-dimensional classiﬁcation
+scheme has been useful in thinking about evidence in any context (law or elsewhere)
+in which it might be used. In addition, you would certainly not disregard certain
+evidence during fact investigation that you might not be able to get admitted at
+trial. This evidence, such as objectionable hearsay statements, might have enormous
+heuristic or abductive value in suggesting new hypotheses and new evidence that is
+admissible.
+The rows in Figure 2.8 arise when we consider how the user or evaluator stands
+in relation to an item of evidence. In examining this dimension we must attend to
+the physical properties of evidence, to the manner in which it came into existence,
+and to the source(s) from which it was received.
+First suppose the evidence is tangible in the sense that the user can in some
+way examine it to determine what it reveals. In some cases the user can make such
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 106 ---
+74
+Analysis of Evidence
+a determination on her own. In other cases, however, the user might need the
+assistance of an expert in order to determine what some item of tangible evidence
+reveals. There are, of course, many different kinds of things we can examine for
+ourselves including objects, documents, sensor images, measuring devices, and a
+variety of representations such as maps, charts, diagrams, and so on. All of these
+kinds of tangible evidence are open to our direct examination. What they actually
+reveal in particular instances is not always immediately obvious.
+The plus and minus signs under tangible evidence and under unequivocal testi-
+monial evidence in Figure 2.8 are there to show that both forms of evidence have
+another property that needs to be recognized. Such evidence can reveal either the
+occurrence or the nonoccurrence of some event. Evidence revealing the occurrence
+of some event is said to be positive evidence (+); that which reveals the nonoccur-
+rence of events is said to be negative evidence (–). There are some important issues
+here that bear upon the discovery or generation of evidence as well as upon the
+inferential use of evidence.
+There is no order of precedence between positive and negative evidence as far as
+eithertheirrelevanceortheirprobativeforceareconcerned.Negativeevidence,such
+as tangible or testimonial evidence about the nonoccurrence of an event, can be just
+as relevant and inferentially forceful as positive evidence about the occurrence of
+an event. It is common to focus on evidence regarding the occurrence of events and
+easy to overlook evidence regarding the nonoccurrence of events. In any inferential
+context, however, it may be as important to inquire about what did not happen as it
+is to inquire about what did happen. In the mystery Silver Blaze, for example, only
+Sherlock Holmes saw that the fact that the dog guarding the stable did not bark
+supported an inference that the person who took the horse out of the stable was a
+person with whom the dog was familiar.
+Suppose that the evidence a user receives comes from another person in the form
+of an assertion that some event of interest occurred or is true. It is customary to
+call such evidence “testimonial.” The credibility of the person making the assertion
+is always a possible source of doubt and for that reason testimonial evidence is
+at least two inferential steps from the occurrence or nonoccurrence of events the
+testimony is offered to support. The same is true with respect to tangible evidence –
+its credibility attributes (authenticity, accuracy, and reliability) are possible sources
+of doubt.
+There may be even more inferential steps when the evidence is tangible. Sup-
+pose that the tangible evidence is a document that the user can examine, such as
+Agent Dawes’s memorandum in United States v. Able (pp. 23–27), and that what
+is of interest in this document is Agent Dawes’s assertion that the accountant,
+Timothy Cooper, had told him that papers in inactive client ﬁles had been lost
+during his move to new ofﬁces in 2004. What is tangible is of course the document
+and not the event to which it refers. In that situation, there are even more inferential
+steps the user must consider before she reaches a conclusion with respect to events
+reported.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 107 ---
+Fact investigation and the nature of evidence
+75
+When a person W testiﬁes about some event we are entitled to inquire about
+how this person obtained her information about this event. Questions raised in
+such inquiry are as varied as they are interesting. So, testimonial evidence from
+a particular person can itself have different grounding. Did the person make a
+direct observation, get the information at second hand, or is it merely an opinion
+based on other observations? But testimonial evidence has other characteristics
+we must recognize. In some situations witness W will give unequivocal testimony
+that a certain event E did occur; W asserts: “Event E did occur.” Of course we
+have uncertainty about whether or not E did occur even though W’s testimony is
+not equivocal or is not hedged in any way. We have already examined some of the
+speciﬁc sources of uncertainty we face as far as W’s credibility is concerned (veracity,
+objectivity, and observational sensitivity).
+In other situations a person may give testimony that is equivocal in nature. There
+are at least two ways in which such equivocation may be expressed. In one case we
+may ask W whether or not event E occurred and W responds by saying such things
+as: “I couldn’t tell,” “I don’t remember,” or “I don’t know.” Such extreme equiv-
+ocation may indicate an act of honest self-impeachment on W’s part; he actually
+does not know or remember whether or not E occurred. However, W’s extreme
+or complete equivocation is also consistent with the possibility that W does know
+or can remember whether or not E happened but, for various reasons, refuses to
+tell us. In other situations, however, W may hedge or equivocate in less extreme
+ways. He may state, for example, “I believe it very probable that E did occur.” In
+some situations he may attach speciﬁc numbers to grade the strength of his belief
+regarding E; W might assert: “I am 70 per cent sure that E did occur.”
+Either tangible or testimonial evidence rests, at some stage, upon someone’s
+observations, your own or those of some other person. Again, if no person can be
+identiﬁed who made a relevant observation of an object, event, or situation, our
+hearing about the occurrence or nonoccurrence of an event may be classed as rumor
+or gossip. But there are situations in which expected evidence is either not found
+or is not produced on request and we began to inquire why this is so. Evidence
+we regard as missing may be either tangible or testimonial in nature. An example
+follows.
+You take your car in for routine service and are astonished by the amount you are
+charged. One expensive item involved replacement of your fuel pump. You ask to see
+your original pump that was replaced and the mechanic tells you that he discarded
+it and cannot show it to you. You might easily regard his failure to produce this
+tangible evidence with some suspicion. Our failure to ﬁnd evidence where we expect
+to ﬁnd it or the failure of persons to produce things or provide testimony can in
+many cases be regarded as a form of evidence. It is quite important to note that
+having no evidence about an event is not the same as having evidence that this event
+did not occur. The distinction between negative evidence and missing evidence is
+not always made. The distinction is captured by the old saying, “Evidence of absence
+is not the same as absence of evidence.”
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 108 ---
+76
+Analysis of Evidence
+Finally, there are other kinds of information we often use as evidence that do not
+rest upon someone’s direct observation. We make frequent use of records we regard
+asauthoritativeandwealsotakecertainthingsforgrantedwithoutfurtherevidence.
+In other words, we often make use of what may be regarded as accepted facts. One
+form of authoritative record is an almanac that supplies information about the
+time of sunrise, lunar phases or times of high and low tide. Other examples include
+tablesofchemicalcompounds,physicalconstants,mathematicalformulae,andtidal
+occurrences. If you used such information in an inference task you would ordinarily
+not be obliged to prove that the information is trustworthy or that someone actually
+observeditinsome way. You would, of course, be obligedtoprovethatyouextracted
+the correct information from any such authoritative records. Other information
+often used in an inference is normally accepted without further proof. For example,
+you would not be obliged to provide further proof about such matters as: Heroin is
+a narcotic substance; gasoline is a ﬂammable substance; or that the population of
+New York City exceeds that of Omaha.
+Before we consider the column dimension of the taxonomy in Figure 2.8 there
+is a very important thing to note about the forms of evidence listed in the columns.
+Evidence that we have may exist in the form of combinations of these evidence types.
+For example, we might have a transcript of a deposition. This is a tangible document
+that we can examine for ourselves. But this document is a record of testimony given
+by a witness W. In this recorded testimony W reports that, as a result of a direct
+observation, he believes that event E occurred at a certain time. Here, of course, we
+have the authenticity of the document to be concerned about as well as the veracity,
+objectivity, and observational sensitivity of witness W. Other combinations of the
+types of evidence shown in the rows of Figure 2.8 are easy to imagine. In every case,
+we may have some quite difﬁcult credibility matters to consider if we are to believe
+what these combinations of types of evidence seem to reveal.
+The columns in Figure 2.8 arise in response to the question: How does an
+evidence item stand in relation to the matters at issue in a particular inference?
+Answers to this question involve the nature of the relevance of the evidence. It
+will be necessary for us to recall the distinction between directly and indirectly
+relevant evidence that we illustrated by means of Figure 2.6. The evidence taxon-
+omy in Figure 2.8 differs slightly from the one shown in another work (Schum,
+1994, 114–20). This other taxonomy preserves a distinction that has often been
+made between two forms of directly relevant evidence: direct evidence and cir-
+cumstantial evidence. Evidence is often said to be direct if it goes in one rea-
+soning step to a matter revealed in the evidence. If you believe the evidence to
+be perfectly credible, that settles the matter. Evidence is said to be circumstan-
+tial if, even though perfectly credible, it provides only some but not complete
+grounds for belief in some probandum or proposition. In other words, circumstan-
+tial evidence, even though perfectly credible, is always just inconclusive on some
+probandum.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 109 ---
+Fact investigation and the nature of evidence
+77
+Thereasonwhywehavenotmadeadistinctionbetweendirectandcircumstantial
+evidence is that the term direct evidence has several major difﬁculties.18 To illustrate
+these difﬁculties, we ﬁrst make use of two “rules” that have been proposed by Binder
+and Bergman (1984, 77–82). Their two rules are:
+Rule 1. All evidence is either direct or circumstantial.
+Rule 2. There is no such thing as direct evidence.
+The ﬁrst rule reﬂects the fact that a probandum or proposition on which an item
+ofevidencemayseemdirectdependsonhowwehavestructuredtheargumentbased
+on this evidence. Second, every argument can be further decomposed to reveal new
+sources of doubt or uncertainty. Thus, there is arbitrariness associated with any
+identiﬁcation of an item of evidence as being direct.
+There is just a bit more to be said about ancillary evidence and its inferential use.
+Recall that evidence is ancillary if it bears upon the strength or weakness of links
+in a chain of reasoning for evidence being argued as directly relevant. It happens
+that we must also defend, by argument, the relevance and credibility “credentials” of
+ancillary evidence. The relevance at issue here concerns whether or not the ancillary
+evidence we offer actually bears upon the generalizations we assert in defense of the
+direct relevance of other evidence. The result is that we may often have complex
+arguments associated with any defense of the relevance and credibility of ancillary
+evidence.
+AsFigure2.8shows,therearetenpossiblecombinationsoftherowsandcolumns.
+Thus, for example, tangible evidence of some form might be either directly relevant
+or ancillary in nature relative to some problem and within some particular chain
+of reasoning. The same is true for the other four basic types of evidence in the
+remaining rows. The major virtue of the evidence taxonomy we have just presented
+isthatitallowsustocharacterizeanytypeofevidencewithoutregardtoitssubstance
+or content.
+18 See above p. 62 n.14 and Glossary.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 110 ---
+3
+Principles of proof
+A. Introduction: evidence in legal contexts
+Within the common law tradition there has been a tendency to equate the subject of
+evidence with the law of evidence and to marginalize or neglect other dimensions
+suchasthelogicofproof,witnesspsychology,theevidentiarysigniﬁcanceofforensic
+science, and the role of statistics and of narrative in arguing about and deciding
+contested issues of fact in legal contexts. In Part B, we ﬁrst describe the shared
+assumptionsuponwhichevidencescholarshavebasedtheirworkfortwocenturies–
+the Rationalist Tradition – and its importance in contemporary practice and then
+describe and illustrate the principles that form the basis for the logic of proof.
+Part C begins with Wigmore’s explanation for his view that mastery of the prin-
+ciples of proof is at least as important as mastery of the rules regulating the admis-
+sibility and use of evidence. Part D introduces some terminology basic to under-
+standing those principles. The probative processes and logical principles necessary
+for analyzing evidence and marshaling arguments in legal contexts are presented
+and developed in Part E.
+B. The Rationalist Tradition1
+The common law model of adjudication reﬂects some basic assumptions – assump-
+tions about the nature and proper ends of adjudication, assumptions about the
+natureofknowledgeandthepossibilityofmakingaccuratepresentjudgmentsabout
+past events, and assumptions about what is involved in reasoning about disputed
+questions of fact in forensic contexts. The assumptions underlying contemporary
+theory and practice, at least as reﬂected in the writings of those who have specialized
+in the ﬁeld of evidence, have persisted with little apparent change since the eigh-
+teenth century. Throughout, the accepted assumptions have generally conformed
+to an ideal type that has been characterized as “the Rationalist Tradition.”
+An understanding of these assumptions is important to practitioners as well as to
+scholars.Theyprovidetheframeworkwithinwhichrulesofprocedureandevidence
+haveevolvedandwithinwhichargumentsaboutthedesirabilityofproposedchanges
+1 For a full account with references, see Rethinking 32–91.
+78
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press

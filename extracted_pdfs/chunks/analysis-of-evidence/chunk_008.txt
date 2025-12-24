@@ -1,0 +1,743 @@
+# Chunk 8 of 26
+# Document: Analysis of Evidence
+# Characters: 48077
+
+--- Page 125 ---
+94
+Analysis of Evidence
+assertion that the tribunal will hear from the witness stand is always depicted by a
+square –
+. All other propositions are depicted by a circle –⃝.Autopticproferences,
+as opposed to inferred propositions, are identiﬁed by placing an inﬁnity symbol –
+∞– beneath the square or circle representing an assertion the fact-ﬁnder will hear
+or a circle depicting an item of evidence that the fact-ﬁnder will see or perceive with
+one of her other senses.
+The distinction between “inference” and “proof” also needs to be clariﬁed. An
+“inference” represents an argument or a claim that there is a logical relationship
+between two propositions, that one proposition supports the other. In the chart pre-
+sented below, the relationships depicted show the inferential relationships among
+the propositions in the keylist. “Proof” (or non-proof) is the result – the con-
+clusion to be reached after the inferences have been evaluated.24 If we accept the
+claim that, reasoning from the “bottom up,” each of the propositions depicted in
+the chart makes the proposition above it in some degree more probable than it
+would be in the absence of the supporting proposition, then we have to concede
+that the chart accurately depicts the inferential relationships among the charted
+propositions. That commitment does not entail any commitment to the conclusion
+that the charted propositions “prove” the penultimate probandum to any speci-
+ﬁed degree of probability, such as more probable than not or beyond reasonable
+doubt. Inferential reasoning and argument is the process; proof or non-proof is the
+result.
+A preliminary exercise: State v. Archer (I)
+A murder has just been reported and the investigation just begun. You are the
+prosecuting attorney. The murdered man was named Vern. Detective Paul was
+the investigating ofﬁcer. Detective Paul’s preliminary report contains the following
+assertion: “I found a scrap of brown Harris tweed cloth clutched in Vern’s right
+hand.”Thescrapofclothhasbeenproperlytaggedandpreservedforuseasevidence.
+1 Why are Paul’s assertion and the scrap of cloth relevant? Formulate as simple
+propositions the testimonial assertions Detective Paul might make. Formulate the
+propositions that must be inferred to demonstrate that the autoptic proferences are
+relevant to a fact of consequence. Using the preliminary charting scheme suggested
+above, chart the tentative inferences that you would make from this assertion and
+from the scrap of cloth to guide Detective Paul’s investigation.
+2 As a matter of logical process, does the analysis of the available evidence from the
+investigator’s standpoint differ from that of the lawyer immediately before trial? If so,
+how? If not, why not?
+24 There are standards of proof that are to guide the fact-ﬁnder in deciding in whose favor the verdict
+or judgment in a case should be returned, and there are standards that deﬁne the limits of the
+fact-ﬁnder’s discretion in making that decision. These subjects are addressed in Ch. 8 below.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 126 ---
+Principles of proof
+95
+UP
+1
+2
+3
+4
+13
+10
+12
+9
+11
+6
+8
+7
+∞
+∞
+G
+A
+5
+Figure 3.1 Micro-chart of partial key-list
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 127 ---
+96
+Analysis of Evidence
+E. Probative processes and logical principles
+1. Probative processes
+Wigmore categorized the main relations between evidentiary propositions in terms
+of the probative processes for which they might be offered – proponent’s assertion
+(PA),opponent’sdenial(OD),opponent’srival(OR),opponent’sexplanation(OE),
+and proponent’s corroborations (PC). These categories establish a vocabulary that
+is frequently useful in identifying, advancing, and appraising claims that evidence
+or factual arguments are relevant in particular phases of a case.
+When a party offers an autoptic proference at trial, she is a proponent claim-
+ing that proffered data support an assertion that is relevant. That is a proponent’s
+assertion (PA). In most instances, the proponent must also claim that that ini-
+tial assertion supports a further assertion (an interim probandum), which in turn
+supports a further assertion and so on, until the logical basis for the claim that
+the proffered datum makes a fact of consequence more or less probable has been
+demonstrated. In the illustration developed above, the prosecution would offer, as
+autoptic proferences, propositions 5 and 7 to support proponent’s assertions 6, 8,
+and 9. See key-list and chart 3.1 above.
+There are three, and only three, ways that the opposing party, the defendant,
+could challenge these assertions. He may deny one or more of them, opponent’s
+denial (OD); he may offer evidence supporting a conﬂicting rival proposition (OR);
+or he may offer alternative explanations for the proffered datum and inferences,
+opponent’s explanation (OE).
+If the investigation begun in “An investigation” proceeded to trial, X might, for
+example, testify,
+14 I did not enter Y’s house at any time on January 1,
+supporting an inference,
+15 X did not enter Y’s house at any time on January 1.
+Such a testimonial assertion would be classiﬁed as an opponent’s denial (OD)
+because it denies the truth of the inference based upon the testimonial assertion
+that would be made by W2 based upon proposition 4 in “An investigation,”
+16 W2: I saw X leave Y’s house at 4:45 p.m. on January 1,
+supporting a proponent’s assertion offered by the prosecution,
+17 X departed from Y’s house at 4:45 p.m. on January 1,
+providing additional support for
+10 X was in Y’s house at 4:30 p.m.
+X might also offer autoptic proferences supporting an opponent’s rival assertion
+(OR) based upon proposition 12 in “An investigation”:
+18 X: I was in a house ﬁve miles from the scene of the murder from 2 p.m. until 5 p.m.,
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 128 ---
+Principles of proof
+97
+supporting an inference, whose strength would depend upon an assessment of X’s
+credibility,
+19 X was in a house ﬁve miles from the scene of the murder from 2 p.m. until 5 p.m.,
+which would rival the proponent’s inferred assertion,
+10 X was in Y’s house at 4:30 p.m.
+Finally, X might offer one or more alternative explanations that weaken the pro-
+bative value of the proponent’s assertion, an opponent’s explanation (OE). There
+are two types of opponent’s explanations. The ﬁrst calls attention to alternative
+inferences that the proffered datum would also support. For example, in “An inves-
+tigation,” W3 would testify (P6),
+20 On Christmas Day, I heard X say angrily to Y: “I shall not forget this,”
+which the prosecutor might assert supports the inferred assertion,
+21 X was angry with Y on Christmas Day,
+supporting a further inference,
+22 X’s anger with Y continued until January 1,
+supporting a further inference,
+23 X’s anger gave him a motive to murder,
+supporting the penultimate probandum,
+3 It was X who committed the act that caused Y’s death.
+However, without further evidence, it is clear that there are a number of plausible
+alternative explanations for X’s assertion that are too trivial to support a claim of
+motive, e.g.,
+24 Y may have forgotten to send X a Christmas card, or
+25 Y may have embarrassed X at a party or a business meeting,
+and so on – and thus tending to explain away and weaken the prosecutor’s claim.
+Opponent’s explanations of this kind are implicit in the content or the context from
+which the proponent’s assertion arises and require no other evidential support.
+The second kind of opponent’s explanation requires further evidence. For exam-
+ple, if the charge that X murdered Y proceeded to trial, counsel for the defense might
+undermine the probative value of W1’s assertion (P2) that she saw a person with
+characteristics a, b, c, and d enter Y’s house through cross-examination. If that
+examination forced W1 to admit,
+22 W1: I have poor eyesight and was not wearing my glasses on January 1, and
+23 W1: It was dark and it was foggy at 4:15 p.m. on January 1,
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 129 ---
+98
+Analysis of Evidence
+counsel could argue that this ancillary evidence supported an opponent’s explana-
+tion that W’s assertion should be discounted because W’s observational sensitivity
+was impaired.
+As Wigmore summarized them, the ﬁve probative processes applicable to any
+piece of evidence are:
+PA = proponent’s assertion of a fact to evidence a probandum;
+OE = opponent’s explanation of other facts taking away the value of this inference PA;
+OD = opponent’s denial of the evidentiary fact on which the inference PA is based;
+OR = opponent’s rival fact, adduced against the probandum, without any reference to
+the inference PA;
+PC = proponent’s corroborative facts, negating the explanations OE.
+(Science (1937) 46)
+2. The logical principles
+In the adversarial system, all decisions resolving disputed questions of fact must be
+rationally justiﬁable. This requirement has two necessary corollaries:
+1 The principles of logic – abductive, inductive, and deductive – can be applied to any
+mass of data that constitutes evidence from which we wish to reconstruct past events
+in order to resolve disputed questions of fact.
+2 The propositions established by these data and those proffered as possible inferred
+propositions can be articulated and can be organized and marshaled as arguments
+bearing upon the resolution of such disputed questions of fact.25
+Some of the principles underlying abductive logic and their application in the
+investigative phase of any process were presented and illustrated in Chapter 2. They
+are developed and illustrated here in the context of their application in the legal
+process.
+a. Abductive reasoning. The lawyer must use abductive reasoning in various situ-
+ations. Early in a case, for example, a lawyer is typically confronted with sparse data
+or with data supplied by a biased source, the client. The lawyer must ask questions
+of the data: What hypotheses might account for these data that would be consis-
+tent with a result that would advance (or protect) the client’s interests? Given the
+plausible hypotheses, what additional data should be available to conﬁrm or negate
+them? Frequently, the answers are not apparent. Similarly creative speculation and
+testing is frequently required when the lawyer is thinking about data that cannot be
+accounted for by any of the provisional theories under consideration or about data
+that will support the opposing side’s case unless it can be otherwise explained. What
+the lawyer needs to do in such situations is imagine or construct new hypotheses
+or possible solutions that may satisfactorily account for the data and then discover
+25 For a fuller discussion of the principles and their signiﬁcance to the adversarial model of adjudi-
+cation, see Anderson (1991).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 130 ---
+Principles of proof
+99
+sources from which additional evidence to test these hypotheses or solutions might
+be obtained. This is creative lawyering.
+The materials in Chapter 1 included illustrations of abductive reasoning. The
+“Intelligence analyst” was designed to illustrate abductive reasoning (see pages
+3–8). In one interpretation, Solomon employed abductive reasoning in identi-
+fying the sword as a useful tool to generate additional evidence that would aid
+him in deciding the question before him (see pages 2–3). Kemelman and Welt
+were engaging in abductive reasoning throughout their analysis in “The Nine Mile
+Walk,” especially when they searched for ways to set up and test the hypothesis
+that the statement concerning a “nine mile walk” reﬂected events that had actually
+occurred (see pages 11–18). The exercises in “An investigation” were designed to
+require the police cadet to engage in abductive reasoning at several stages (see pages
+40–45). Although not the focus, each of the other exercises in Chapter 1 contains
+illustrations of abductive logic or requires its use to “solve” the problem presented
+or both.
+After discovery is over26 and all planned investigations have been completed, the
+lawyer is confronted with the task of analyzing the available evidence to identify,
+construct, and appraise arguments that can be used to persuade the tribunal that
+the necessary ultimate probandum has or has not been proved with the degree of
+certainty required by the applicable standard of proof.27 In theory, the evidence
+is as complete as it can be, and the lawyer is only required to analyze a ﬁxed and
+deﬁned mass of data. The primary method of reasoning required at this stage is
+inductive reasoning: Can the data be marshaled to provide compelling support for
+the inferred propositions necessary to the client’s success in the case at hand?
+There is, however, a continuing need for abductive reasoning in preparing for
+andpresentingacaseattrial.Inpreparingfortrial,alawyerusesabductivereasoning
+to identify an opponent’s explanations that she may use to explain away assertions
+based upon evidential data the opposing party is likely to offer and to identify
+explanations that she must anticipate opposing counsel may suggest to weaken or
+undermine assertions based upon evidential data she will offer. At the trial stage,
+the lawyer can invoke the process of opponent’s explanation (OE) to suggest to the
+tribunal alternative hypotheses that might explain away damaging evidence offered
+by her opposing counsel. After the trial has begun, however, it is ordinarily too late
+to seek new evidence that might support one or more of those explanations and
+make it a true rival that might more effectively undermine the proponent’s case.
+Abductioniscriticalintheearlystages,whenthereremainstimeforinvestigatingthe
+possibilities before committing to a speciﬁc theory on which the case will be tried.
+Induction becomes central when the possibilities have been identiﬁed and explored
+and the data are as complete as is feasible. The unexamined possibility ﬁrst seen
+and raised at trial is ordinarily a sign of desperation or inadequate preparation.
+26 In England “discovery” is now referred to as “disclosure.”
+27 On standards of proof, see Ch. 8.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 131 ---
+100
+Analysis of Evidence
+b. Deductive reasoning. Deductive logic is the process by which we apply a univer-
+sal major premise to a particular factual proposition, a minor premise. The classic
+illustration is: All men are mortal; Socrates is a man; therefore, Socrates is a mortal.
+If the major and minor premises are true, it necessarily follows that the conclu-
+sion is true. In a legal case, the applicable rule of law is the major premise and the
+ultimate probandum is the minor premise. In the last section, we presented a rule
+of law deﬁning murder, a major premise, and the ultimate probandum that must
+be proved to satisfy that rule, a minor premise (at pages 90–91). If the ultimate
+probandum was true, then it would necessarily be the case that the accused is guilty
+of murder.
+c. Inductive reasoning28 In analyzing the available evidential data and identify-
+ing and marshaling the inferences that those data support in preparing for trial,
+the lawyer relies primarily on inductive reasoning. The examples drawn from “An
+investigation” developed in the preceding section (at pages 96–98) illustrated the
+process of inductive reasoning. The nature of that form of reasoning is developed
+further in the discussion of generalizations that follow.
+d.Generalizations.Thereisanecessaryrelationshipbetweendeductiveandinduc-
+tive reasoning that every lawyer should understand.29 The primary mode of rea-
+soning in analyzing the relationships between a speciﬁed mass of evidential data
+and a proposition to be proved may be inductive, but effective analysis of those
+relationships requires the application of a form of quasi-deductive reasoning.
+Wigmore noted the essential point:
+[E]very inductive inference is at least capable of being transmuted into and stated in
+the deductive form, by forcing into prominence the implied law or generalization on
+which it rests more or less obscurely. (Science (1937) 21)
+The point requires further development.
+i. The importance of generalizations.30 “Generalizations . . . represent the glue that
+hold our arguments together” (Schum (1994) 82). Every inference is dependent
+upon a generalization. The inductive form of an inference can be converted to a
+quasi-deductive form by identifying and articulating the generalization upon which
+it depends. Thus, classically, Descartes’s “I think; therefore I am” depends on the
+generalization that might be formally stated as “All persons who think are persons
+who exist” and converted to a syllogistic form:
+All persons who think are persons who exist.
+I am a person who thinks.
+Therefore, I am a person who exists.31
+28 We follow Wigmore and John Stuart Mill in using “induction” to refer to inferential reasoning
+that, in this context, is mainly concerned with reasoning towards and justifying conclusions about
+particular past events. See generally Walton (1989) and (2002).
+29 This is also true of abductive logic. See above at pages 56–58.
+30 The roles generalizations play in analysis and argument are explored in greater depth in Ch. 10.
+31 Or, to parallel Descartes’s elegant simplicity: All who think are; I think; therefore, I am.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 132 ---
+Principles of proof
+101
+In practice, it is rare that the generalization upon which the justiﬁcation for an
+inference depends is a universally true proposition. Usually they have fuzzy quan-
+tiﬁers such as, “people who enter a house usually remain for more than ﬁfteen
+minutes.”
+In most contexts, inductive reasoning operates intuitively. The reasoner does
+not consciously identify the generalizations upon which her inferences depend,
+unless she is required to justify her conclusions. Even then, she will often ﬁnd
+it hard, probably impossible, to articulate the precise generalization upon which
+an inference relied, as opposed to articulating an after-the-fact generalization that
+she believes justiﬁes her conclusion. For example, a student might report to her
+teacher that her friend John did not attend class today because his car would not
+start, urging the teacher to conclude that John’s absence should be excused because
+it was caused by circumstances beyond his control. The teacher might inquire,
+“How do you know his car would not start?” The student might reply, “Because
+John told me so.” The teacher might continue the inquiry: “Why does the fact
+that he told you his car would not start justify the conclusion that his car, in fact,
+would not start?” Forced to justify her inference, she might claim, “Based upon my
+past experience with John, I believe John’s assertions are almost always true and
+accurate.”
+In a legal context, it is frequently important to identify the generalization upon
+which an inference depends to determine the strength or the plausibility of the
+inference and to identify potential fallacies. Both the importance and the potential
+dangers can be simply illustrated.
+Many people would accept the generalization, “In most instances, a person who
+has committed a violent crime will ﬂee from the scene of that crime.” In “An inves-
+tigation,” the cadet learns (P4): “W2 says that he saw X, who was known to him,
+running out of Y’s home at 4:45 p.m. on January 1.” Y was murdered in the house at
+4:30 p.m. and proposition 4 supports an inference that X was ﬂeeing from the scene
+of that crime shortly after it was committed. If the generalization identiﬁed above
+were applicable, the cadet might argue that this shows it is likely that X murdered Y.
+But that argument would be fallacious. The generalization so framed cannot log-
+ically be applied to justify that inference. The only basis upon which an inference
+from X’s “ﬂight” to X’s guilt can be justiﬁed is by the far weaker generalization: “In
+some instances, a person ﬂeeing from the scene of a serious crime is the person who
+has committed that crime.”32 Given the number of plausible explanations, other
+than guilt, why someone might ﬂee from the scene of a violent crime, the evidence
+provides, at best, only weak support for the inference that X murdered Y.
+32 The more detailed “ﬂight” chain of inferences is: “Analytically, ﬂight is an admission by conduct,
+and its probative value as circumstantial evidence of guilt depends on the degree of conﬁdence
+with which four inferences can be drawn: (1) from defendant’s behavior to ﬂight; (2) from ﬂight
+to consciousness of guilt; (3) from consciousness of guilt to consciousness of guilt concerning the
+crime charged; and (4) from consciousness of guilt concerning the crime charged to actual guilt
+of the crime charged.” U.S. v. Myers, 550 F.2d 1036. 1039 (5th 1977) (noted as leading case in
+McCormick on Evidence, §263 (1999)).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 133 ---
+102
+Analysis of Evidence
+ii. A note on the nature of generalizations. Generalizations can be classiﬁed using
+three axes – a generality axis, a reliability axis, and a source axis. The end points
+of the generality axis are marked by generalizations in the most abstract form and
+generalizations that have been made speciﬁc to the precise case or context in which
+they are to be applied. For example, the abstract, “In some instances a person seen
+ﬂeeing from the scene of violent crime may be guilty of that crime,” as opposed to
+the context speciﬁc, “It is possible that a person dressed in a suit and tie who was
+seen emerging from a ten-unit apartment building and walking rapidly toward a
+bus stop 100 yards from the building shortly after a victim had been brutally beaten
+with a hammer in that building may be guilty of the crime.”
+At one end of the reliability axis are scientiﬁc laws (such as the law of gravity);
+well-founded scientiﬁc opinions (such as the conclusions of a qualiﬁed forensic
+expert based upon comparison of specimens of handwriting alleged to have been
+writtenbythesameindividual);andwidelysharedconclusionsbaseduponcommon
+experience (for instance, everyone knows that a driver must stop for a red light). In
+the middle are commonly held, but unproven or unprovable, beliefs (for instance,
+ﬂeeing the scene of a crime is evidence of a guilty conscience). At the other end
+are biases or prejudices that may be strongly held irrespective of available data (for
+instance, women do not make good trial lawyers; men are generally poor single
+parents; whites cannot fairly sit as jurors when a black is on trial, etc.) and less
+strongly held but still operative beliefs (for instance, a person’s actions usually
+conform to her motives).
+Finally, the source axis may range from generalizations based upon repeated
+personal experience to those based on acquired knowledge to “synthetic/intuitive”
+generalizations33 whose source the person formulating the generalizations cannot
+identify. Based upon personal experience, the authors believe that, “In Miami,
+Florida,thesunshinesforsomeperiodoftimeonmostdaysoftheyear.”Basedupon
+their studies the authors believe, “Gravitational force is proportional to the masses,
+and inversely proportional to the square of the distance between them.” Although
+none of the authors could identify its source, each accepts the generalization, “In
+some instances a person seen ﬂeeing from the scene of a violent crime is the person
+who committed that crime.”
+Wigmorean analysis provides a technique for identifying and making explicit the
+generalizations involved at each step of an argument. At the same time, that analysis
+maycumulativelyseemlikeaninvitationtoextremeskepticism.Itregularlyprovides
+strong ammunition for attacking an opponent’s argument and for questioning one’s
+own. So many generalizations seem so vulnerable in so many respects that one may
+beledtotheconclusionthatallargumentsaboutevidencearebuiltonshiftingsands.
+Whether such skepticism is philosophically tenable, however, is not an immediate
+concernforthepracticinglawyer.Inourexperience,studentsofWigmoreananalysis
+often go through a skeptical phase, in which they doubt whether any argument can
+33 The term and its origin are developed further in Ch. 10.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 134 ---
+Principles of proof
+103
+ever be strong. However, after doing some exercises they usually conclude that it is
+possibletoconstructcogentargumentsthatcanevensatisfythestandardof“beyond
+reasonable doubt.”
+A good lawyer must be able to assess the relative strengths and weaknesses of
+his or her own case as well as those of an opponent’s case. For present purposes
+it is sufﬁcient to note that, in legal contexts, reliance upon generalizations that fall
+far short of certainty is an inevitable aspect of even the strongest case. The com-
+mon law model of adjudication assumes as much, and rarely will an argument be
+of any value if it is limited to demonstrating that one’s opponent’s case falls short
+of perfection. The skepticism of the disappointed perfectionist has little value in
+a system that is explicitly based upon standards that require only less than perfect
+proof. In litigation, the question is not “Is it certain?”, but rather, “Does it con-
+form to the best available judgment that can be reached based upon the evidence
+provided in light of the stock of knowledge and beliefs commonly held in the par-
+ticular society at the time the case is tried?” In that context, Wigmorean analysis
+simply provides analytic tools for identifying and analyzing background general-
+izations. The capacity to use those tools effectively is an essential part of sound
+lawyering.
+3. Application of the principles in legal disputes
+An offer of evidence always involves one (or more) of the probative processes Wig-
+more described – assertion, explanation, rival, denial, or corroboration. But the
+logical structure of the argument from evidential data to proposed conclusion will
+differ in ways unrelated to the probative process being invoked. These structures
+are important in two respects. First, they are central to questions on how speciﬁc
+arguments, or the arguments in a case-as-a-whole, should be evaluated in reach-
+ing a judgment. These are questions that Wigmore did not address in any detail.
+They have become prominent in the current debate over the nature and role of
+probabilistic reasoning in forensic contexts. Second, the structures have consider-
+able practical importance for the lawyer who must analyze evidence to identify and
+appraise the arguments that can be made in any case. We have largely deferred the
+problems associated with evaluation and probabilistic reasoning to chapters 8 and
+9 and the appendix on probability.34 But it is important to identify and explain
+ﬁve central concepts and their signiﬁcance in analysis before proceeding – conjunc-
+tion,compound (andcomplex)propositions,convergence,corroboration,andcatenate
+inferences.
+a. Conjunction. In order to succeed in a civil or a criminal case, a party may have
+to establish each of several facts in issue or merely to establish one of a number of
+facts in issue in the alternative. Thus, in a standard murder case, the prosecution
+typically has to prove (A) that the victim is dead, (B) that the death was caused
+34 Appendix I, “Probability and Proof: Some Basis Concepts” by Philip Dawid, Professor of Statistics,
+University of London, appears at www.cambridge.org/9780521673167.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 135 ---
+104
+Analysis of Evidence
+by an actus reus, (C) that the accused committed the actus reus, and (D) that the
+accused acted with criminal intent. Each of these is a necessary element in the
+prosecution’s case. On the other hand, it is sufﬁcient for the defense to establish
+reasonable doubt by undermining the probability of any of these penultimates or
+by offering credible evidence in support of any one of a series of defenses, such
+as (E) self-defense, (F) insanity, or (G) provocation. To put the matter formally, to
+succeed in a typical murder case, the prosecution has to establish beyond reasonable
+doubt that A and B and C and D are true, each of which is a necessary condition,
+and it is sufﬁcient for the defense to show either that one of these conditions has not
+been established beyond reasonable doubt or that defense E or F or G has not been
+negated beyond reasonable doubt by the prosecution. In a civil case, the ultimate
+probandum may include alternative conditions, disjunctive penultimate probanda,
+such that the proponent need only establish one of the alternatives in order to
+recover – for example, that the equipment that caused the plaintiff’s injury was
+either negligently designed or negligently manufactured.
+In every case, a lawyer must ﬁrst determine, at least provisionally, the ultimate
+probandum that must be established (or avoided). Thus, counsel for the plaintiff
+in Sargent v Southern Accident Company (pages 28–31) would have identiﬁed that
+she must ﬁnd evidence sufﬁcient to establish that it was more probable than not
+that: (A) Upham Sargent is dead, and (B) he suffered an accidental injury, and
+(C) the accidental injury was the sole cause of his death, and (D) he died within
+90 days of the accidental injury, and (E) Upham Sargent was the insured under
+a $500,000 insurance policy issued by the Southern Accident Company, and (F)
+Porter Sargent is the sole beneﬁciary under that policy. Each of the component
+propositions is, to some degree, analytically, but not statistically, independent of
+theothersandmustbesupported,ataminimum,byevidencesufﬁcienttowithstand
+a motion for a directed verdict. Parsing the ultimate probandum into its individual
+elements is a necessary ﬁrst step in the analysis that a lawyer must perform in any
+case.
+b. Compound (or complex) propositions. Sometimes an intermediate probandum
+may also contain a number of elements, each of which is supported by separate
+evidence. In such instances, the question arises, how should one assess the strength
+of the proposition as a whole? Although similar to conjunction, in legal contexts
+different considerations apply to assessing the strength of compound propositions
+that are intermediate probanda as opposed to assessing the strength of the ultimate
+probandum for a case-as-a-whole.
+Initially, the analytic task for the lawyer is to identify and to parse such inter-
+mediate propositions into their component parts and to reduce each component
+to a simple proposition. This task has two aspects. In the abstract, the task must
+be performed in order to analyze with precision which evidence bears upon which
+component, so that the support for each may be properly appraised. There is also a
+strategicaspect.Howthecompoundpropositionandeachofitscomponentsshould
+be framed typically is a function of strategy as well as logic. Logic speciﬁes neces-
+sary, but rarely sufﬁcient, conditions that must be satisﬁed. For present purposes,
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 136 ---
+Principles of proof
+105
+however, it is enough to note that the division of any compound or complex propo-
+sition into its simplest constituent parts is necessary to sound analysis.35
+The kind of analysis required in dealing with compound intermediate proposi-
+tions ordinarily differs from that required to identify and separate the elements in
+an ultimate probandum in ways that are signiﬁcant. Once the lawyer has identiﬁed
+a potential ultimate probandum in a case, the task of subdividing it into its sepa-
+rate elements and reducing them to simple propositions is primarily a task similar
+to the task of parsing the holding in an appellate decision. Identifying compound
+intermediate propositions that may be necessary or possible steps in an argument
+requires more.
+The distinction and its importance can be illustrated with the example developed
+above (pages 94–98). In that example, the prosecution alleged,
+3 It was X who committed the act that caused Y’s death,
+and has offered evidence supporting two intermediate propositions:
+10 X was in Y’s house at 4:30 p.m.
+12 Y died in his home at 4:30 p.m. on January 1 as the result of an unlawful act
+committed by another person.
+Neither proposition 10 nor 12, standing alone, supports (or is even relevant to)
+proposition 3. If they are combined to form the proposition “X was in Y’s house
+at 4:30 p.m., and Y died in his home at 4:30 p.m. on January 1 as the result of an
+unlawful act committed by another person,” the resulting compound proposition
+supports proposition,
+13 X had an opportunity to commit the act that caused Y’s death,
+which in turn supports proposition 3.
+Itisimportantthatlawyersrecognizethepartsofanargumentwheresuchcombi-
+nations are necessary because doubts about proposition 10 and about proposition
+12 must, in some manner, combine to increase the doubt about proposition 13.
+Putting aside questions concerning how such doubts should be combined in reach-
+ing a judgment about that proposition, it is clear that the presence of independent
+sources of doubt creates possibilities for effective argument that no lawyer should
+overlook. This requires careful analysis.36
+35 Thedistinctionbetweencompoundandcomplexpropositionsraisesquestionsthatcanbedeferred
+until we turn explicitly to problems of evaluation in Chs. 8 and 9. As used here, complex propo-
+sitions are compound propositions in which the truth or falsity of each component element is
+independent of the truth or falsity of the others.
+36 The difﬁculty of the analytic task is enhanced by the fact that the presence of a compound proposi-
+tion in argument is often concealed (intentionally or unintentionally) by the language commonly
+used in argumentation. The prosecutor, for example, might argue, “The evidence shows that X was
+in Y’s house at 4:30 p.m., when the murder occurred.” Counsel for the defense must have foreseen
+the likely argument and have identiﬁed that it involves the combination of two simple propositions
+in order to plan a response that effectively illustrates the need to consider and combine any doubts
+that exist as to each of the component propositions. See also note 38 below (for an illustration of
+how the seemingly simple proposition, “Y was murdered in his house at 4:30 p.m.,” might usefully
+be divided into three further simple propositions).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 137 ---
+106
+Analysis of Evidence
+Propositions developed through investigations are often complex propositions.
+For example, based upon proposition 4 in “An investigation,” the prosecutor can
+anticipate that W2 would testify,
+28 W2: I saw X, whom I know, running out of Y’s home at 4:45 p.m. on January 1.
+This testimonial assertion needs to be broken down into three component propo-
+sitions because each is relevant for a different reason.
+29 W2: I know X (relevant to credibility of identiﬁcation).
+16 W2: I saw X leave Y’s home at 4:45 p.m. on January 1 (relevant to presence in home at
+4:45 p.m. and thus to opportunity).
+30 W2: X was running when he left Y’s home at 4:45 p.m. on January 1 (relevant to
+ﬂight).
+The importance of this kind of analysis should be clear.
+c. Convergence. A logician provided a useful deﬁnition of convergence: “Two
+items of circumstantial evidence converge when both facts, independently of the
+other, [support the] probability [of] the same conclusion.”37 For example, consider
+two propositions:
+9 It was X who entered Y’s house at 4:15 p.m. on January 1, and
+17 X departed from Y’s house at 4:45 p.m. on January 1.
+Either proposition, if accepted as true, would support the inference,
+10 X was in Y’s house at 4:30 p.m.
+The two converge to strengthen this inference.
+Again putting aside questions concerning the degree of additional strength pro-
+vided when two propositions converge, it should be clear that convergence raises
+analytical issues, in addition to credibility, that are different from those raised by
+testimonial corroboration. In the illustration, the lawyer may and should examine
+possible explanations unrelated to the credibility of the witnesses – for instance,
+32 X may have left Y’s house before 4:30 p.m. to run an errand and returned sometime
+after 4:30 p.m. and before 4:45 p.m.
+It is also important to note that an argument that is strengthened because two
+propositions converge to support a third is an argument that can never be strength-
+ened and must ordinarily be weakened because two propositions combine to form
+a compound proposition that is a necessary step in the arguments in a case. For
+example, if accepted as true, propositions 6 and 16, and the assertions made by W1
+and W2, support inferences that converge to strengthen proposition 10, “X was in Y’s
+house at 4:30 p.m. on January 1.” That proposition combines with the proposition
+12, “Y died in his home at 4:30 p.m. on January 1 as the result of an unlawful act
+37 Cohen (1977) 94.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 138 ---
+Principles of proof
+107
+committedbyanotherperson,”tosupportproposition13,“Xhadanopportunityto
+commit the act that caused Y’s death,” which provides a necessary step in the pros-
+ecution’s argument that the evidence establishes X’s guilt. The resulting compound
+proposition, can, however, be no stronger than its constituent parts and must, in
+some sense, be weaker where the evidence leaves ground for doubt about each of
+the parts.38
+d. Corroboration. The same logician considering the concept in the context of
+judicial disputes gave it a narrower meaning that, for present purposes, is useful:
+“At its simplest testimonial corroboration occurs when two witnesses both testify,
+independently of one another, to the truth of the same proposition.”39 For example,
+if a new witness, W6, testiﬁed,
+31 W6: I also saw a person with characteristics a, b, c, and d enter Y’s house at 4:15 p.m.
+on January 1,
+that would corroborate W1’s testimony,
+5 “I saw a person with characteristics a, b, c, and d enter Y’s house at 4:15 p.m. on
+January 1,”
+and, in some degree, strengthens the inference,
+6 A person with characteristics a, b, c, and d entered Y’s house at 4:15 p.m. on January 1.
+It is important to recognize the distinction between convergence in general and
+corroboration in particular. Corroboration in this narrow sense focuses the analysis
+oncredibility.Thelawyerwhowishestochallengeaproponent’sassertionsupported
+by the independent testimony of two witnesses must begin by examining possible
+sources of error that may diminish the credibility of either or both witnesses – such
+as that the conditions under which the observation took place were not suitable for
+accurate perception (lighting, distance, eyesight, etc.); the witness’s memory is not
+reliable (lapse of time, reliability of the witness with respect to other events, etc.);
+or the witness has a motive to lie (animosity toward X, fear of prosecution, etc.).
+By limiting corroboration to this narrower meaning, the starting-point for analysis
+is clariﬁed. That limitation also makes it possible to maintain an analytically useful
+distinction between corroboration and convergence.
+e. Catenate inferences. Catenate inferences are “chains” of inferences, a condition
+that exists when there is more than one step in the reasoning necessary to show
+38 In theory, the strength of a compound proposition can never be greater than the strength of the
+weakest of its constituent parts. If I am absolutely certain that Y was murdered in his house at
+4:30 p.m., but I think it only slightly more probable than not that X was in Y’s house at 4:30 p.m.,
+I can at most conclude that the compound proposition is slightly more probable than not. If I
+also have doubt about (i) whether Y was, in fact, murdered, or (ii) whether his death occurred
+in the house, or (iii) whether the time of death was 4:30 p.m., my doubts must in some manner
+combine to diminish the degree of certainty with which I could accept the compound proposition
+as proven. We address problems of this kind in Chs. 8 and 9 and the appendix on probability.
+39 Cohen (1977) 94.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 139 ---
+108
+Analysis of Evidence
+the relationship by which a probans supports a probandum. An argument from an
+autoptic proference to a fact of consequence almost invariably involves (and can
+always be restated to involve) catenate rather than simple inferences. For example,
+the ﬁrst step in any inferential chain from a testimonial assertion must always be
+the truth of the matter asserted – e.g., from the fact that W2 testiﬁed,
+16 W2: I saw X leave Y’s house at 4:45 p.m. on January 1,
+we infer that,
+17 X departed from Y’s house at 4:45 p.m. on January 1,
+and then infer that,
+10 X was in Y’s house at 4:30 p.m on January 1.
+Two points follow from this that should be noted. First, sound analysis requires
+that the lawyer identify and articulate each step in the chain of inferences necessary
+to reason from an autoptic proference to a fact of consequence. The step omitted
+is the possible source of doubt not identiﬁed, the “weak link” unseen, the possible
+point of attack unnoted. Second, creativity and judgment are required in analyzing
+and articulating the steps in an inferential chain. The best practical guide in this
+context is that the lawyer should seek to identify every condition that may give
+reason for doubt about the claim that probans A supports probandum B. Each
+ground that raises a plausible basis for doubt indicates that there is a necessary step
+in the inferential chain that should be examined.
+f. Combining Evidentiary Propositions: Integration. Most factual arguments
+involve the use of different logical structures – inferences that are corroborative,
+convergent, or catenate, or the product of a combination of two (or more) simple
+propositions – in demonstrating the proposed relationships between discrete evi-
+dential data and the probandum urged. As a practical matter it is important to be
+able to recognize the distinctions and their signiﬁcance.
+The simple inference from each testimonial assertion to the truth of the fact
+asserted focuses attention on credibility as the most signiﬁcant source of possible
+doubt. The presence of two or more testimonial assertions that are corroborative
+may diminish the likelihood that credibility can be plausibly attacked (perhaps to
+a point where further explorations are not justiﬁed), but it cannot eliminate it.
+Where two circumstantial propositions converge to strengthen a third, the lawyer
+must consider possible explanations unrelated to credibility and possible sources of
+evidence that might support one of these explanations or support a rival inference.
+Where two propositions combine to support a further inference, the lawyer must
+recognize that the support cannot be stronger than the weaker of the two and must
+look for further possibilities that may explain or rival the proposed probandum –
+for instance, that X was present in the house at the time of the murder, but a
+third party intruder, acting independently, was the person who committed the act
+that caused Y’s death. She should focus her investigations accordingly. The fact
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 140 ---
+Principles of proof
+109
+that multiple steps are required in an argument from evidential data to proposed
+conclusion signals the need for further investigation before the case is tried and
+makes it possible to identify and eliminate or cumulate sources of doubt that can
+be used in argument at trial.
+Those distinctions make it possible to frame more clearly some issues of con-
+siderable importance – namely, questions about how doubt at each stage of an
+argument should be considered in reaching a judgment whether a probandum has
+been proven to the required degree of certainty. If there is any ground to doubt
+credibility of W1 (proposition 5) or W6 (proposition 31) or their ability to identify
+accurately the characteristics of the person they say they saw enter Y’s house at
+4:15 p.m. in the circumstances present, there must be some ground to doubt the
+inferences they support, that a person who had the same characteristics as X entered
+at 4:15 p.m. Assuming there is some doubt, how should these doubts and the addi-
+tional doubt created by limiting qualiﬁcations on the generalization, proposition
+11, “People who enter a house usually remain for more than ﬁfteen minutes,” affect
+the assessment of the likelihood that proposition 10, “X was in Y’s house at 4:30
+p.m.,” is true? How then should those doubts be combined with any doubts about
+the time, place, or cause of Y’s death in evaluating the strength of the inference that
+Y had an opportunity to commit the act that caused Y’s death and how can they be
+accumulated in reaching a judgment about the penultimate probandum, “It was X
+who murdered Y”?
+These are important questions. They have been the subject of extensive (and
+sometimes heated) debate among scholars holding different theories of probability.
+They are obviously signiﬁcant to a lawyer in a criminal case who must argue to a
+jury that ultimate probandum in that case has or has not been proved “beyond a
+reasonable doubt.” Those questions are addressed in Chapters 8 and 9.
+The chart and other methods of analysis presented in this book do not address
+these questions. The principles of proof developed in this chapter and the chart
+method of analysis presented in the next chapter can be used and applied to any
+case because they are independent of any of the contending theories of probability.
+With a few adjustments, probability theorists from any of the schools may use
+the principles and the method to analyze and organize the evidence in a case in a
+manner that facilitates the development of their ideas on how the particular parts
+and the whole should be evaluated. As a practical matter, the principles and the
+methods Wigmore presented, as reﬁned and developed here, can readily be adapted
+to facilitate the analysis, construction, and appraisal of arguments about disputed
+questions of fact that are the concern of the analyst.
+The exercise continues: State v. Archer (II)
+The Prosecutor’s Standpoint
+The investigation of Vern’s murder continues (see page 94 above). You remain the
+prosecuting attorney. The investigative reports submitted by Detective Paul to date
+include the following extracts:
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press

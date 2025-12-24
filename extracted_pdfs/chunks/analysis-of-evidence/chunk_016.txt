@@ -1,0 +1,791 @@
+# Chunk 16 of 26
+# Document: Analysis of Evidence
+# Characters: 49260
+
+--- Page 258 ---
+Evaluating evidence
+227
+in our system of Evidence, prescribing for the jury the precise effect of any general or
+special class of evidence. So far as logic and psychology assist us, their conclusions show
+that it is out of the question to make a general assertion ascribing greater weight to one
+class or the other. The probative effect of one or more pieces of either sort of evidence
+depends upon considerations too complex. Science can only point out that each class
+has its special dangers and its special advantages. (1 Wigmore on Evidence §26 (Tillers
+Rev. 1983))
+To say that there are no rules of weight means that the law does not prescribe
+generalrulesconcerningtheweightorcogencyofparticulartypesofevidencesuchas
+confessions, eyewitness identiﬁcation evidence, or ﬁngerprints. There are, however,
+ways in which some limited control is exercised over evaluation of evidence. For
+example, in many common law jurisdictions a judge has a duty to warn the trier
+of fact about the potential unreliability of eyewitness identiﬁcation evidence.3 In
+England directions to a jury may include advice on evaluation of certain phases
+of the evidence and such guidance is sometimes included in specimen directions
+prepared by the Judicial Studies Board. Judges may withdraw a case from a jury on
+the grounds of insufﬁcient evidence (see below). Bentham drew a sharp distinction
+between rules addressed to the will (binding) and instructions addressed to the
+understanding (guidance). Almost without exception this distinction is maintained
+by the law of evidence throughout the common law world.
+2. Traditional modes of expressing weight and probative force
+There is a useful analogy between grading examinations and evaluating evidence.
+One obvious point of similarity has to do with the extent to which both modes of
+decision-makingaresusceptibletorationalguidance,justiﬁcation,andcriticism.We
+all hope that grading is not a completely arbitrary, irrational, hit-or-miss process;
+but few would deny that there is an inescapable personal element at the point
+of decision. So with the weighing of evidence. Less obvious is the point that, in
+discussing what is involved in the conscientious marking of examinations and the
+weighing of evidence, it is important to distinguish among a number of questions.
+In examining, we distinguish between conventional modes of expressing marks or
+grades (percentage; alphabetical grading; pass/fail); standards required for attaining
+a particular result (e.g., the standards for the pass mark, for awarding a distinction
+or credit); the criteria used in awarding marks or the reasons for making particular
+evaluations(e.g.,marksgivenforaccuracy,originality,orgoodanalysisorsubtracted
+for errors, omissions, or even illegibility); how to combine judgments about grades,
+especially when they are based on multiple criteria; and the extent to which such
+criteria can be embodied in rules.
+In evaluating evidence, we need to make some similar distinctions. In partic-
+ular we need to distinguish among the following questions, even though they are
+intimately related in both theory and practice:
+3 E.g., R. v. Turnbull [1977] Q.B. 224 (CA).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.009 Published online by Cambridge University Press
+
+
+--- Page 259 ---
+228
+Analysis of Evidence
+1 How can we express assessments of weight (the vocabulary of evaluation, analogous to
+a marking scheme)?
+2 What are the standards for decision of factual issues (cf. the pass mark)?
+3 How can judgments of weight and probative force be combined?
+4 What are the criteria for evaluating the probative force of individual items of evidence
+or the weight of a “mass” of evidence in a given case (cf. reasons for awarding or
+debiting marks or awarding a particular overall grade)?
+5 To what extent could the law of evidence prescribe rules of weight or evaluation
+(cf. marking rules)?
+Whatever the possibility of developing principles of evaluation, there is an estab-
+lished vocabulary by which degrees of persuasion and probative force are expressed
+in forensic and other contexts. It is perhaps noteworthy how little the vocabulary
+has changed over the past two centuries.
+In the ﬁrst place, it has been observed by a very learned Man, that there are several
+Degrees from perfect Certainty and Demonstration, quite down to Improbability and
+Unlikeliness, even to the conﬁnes of Impossibility; and there are several Acts of the
+Mind proportioned to these degrees of Evidence, which may be called the Degrees of
+Assent, from full Assurance and Conﬁdence, quite down to Conjecture, Doubt, Distrust
+and Disbelief. (J. Gilbert (1754) 1)
+Certainty, absolute certainty, is a satisfaction which on every ground of inquiry we are
+continually grasping at, but which the inexorable nature of things has placed forever out
+of reach. Practical certainty, a degree of assurance sufﬁcient for practice, is a blessing,
+the attainment of which, as often as it lies in our way to attain it, may be sufﬁcient
+to console us under the want of any such superﬂuous and unattainable acquisitions.
+(Bentham (1827) vol. 5: 351)
+In talking about inferences, it is common to resort to metaphor: We talk of the
+weight of the evidence, of prejudicial effect outweighing probative value, of the
+persuasive force or the probative force of an argument, of the strength of support,
+or of a weak case. Yet we do not normally seek to express differences or to measure
+such matters in terms of grams or ohms or watts or volts or pounds per square inch
+or other physical measures.
+There is a variety of contexts in which judgments concerning evidence are com-
+monly expressed as probability judgments, although not always identiﬁed as such.
+For example, it is common to express probability judgments on a conventional
+scale of 0 to 1. Similarly, the strength of a judgment may be expressed in terms of
+percentages (e.g., it is 60 percent probable that X is the murderer); or of wagering
+odds (e.g., I would bet three to one that X is the murderer). There are also standard
+formulations by which beliefs are expressed in subjective (I am conﬁdent that X is
+the murderer) or objective (the evidence strongly supports the conclusion that X is
+the murderer) terms that connote a probabilistic judgment.
+The conventions for marking examinations illustrate, in an analogous context,
+some of the concerns that the use of the term “probability” raises. The adoption of a
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.009 Published online by Cambridge University Press
+
+
+--- Page 260 ---
+Evaluating evidence
+229
+convention that expresses marks or grades in terms of numbers or Roman or Greek
+letters or some other mode of expression (e.g., Excellent – Worthless) tells us little
+or nothing of the criteria used for making such judgments. In expressing judgments
+about evidence or exam papers, however, using numbers makes it easier, and more
+tempting, to add, subtract, multiply, or perform other mathematical calculations to
+create an appearance of precision and objectivity; but whether a particular mode of
+calculation or whether calculating at all is appropriate are separate questions. Some
+of the central debates in the theory of evidence address such questions in respect
+to weighing or assessing the probative force of evidence. These controversies are
+introducedinChapter9.Inthischapter,weareconcernedwithonlythreequestions:
+First,whataretheconventions forexpressingdecisionsorjudgmentsaboutprobative
+forceorweight,independentlyofanyparticularcriteria forarrivingatsuchdecisions
+or judgments? Second, what are the criteria or standards the decision-maker is to
+use in making the required decisions and judgments? Third, what, if any, is the legal
+signiﬁcance of the various criteria and standards?
+In legal discourse, terms that connote an assessment of probability are com-
+monly invoked. Lawyers, judges, and commentators also talk of the credibility of
+evidence and of witnesses, of the plausibility of an argument, and of the likelihood
+that an event occurred or will occur. In some contexts, such terms are used synony-
+mously with probability.4 For purposes of the present chapter, we shall use the term
+“probability” in its conventional sense as a general term for expressing judgments
+about the probative force and effect of evidence without any necessary commit-
+ment to any particular criteria for assessing the correctness of particular judgments
+of probability; in short we shall use the term broadly to embrace both “objective”
+and “subjective,” mathematical (“Pascalian”) and nonmathematical (“Baconian”),
+theories of probability.
+Againstthatbackground,onemightconstructa“probabilitytable,”whichgrades
+both mathematical and nonmathematical probability judgments on a ten-point
+scale.
+For different purposes the number of gradations are sometimes increased or
+reduced. For example, most English university law faculties express marks in per-
+centages, but according to convention the normal range is on a 50-point scale, for
+almost no one gets more than 80 percent and only disastrous performances rate
+less than 30 percent. A standard alphabetical system of marking along the sequence
+A++, A+, A . . . C++, . . . F has approximately 20 gradations, sometimes extended
+by the craven insertion of queries (e.g., B-??, B+?+). Some examinations have two
+grades: Pass/Fail. In the present context the moral is clear: The mode of expressing
+4 For some people, however, the term “probability” is indissolubly associated with certain forms of
+mathematical reasoning and calculation so that to them it seems paradoxical, even heretical, to
+talk of “nonmathematical probabilities.” In this view, it may be perfectly acceptable to claim that
+it is inappropriate to quantify the plausibility of an argument, the criminal standard of proof, the
+credibility of a witness, or the likelihood of some claim being true (though this is, perhaps, more
+controversial), but any judgment of probability must by deﬁnition be expressed or at least capable
+of being expressed numerically. These views are discussed in Ch. 9.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.009 Published online by Cambridge University Press
+
+
+--- Page 261 ---
+230
+Analysis of Evidence
+Table 8.1 A probability table
+Strength of Support
+Chance
+Frequency
+Wager
+Belief (subjective)
+(objective)
+Marks
+1.0
+100%
+No Contest
+I know
+Beyond
+A+
+peradventure
+.9
+90%
+9-1
+I am positive
+Overwhelming
+A
+.8
+80%
+8-2/4-1
+I am sure
+Cogent
+A−
+.7
+70%
+7-3
+I am conﬁdent
+Strong
+B+
+.6
+60%
+6-4/3-2
+I think
+More likely
+B
+than not
+.5
+50%
+Evens/1-1
+I wonder whether
+Evenly balanced
+B−
+.4
+40%
+4-6/2-3
+I suspect
+Not very likely
+C+
+.3
+30%
+3-7
+I surmise
+Unlikely
+C
+.2
+20%
+2-8/1-4
+I doubt that
+Weak
+C−
+.1
+10%
+1-9
+I very much
+Minimal
+D+
+doubt that
+.0
+0
+0
+I disbelieve
+Nil
+D/F
+judgments concerning degrees of probative force is usually a matter of convention,
+in which there is no magic in the numbers.
+The moral for lawyers and law students should be clear. Judges and juries must
+in some way “grade” the evidence each time they are required to make an evaluative
+decisionconcerningevidence,whetherthedecisiontakestheformofajudge’sdecid-
+ing whether the improper prejudicial effect substantially outweighs the probative
+value of proffered evidence or the jury’s deciding whether the evidence establishes
+the defendant’s guilt beyond a reasonable doubt or whether it shows that the plain-
+tiff’s ultimate probandum is more probable than not. In practice, these judgments
+are ordinarily expressed on a binary scale – evidence is admitted or not admitted,
+objections are sustained or overruled, the jury’s verdict is guilty or not guilty, for
+the plaintiff in a speciﬁc amount or for the defendant. Nonetheless, both judges
+and juries are expected to weigh the evidence in terms of probabilistic assessments
+of the probative force of the parts and of the whole. For that reason, lawyers must
+know and be able to frame their arguments using the conventional vocabularies by
+which such arguments and judgments are expressed.
+C. Standards for decision
+Traditional works on the law of evidence tend to focus on the contested jury trial and
+the standards of proof that are applicable to adjudicative decisions at ﬁrst instance,
+notably the civil standard (balance of probabilities, preponderance of evidence) and
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.009 Published online by Cambridge University Press
+
+
+--- Page 262 ---
+Evaluating evidence
+231
+the criminal standard (proof beyond reasonable doubt). These are, of course, very
+important. However, if one adopts a total process model of litigation that involves a
+variety of speciﬁc decisions by different participants pre-trial and post-trial, as well
+as at trial, other standards for decision also need to be considered.
+Adjudicative decisions are indeed a focal point of litigation, both because they are
+important in themselves and because they “cast a long shadow” on other decisions
+thatprecedeorcomeafterthem.Forexample,adecisiontoprosecuteortopleadnot
+guilty must take into account the likelihood of a decision to acquit or convict by the
+trier of fact. This in turn requires an assessment of the net persuasive effect that the
+evidence would be likely to have on the trier of fact. Similarly, many post-conviction
+decisions have to treat the decision of the trier of fact as given or, exceptionally, to
+consider whether it should be overturned. Nevertheless, it is important to bear in
+mind that both analysis and evaluation are typically involved in all these decisions
+and that evaluation is typically governed by different standards with respect to the
+different kinds of decisions that must be made.
+In this context, there are three propositions that should be axiomatic. First,
+there are accepted standards that are intended to provide guidance for almost every
+decision that requires consideration of evidence in a legal context. Second, almost
+all those decisions require not only that the evidence be analyzed so that potential
+logical relationships may be identiﬁed, but also that it be evaluated to determine the
+relative strength of the inferences for which it may logically be claimed to provide
+some support. Third, however articulated, the standards for decision are usually
+framed in terms intended to provide guidance in evaluation as well as analysis.
+From the standpoint of the practitioner there is a further distinction that should
+be equally axiomatic. The standards for decision can be usefully separated into two
+categories. In one category are those standards that are prescribed to impose limits
+on the decision-maker’s exercise of discretion; for instance, standards of review such
+as whether the evidence was logically sufﬁcient to support the decision below. In
+the other category are those standards intended to guide a decision-maker in the
+exercise of assigned discretion, such as a standard that the jury must be satisﬁed
+beyond a reasonable doubt in a criminal case. The axioms and the importance of
+the distinctions are illustrated in the sections that follow.
+1. Lawyering standards
+The resolution of any legal dispute may require decisions by at least ﬁve kinds
+of decision-makers: the parties (or clients), their lawyers (including prosecutors),
+the trial judge, jurors, and appellate judges. There are standards established by
+conventional wisdom, ethical norm, or legal rule for virtually every decision that
+must be taken at any stage of the process. The purpose of this section is to illustrate
+thispointbrieﬂywithreferencetoexamplesoflawyer-clientdecisionsandofpretrial
+decisions that are ordinarily made by lawyers.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.009 Published online by Cambridge University Press
+
+
+--- Page 263 ---
+232
+Analysis of Evidence
+a. Standards for lawyer-client decisions
+In the common law system of adjudication, clients and lawyers, as well as adjudica-
+tors, are decision-makers. Ethical considerations, rules of professional conduct, and
+practical realities dictate that there is a variety of decisions in which the lawyer and
+the client must participate; these rules identify decisions on which the lawyer must
+ordinarily defer to the client. Many of these decisions depend signiﬁcantly upon
+an assessment of the state of the known evidence and its probable effect upon the
+decision-maker, such as a defendant’s decision to accept a proposed plea bargain or
+to waive or to seek or demand a trial by jury.
+In civil cases, lawyers ordinarily apply some rather straightforward utilitarian
+standards in making decisions about whether a claim should be pursued, settled,
+or abandoned. Many of these decisions require that the available and potentially
+available evidence be evaluated in order to assess the likelihood that one party will
+prevail on liability questions and the probable value to that party of the damages or
+other relief that would be awarded if liability is established. These determinations
+must then be balanced against the potential risks and probable costs involved in
+pursuing the claim.
+Standards for deciding whether to undertake a case and whether and on what
+basis to settle it may illustrate the point. Decision theorists and economists have
+tried to develop utilitarian standards that they argue should serve to guide lawyers
+and clients in evaluating and settling a legal dispute. A simpliﬁed approach might
+be stated as follows:
+Most cases should be settled, and the decision to take, prosecute, or settle a case can
+be reduced to a simple set of formulae that should be commonplace among lawyers. In
+almost every instance, there are only four variables that need be considered – the state
+of the law, the state of the evidence, the amount or value of the possible recovery, and
+the legal fees and costs likely to be incurred in achieving the result. At any time during a
+case, the lawyer’s assessment of the probability that the court will apply a speciﬁc rule of
+law and of the probability that the then available evidence will persuade the fact-ﬁnder
+to impose liability upon the defendant under that rule provide a basis for calculating the
+probability that liability, “PL,” will be imposed. The elements or heads of damages as a
+matter of law and the evidence available to prove the amount of damages recoverable
+in the particular case should sufﬁce to enable a competent lawyer similarly to assess the
+probable amount of the anticipated damage award, “PD,” at any stage. What is left is for
+the lawyer for each side to estimate the legal costs and fees, “CF,” likely to be required,
+from that point forward, to litigate the matter to conclusion. This information should
+sufﬁce to enable the lawyers for each side to make a reasoned assessment of the probable
+value of the case, “PV,” at any stage.
+In their simplest form, these decisions can be expressed for American litigation as
+follows:
+For plaintiff:
+PV = (PL × PD) – CF
+(as assessed by plaintiff and his or her
+counsel)
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.009 Published online by Cambridge University Press
+
+
+--- Page 264 ---
+Evaluating evidence
+233
+For defendant:
+PV = (PL × PD) + CF
+(as assessed by defendant and his or
+her counsel)
+Although mathematics provides tools of sufﬁcient sophistication to deal with more
+variables and may provide greater sophistication in reaching decisions, basic principles
+for evaluating the typical case can be simply devised and might be expressed as follows:
+1. In ordinary circumstances, no lawyer should undertake a case for a potential plaintiff
+unless PV > 0 by an amount sufﬁcient to compensate for the fact that the client will
+lose the estimated amount of the costs and fees and for the costs and burdens
+(economic and psychological) incidental to pursuing the claim.
+2. In ordinary circumstances, cases should be settled whenever the sum of the future
+costs and fees to both sides exceeds the difference between the probable values as
+assessed by the clients and their respective lawyers, or whenever:
+[PL × PD (plaintiff)] – [PL × PD (defendant)] ≤CF (pff) + CF (def)
+If lawyers understood simple decision analysis, there might be fewer trials, wealthier
+clients, and the economy would have eliminated substantial transaction costs.
+Questions
+1 The standards above are offered to guide lawyers (and clients) in the exercise of
+discretion. What, if any, standards deﬁne the limits of that discretion?
+2 Review Sargent v. Southern Accident Company (page 28).
+a What factors should a lawyer have considered in deciding whether she should
+undertake to represent the Sargent family? Should it have made a difference, from
+her standpoint, whether she ordinarily charged an hourly rate or a contingent
+(percentage of recovery) fee for her services? Assuming either arrangement was
+permissible and was agreeable to the Sargent family, how should the lawyer have
+decided which method of charging was preferable? Which of the factors that she
+should have considered require an assessment of the evidence as it bore upon the
+probable outcome of the case?
+b From the standpoint of the Sargent family, what advice should they have required
+from the lawyer before deciding whether to pursue the claim or to retain this
+speciﬁc lawyer for the matter? Suppose the lawyer advised that her ﬁrm would
+undertake the matter for actual costs (deposition transcripts, ﬁling fees, etc.) plus
+either a standard hourly billing rate of $200 an hour or a contingent fee of thirty
+percent (30%) of the amount recovered? If the Sargents liked the lawyer, how
+should they have proceeded to decide upon the fee? What legal or ethical duties
+would the lawyer have in advising the Sargents with respect to this decision?
+c Assume (1) that the lawyers representing the Sargents had agreed to represent
+them for a fee of $200 an hour plus any amounts expended for costs and the ﬁrm
+representing the insurance company had agreed to represent it for a fee of $150 an
+hour plus any amounts expended for costs; (2) that the Sargents have paid their
+lawyers $20,000 in fees and $10,000 for costs to date and that the insurance
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.009 Published online by Cambridge University Press
+
+
+--- Page 265 ---
+234
+Analysis of Evidence
+company paid their lawyers $15,000 in fees and $10,000 for costs to date; (3) (i) that
+the lawyers for the Sargents have estimated that they will need to spend 60 more
+hours to prepare and try the case and that the costs from this point through the end
+of the trial will be about $8,000 and (ii) that the lawyers for the insurance company
+have given similar estimates of the fees and costs to be incurred if the case is
+tried.
+i How should the claims supervisor have proceeded to decide upon the maximum
+amount the company should offer to settle the case before trial? What strategy
+would you have employed as counsel for the company to achieve a successful
+settlement?
+ii How should the Sargents have decided on the minimum amount they would
+accept to settle the case? What strategy would you have employed as counsel for
+the Sargents to achieve a successful settlement?
+d How would the formulae for deciding to take or settle a case differ under a system
+that requires the losing party to pay the winning party’s legal costs and fees (“the
+costs follow the event”)? In view of this analysis, what policies are furthered by
+each of the systems?
+b. Standards for lawyers’ decisions
+The signiﬁcance of lawyer decisions and the extent to which these decisions are
+subject to standards are matters that are not frequently analyzed in books on evi-
+dence or trial practice. Ordinarily it is the lawyers who effectively direct the course
+of pre-trial pleading and discovery. By their discovery decisions, lawyers have the
+power to impose burdens on or to frustrate the legitimate objectives of the adverse
+party to the litigation. Similarly, lawyers have the power to impose signiﬁcant bur-
+dens on the court as well as on the adverse party through their decisions concerning
+which motions should be ﬁled and how vigorously each should be documented
+and pursued. In the United States, there is substantial literature and other evidence
+suggesting that lawyers involved in large cases use these powers for reasons that
+may be largely unrelated to achieving a prompt and fair adjudication of a disputed
+claim.5 Some examples should illustrate the point.
+(i) The decision to ﬁle a complaint
+The range of a lawyer’s discretion in ﬁling a complaint (or other pleading) in a civil
+case has been the subject of extensive litigation in the United States. Lawyers are the
+ofﬁcers of the court who make the ﬁnal decision to ﬁle a civil complaint. American
+law prescribes standards (either directly or through the rules of the profession)
+that they are required to apply in deciding whether to initiate a case and, if so, what
+allegations may properly be made in an initial or subsequent pleading. For example,
+Rule 11 of the Federal Rules of Procedure in the United States provides:
+5 See, e.g., John D. Shugrue, “Identifying and Combating Discovery Abuse,” 23 Litigation No. 2
+(Fall 1997) 10 (for an illustration and description); see also Symposium Conference on Discovery,
+39 Boston Coll. L. Rev. (1998) 517–840 (for a more comprehensive overview).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.009 Published online by Cambridge University Press
+
+
+--- Page 266 ---
+Evaluating evidence
+235
+Rule 11 – Signing of Pleadings, Motions, and Other Papers; Representations to Court;
+Sanctions
+(a) Signature. Every pleading, written motion, and other paper shall be signed by at
+least one attorney of record in the attorney’s individual name, or, if the party is not
+represented by an attorney, shall be signed by the party. Each paper shall state the
+signer’s address and telephone number, if any. Except when otherwise speciﬁcally
+provided by rule or statute, pleadings need not be veriﬁed or accompanied by
+afﬁdavit. An unsigned paper shall be stricken unless omission of the signature is
+corrected promptly after being called to the attention of the attorney or party.
+(b) Representations to Court. By presenting to the court (whether by signing, ﬁl-
+ing, submitting, or later advocating) a pleading, written motion, or other paper,
+an attorney or unrepresented party is certifying that to the best of the person’s
+knowledge, information, and belief, formed after an inquiry reasonable under the
+circumstances, –
+(1) it is not being presented for any improper purpose, such as to harass or to
+cause unnecessary delay or needless increase in the cost;
+(2) the claims, defenses, and other legal contentions therein are warranted by
+existing law or by a nonfrivolous argument for the extension, modiﬁcation, or
+reversal of existing law or the establishment of new law;
+(3) the allegations and other factual contentions have evidentiary support or, if
+speciﬁcally so identiﬁed, are likely to have evidentiary support after a reasonable
+opportunity for further investigation or discovery; and
+(4) the denials of factual contentions are warranted on the evidence or, if specif-
+ically so identiﬁed, are reasonably based on a lack of information or belief.
+(c) Sanctions. If, after notice and a reasonable opportunity to respond, the court
+determines that subdivision (b) has been violated, the court may, subject to the
+conditions stated below, impose an appropriate sanction upon the attorneys, law
+ﬁrms,orpartiesthathaveviolatedsubdivision(b)orareresponsiblefortheviolation.
+ii. The decision to prosecute
+Section9-27.220.AoftheUnitedStatesJusticeDepartment’sUnitedStatesAttorneys’
+Manual speciﬁes the standard that should be observed in deciding whether to
+prosecute:
+TheattorneyforthegovernmentshouldcommenceorrecommendFederalprosecution
+if he/she believes that the person’s conduct constitutes a Federal offense and that the
+admissible evidence will probably be sufﬁcient to obtain and sustain a conviction,
+unless, in his/her judgment, prosecution should be declined because:
+1. No substantial Federal interest would be served by prosecution;
+2. The person is subject to effective prosecution in another jurisdiction; or
+3. There exists an adequate non-criminal alternative to prosecution.
+The standard in England and Wales is similar. Under The Code for Crown
+Prosecutors,6 there are two tests which must be satisﬁed before a prosecution is
+6 The Code can be found at http://www.cps.gov.uk/publications/docs/codeeng.pdf.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.009 Published online by Cambridge University Press
+
+
+--- Page 267 ---
+236
+Analysis of Evidence
+initiated – the evidential test and the public interest test. The two are summarized
+in sections 5.1 and 6.2 of the Code.
+5.1 Crown Prosecutors must be satisﬁed that there is enough evidence to provide a
+‘realistic prospect of conviction’ against each defendant on each charge. They must
+consider what the defence case may be, and how that is likely to affect the prosecution
+case.
+. . .
+6.2 The public interest must be considered in each case where there is enough evidence
+to provide a realistic prospect of conviction. A prosecution will usually take place unless
+there are public interest factors tending against prosecution which clearly outweigh
+those tending in favour. Although there may be public interest factors against prose-
+cution in a particular case, often the prosecution should go ahead and those factors
+should be put to the court for consideration when sentence is being passed.
+Both sets of standards are clearly written as guides to the exercise of discretion.
+The legal limits of that discretion are unclear.
+iii. Other pre-trial decisions
+A further aspect of lawyers’ decisions should be considered. There is frequently a
+tension between the lawyer’s duties to the client (e.g., to pursue the client’s objective
+zealously within the bounds of the law) and the lawyer’s duties to the court and
+to opposing counsel and their clients (e.g., not to assert claims or take actions
+for purposes of delay). The duty to the client is likely to push the lawyer to ignore
+standardsintendedtoguidediscretion,suchasthe“goodfaithbasisinfact”standard,
+and to exercise discretion in favor of the client unless satisﬁed that the exercise
+violates the standard establishing legal limits in a manner that is likely to be detected
+and result in sanctions or other adverse consequences.
+For example, in 1969, the United States and, later, several private parties ﬁled sep-
+arate civil actions alleging that International Business Machines Company (“IBM”)
+had violated various provisions of the antitrust laws. A few years later, IBM’s chair-
+man is reported to have quipped that IBM’s Vice President for Legal Affairs had the
+only ofﬁce with an unlimited budget, and that he had already over-spent it. IBM and
+its law ﬁrm are reported to have assigned more than 20 lawyers to the case and to
+have instructed them that every debatable issue was to be litigated to the maximum
+extent permitted by law. Pre-trial motions and discovery took six years. The trial
+on liability alone lasted more than six additional years. After 12 years and a change
+in the administration, the Justice Department dropped its suit, stipulating it was
+“without merit.” Most of the private plaintiffs were unable to pursue their claims
+successfully. In one view, decisions by IBM and its lawyers to pursue every point to
+the maximum and the resulting delays ultimately controlled the outcome.7 What
+standards other than costs can or should be applied to limit lawyers’ discretion in
+7 See Watson and Petre (1990) 376–89 (for a description from the client’s standpoint).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.009 Published online by Cambridge University Press
+
+
+--- Page 268 ---
+Evaluating evidence
+237
+making decisions in litigation? This ethical tension is apparent in many decisions
+lawyers must make.
+Questions
+1 Does Rule 11 of the Federal Rules of Civil Procedure establish standards intended to
+guide the lawyer in her exercise of discretion or standards designed to conﬁne the
+limits of that discretion? Does the rule provide a clear standard governing a judge’s
+decision to impose sanctions or merely standards designed to aid the judge in the
+exercise of discretion?
+2 The standards established to guide prosecutors in deciding whether a prosecution
+should be initiated are, by their terms, intended as guides to the exercise of discretion.
+What standards should deﬁne the limits of that discretion and who should have
+authority to enforce them?
+2. Standards for decisions in adjudication
+Priortoorduringtrial,apartymayaskthejudgetodisposeofallorpartofthecaseas
+amatteroflaw–forinstance,throughamotiontodismissorforsummaryjudgment
+orforadirectedverdict.Duringatrial,counselforthepartieswillregularlycallupon
+the judge to resolve disputes concerning the admissibility of evidence. At the close of
+the evidence, counsel will attempt to persuade the fact-ﬁnder that the evidence does
+or does not satisfy the prescribed standard and requires a verdict favorable to his or
+her client. Generally, the loser may appeal to a higher court claiming that errors by
+the trial judge or jury in applying the standards for assessing the parts or the whole
+of the evidence require outright reversal or at least a new trial. In this section, we
+discuss the signiﬁcance of the standards governing adjudicative decisions such as
+these.
+a. Standards for decisions disposing of a case as a matter of law
+Prior to trial the parties to a case may ask the court to dispose of the case as a
+matter of law on the ground that there are no disputed facts the resolution of which
+could affect the outcome. A defendant may move to dismiss the complaint on the
+ground that the facts alleged, if true, do not state a claim for which the law provides
+a remedy. In a civil case, either party may move for judgment on the pleadings on
+the ground that the facts alleged or admitted in the pleadings, when viewed most
+favorably to the opposing party, establish as a matter of law that the relief must be
+or cannot properly be granted. At any time prior to a civil trial, with the additional
+evidence obtained through discovery or presented by afﬁdavit, either party may ask
+the court to grant summary judgment on the ground that the then existing state of
+the record establishes that no fact material to a determination of the outcome as a
+matter of law is subject to any genuine dispute.
+Each of these motions asserts a claim that there is no factual dispute to be
+resolvedandthatallfactsnecessarytoaﬁnalapplicationoftheproperlegalprinciple
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.009 Published online by Cambridge University Press
+
+
+--- Page 269 ---
+238
+Analysis of Evidence
+are admitted or have been placed beyond reasonable challenge. The standard for
+decision on such motions is whether the claimant is right: If there are no material
+facts in dispute, the court should ﬁnally dispose of the case by applying the correct
+principle of law.8
+At various stages in a trial, the judge may be asked to terminate the proceedings
+and rule in favor of one of the parties. When the prosecution or the plaintiff has
+ﬁnished presenting evidence and has rested, the defendant may ask the trial court
+to rule that the evidence is insufﬁcient to support a conviction or a judgment for
+the plaintiff. When the defendant has rested, either the defendant or, in a civil case,
+the plaintiff may ask the court to rule either that the evidence is insufﬁcient or that
+it points so overwhelmingly in one party’s favor that there is no reason to proceed
+further.
+The standard that the trial judge is to apply again requires a determination
+whether any fact material to the outcome is subject to genuine dispute. A motion
+attackingthesufﬁciencyoftheevidenceasksthecourttodeterminethattheevidence
+is so slight that no rational trier of fact could reach a favorable conclusion to the
+degree of certainty required by the applicable standard of proof. A motion asking
+for a directed verdict or an early judgment on other grounds asks the court to
+determine that the evidence is so weak or, in a civil case, so overwhelming that
+under the applicable standard of proof rational fact-ﬁnders could not disagree on
+the correct result.
+In theory, an appellate court applies the same standard and need not accord any
+deference or special weight to the trial judge’s decision on such claims. The appellate
+court, so the theory goes, is as capable as the trial court in identifying and applying
+the correct legal principle, and as capable as the trial court in determining whether
+the evidence left room for rational debate as to any fact necessary to the judgment
+reached.9 The important points, for present purposes, are two. Logical analysis is
+a necessary condition to effective argument. It is not, however, a sufﬁcient basis
+either for argument or for predicting or explaining decisions.
+b. Standards for decisions on admissibility
+We address the relationship between the principles of proof and the law of evidence
+in Chapter 11. It should be apparent, however, that many rules of evidence are
+standards intended to guide the trial judge in exercising her discretion in deciding
+whether evidence should be admitted or its use limited.
+One of the basic principles underlying the rules and deﬁning the extent of the
+judge’s discretion under those rules is that a judge should exclude evidence whose
+8 In theory, this involves no discretion, and an appellate court applies the same standard in assessing
+the trial court’s decision, but cases such as Robinson v. Diamond Housing Corp., 267 A.2d 833 (D.C.
+Ct. App. 1970), and Robinson v. Diamond Housing Corp., 463 F.2d 853 (D.C. Cir. 1972) (reversing
+the decision of the District of Columbia Court of Appeals) make it clear that there is an element of
+discretion involved even here.
+9 As the Diamond decisions in the trial court and on appeal illustrate, the extent to which appellate
+practice conforms to established theory is at least open to debate.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.009 Published online by Cambridge University Press
+
+
+--- Page 270 ---
+Evaluating evidence
+239
+improper prejudicial effects substantially outweigh its legitimate probative value.
+Precise analysis of the inferences that a particular item of evidence might support is
+necessarytoidentifybothitsimproperprejudicialeffectsanditslegitimateprobative
+value.
+How should a Wigmorean lawyer approach the task of identifying and arguing
+the probative value and prejudicial effects that the court should consider in deciding
+whether particular evidence should be admitted or excluded? The ﬁrst step in the
+equation requires identiﬁcation of the inferences that are claimed to give the evi-
+dencelegitimateprobativevalue.Thesecondrequiresidentiﬁcationoftheimproper
+prejudicial effects that the evidence may have. The results of this analysis establish
+the framework for arguments about whether the improper prejudicial effects sub-
+stantially outweigh the legitimate probative value of the evidence in the context of
+this case.
+Establishing probative value begins with analysis. To what fact of consequence
+in the litigation is the proffered evidential data relevant? The kind of analysis and
+its importance in this context may be illustrated by an example drawn from United
+States v. Richard Able.10 Given the parties’ respective theories, the only penultimate
+probanda open to dispute were:
+5 At the time the 2003 return was ﬁled, RA knew that the 2003 return was false.
+8 At the time the 2003 return was ﬁled, RA intended to defraud the government of the
+taxes due and owing on $45,000.
+The prosecution would seek to introduce as part of its evidence the cancelled
+check for $25,000 issued by the law ﬁrm to Able with endorsements showing it was
+cashed at a Citibank branch in Las Vegas. Its relevance is clear. The cancelled check
+shows that Able received $25,000 on December 20, 2002, and that this amount
+was income. That check combined with evidence showing the salary Able received
+from the law school and the two other checks combine to support an inference that
+Able received $170,000 income during 2002 ($125,000 salary, $25,000 from the Law
+Firm, and $20,000 from other consulting work) – one of the penultimate probanda
+the government must prove. This analysis, at least provisionally, also establishes
+that the probative value of the evidence is high: Absent evidence of forgery or the
+like, the cancelled check would appear to establish, and to be necessary to establish,
+a central fact of consequence to something approaching a certainty.
+The government would also claim that the endorsement made the check relevant
+to motive. On its face, the claim is plausible. The number of the steps in the chain of
+inferences necessary to demonstrate that relevance makes it clear that its probative
+value with respect to motive is slight (page 129).
+In the face of that analysis, what bases would be open to counsel for Able to object
+topermittingthejurytoseetheendorsementonthecheck?Theanalysisnecessaryto
+10 The case is at page 23; review also pages 125–28 (macroscopic analysis), pages 126–27 (theory of
+the case), and page 129 (preliminary analysis of the endorsement on the check for $25,000).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.009 Published online by Cambridge University Press
+
+
+--- Page 271 ---
+240
+Analysis of Evidence
+respond requires an understanding of the kinds of improper prejudicial effects that
+provide proper bases for arguments opposing the admission of particular evidence.
+The key is identifying effects that the law identiﬁes as improper.11
+A standard articulation requires the court to consider effects of the evidence
+that might cause “unfair prejudice, confusion of the issues, or misleading the jury,
+or . . . unduedelay,wasteoftime,orneedlesspresentationofcumulativeevidence.”12
+Thatstandardrequiresﬁrstananalysisofinferencessupportedbytheevidenceother
+than those that demonstrate its relevance, and then an identiﬁcation of policies or
+reasons that renders the alternative inferences improperly prejudicial.
+Thenatureofthetaskandsomeofthepoliciesandreasonscanbeillustratedbyan
+analysis of the endorsement on the cancelled check from the standpoint of counsel
+for Able. The endorsement showing that Able cashed the check on December 20 in
+Las Vegas supports a number of inferences:
+Able cashed a large check in Las Vegas, therefore Able was a gambler, therefore Able is
+a risk taker.
+The amount of the check supports an inference that Able stayed at a fancy hotel and
+gambling casino, therefore Able is a high liver.
+Only ﬁve days before Christmas, Able cashed a check in a city built for gamblers and
+in a state which has legalized prostitution, therefore Able is not the kind of person
+who respects the traditional ways of celebrating an important family and Christian
+holiday.
+Depending upon the views represented in the jury, any or all of these inferences
+could be damaging to Able. At the same time, an inference that Able was a gambler
+and a high liver, in light of his income for the year, supports a chain of inferences
+pointing toward motive and hence to knowledge and intent. Are these inferences
+in any way improper?
+The argument that they are unfairly prejudicial stems from the policies that
+underlie the rules governing character evidence. Although casino gambling may be
+legal in Las Vegas, it is likely to be viewed as a character defect in states where it
+is illegal (including the hypothetical New State), supporting an inference that Able
+is a bad person. So too, gambling may be regarded as establishing a propensity to
+take risks, and the jury might infer that Able’s propensity to take risks made it likely
+that he took the risk of ﬁling a false tax return to defraud the government. These
+inferences have some logical force, but they conﬂict with the policies of individuated
+justice that underlie the character evidence rule. Able is not on trial for gambling
+or high living, and the jury’s deliberations may be unfairly prejudiced or the issues
+confused if this evidence is admitted.
+This analysis has identiﬁed some prejudicial effects that are improper. The stan-
+dard formulation of the rule, however, would require that Able’s counsel persuade
+11 It should be clear that any evidence that supports one side of a dispute should ordinarily have an
+adverseeffectontheother.Sometimesinordinaryusagesuchadverseeffectsarecalled“prejudicial.”
+This is misleading because, absent other factors, there is nothing improper about these effects.
+12 Federal Rule of Evidence 403.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.009 Published online by Cambridge University Press
+
+
+--- Page 272 ---
+Evaluating evidence
+241
+the trial judge that the danger created by improper prejudicial effects substantially
+outweighs the legitimate probative value of the law ﬁrm’s check, which directly
+supports, and is probably the strongest evidence with respect to, an element of the
+offense – the amount of income Able received in 2002.
+Assume that Linda Davis had died before the trial and that Able’s counsel agreed
+to stipulate to the fact that Able received $25,000 from the law ﬁrm in 2002 and,
+if desired, to stipulate to the admission of a copy of the front of the check with a
+further stipulation that Able cashed it in December 2002. In that case, Able’s lawyer
+couldpersuasivelyarguethattheidentiﬁedimproperprejudicialeffectssubstantially
+outweigh any legitimate probative value of the endorsement with respect to motive,
+and the argument would have considerable force.13
+The example has isolated a piece of evidence and analyzed it apart from the case
+as a whole. Assume that Linda Davis had not died and was available at trial. In
+that situation, it should be apparent that an assessment of the arguments about the
+endorsement would depend upon Linda Davis’s testimony. If Davis, for example,
+testiﬁed that Able took her to Las Vegas for a gambling spree and that the two
+did gamble heavily and lost and spent most of the balance of the $25,000 enjoying
+Las Vegas’s other attractions, the prosecution’s argument for admission would be
+far stronger. If, on the other hand, Davis proffers testimony consistent with Able’s
+report of the events to his counsel, Able’s lawyer may have a strong argument to
+exclude much of Davis’s testimony as well as the endorsement.14
+Three points deserve emphasis. First, an assessment of the probative value of an
+item of evidence requires a precise identiﬁcation and analysis of each of the inferen-
+tial steps necessary to relate it to a fact of consequence. Second, an identiﬁcation and
+appraisal of the possible improper prejudicial effects ordinarily requires a similar
+analysis. Third, the analysis must examine the particular evidence in the context of
+the case as a whole. A Wigmorean chart demonstrates at a minimum that the bits of
+evidence in a case are so interconnected that decisions with respect to a particular
+item of evidence may have a signiﬁcant effect on the whole. A blown fuse is going
+to affect more than the socket that caused it to blow.
+So far the analysis has focused upon arguments designed to persuade the trial
+judgetosustainanobjectionclaimingthattheprejudicialeffectsoftheendorsement
+substantially outweighed their probative value. Even with this rather detailed analy-
+sis, would a decision by the trial judge overruling either or both objections be likely
+to cause an appellate court to overrule the judgment were Able convicted? If the
+13 Perhaps such force that a refusal by the trial court to accept to exclude the evidence would exceed
+the limits of the broad discretion conferred upon her by Rule 403. See Old Chief v. United States,
+519 U.S. 172 (1997).
+14 If Able’s counsel succeeds in persuading the court to exclude the endorsement from evidence
+during the prosecution’s case, the question could arise again if Able took the stand. If Able were to
+testify to facts supporting an argument that he was a ﬁscally and socially conservative individual,
+the prosecutor would likely re-offer the endorsement on rebuttal, arguing that Able’s testimony
+had opened the door and placed his character in issue and had made the credibility of his assertions
+facts of consequence in the litigation and that the re-offered evidence had thus obtained a probative
+value that could no longer be successfully disputed.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.009 Published online by Cambridge University Press

@@ -1,0 +1,23 @@
+{
+  "last_updated": "2025-12-24T13:19:18.732915",
+  "document_count": 1,
+  "documents": {
+    "461dd85c71533b57": {
+      "doc_id": "461dd85c71533b57",
+      "source_url": "https://drive.google.com/file/d/1tY1EKdZoZ_8bSRuXzAYbmdchcW105Hwz/view?usp=drive_link",
+      "local_source": null,
+      "title": "Analysis of Evidence",
+      "tags": [],
+      "page_count": 432,
+      "character_count": 1239555,
+      "chunk_count": 26,
+      "file_size_mb": 103.2,
+      "extraction_date": "2025-12-24T13:19:18.732458",
+      "github_paths": {
+        "pdf": "extracted_pdfs/pdfs/analysis-of-evidence.pdf",
+        "full_text": "extracted_pdfs/text/analysis-of-evidence.txt",
+        "chunks": "extracted_pdfs/chunks/analysis-of-evidence/"
+      }
+    }
+  }
+}

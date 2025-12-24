@@ -1,0 +1,717 @@
+# Chunk 17 of 26
+# Document: Analysis of Evidence
+# Characters: 48431
+
+--- Page 273 ---
+242
+Analysis of Evidence
+trial judge were to sustain both objections, and if Able were found not guilty by
+the jury, the prosecution could not appeal and thus could not even challenge the
+decisions. The message is, if the lawyer does not win it at trial, it is highly unlikely
+that she will ever win it.
+The analysis also illustrates the distinction between standards for decisions that
+serve as guides for the exercise of discretion and those, such as the standards of
+review, that deﬁne the limits within which that discretion must be exercised. From
+the standpoint of the lawyer, the former are useful primarily as articulations for
+framing cogent arguments to persuade the trial judge how discretion should be
+exercised; the latter are useful only where the lawyer can satisfy an appellate court
+thatthetrialjudgeexceededthelimitsofthediscretionpermitted–arareoccurrence.
+c. The case as a whole: burdens of proof and the civil and criminal standards
+The distinction brought out by Gilbert between objective degrees of cogency and
+subjective degrees of persuasion or belief15 is reﬂected in orthodox discourse about
+standards of proof. Thus the ordinary civil standard of proof is typically articulated
+in seemingly “objective” terms (“balance of probabilities,” “preponderance of evi-
+dence”) while the criminal standard is almost universally expressed in terms of the
+state of mind of the trier of fact (“proof beyond reasonable doubt” or “you must
+feel sure of the prisoner’s guilt,” as Goddard L.C.J. put it in Regina v. Hepworth
+and Fearnley [1955] Q.B. 600, 603).16 The purpose of this section is to raise some
+questions about the meaning and role of these standards, how far they can be taken
+at face value as clear guides to decisions, and whether the distinction between objec-
+tive and subjective criteria is of any practical importance. Chapter 9 addresses the
+question whether any or all of these standards can and should be treated as embody-
+ing probabilistic notions that are susceptible, at least in theory, to mathematical
+calculation.
+There are common standards prescribed to guide the fact-ﬁnder in assessing the
+evidence as a whole. Under the standard commonly prescribed for civil cases, the
+fact-ﬁnder must determine whether the plaintiff has proved all the elements of the
+ultimate probandum by a preponderance or on the greater weight of the evidence or
+whether, on a balance of probabilities, the elements of the ultimate probandum are
+more probably true than not. On the criminal side, the fact-ﬁnder must determine
+whether the evidence establishes the elements of the offense and the defendant’s
+guilt beyond a reasonable doubt. These are the basic standards by which fact-ﬁnders
+must evaluate the overall weight of the evidence.
+There is an important preliminary question: Are standards of proof rules of
+law? If not, what are they? Both English and American discussions, by judges and
+commentators, abound with statements to the effect that it is impossible to give any
+precise meaning to the civil and criminal standards of proof, that to attempt to do so
+15 Above page 228.
+16 See the model direction by the Judicial Studies Board in England: www.jsboard.co.uk/specdir/.
+Discussed by Roberts and Zuckerman (2004) 363–64.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.009 Published online by Cambridge University Press
+
+
+--- Page 274 ---
+Evaluating evidence
+243
+is otiose and may be dangerous and, as Sir Rupert Cross put it: “It is to be hoped
+that such questions . . . will never be allowed to become the basis of prescribed rules”
+(Cross (1979) 116). Yet, as we shall see, there is not only a very extensive theoretical
+debate about the meaning and rationale of the various standards, but also, as Chief
+Justice Burger acknowledged in Addington v. Texas, “even if the particular standard-
+of-proof catch-words do not always make a great difference in a particular case,
+adopting a ‘standard of proof’ is more than an empty semantic exercise” (441 U.S.
+418, 423–25 (1979)).
+Closely related to the above is the question: How many standards of proof are
+there in ordinary litigation? Here there seems to be a divergence of views among
+the authorities. In the United States it is now widely accepted that there are at least
+three distinguishable standards: proof beyond reasonable doubt, proof on the pre-
+ponderance of evidence, and an intermediate standard variously expressed as proof
+by “clear and convincing,” “clear, cogent, and convincing,” or “clear, unequivocal,
+and convincing” evidence.
+In England, on the other hand, the predominant view is that there are only
+two standards, but that there are different degrees of proof within each standard.
+Denning, L.J., as he then was, stated the matter as follows:
+The difference of opinion which has been evoked about the standard of proof in recent
+cases may well turn out to be more a matter of words than anything else. It is of course
+true that by our law a higher standard of proof is required in criminal cases than in civil
+cases. But this is subject to the qualiﬁcation that there is no absolute standard in either
+case. In criminal cases the charge must be proved beyond reasonable doubt, but there
+may be degrees of proof within that standard. As Best, C.J., and many other great judges
+have said, “in proportion as the crime is enormous, so ought the proof to be clear.”
+So also in civil cases, the case may be proved by a preponderance of probability, but
+there may be degrees of probability within that standard. The degree depends on the
+subject-matter. A civil court, when considering a charge of fraud, will naturally require
+for itself a higher degree of probability than that which it would require when asking
+if negligence is established. It does not adopt so high a degree as a criminal court, even
+when it is considering a charge of a criminal nature; but still it does require a degree of
+probability which is commensurate with the occasion.17
+Is there any practical difference between the United States and English posi-
+tions? It is commonly said that it would be unreasonable to expect the trier of fact
+to demand the same level of proof for a minor trafﬁc violation as for a conviction
+for murder and that in civil cases involving allegations of dishonesty or adultery
+or illegitimacy, for example, a higher degree of probability is required than mere
+preponderance of evidence. That some such deviations are and should be applied
+is generally acknowledged, but there is a remarkable lack of clarity about the ratio-
+nale(s) for such deviations and about the degree of deviation that is indicated in
+17 Bater v. Bater [1951] P. 35, 36–37; cf. Re H (Minors) [1996] A.C. 563 (HL) criticized by Dennis
+(2004) 396–98.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.009 Published online by Cambridge University Press
+
+
+--- Page 275 ---
+244
+Analysis of Evidence
+each kind of case. Many judicial dicta suggest that the degree of probability may
+depend on the seriousness of the consequences to the subject of the allegation (for
+instance the stigma or likely harmful consequences of a judicial ﬁnding of adultery
+or fraud or paternity). Are these views reconcilable?18
+d. Appellate review: standards for limiting discretion
+The limits of the fact-ﬁnder’s discretion here are of two types. First, the trial or the
+appellate court may intervene if it is satisﬁed either that the evidence is insufﬁcient
+to support a ﬁnding for a claimant or that the evidence eliminates all material
+factual questions, either because it so overwhelmingly points to one conclusion
+that reasonable persons could not differ as to the correct conclusion or because it
+does not establish any genuine dispute with respect to a material issue of fact and
+the question concerns only the identiﬁcation and application of the proper rule of
+law.19 The prescribed standards for decisions of this type emphasize analysis, but
+require evaluation as well. For example, sufﬁciency is typically couched in terms
+of logical sufﬁciency, but it is clear that in most cases, the court is being asked to
+evaluate the opposing evidence and to discount strength of the claimed inferences
+to something approaching zero value. Second, if the evidence was logically sufﬁcient
+and leaves questions of fact open for decision, the appellate court (or the trial judge
+after a jury trial) may set aside the factual determination only if it can declare from
+the evidence that the decision was clearly erroneous, against the manifest weight
+of the evidence, or unsafe. However framed, the standards for legal intervention in
+such circumstances are clearly designed to protect the fact-ﬁnder’s discretion and
+to limit the occasions for intrusion.
+Thestandardsofreviewmakeitclearthatthestandardsofproofare,fromthetrial
+lawyer’s standpoint, merely guides to aid the fact-ﬁnder in exercising discretion. An
+appellate court may not reverse a jury’s verdict unless it is satisﬁed that no rational
+jury could have reached the verdict it did on the evidence before it under the
+standard of proof applicable. Stated differently, so long as the evidence was logically
+sufﬁcient to satisfy the standard and support the verdict, and not so overwhelmingly
+one-sided as to eliminate all genuine issues of material fact, the jury’s discretion, in
+theory, has no effective limits.20
+Policies favoring ﬁnality and judicial efﬁciency have led the courts to mandate
+similarlybroaddiscretionsfortrialjudgesasfact-ﬁnders.IntheUnitedStatesfederal
+18 See the discussion in Roberts and Zuckerman (2004) 360–73.
+19 Neither standard may be applied against the defendant in a criminal case, and it is generally agreed
+that the jury has a discretion to acquit that cannot be effectively overruled. However, in England,
+the Criminal Justice Act 2003, Part 10 authorizes the Court of Appeal to quash an acquittal for an
+offence (which appears on a list of serious offences) if “new and compelling evidence” has later
+come to light.
+20 In England the standard for review in criminal appeals is now governed by section 2 of the Criminal
+Appeal Act 1995, which states: “Subject to the provisions of this Act, the Court of Appeal (a) shall
+allow an appeal against conviction if they think that the conviction is unsafe; and (b) shall dismiss
+such an appeal in any other case.” On the debate leading up to this provision see Zander (2003)
+658–75.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.009 Published online by Cambridge University Press
+
+
+--- Page 276 ---
+Evaluating evidence
+245
+courts,forexample,acourtofappealsmaynotreverseadecisionevenwhenallthree
+judges agree that they would have resolved the factual issues differently. Reversal
+of a factual ﬁnding is permissible only when the reviewing court determines that
+it is “clearly erroneous.”21 And a ﬁnding is only “‘clearly erroneous’ when . . . the
+reviewing court on the entire record is left with the deﬁnite and ﬁrm conviction
+that a mistake has been committed”(Icicle Seafoods Inc. v. Worthington, 475 U.S.
+709 (1986)). Even then, the reviewing court may ordinarily not substitute its own
+factual ﬁndings for those of the trial court.
+The standards of review concerning admissibility decisions also leave broad dis-
+cretion in the trial court. The standard of review for decisions involving balancing
+tests is “abuse of discretion.” Even if the reviewing court is satisﬁed that the trial
+judge exceeded the limits of the discretion allowed or otherwise erred in admitting
+or excluding evidence, the counsel must still satisfy the court that the error affected a
+substantial right of the appellant and had or may have had an effect on the outcome,
+such that the error cannot be properly classiﬁed as harmless.
+In one view, standards of review such as these are the only operative rules of law
+regulating actual determinations. In that view, so long as the trial judge’s and jury’s
+decisions fall within the broad range of discretion allowed by these rules of law,
+these decisions are ﬁnal. That view, however, is subject to at least two further qual-
+iﬁcations. First, most appellate judges are fully able to interpret rules and marshal
+facts sufﬁciently to justify a reversal in any case in which they deem that appropriate.
+This qualiﬁcation emphasizes the range of discretion and the power conferred upon
+the appellate courts. Second, the view fails to acknowledge adequately the extent
+to which judges and jurors take the standards seriously in attempting to exercise
+discretion responsibly. Stated differently, deﬁning the range within which discretion
+may be exercised under various standards does not deﬁne the range within which
+discretion typically is exercised under those standards.
+Theviewanditsqualiﬁcationsareimportantforthosewhowouldbetriallawyers.
+The view emphasizes the range of discretion available and deﬁnes the framework
+within which arguments may be constructed and made. It also emphasizes the
+importance of analysis and argument in the trial court. The qualiﬁcations serve as
+necessary cautions. The discretion at all levels is exercised by the men and women
+who act as decision-makers. The advocate must frame her arguments in a manner
+that takes account of the standpoint of the particular decision-makers to whom
+they will be addressed and recognizes the psychological and other non-legal factors
+that may be operative.
+21 Fed. R. Civ. P. 52(a) (standard stated); Anderson v. City of Bessemer City, 470 U.S. 564 (1970)
+(standard applied).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.009 Published online by Cambridge University Press
+
+
+--- Page 277 ---
+9
+Probabilities, weight, and probative force
+A. Introduction
+There are no conclusions reached in legal disputes that can be stated with absolute
+certainty.Consequently,theuseofprobabilisticconceptsisascommonininferences
+in law as it is in inferences in other contexts. Probabilistic judgments concerning
+various matters in law are usually made verbally. For example, forensic standards of
+proof involve verbal probabilistic hedges such as “beyond reasonable doubt,” “clear
+and convincing evidence,” and “probable cause.” In some contexts it is supposed
+that probabilistic judgments will always be stated numerically either using numbers
+on the conventional zero–one probability scale or in terms of odds. But in other
+contexts, law for example, such numerical judgments are quite difﬁcult to make and
+justify because the events of concern either happened or did not happen on exactly
+one occasion. We cannot play the world over again a thousand times to determine
+the frequency with which these events have happened in the past. On only rare
+occasions in law can probabilities be determined by counting the frequency with
+which some event has occurred in the past.
+There are basically ﬁve reasons why, in any context including law, conclusions
+based on evidence are necessarily probabilistic in nature. The ﬁrst is that our evi-
+dence is always incomplete, we never have all of it. The second is that evidence is
+commonly inconclusive. This means that the evidence may to some degree favor
+more than one proposition at issue to some extent, or be consistent with the truth
+of more than one proposition at issue. Evidence we have is often ambiguous; we can-
+not decide what the evidence is telling us or what information it conveys. No better
+examples of ambiguous evidence exist than are found in the letters Edith Thompson
+wrote to Freddy Bywaters (see Chapter 7). Bodies of evidence are commonly disso-
+nant; some of the evidence may favor one proposition while other evidence favors
+another proposition. Finally, evidence comes to us from sources who/that have every
+gradation of credibility shy of perfection. These ﬁve matters inﬂuence how the force
+of evidence is assessed, and they also inﬂuence how forensic standards of proof are
+stated.
+There have been many attempts to relate verbal assessments of probabil-
+ity to ranges of numerical probabilities. For example, what range of numerical
+246
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.010 Published online by Cambridge University Press
+
+
+--- Page 278 ---
+Probabilities, weight, and probative force
+247
+probabilities corresponds with someone’s saying “very likely”? One of the best
+known efforts of this kind was undertaken by Sherman Kent who, for many years,
+was termed the “Dean” of American intelligence analysts. Based on extensive empir-
+ical studies involving many intelligence analysts, Kent generated intervals of proba-
+bilitynumbersthatcorrespondedwithavarietyofverbalhedgesintelligenceanalysts
+employ such as “very probable,” “probable,” “improbable,” and “very improbable.”
+But efforts to equate verbal probabilistic hedges and intervals of numerical proba-
+bilities are rarely taken seriously. The reason is that probability intervals advertised
+as being equivalent to a verbal hedge may fail to be persuasive or useful to any given
+person. In addition, such scales have been formed using just the conventional views
+of probability. As we note in this section, there are other views of probability that
+should be taken seriously.
+Certain probabilistic judgments in law involve the use of metaphors, some of
+which lead us to the essential topic in this section: the probative “weight,” “force”
+or “strength” of evidence. As noted in Chapter 2, a major credential of evidence is
+its probative weight, force or strength. We now consider the task of assessing this
+important credential of evidence. Unfortunately, there is no settled way in which
+this credential should be assessed and graded; there is considerable controversy
+associated with these tasks. There appear to be only two uncontroversial character-
+istics of the force, weight or strength of evidence. The ﬁrst is that gradations of the
+probative force of evidence have vector-like properties; that is, evidence may point in
+a certain direction (toward a certain proposition or probandum) with a certain force
+orstrength.Thesecondisthatgradationsoftheforceorweightofevidencearealways
+expressed probabilistically in some way. Here is where the major controversy lies
+since there are quite different views about how evidential weight or force ought to
+be assessed in probabilistic terms. So, considering the force or weight credential of
+evidence is where probability enters our discussions. We now brieﬂy consider some
+basic issues concerning probability and the force or weight of evidence. A more
+extensive discussion of probability appears in the Appendix by Professor Philip
+Dawid on the website.
+B. Flirtations involving law and probability
+Probability is an example of a discipline that, somewhat paradoxically, has a very
+long past but a very short history. There is evidence that cave dwellers in Paleolithic
+times used various devices (such as rudimentary dice) either for games of chance
+or to foretell the future. Subsequent legal and religious works, such as the Talmud
+and the Bible, make reference to probability and its determination in very sim-
+ple situations. But it was not until the early 1600s that we have the ﬁrst records
+of serious attempts to calculate probabilities. Blaise Pascal (1623–1662) is usually
+credited with being the ﬁrst person to attempt to calculate probabilities associated
+with games of chance. This marks the beginning of mathematics being used with
+reference to probability. However, at this same time, persons in other ﬁelds began to
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.010 Published online by Cambridge University Press
+
+
+--- Page 279 ---
+248
+Analysis of Evidence
+take an interest in whether probability calculations could be made regarding events
+other than those involving games of chance. For example, merchants became inter-
+ested in determining the probability that their cargoes would arrive safely at their
+destinations. Historians became interested in determining the probability that past
+events having historical signiﬁcance had actually occurred as recorded in ancient
+documents. Theologians became interested in determining probabilities associated
+with past events having religious signiﬁcance, particularly those involving miracles.
+What is of interest to us, however, is that some legal scholars in the 1600s began to
+take an interest in probabilities, particularly those associated with what they termed
+the credibility-testimony problem.
+One problem of interest to early jurists concerned how strongly our belief that a
+certain event occurred ought to increase as we obtain testimony about this event’s
+occurrence from additional witnesses. Testimony about the same event from two or
+more witnesses was then said to be concurrent testimony; in Chapter 2 we used the
+term corroborative1 with reference to such testimony. It was recognized at the time
+that how strongly our belief increases with successive testimony depends upon the
+credibility of each one of the witnesses. Another problem of interest concerned what
+was then called successive testimony. Person A tells Person B that an event occurred;
+B tells C, C tells D, and so on. The issue was: how certain can we be that the event,
+as reported by the last person in this chain, actually occurred? You recognize this
+last person’s testimony (what we presently have) as being secondhand or hearsay
+evidence. Theologians were especially interested in successive testimony. Among
+the matters of interest to them was the extent to which belief in some past religious
+event might naturally decay over time as testimony about this event was passed
+from one generation to the next, either orally or in written form. In the case of
+successive testimony, the extent of the decay in belief depends upon the credibility
+of each person or source in a chain of sources.
+Thus began a long drawn out ﬂirtation between law and probability.2 This initial
+ﬂirtation did not immediately ripen into a torrid romance. Some early scholars
+were not at all convinced that the complexity of matters such as the credibility-
+testimony problem could ever be captured in probabilistic terms. In addition, for
+many years probabilists have linked probability only to those situations involving
+replicable events for which we can obtain estimates of probabilities by counting or
+enumeration. Unfortunately, this does not apply to most of the events that are of
+interest to legal scholars and practitioners which tend to be unique, singular or
+one-of-a-kind. As noted above, we cannot play the world over a thousand times to
+determine the number of occasions a defendant actually committed the crime for
+which he/she is now charged. Nor can we play the world over again to determine
+the number of occasions on which a defendant may have committed repeated
+instances of the same crime. Within evidence scholarship in law, during the past
+1 On the ambiguity of the term “corroboration,” see the Glossary.
+2 Good assessments of the historical beginnings of the ﬂirtation of law and probability are to be found
+in the works of Lorraine Daston (1988) and Barbara Shapiro (1982, 1991).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.010 Published online by Cambridge University Press
+
+
+--- Page 280 ---
+Probabilities, weight, and probative force
+249
+30 years or so, there has been considerable debate about applications of probability
+in the ﬁeld of law. This debate has been particularly intense because there are now
+alternativeviewsaboutwhataprobabilitymeansintheﬁrstplace.Hereisaverybrief
+review of some of the issues that are currently being addressed in this continuing
+debate.
+If there is now a romance between law and probability, it is often a stormy one.
+One reason is that probabilists (and others) cannot agree about what constitutes
+a “rational” approach to drawing conclusions from evidence having the ﬁve char-
+acteristics noted above. Their disputes have only intensiﬁed debates among legal
+scholars about the extent to which probability theories have anything of value to
+offer scholars and practitioners in law. The so-called “probability debates” in law
+have been underway now for over thirty years. What made contemporary legal
+scholars begin to debate among themselves about probabilities? Identifying the
+exact stimulus for any human activity is no easy task. Here is a brief summary of
+works emerging during the law–probability ﬂirtation in recent times.
+Developments were taking place in probability theory during the 1970s that
+have forever changed the face of probability. Some very old ideas were challenged
+within probability theory itself. Debates among probabilists about the merits of
+these new ideas added considerable vigor to discussions about probability that took
+place among legal scholars. The probabilistic reasoning tasks required in legal and
+in many other contexts are far too rich for us to expect that all of this richness
+can be captured within the conﬁnes of any single theory of probability. Papers by
+Ekelof (1964), Williams (1979), Eggleston (1979), Twining (1980), and a book by
+Cohen (1977) raised issues that gave rise to a conference on probabilistic issues
+in law that took place in Durham, England in 1982 (Twining, 1983). In 1984 and
+1988, Adrian Zuckerman, of the Oxford University Law Faculty, organized two
+conferences on probability and evidence in the ﬁeld of law. Probabilists as well
+as legal scholars attended both conferences. In 1986 and in 1990, Peter Tillers
+(Cardozo Law School) held conferences on probability and evidence in law at
+Boston University Law School and at Cardozo Law School. Papers given during
+these two conferences were published in special issues of the Boston University Law
+Review (Tillers and Green (1986), also (1988)) and in the Cardozo Law Review
+(Tillers (1990)).
+One focal point of much discussion about probabilities in law was the Collins
+Case.3 The major issue in this case was one of identiﬁcation. According to witnesses,
+a white female assaulted and attempted to rob an older woman. The female assailant
+escaped from the scene in a car driven by an African-American male. Witnesses
+described various details of the two participants and of the car in which they ﬂed the
+scene. A white female and an African-American male, meeting these descriptions,
+were subsequently arrested and brought to trial. The prosecution hired a probabilist
+named Edward O. Thorp to calculate a statistical estimate of the probability that
+3 People v. Collins (1968 Cal. 2d 319).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.010 Published online by Cambridge University Press
+
+
+--- Page 281 ---
+250
+Analysis of Evidence
+any two persons would have the same characteristics as those described by the
+witnesses (and possessed by the defendants). The probability estimate that Thorp
+calculated was very small. On this basis, the prosecution argued that the two persons
+in custody must have been the ones who committed the crime. To shorten a long
+story, some probabilists immediately argued that Thorp’s calculations were quite
+inappropriate and legal scholars argued about the justice of what was later called “a
+trial by numbers.”
+In 1970, in the wake of the Collins Case, appeared an article in the Harvard Law
+Review by Finklestein and Fairley entitled: “A Bayesian Approach to Identiﬁcation
+Evidence.” The authors attempted to provide what they believed would be a more
+satisfactory approach to calculating identiﬁcation probabilities. Several probabilists
+had also written papers that were justly critical of Thorp’s calculations in the Collins
+Case. A year later, in 1971, came a resounding rebuttal to Finkelstein and Fairley
+written by Professor Lawrence Tribe, also in the Harvard Law Review. Tribe’s piece
+was entitled: “Trial by Mathematics: Precision and Ritual in the Legal Process.” Tribe
+essentially argued against any use of numerical probabilities, as a matter of policy, in
+settlingmattersattrial.Tribeadvancedthreemainreasonsforthis:(1)Asamatterof
+communication, so long as judges and jurors can be assumed to be innumerate, they
+should not be addressed in a language they cannot understand; (2) Mathematical
+arguments are likely to be overly seductive or prejudicial because seemingly “hard”
+quantiﬁed variables will tend to push out “soft” non-quantitative variables; and (3)
+It is politically improper to quantify certain matters, such as an acceptable level of
+risk of conviction of the innocent. In this debate about probabilities between jurists,
+Tribe seems to have won the day.
+But Tribe’s victory served only to stimulate other legal scholars to write about
+probabilistic issues. If Tribe believed he had put probability to rest in the ﬁeld of
+law, he was mistaken. An inﬂuential paper by Richard Lempert on relevance (1977)
+considershowtheweightofevidenceshouldbegradedinprobabilisticterms.Inthis
+work Lempert advised other legal scholars and practitioners not to ignore research
+on probabilistic reasoning regardless of what Professor Tribe said about the evils
+of mathematics. Lempert’s essential argument was that probabilistic analyses of
+evidential issues could be very informative to jurists in a variety of ways. Lempert’s
+work was very inﬂuential in arousing interest in probabilistic issues on the part of
+other evidence scholars in law.
+Each view of probability we will describe allows us to capture unique and impor-
+tant elements of this intellectual richness. Each view has something valuable to say;
+but no single view says it all. Within the ﬁeld of law, and in other ﬁelds as well,
+debate about probability and the force of evidence continues.
+C. Probability and the force or weight of evidence
+In this section are four different probabilistic conceptions about ways of assessing
+the probative force or weight of evidence.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.010 Published online by Cambridge University Press
+
+
+--- Page 282 ---
+Probabilities, weight, and probative force
+251
+1. Conventional probability and Bayes’s Rule
+There are three basic axioms upon which this conventional view of probability rests:
+r
+Probabilities are either positive numbers or are zero (there are no negative
+probabilities).
+r
+The probability of a sure event (one certain to happen) is 1.0.
+r
+If two events cannot happen jointly, the probability that one or the other occurs is
+equal to the sum of their separate probabilities.
+Taken together, these three properties simply say that probabilities are numbers
+betweenzeroandone(inclusive)andthattheyareadditiveacrossmutuallyexclusive
+events (those that cannot occur together or jointly). But all probabilities rest upon
+what we know or assume at the time they are either calculated or judged; and they
+may change in light of new information we obtain. Thus, all probabilities must have
+somemeansbywhichtheycanberevisedorupdatedinlightof,orconditionalupon,
+new information. In the conventional view of probability there exists the concept
+of a conditional probability that shows one way of revising a probability in light of
+new information. One very important consequence of these three axioms and how
+a conditional probability is deﬁned is called Bayes’s Rule or Bayes’s Theorem (named
+after the eighteenth-century English clergyman Thomas Bayes, who ﬁrst described
+its properties).4
+Suppose that we want to reassess the probability of a probandum in light of
+a new item of evidence. This probability is called a posterior probability because
+it concerns the probability of this proposition after we have obtained this new
+evidence. In order to determine this posterior probability, we need to have two
+ingredients. The ﬁrst, called a prior probability, expresses how sure we were that
+this proposition is true before we received this new evidence. The second, called a
+likelihood,allowsustoexpresshowstrongorforcefulisthisnewevidenceinchanging
+our prior probability into a posterior probability. As we now illustrate, the force or
+weight of evidence in conventional probabilities is graded by considering ratios of
+likelihoods.
+For example, suppose the probandum of interest is: It was Nicola Sacco who shot
+the payroll guard Alessandro Berardelli. We must of course consider the alternative
+proposition that it was not Nicola Sacco who shot Alessandro Berardelli. Here is
+an item of evidence we must now take into consideration: The bullet that killed
+Berardelli was ﬁred through a 32-caliber automatic pistol that Sacco was carrying
+when he was arrested. Here is a picture of how the probative weight or force of this
+evidence is graded in probabilistic terms using a ratio of likelihoods.
+Shown in Figure 9.1 are two likelihoods. The ﬁrst expresses how likely it is
+that the bullet that killed Berardelli was ﬁred through Sacco’s automatic, given
+that Sacco did shoot Berardelli. The second expresses how likely it is that the bullet
+4 Equations for Bayes’s Rule and some exercises involving its use appear in the Appendix on Proba-
+bilities and Proof.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.010 Published online by Cambridge University Press
+
+
+--- Page 283 ---
+252
+Analysis of Evidence
+Likelihood 1: How likely is this
+evidence, given that Sacco did
+shoot Berardelli?
+Sacco did shoot
+Berardelli
+Sacco did not
+shoot Berardelli
+Likelihood 2: How likely is this
+evidence, given that Sacco did not
+shoot Berardelli?
+Evidence: The bullet that killed
+Berardelli was fired through
+Sacco's automatic.
+Figure 9.1 Illustrating a likelihood ratio method for grading the probative force of
+evidence
+that killed Berardelli was ﬁred through Sacco’s automatic, given that Sacco did not
+shoot Berardelli. We ﬁrst notice that this bullet evidence is inconclusive. The bullet
+mayhavebeenﬁredthroughSacco’sautomatic,butitmayhavebeenanotherperson
+who ﬁred Sacco’s automatic. We are concerned of course about the credibility of
+the bullet evidence. Perhaps this bullet was not ﬁred through Sacco’s automatic
+(as the prosecution claimed).
+The probative force of this bullet evidence depends on the relative sizes of the
+two likelihoods shown in Figure 9.1. If we believe Likelihood 1 is greater than
+Likelihood 2, then we are saying that this bullet evidence favors the proposition that
+it was Sacco who shot Berardelli. How strongly the evidence favors Sacco shooting
+Berardelli depends on how many times larger is Likelihood 1 than Likelihood 2;
+this is why we consider their ratios. If we believe that Likelihood 2 is greater than
+Likelihood 1, then we are saying that this bullet evidence favors the proposition that
+SaccodidnotshootBerardelli.HowstronglythisevidencefavorsSacconotshooting
+Berardelli depends on how many times larger is Likelihood 2 than Likelihood 1.
+If the two likelihoods are equal, this says that the bullet evidence has no probative
+force at all, since it is equally likely under both propositions at issue.
+The example shown in Figure 9.1 concerns a likelihood ratio approach to grading
+the probative force of just a single item of evidence. But this approach can also be
+used to grade the probative force of bodies of evidence of various sizes. For example,
+in the Sacco and Vanzetti case we might form a likelihood ratio for the entire mass
+of evidence generated in this case. Here we would ask the question: Is this aggregate
+evidence more likely if Sacco and Vanzetti were guilty as charged than it would be
+if they were not guilty as charged?
+Lempert (1977) argued that this way of expressing evidential force or weight is
+entirely consistent with how FRE-401 deﬁnes relevance. Evidence is relevant if it
+allows us to revise, upward or downward, our probability of some proposition. This
+is exactly what a likelihood ratio expresses. It shows the extent to which an item or
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.010 Published online by Cambridge University Press
+
+
+--- Page 284 ---
+Probabilities, weight, and probative force
+253
+body of evidence allows us to revise a prior belief (before new evidence) to form a
+posterior belief (after taking the new evidence into account).
+A likelihood ratio approach to grading the probative force of evidence has many
+virtues. In a Wigmore chart, an argument linking evidence to some proposition
+or probandum involves, among other things, revealing all the sources of doubt or
+uncertainty we believe to lurk between the evidence and the proposition whose
+proof is being sought. Each source of doubt represents a link in the chain of reason-
+ing we have constructed to link evidence with what we are trying to prove from it.
+Expanded forms of likelihood ratios allow us to combine all recognized sources of
+doubt in assessing the probative force or weight of evidence. Some of these sources
+of doubt concern the credibility of the source of the evidence. Other sources of
+doubt concern links in chains of reasoning we construct to defend the relevance of
+the evidence on the proposition at issue. So, likelihood ratios allow us to combine
+both the credibility and relevance ingredients of the probative force of evidence.
+Another major virtue of grading probative force or weight in terms of likelihood
+ratios is that such methods allow us to capture for study and analysis a very wide
+array of evidential and inferential subtleties that reside just below the surface of
+even the simplest of evidence-based reasoning tasks. In Chapter 2 we provided
+an account of the recurrent substance-blind forms and combinations of evidence.
+Likelihood ratio analyses of the probative force of these forms and combinations of
+evidence provide valuable insights about the consequences of having various beliefs
+concerning the probabilistic ingredients required in assessing the probative force
+of these forms and combinations of evidence (see further Schum, 1994, Chs. 6, 7,
+and 8).
+2. Evidential support and evidential weight: non-additive
+probabilistic beliefs
+The likelihood ratio approach just described rests on the three axioms mentioned
+in introducing this approach. These three axioms were ﬁrst proposed by the Russian
+mathematician A. N. Kolmogorov (1933). Axioms forming the basis for any formal
+system are statements that the proponent believes are self-evident and that should
+be accepted as such by everyone else. From a set of axioms various consequences
+are deduced. Modern probability theory now provides a vast array of very use-
+ful consequences that have been deduced from Kolmogorov’s three basic axioms,
+including Bayes’s Rule. However, not everyone will necessarily accept as self-evident
+what another person proposes as axioms. Shafer (1976) rejected Kolmogorov’s third
+axiom involving additivity in relation to probability judgments that are necessary
+for the unique events so commonly encountered in the ﬁeld of law. In Shafer’s sys-
+tem there is a quite different interpretation of what the weight of evidence means.
+Following is an example of his concerns about Kolmogorov’s additivity axiom and
+what it says about probabilistic beliefs and the probative weight or force of evidence.
+Suppose you have read the entire transcript of the Bywaters and Thompson
+trial, as discussed in Chapter 7, and are asked to judge the probability, on all this
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.010 Published online by Cambridge University Press
+
+
+--- Page 285 ---
+254
+Analysis of Evidence
+evidence, that Edith Thompson was guilty of the charge against her. She either
+conspired with Freddy Bywaters to kill her husband Percy on the particular occasion
+on which Percy was killed, or, over time, she incited Freddy to kill Percy on some
+unspeciﬁed occasion. Suppose you judge this probability to be 0.6. Now, consider
+the proposition that Edith is not guilty of this charge. Edith cannot be guilty and
+not guilty at the same time; these two events are mutually exclusive. Further, they
+are exhaustive; as far as legal deliberations are concerned, one of these events must
+be true. So, if asked what the probability is that Edith was not guilty, Kolmogorov’s
+rules state that you must say that this probability is 0.4, since the conventional
+probabilities for mutually exclusive and exhaustive events must sum to 1.0. If you
+had been a member of the jury in this case, you would almost certainly not have
+voted to convict Edith, since your assessed probability of her guilt seems quite far
+below a proof “beyond reasonable doubt.”
+Reﬂecting on your task of assessing these probabilities, Professor Shafer argues
+that this additivity requirement puts a burden on you that you might not be willing
+to accept. The conventional system of probability requires that you must always
+commit all of your probabilistic belief to mutually exclusive and exhaustive events;
+you cannot hold back any of your belief or leave it uncommitted. Another way
+of saying this is to say that you must be completely decisive in expressing your
+beliefs; your probabilistic assessments must not reﬂect any indecision on your part.
+However, suppose that you cannot decide what some of the evidence against Edith
+reallymeans.TakeEdith’sletterstoFreddyforexample.Dotheymeanthatsheherself
+had contemplated or even tried, without success, to kill Percy? Or, are they simply
+manifestations of her fantasies about being rid of an abusive husband for whom she
+nolongerhadanyaffection?Athirdpossibilityisthatthereisnoconnectionbetween
+Edith’s letters to Freddy and the events surrounding Freddy’s killing of Percy. A
+major feature of Shafer’s approach to probabilistic reasoning is that it provides for
+instances in which you can deliberately withhold some of your probabilistic belief.
+In other words, you are entitled to be indecisive in situations in which, among other
+factors, you cannot decide what some of the evidence really means.
+To illustrate further some of the consequences of being able to withhold some
+of your probabilistic beliefs, we ﬁrst need to examine Shafer’s views about what
+the probative weight or force of evidence really means. His interpretation of this
+credential of evidence is quite different from the likelihood ratio interpretation we
+examined above. On Shafer’s view, the weight of evidence means the support this
+evidence provides to propositions at issue. The more support evidence provides to
+some proposition the greater the weight of this evidence. Shafer employs numbers
+between zero and 1.0 (inclusive) to indicate the degree of support or weight, but he
+does so in a way that is not consistent with the Kolmogorov axiom for additivity.
+Suppose we let U = the ultimate probandum that Edith Thompson is guilty of the
+charge against her; then not – U = the negation of U or the possibility that Edith
+is not guilty of the charge against her. Following is an example of what you are
+permitted to do using Shafer’s system.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.010 Published online by Cambridge University Press
+
+
+--- Page 286 ---
+Probabilities, weight, and probative force
+255
+Consider just the letters that Edith wrote to Freddy; let L be the evidence of these
+letters. To what extent do these letters, as evidence, support U or not – U? Let SL be
+the support you will assign to these possibilities based on letter evidence L: Here is
+an example of how you can assign SL.
+{U}
+{not – U}
+{U, not – U}
+SL :
+0.6
+0.1
+0.3
+These support assignments say that you believe Edith’s letters support her guilt to
+degree 0.6 and her being not guilty to degree 0.1. But, what does the support of 0.3
+you have assigned to {U, not – U} mean? First, read the expression {U, not – U} as:
+Edith is guilty or Edith is not guilty. The value of SL = 0.3 you have assigned to {U,
+not – U} indicates the degree of indecision on your part about whether her letters
+support Edith’s guilt or support Edith’s being not guilty. In other words, this is the
+degree of your evidential support, indicated by SL, that you have held back or have
+not yet committed to either U or to not – U speciﬁcally. You can regard SL = 0.3 for
+{U, not – U} as indicating the degree of your support that could favor either U or
+not – U but which one you cannot presently decide.
+Observe in the example above that your present beliefs about U and not – U,
+based on letter evidence L, do not sum to 1.0, as would be required in conventional
+probability. If you had been using Bayes’ Rule, your posterior probabilities for U
+and not – U, based on letter evidence L, would be required to sum to 1.0. You can
+in fact assign support S to propositions or probanda in ways that capture a wide
+assortment of belief states that we all experience. This is one of the major virtues of
+Shafer’s system. Here is an example of an extreme belief that you can capture using
+Shafer’s system; it involves the concept of ignorance as lack of belief. Using Edith’s
+letters to Freddy again, suppose that after reading these letters you believe that they
+are sufﬁciently ambiguous that you simply cannot decide whether they speciﬁcally
+favor U or not – U to any degree at all. In other words you cannot commit any of
+yourbeliefspeciﬁcallytoeitherofthesepossibilities.Inthiscase,yourSL assignment
+would look like this:
+{U}
+{not – U}
+{U, not – U}
+SL :
+0
+0
+1.0
+What this support assignment says is that you are presently completely indecisive
+about the extent to which the letter evidence supports either U or not–Uspeciﬁcally
+and so you have completely withheld all of your support from either one of these
+possibilities. You presently have no grounds for saying that this letter evidence
+speciﬁcally supports U or supports not – U.
+It is entirely fair to ask what the consequence is, in the above example, of having
+assigned SL = 0 to both U and to not – U speciﬁcally. The answer to this question
+requires us to compare Shafer’s support scale with the scale in the conventional
+probability system. First, here is a listing of interpretations that can be placed on
+the end points of the conventional probability scale:
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.010 Published online by Cambridge University Press
+
+
+--- Page 287 ---
+256
+Analysis of Evidence
+Figure 9.2 Conventional probability scale
+Figure 9.3 Evidential support scale
+On this conventional probability scale the value 1.0 means that an event is certain
+to occur or you have a complete belief that this event will occur. The probability
+value zero means that an event is certain not to occur or that you disbelieve that
+this event occurred. We discuss the proof-disproof dimension on this probability
+scale momentarily when we consider the third view of what is meant by the weight
+or force of evidence. But on an evidential support scale for S there is an entirely
+different meaning attached to the zero point; this scale is shown in Figure 9.3.
+The major distinction between conventional probabilities and Shafer’s support
+assignments is that zero no longer represents disbelief but lack of belief. In the con-
+ventional system of probability, a probability of zero assigned to some proposition
+means that this proposition is completely dead; it cannot be resuscitated by any fur-
+ther evidence, regardless of how strong this evidence might seem. In other words,
+we cannot say that we disbelieve some proposition and then later say we believe it.
+But we can say that a lack of belief means something entirely different than disbelief.
+We can go from a lack of belief to some degree of belief if our evidence supports
+this change. So, propositions assigned S = 0 are not forever dead as they would be
+if they were assigned conventional probabilities.
+Finally, since an axiom of conventional probability is violated in Shafer’s system,
+we should not expect to see Bayes’s Rule being the means for revising our beliefs
+about propositions in light of further evidence. In Shafer’s system there is a rule
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.010 Published online by Cambridge University Press

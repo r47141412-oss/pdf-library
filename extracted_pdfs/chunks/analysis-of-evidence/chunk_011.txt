@@ -1,0 +1,706 @@
+# Chunk 11 of 26
+# Document: Analysis of Evidence
+# Characters: 48080
+
+--- Page 173 ---
+142
+Analysis of Evidence
+it specify with precision each step in each argument being advanced. This makes
+it possible to appraise each argument rigorously. Third, it provides a method of
+marshaling all the relevant and potentially relevant data in a complex case into a
+single, coherent, and clear structure in the form of an argument.
+The use of symbols and charting is, in our view, necessary to realize all three
+advantages simultaneously and to realize the second and third fully. The chart is
+a graphic depiction of the arguments in a case-as-a-whole (or of a complex set of
+argumentsbearingonaparticularaspectofacase).Thespeciﬁcargumentsadvanced
+and their support are shown in a form that makes it simple to see and appraise the
+structure and content of the arguments being advanced. The chart also makes it
+possible to specify the evidence and arguments likely to be advanced in opposition
+or available for corroboration in a form that facilitates analysis and appraisal of the
+parts and the whole of the speciﬁc argument under study and its relationship to
+other arguments in the case-as-a-whole. In short, the chart and key-list are devices
+that make it possible to present all the evidence and arguments in a form that
+facilitates analysis, understanding, and appraisal.
+Wigmore’s chart method of analysis, as we have modiﬁed it, serves the same
+functions and has the same advantages as the symbols and related methods of anal-
+ysis established in other ﬁelds.15 It facilitates understanding, analysis, and appraisal
+precisely because it employs a format that focuses upon the precise steps in the
+arguments advanced and makes it possible to depict the results of the analysis of a
+complex problem in a concise form. In our view, a method that employs symbols
+and charting is the only method that makes it possible to present all the arguments
+in a case in a form and format that enhances clarity and understanding and that
+best facilitates rigorous appraisal and critique.
+Any system that satisﬁes the necessary conditions for analyzing and charting
+the available evidence in a case will, in its nature, involve complexity and require
+considerable effort for mastery and application. Computer drawing systems and
+other systems under development may well reduce the now formidable mechanical
+effort required to draw and revise the charts for a complex case in much the same
+way that word processing software has reduced the mechanical effort necessary to
+construct and revise complex documents. Those efforts will not, however, signiﬁ-
+cantly reduce the amount of intellectual skill and energy necessary to conduct the
+analysis and marshal the resulting arguments.
+15 TheproductofthechartmethodhasadvantagessimilartothoseWhiteheadidentiﬁedinexplaining
+the advantages of using symbols in mathematics: “It is not only of practical use, but is of great
+interest.Foritrepresentsananalysisoftheideasofthesubjectandanalmostpictorialrepresentation
+of their relations to each other.” With a well constructed key-list and chart, “by the aid of symbols,
+we can make transitions in reasoning, almost mechanically by the eye, which would otherwise call
+into play the higher faculties of the brain.” This is so because the system of symbols employed
+in the chart method has the property that Whitehead identiﬁed as crucial to a good system: “It
+should be concise, so as to be visible at one glance of the eye [and] the juxtaposition of important
+symbols should have an important meaning.” Whitehead (1939), 58, 60–62.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.006 Published online by Cambridge University Press
+
+
+--- Page 174 ---
+The chart method
+143
+The exercise continues: State v. Archer (III)
+1. Defense counsel’s standpoint
+Preparation of Archer’s defense to the charge he murdered Vern continues. [Review
+the facts already developed and analyzed in the exercise on State v. Archer (II)
+(page 109) above.] The statement made by Archer at his initial interview included
+the following extracts:
+On the Sunday on which Vern was murdered, I spent the day at home. It rained all day
+so I worked around the house and read the Times. I went to dinner at a neighborhood
+restaurant around 6:00 p.m. I returned shortly after 7:00 p.m. and watched television. I
+went to bed after the 10 o’clock news. I slept till 7:30 Monday morning. Because it was
+still raining, I did not arrive at work till 10:30 a.m. . . .
+. . . I have never owned a brown Harris tweed jacket, and I don’t know how the jacket
+Detective Paul found came to be in my closet . . .
+. . . I invited two couples from my ofﬁce and my girlfriend to my house for dinner
+on Saturday evening. The party lasted till about 11:00 p.m. No one visited me at home
+on Sunday or Monday. Tuesday afternoon, Mr. Boswell, Uncle Vern’s former partner,
+called. He said Detective Paul had interviewed him and had also interviewed Mr. Carl.
+Carl and Vern had been friends until Carl’s sister committed suicide when Uncle Vern
+refused to marry her. Boswell suggested the three of us should get together. I invited
+them to stop by that evening after dinner for drinks. They came around 9:00 p.m. and
+stayed till 11:00 p.m. I guess they just wanted to reassure me that, even though each of
+them hated the old skinﬂint, neither had murdered him. We all felt vulnerable because
+each of us had stayed home alone that Sunday . . .
+. . . I don’t recall exactly what Boswell or Carl was wearing, but I do recall that it was
+a crisp, chilly evening and that they were wearing coats and jackets when they arrived.
+I think I would have noticed if either had left without his coat . . .
+You have since received a copy of the coroner’s report, which ﬁxes the time of Vern’s
+death between 11:00 p.m. and midnight Sunday.
+For the moment, your analysis continues to focus upon the scrap of cloth and the
+jacket and the circumstances in which each was found. The ultimate probandum
+remains: “It was Archer who murdered Vern.” You obviously want to obtain and
+present evidence that will preclude the jury’s ﬁnding that proposition to have been
+proven beyond a reasonable doubt.
+a Using the prosecution’s propositions developed for State v. Archer (II) (with any
+amendments you now think appropriate), identify and frame the penultimate and
+strategic propositions you think the prosecutor will attempt to support with the
+evidential propositions relevant to the scrap of cloth, the jacket, and the
+circumstances in which each was found. Again, with such revisions as now appear
+necessary, do a preliminary chart showing the relationship between these
+propositions. (Polishing the chart comes later.)
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.006 Published online by Cambridge University Press
+
+
+--- Page 175 ---
+144
+Analysis of Evidence
+b As defense counsel, the rival probandum for the defense is: “It was someone other
+than Archer who murdered Vern.”16 Archer’s statement read with Paul’s can be
+analyzed from two standpoints: It suggests several hypotheses that should be
+investigated, but it also provides certain facts to which Archer can testify directly.
+Obviously, you must be concerned with both standpoints, but before planning the
+further investigations, we must analyze the evidential data in hand.
+i Formulate your standpoint as counsel for the defense. State and number the
+ultimate probandum and penultimate probanda the prosecution must prove.
+Formulate the strongest theory for the prosecution and for the defense. Add any
+defense propositions that would directly undermine one or more of the
+penultimate probanda that the prosecution must prove.
+ii Identify and formulate a defense key-list of evidential propositions available from
+Archer’s and Paul’s statements that appear relevant to explain away, deny, or rival
+the inferences the prosecution may seek to establish. Identify and formulate as
+simple propositions the circumstantial inferences your evidential propositions
+suggest. Order these propositions as best you can and number each. (It may
+simplify the charting task if you use different numbers from those used to label
+the prosecution propositions you have identiﬁed and formulated – for instance, if
+you have 25 prosecution propositions, start your defense list with number 50 and
+proceed.) Label each proposition opponent’s explanation (OE), opponent’s
+rivalry (OR), or opponent’s denial (OD).
+iii Chart the propositions on the key-list, ﬁrst to depict the strongest argument for
+the prosecution; then depict the strongest arguments for the defense to
+undermine the prosecution’s argument and to develop a rival theory adopted for
+the defense. Depict the additions to the prosecution chart made by adding
+symbols for your propositions to the chart.
+2. Defense investigation
+Now formulate as hypotheses the additional intermediate probanda that will guide
+your investigation. What, if any, additional questions do you have for Archer? Or for
+Paul (assuming he would respond)? What information do you need from or about
+Boswell? Carl? Assuming time and resources are limited, how would you organize
+the investigation?
+16 Evidence supporting this rival proposition need only make it a plausible hypothesis to demonstrate
+that the evidence cannot be marshaled to establish beyond a reasonable doubt that it was Archer
+who murdered Vern.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.006 Published online by Cambridge University Press
+
+
+--- Page 176 ---
+6
+Outlines, chronologies, and narrative
+The outline method of analysis and its variants are more familiar to practicing
+lawyers. They have the advantage that they are easier to use than the chart method,
+althoughitishardertomaintaintherigorthatthechartmethodrequires.Inaddition
+to these two methods of analysis, there are two analytic devices in common use,
+narrativesandchronologies,thatcomplementandfacilitatetheuseofbothmethods
+of analysis. In Part A of this chapter, we describe and illustrate the outline method
+of analysis. In Part B, we describe the analytic devices and discuss their utility. In
+Part C, we discuss how and with what effect the methods and devices can be used at
+various stages of a litigated case. In Part D, we describe the essential tools by which
+the products of an analysis may be converted into forms useful to a lawyer at any
+stage of a case.
+A. The outline method of analysis
+One of the strengths of the outline method is its utility in organizing the evidence
+and arguments. In the outline, each of the penultimate probanda is a main heading
+in the outline. For example in the Simpson case, the outline would begin:
+I NBS is dead.
+II NBS died as the result of an unlawful act.
+III It was OJS who committed the act that caused NBS’s death.
+IV The person who committed the acts that caused NBS’s death acted with malice
+aforethought.
+Given the prosecution’s provisional theory of the case, the central fact in dis-
+pute was the third penultimate probandum. The outline under that heading might
+continue:
+III It was OJS who committed the act that caused NBS’s death.
+A The Physical Evidence: OJS was present at the scene when the act was committed.
+B Motive: OJS had motive to kill NBS.
+C Opportunity: OJS could have committed the murder.
+1 NBS was murdered at 10:15 p.m. or shortly thereafter.
+145
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.007 Published online by Cambridge University Press
+
+
+--- Page 177 ---
+146
+Analysis of Evidence
+a The plaintive wail of NBS’s Akita dog establishes that NBS and RLG were
+murdered at approximately 10:15 p.m. on June 12.
+i PF testimony, I heard the plaintive wail of a dog at 10:15 p.m. on June 12.
+ii It was NBS’s dog that wailed.
+(a) Other residents testiﬁed that they found a white Akita dog with blood
+on its paws.
+(b) Other witnesses testiﬁed that the Akita belonged to NBS.
+iii Generalization: It is highly likely that a dog that discovers its owner’s
+bloody body will begin wailing plaintively.
+2 OJS had 35 to 40 minutes between the time NBS and RLG were murdered and
+the time he emerged from his house for a limousine ride to the airport.
+a The murder was committed at 10:15 p.m. (See III.C.1)
+b OJS came out of his house to go to the airport at 11:00 p.m., dressed in
+stone-washed jeans and a white-collared shirt with a black coat, with no
+visible evidence of blood or other signs that he had been in a struggle.
+c It takes about ﬁve minutes to drive at the speed limit from NBS’s townhouse to
+OJS’s house (Vannatter).
+3 Generalization: 40 to 45 minutes is almost certainly enough time for a murderer
+who stabbed two victims to death to drive to his home ﬁve minutes from the
+scene of the crime and to remove and pack the blood-stained clothing he had
+worn at the scene, without leaving signiﬁcant trace evidence, and to shower,
+dress, and compose himself for a trip.
+a OJS could have driven from NBS’s condominium to his house, removed and
+packed the blood-stained clothing he had worn at the scene, without leaving
+signiﬁcant trace evidence, showered and dressed and composed himself for a
+trip in less than 45 minutes.
+The provisional outline of Point III is incomplete. The outline could be expanded
+to account for all of the relevant evidential data and organized to show how it
+supports the penultimate probanda in the case, and conventions could be adopted
+that would make it possible to enter propositions that tend to explain away or rival
+the inferences supporting proposition III. If the outline is started at the outset of a
+case, it can readily be updated as new information is obtained by the insertion of
+additional propositions. As a working tool it is far easier to maintain and update an
+outline than it is to do and re-do a chart.
+Exercise
+In the Simpson case, Kato Kaelin testiﬁed he heard three loud thumps on the wall
+outside his bedroom in back of the house at approximately 10:45 p.m. Alan Park
+testiﬁed that he saw a six-foot African-American male weighing about 200 pounds
+dressed in dark clothing enter the house 5 or 6 minutes before OJS emerged to go to
+the airport. On cross-examination, Mr. Park acknowledged that the person he saw
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.007 Published online by Cambridge University Press
+
+
+--- Page 178 ---
+Outlines, chronologies, and narrative
+147
+might have been dressed in a black robe.1 How would you include these statements
+and the inferences they support in the outline supporting proposition III.C?
+B. Analytic devices: chronologies and narratives
+Chronologies can be used to test completeness of an analysis at any stage of an
+investigation. In most cases, it is useful to construct three kinds of chronologies –
+witness-by-witness chronologies, document and other tangible evidence chronolo-
+gies, and a master chronology. A witness chronology puts every event to which
+a witness could testify in chronological order. This serves three purposes. It pro-
+vides a basis for assessing the completeness and consistency of the witness’s likely
+testimony. Are there additional facts that this witness should know? Are there ambi-
+guities or inconsistencies that need to be clariﬁed and resolved? Second, it provides
+a basis from which the lawyer can identify ways in which the witness’s testimony
+can be presented in the most dramatically and strategically effective way. Where
+does this witness’s testimony ﬁt in the story to be established (or refuted) at trial?
+Can it be organized to present a coherent and dramatically effective chapter in that
+story? Third, the witness (and tangible evidence) chronologies provide the basis for
+constructing the master chronology.
+In most cases the documents or other items of tangible evidence will be used
+to establish or conﬁrm that an event occurred. The check Richard Able cashed on
+December 20, 2001, establishes that Able received $25,000 income prior to the end
+of the 2001 tax year. It also could be used to establish that Able was in Las Vegas on
+that date. In some cases, the date on which a document or other item of tangible
+evidence was prepared or discovered may be important. For example, the date on
+which a deposition was taken or a letter written may be crucial, apart from their
+contents, if either is offered as a prior consistent statement to rebut a charge of recent
+fabrication or improper motive. The statements in such a document may be used
+to establish the truth of the matter asserted only if the statement were made prior
+to the date on which the motive to fabricate arose.2 The fact that Detective Paul
+found the brown Harris tweed jacket in Archer’s closet only two days after Vern had
+been murdered limits the period during which Archer could claim that the jacket
+was left there by someone else. A tangible evidence chronology provides the other
+basis for constructing the master chronology. It also may provide conﬁrmation for
+an event to which a witness may testify, and it may identify gaps or inconsistencies
+in a witness’s testimony that need to be ﬁlled or resolved.
+The master chronology places all events that are or may be relevant to the case in
+the order in which they occurred. At the early stages of a case, it enables the analyst
+to identify gaps that require further investigation and hypotheses that should be
+1 Schmalleger (1996).
+2 See Rule 801(d)(1)(B) of the United States Federal Rules of Evidence and Old Chief v. United States,
+519 U.S. 172 (1997).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.007 Published online by Cambridge University Press
+
+
+--- Page 179 ---
+148
+Analysis of Evidence
+explored.Atthelaterstagesofacase,itbecomesadevicefortestingthecompleteness
+of the chart or outline the analyst has prepared. Throughout, it is a device for
+recording evidential propositions that should be considered in constructing a key-
+list or an outline. At any stage, it provides the basis for identifying story possibilities
+in the evidence.
+The narrative, as an analytical device, can be used to construct logical stories
+that could be supported by the evidence. A narrative is a device that complements,
+but cannot substitute for, a detailed analysis. Once the analyst has identiﬁed and
+reﬁned her ultimate and penultimate probanda and has developed her provisional
+theory of the case and constructed a master chronology and a key-list and chart
+or a detailed outline, the logical story possibilities for each side are ordinarily easy
+to identify. In using the narrative as an analytical tool, the analyst is interested in
+constructing stories that order the evidence so that it logically supports her theory
+of the case.
+In early stages of an investigation, the narrative further assists the analyst in
+identifying gaps that must be ﬁlled in order to present evidence that supports the
+narrative. It also further enables her to use the narrative to identify hypotheses to
+be explored. In the later stages, the analyst will seek to construct a story that is
+supported by and accounts for all of the evidence she intends to present to the
+decision-maker and one that cannot be effectively undermined by the evidence she
+anticipates her opponent will present. Ultimately, the objective is to create a story
+that the fact-ﬁnder will accept as the most plausible (or, for the prosecution in a
+criminal case, the only plausible) story of what happened that is supported by the
+evidence.
+The analyst must, however, be able to identify the logical weaknesses of the
+narrative that she proposes to adopt and of the narrative that she anticipates her
+opponent is likely to craft. The objective is to develop a persuasive narrative that
+is not only consistent with and supported by the evidence, but that also minimizes
+the possible points on which it is vulnerable to attack. She must also identify the
+weaknesses of her opponent’s anticipated narrative account in order to plan how
+she can persuade the fact-ﬁnder that it is ﬂawed or in any event less plausible than
+the narrative she advocates. It is the atomistic analysis developed through the chart
+or outline methods that makes this possible.
+Exercise
+1 In Simpson, the prosecutor’s narrative argued that the African American male in dark
+clothing who entered the house ﬁve or six minutes before OJS emerged at 11:00 p.m.
+was OJS returning from NBS’s condominium, the scene of the crime.3 Based upon the
+analysis you developed for the preceding exercise, account for these facts in a narrative
+3 Schmalleger (1996).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.007 Published online by Cambridge University Press
+
+
+--- Page 180 ---
+Outlines, chronologies, and narrative
+149
+that provides greater support for proposition III.C and that is less vulnerable to
+attack.
+2 From the evidence available in United States v. Able, it would be a simple matter for
+the prosecution to develop a narrative that would support a headline statement of the
+theory: “High Liver Comes on Hard Times; Lawyer Turned Law Professor Cheats on
+Taxes to Maintain Exciting Lifestyle.” It would be equally simple for the defense to
+develop a narrative that would support the headline: “Government Prosecutes
+Innocent Taxpayer for Accountant’s Error.” Each has signiﬁcant weaknesses that
+opposing counsel could use to attack it. Develop the narratives and then identify the
+signiﬁcant weaknesses in each. Could the prosecution develop a revised theory of the
+case and a different narrative that were equally strong, but that are less vulnerable to
+attack? Could the defense? How?
+C. The litigation context
+The chart and outline methods of analysis are complementary. The initial analysis
+is likely to employ the outline method. The penultimate probanda are the main
+headingsintheoutline.Ifthequestionis,“Dowehaveenoughinformationtojustify
+ﬁling a complaint?” an outline is frequently the most effective way to organize the
+available and the anticipated data. As a device, the master chronology is a key-list
+of evidential propositions ordered chronologically. The ordering makes it possible
+to see conﬂicts and gaps without preparing a chart. It also makes it possible to
+transform the evidence and possible inferences into a narrative account. Outlines,
+chronologies, and narratives are ﬂuid; each can readily be updated and revised to
+account for new evidence as it becomes available. The chart method, however, is
+static: It is the most rigorous method for determining and assessing, at a particular
+point in time, the extent to which the evidence can be marshaled to support or
+undermine an ultimate probandum, but its products will remain the most time-
+consuming to develop and revise. Against that background, we discuss the uses and
+limits of the methods and the devices at various stages of litigation.
+1. The stages of a case and the methods of analysis
+Deﬁning the protocols for the methods of analysis does not answer three practical
+questions of considerable importance. Which methods and devices are most useful
+for recording the products of analysis over time as the case develops? At what stages
+is a complete analysis worthwhile? Which method of analysis is likely to be most
+useful at each of those stages?
+Logical analysis is required at all stages from initial interview through settlement,
+trial, or appeal. Most ofﬁce procedures used by lawyers have as one of their pur-
+poses recording particular aspects of the analysis in a retrievable and usable form.
+A memorandum documenting the results of an interview reports facts that the
+lawyer thinks may be relevant. An outline for a deposition sets forth areas in which
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.007 Published online by Cambridge University Press
+
+
+--- Page 181 ---
+150
+Analysis of Evidence
+the lawyer has concluded that the deponent may be able to testify or provide other
+informationthatwillleadtoevidencethatisrelevanttofactsthatmustbeestablished
+to support or confound the possible ultimate probandum that has been identiﬁed.
+The memorandum of law is a device by which lawyers typically document the
+research necessary to enable them to frame or revise the potential ultimate proban-
+dum in a case. The case ﬁle itself is a device for compiling and maintaining such
+products in an organized manner. Good lawyers have systems for maintaining case
+ﬁles that are designed to organize the information in a form that facilitates ongoing
+analysis. From this perspective, all these are subordinate devices for analysis.
+An outline that organizes the available evidence by penultimate probanda is a
+device that enables the lawyer to determine the state and sufﬁciency of the available
+evidence at any stage. The form may differ, but the basic requirement for such a
+device is that it serves as a precise index. It must identify each element that must
+be proved under the theory provisionally adopted and each witness and exhibit
+that is thought relevant to establishing or confounding that element. It should
+also include a summary description of the evidence that the witness or exhibit
+is expected to .provide that is relevant to that element. It should identify each
+of the intermediate probanda, each item of evidential data that is, alone or in
+combination, necessary to show the logical relation of the item to the penultimate
+probandum it supports. Such an outline is an adaptable tool. Information provided
+by new witnesses or documents can be inserted as discovered, and the lawyer can use
+the device to identify particular necessary elements for which the evidence seems
+inadequate or altogetherlacking and to determine where investigative efforts should
+be concentrated.
+At various stages, systematic analysis of the evidence for the case-as-a-whole
+is also necessary. Most lawyers would probably agree that there are at least three
+stages in a litigated case at which such systematic analysis is appropriate – before
+the ﬁrst factual pleading is ﬁled, before the decision to forego further discovery
+or investigation is made, and before the case is tried. In the ﬁrst stage, the outline
+method is ordinarily sufﬁcient. The importance of the decisions that must be made
+at the latter two stages may make it necessary that the chart method be employed.
+We examine the ﬁrst two stages in some detail and describe methods of analysis that
+seem appropriate for each. We comment upon ﬁnal trial preparation only brieﬂy
+here, reserving a more detailed description for Chapter 12.
+a. The pleading stage
+Before the complaint or indictment is ﬁled, the lawyer for the plaintiff or the gov-
+ernment should be satisﬁed that facts can be alleged that, if proved, would justify
+a favorable judgment as a matter of law. The lawyer should also have a reasoned
+basis for believing that she has, or is likely to be able to obtain, evidential data that
+support each of the necessary allegations. These data should be at least sufﬁcient to
+withstand a motion to dismiss the complaint or for judgment on the pleadings. In
+order to frame the complaint, the lawyer must have a provisional theory or theories
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.007 Published online by Cambridge University Press
+
+
+--- Page 182 ---
+Outlines, chronologies, and narrative
+151
+of the case. That is, the lawyer must have identiﬁed one or more propositions of
+substantive law; in light of the information available, she must have framed one
+or more ultimate probanda that would bring the case within the scope of the legal
+rule or rules identiﬁed; and she must have a reasoned basis for concluding that the
+available facts, if accepted, would logically entitle the plaintiff or the government
+to the relief sought. Even under notice-pleading rules, the plaintiff or prosecuting
+authority must, at a minimum, allege the ultimate facts necessary to justify the out-
+come sought. These allegations are, in effect, the penultimate probanda necessary
+to support the theory or theories of the case provisionally adopted. Cost-beneﬁt
+analysis reinforces the professional standards that require the lawyer to have a good
+faith basis for believing that there is evidential data available sufﬁcient to sup-
+port each of the necessary allegations before suit is ﬁled or speciﬁc defenses are
+asserted.
+On the other hand, time constraints and inaccessibility usually combine with
+cost considerations to make it impracticable to develop and analyze the evidential
+data fully before ﬁling the ﬁrst pleading. Much of the potential evidence may be
+obtainable only through discovery, and one function of the pleadings is to deﬁne
+the disputed issues of fact, in order that the parties and the court do not devote
+needless time to considering facts that are not in dispute. Nonetheless, at this stage,
+the lawyer should have rather carefully articulated statements of the provisionally
+adopted ultimate probandum or probanda and should have identiﬁed and articu-
+lated the provisional penultimate strategic probanda for each. The questions then
+become: What evidential data do I have that support the inferences necessary to
+argue that each of the penultimate probanda has been proved? From what sources
+do I reasonably think I can obtain the additional evidence necessary to establish or
+strengthen the required inferences?4
+Many lawyers use an outline format for this stage. The ultimate probandum, the
+penultimateprobanda,andthesupportingintermediateandevidentialpropositions
+are organized in outline form, albeit in a somewhat summary fashion. The concern
+here is the sufﬁciency of the allegations and the existence of a good faith basis for
+believing they are provable.
+b. Before the close of discovery and investigation
+Intheearlystagesofadisputeandthroughouttheinvestigativestages,abductiverea-
+soning is at least as important as inductive and deductive reasoning. Like Kemelman
+in “The Nine Mile Walk” (above, page 11) or the police cadet in “An investigation”
+(above, page 40), the lawyer is a detective looking for possibilities suggested by the
+evidence or the nature of the case. In the early stages, the real danger is that the
+lawyer will settle too quickly upon a single theory of the case and, often for that
+reason, will fail to identify or consider additional sources of evidence that might be
+4 The lawyer should also have memoranda documenting the legal research and analyses that support
+what have been identiﬁed as the controlling propositions of law from which the ultimate probanda
+have been derived.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.007 Published online by Cambridge University Press
+
+
+--- Page 183 ---
+152
+Analysis of Evidence
+explored. No analytic devices can be a substitute for the creative thought needed
+during this (or other) phases of a case, but they can aid the lawyer in seeing gaps
+and weaknesses that may warrant further investigative effort.
+These dangers indicate the need for a comprehensive and structured analysis
+before the investigative phase ends or is abandoned. Is there sufﬁcient evidence with
+respect to each necessary element of the ultimate probandum to withstand a motion
+for a directed verdict at the close of the plaintiff’s, prosecutor’s, or defendant’s case?
+Can the evidential data be organized to support a compelling argument that each of
+the elements has been proven to the required standard? Have any possible sources
+of important data been overlooked? The lawyer must have a means of answering
+each of these questions in a rigorous fashion before the opportunity for further
+investigation ends.
+It is at this point that a comprehensive and detailed method is necessary. The
+outline – expanded to include every signiﬁcant proposition that would appear on a
+key-list – is a necessary device for responding to the ﬁrst question and may provide
+signiﬁcant aid in responding to the second and third. The chart method is for some,
+including the authors, a device for depicting the logical relationships among the
+propositions in a manner that permits more rigorous analysis and appraisal. In
+many cases, micro-charts of crucial points coupled with a detailed outline might
+sufﬁce. For example, the evidential data bearing on OJS’s opportunity would have
+been and still is a good candidate for a detailed charted analysis.
+Application of one or both of these methods also provides the foundation for
+a more rigorous use of narrative. A narrative, in this context, provides a method
+for reorganizing the data in a form that enables the lawyers involved to make a
+reasoned judgment concerning the second inquiry: Can the available evidential data
+be organized and presented in a form that makes a compelling logical argument for
+the result sought? A narrative forces the lawyer to organize and present the analysis
+in a familiar form. Placing aside rhetorical devices and dramatic organization, the
+narrative method is designed to organize the evidence into a coherent story that is
+logically supported by the evidence, which will enable the lawyer to assess whether
+a jury would be likely to understand and, more important, be persuaded by the
+theory it is intended to illustrate.5
+c. Final trial preparation
+If the analysis justiﬁes a decision to end the investigative phase, the lawyer has
+presumably prepared the analysis upon which she will rely at trial. All the data
+have been analyzed, and the inferences have been organized in relationship to the
+ultimate probandum. The data are as complete as possible or feasible. What remains
+is presentation. Key-lists and charts, outlines, chronologies, and narratives serve
+5 Itisthisvirtuethat,intheauthors’view,makesitappropriatethatthenarrativemethodbeemployed
+to complement and supplement other methods. Using the narrative method alone is dangerous.
+The danger is that the “story” will take over, and the lawyer will pay inadequate attention to the
+detail necessary to support each step in the argument.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.007 Published online by Cambridge University Press
+
+
+--- Page 184 ---
+Outlines, chronologies, and narrative
+153
+additional strategic and practical functions when the task is organizing the data
+for trial or other use. These functions and the other devices typically employed in
+trial preparation are sufﬁciently important that they are developed more fully in
+Chapter 12.
+A further point should be emphasized. The utility of the chronologies and nar-
+ratives is not limited to ﬁnal trial preparation. They may be employed at any stage
+for appraisal and to facilitate translating the current state of the analysis into a
+statement that facilitates use in other aspects of a case – in counseling a client about
+the strengths and weaknesses of the case; in stimulating imaginative reasoning at
+the investigative stages of a case; in persuading opposing counsel that a favorable
+settlement is in the best interests of the opposing party; in identifying additional
+witnesses or other evidence that might strengthen a case; or in persuading a judge
+that the case requires a trial on the merits. Moreover, the notion of “narrative” and
+the related notions of “theory of a case,” “story,” and “theme” are featured today
+in many contemporary discussions of litigation theory and practice. Consideration
+of the methods and devices and their utility requires preliminary consideration of
+these related ideas also.
+D. Theories, themes, stories, and situation-types
+In order to prepare or to present a case, counsel for each of the parties must develop
+a strong logical theory of the case. In most cases, especially those to be tried by a jury,
+counsel must develop recurring themes that will serve as points of emphasis and
+reinforcement with respect to crucial parts of the case. In each case, counsel must
+use the theory adopted and the themes identiﬁed to construct a compelling story
+of what the evidence in the case shows. In most cases, counsel will be better able to
+develop and test their theories, themes, and stories by identifying and describing a
+general situation into which the case ﬁts as illustrated by the story that reinforces
+the need to ﬁnd the facts in a way that supports the result counsel seeks. We discuss
+these concepts in greater detail in chapters that follow. For present purposes, we
+need to draw fairly precise distinctions between four notions and identify the ways
+in which methods of analysis contribute to their development.
+The theory of a case, in advocacy, is the logical statement of the case-as-a-whole
+selected by counsel from the available alternatives, in light of opposing counsel’s
+anticipated theory and in light of counsel’s choice as to theme and story. The theory
+should be capable of statement in the form of a series of syllogisms that demonstrate
+that the desired conclusion is necessarily true, given the controlling legal principle
+and the available evidence and assuming the truth of the proposed inferences.
+The theory of the case is a product of analysis. For the Wigmorean lawyer, the
+key-list and chart enable her to test her provisional theories and revise those theories
+until she has settled on the theory that provides strongest support for her client’s
+position and is least vulnerable to attack by opposing counsel, the theory that will
+enable her to marshal the evidence that provides the strongest support for the
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.007 Published online by Cambridge University Press
+
+
+--- Page 185 ---
+154
+Analysis of Evidence
+conclusion that the ultimate probandum has (or has not) been proved. The theory
+adopted must be capable of statement in logical form. The lawyer should be able
+to organize the data and marshal the arguments in syllogistic form to demonstrate
+that, if all of the generalizations upon which the required inferences depend are
+valid, the ultimate probandum must be accepted as proven to a certainty (or as
+incapable of being proven to the required degree of certainty). In that sense the
+theory of the case is a matter to be tested by logic.6
+Theme: An English barrister described the theme of a case better than we could:
+Having decided on a theory, you must pick a theme to ﬁt that theory. You must have two
+goals in mind: First, why the other side is responsible for what happened and second,
+why your client is not. For example, big business at its intolerant and unimaginative
+worst; on the other hand, no one is perfect; there is a limit to the care and foresight
+which the ordinary man like your client cannot be expected to possess, etc.7
+Frequently, the theme is announced as the headline at the beginning of the
+opening statement. For example, counsel might begin her opening statement in
+Sargent v. Southern Accident Co. (above, page 28) with the assertion: “This is a story
+about a heartless insurance company that chose to prolong the agony of grieving
+parents by refusing to pay the amount due under the policy for which they had paid
+until they proved the obvious – that their son is dead.”
+Sometimes a theme may be expressed in a sentence or phrase that is used repeat-
+edly for emphasis. For example, in Simpson one of the prosecutors challenged OJS
+to put on the bloody glove that had allegedly been worn by the murderer and found
+behind his house. It did not ﬁt. Throughout his closing, defense counsel sounded
+the theme, “If it doesn’t ﬁt, you must acquit,” every time he identiﬁed items of the
+prosecution’s evidence that could plausibly be interpreted as not supporting OJS’s
+guilt.
+The same barrister described the relationship between analysis and the develop-
+ment of theory and theme and emphasized their importance as follows:
+A primary task in any litigation is to develop a cohesive theory and theme of the case.
+The theory should be that explanation of the facts which shows logic requires your side
+to win and the theme should be that explanation of the facts which shows the moral
+force is on your side. This strategy should provide a framework for assimilating the
+facts in a manner which is most advantageous to your client. Since there are generally
+some harmful facts in any litigation, you should choose a strategy which does not rely
+on these facts and which makes such facts irrelevant . . .
+Selectingatheoryissimplyoneaspectofcarefulpreparationandisthesinequanonof
+effective litigation. Without a coherent framework provided by a carefully considered
+strategy, the most exhaustive preparation, the most cogent argument, and the most
+sympathetic case will be unavailing. While a cohesive theory cannot take the place of
+6 Theterm“theoryofthecase”or“casetheory”isusedinseveraldifferentways.Foragooddiscussion,
+see Palmer (2003) Ch. 5.
+7 Bennett (1986).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.007 Published online by Cambridge University Press
+
+
+--- Page 186 ---
+Outlines, chronologies, and narrative
+155
+thorough preparation and a favorable set of facts, it is the glue which holds together
+the other elements required for successful litigation.8
+The selection of the best theory of the case and its conversion into a compelling
+narrative account, however, require more than logical analysis from the standpoints
+of the proponent and opponent. It requires an understanding of the human and
+physical material available as witnesses and other autoptic proferences and of the
+signiﬁcant generalizations likely to inﬂuence a jury in a case of this kind. These are
+the materials by which the story of the case as a whole must be presented and from
+which the necessary themes can be established.
+A story is a narrative account of a succession of events, ordinarily presented in
+the chronological order in which they occurred, presented as a meaningful whole.9
+Three elements are essential to the usage adopted here – a story is a narration of
+events arranged in a time sequence; the narrated events are abstracted from their
+disposition in the evidence presented at trial; and they are presented as a meaningful
+totality.
+In this usage, the “story of a case” would be the advocate’s narration of events
+abstracted from the evidence and arranged in a sequence to persuade the fact-ﬁnder
+that the story told is the most plausible account of what “really happened” that can
+be constructed from the evidence that has been or will be presented. In advocacy,
+the story must not include elements that are logically inconsistent with the theory of
+the case and must be a plausible account, the main elements of which ﬁnd support
+in the evidence.
+It should be clear that construction of stories from the available evidential data
+may be useful at any stage of the analysis. The master chronology and the narrative
+are independently useful analytic devices. Both can reveal gaps in the evidence at a
+time when further investigation or discovery might enable the advocate to ﬁll them
+before trial. More, however, is required of a story in the context of a trial. It must
+be a story the fact-ﬁnder, judge, or jury will ﬁnd compelling. Typically the story is
+ﬁrst told as part of the opening statement, and is retold and urged as the only or
+most probable account in closing argument.
+Situation: We shall use the term “situation” where what is being described or
+depicted is a state of affairs at a given moment of time as contrasted with a sequence
+of events. A description of a situation is like a still photograph; a story is like a
+moving picture. Both may be included in a narrative account. In this connection,
+we have deliberately avoided using “scene,” because it tends to be used ambiguously
+in lawyers’ talk. A “scene” may refer to a place (as in “the scene of the crime”) or to an
+8 Id. at 1–2.
+9 Two deﬁnitions offered by literary theorists are useful in the present context. In one view, a story
+is a narrative of particular events arranged in a time sequence and forming a meaningful totality.
+Adapted from P. Ricoeur (1981) 278–79. In another, the notion of story is limited to “the narrated
+events, abstracted from their disposition in the text and reconstructed in their chronological order,
+together with the participants in the event[s].” S. Rimmon-Kenan (1983) 3. See Rethinking, Ch. 7,
+“Lawyers’ Stories” (for a fuller discussion of the role of story in advocacy and adjudication).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.007 Published online by Cambridge University Press
+
+
+--- Page 187 ---
+156
+Analysis of Evidence
+episode or part of a story (as in a scene in a play) or to a static situation (as in “he set
+the scene before outlining the plot”). Although when used with precision “scene”
+is often a useful term, loose usage glosses over distinctions that are important for
+purposes of analysis.
+In using situation sense, the advocate or judge categorizes the facts of the present
+case as a type of situation and describes it at a level of generality and using language
+that makes it ﬁt some recognizable general rule or principle that will justify the
+desired outcome in this case.10 Consider, for example, the persuasive force of this
+famous passage from a judgment of Lord Denning:
+Did the accountants owe a duty of care to the plaintiff? . . . They were professional
+accountants who prepared and put before him these accounts, knowing that he was
+going to be guided by them in making an investment in the company. On the faith of
+these accounts he did make the investment whereas if the accounts had been carefully
+prepared, he would not have made the investment at all. The result is that he has lost
+his money.11
+Similarly, an advocate, in presenting her client’s story in a case involving disputed
+issues of fact, might seek to characterize it as creating a situation in which the theory
+and themes come together in a pattern that compels the result sought. For example,
+an advocate might characterize the situation as one involving a professional advising
+a non-professional and that professional expecting the advice to be relied upon.
+The relationship between constructing theories, telling stories, and describing
+situations, on the one hand, and constructing and analyzing arguments about evi-
+dence, on the other, raises an important issue concerning the relationship between
+story telling and atomistic analysis. Many trial lawyers and decision theorists believe
+that juries (and other fact-ﬁnders) make “holistic” judgments – that they are per-
+suaded by stories. In this view, juries choose between the two stories presented
+by the contending lawyers (or adopt a variant of their own) and decide the case
+accordingly. We largely agree with this view.12
+In our view atomistic analysis is fundamental to story construction in the adver-
+sarial system because:
+In principle, the adversarial system is designed to assure generally sound processing of
+information and resolution of questions of fact because it assigns primary responsibil-
+ity for atomistic analysis and evaluation to the contending lawyers and appropriately
+restricts the amount of information and the manner of its presentation to the ultimate
+decision maker, be it judge or jury.13
+10 Situation in this usage is often similar to Karl Llewellyn’s notion of “situation sense,” which he
+developed in the context of appellate arguments about disputed questions of law. K. Llewellyn
+(1960) 121–32, 268–74 . Note that “situation” in this context is not necessarily conﬁned to static
+states of affairs.
+11 Candler v. Crane Christmas [1951] 2 K.B. 164 at 176.
+12 See Theories of Evidence 183–85, 226; Rethinking, at 219–61.
+13 Anderson (1991) 785.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.007 Published online by Cambridge University Press

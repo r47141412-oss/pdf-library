@@ -1,0 +1,803 @@
+# Chunk 22 of 26
+# Document: Analysis of Evidence
+# Characters: 49279
+
+--- Page 351 ---
+320
+Analysis of Evidence
+established by testimonial assertions and real evidence admitted at trial, presented
+in a narrative form that hopefully compels the conclusion that the ultimate
+probandum has been proved or not proved. Each assertion is typically indexed to the
+witness(es) or exhibits from which the evidential data will be drawn. The function of
+the statement is to provide a touchstone of relevance in planning and conducting the
+trial; not a comprehensive regurgitation of the evidence, but also not so abstract a
+compilation that neither theory nor theme is clear.
+c The law. The summary articulation of the law the lawyer expects the court to apply or
+instruct the trier-of-fact to apply to the facts. Here again, the focus is upon the
+lawyer’s theory of this case, not simply a persuasive regurgitation of the law for all
+possible theories or a summary of the jury instructions. Typically, both parties in their
+pleadings have articulated a variety of theories of liability and defense. If pre-trial
+preparation has not eliminated or ordered the signiﬁcance of most of those theories,
+the lawyer’s job has not been done. Here the lawyer is setting out his or her considered
+judgment as to what will constitute the law of this case – the legal assumptions against
+which the trial is to be organized and presented.
+d Strategy, problems, and solutions. The theory, story, theme, facts, and law have been
+organized, not only in light of what the lawyer has to work with, but also in
+anticipation of what opposing counsel has and how she can and will use it. Here
+counsel presents the major strategic judgments made, the critical challenges
+anticipated, the possible solutions identiﬁed, and the fall-back positions selected. For
+example, in the prosecution of Archer for the murder of Vern, if the prosecution has
+determined that Archer stood to inherit considerable wealth as a result of Vern’s
+death, that fact plus the scrap of cloth and the jacket may be the central facts in the
+prosecution’s theory and theme. (Review the facts in State v. Archer [III],
+pages 142–44.) If the defense counsel has determined that evidence is available to
+suggest that Baker believed he had been cheated when Vern broke their partnership or
+that Carl thought Vern caused his sister to commit suicide by breaking off the
+engagement, those facts plus the Tuesday visit may be central to the defense theory
+and theme. The admissibility of the evidence supporting these inferences on either
+side may be open to challenge, in which event the entire strategy of each side might
+hinge upon how the court will rule on these admissibility questions. Here, counsel
+would identify the problems, how each is to be resolved, and, where necessary, what
+the best fall-back position would be.
+In sum, the preliminary memorandum presents the lawyer’s best judgment on
+how the case can and should be presented. Prior to trial, it constitutes his or her
+touchstone in organizing the other components of the trial: Is this testimony consis-
+tent with the theory, story, and theme? Consistent with the strategy? Is it necessary?
+What function does it serve? During the trial, it is the ready reference that enables
+the lawyer to revisualize the forest after a day of cutting trees and wandering down
+unexpected paths. How do I get back on the main path tomorrow?
+2. The trial components. The trial lawyer will have outlines and checklists for
+every component of the trial, typically organized in the sequence they will be used.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.013 Published online by Cambridge University Press
+
+
+--- Page 352 ---
+The trial lawyer’s standpoint
+321
+The following notes describe the kinds of materials that might be included in each
+segment of a trial book and how the pre-trial devices might be used in developing
+them.
+a Jury selection. If the case is tried to a jury in the United States, each lawyer will need a
+checklist, charts, and questions to guide him or her in jury selection. The
+development of the materials will depend upon the particular jurisdiction’s and
+judge’s (i) rules and attitudes about the function and scope of voir dire questioning
+and about the lawyer’s role in the process and (ii) procedure for exercising challenges.
+Given these, the lawyer must make judgments about the characteristics and
+backgrounds of the “best” and “worst” kinds of jurors for the particular case. The
+lawyer wants jurors who will understand the theory, respond to the themes, and be
+governed by the generalizations upon which both depend. The lawyer’s judgments on
+prospective jurors may be guided by scientiﬁc inquiry, past experience, or biases and
+“lore” (lawyers’ generalizations). Of course, while the manifest function of voir dire is
+to select a jury, it is often used in practice to serve other functions, such as to educate
+or establish rapport with the potential jurors.
+b Preliminary matters. In almost all complex cases and in some jurisdictions, all
+pre-trial motions and other matters are resolved before the trial begins. In some
+jurisdictions, counsel may make pre-trial motions and address “housekeeping”
+matters – e.g., to invoke the rule excluding witnesses from the courtroom until they
+have testiﬁed or to ask how freely may counsel move about the courtroom – before
+opening statements. Indeed, where permitted counsel may wish not to disclose her
+position on some issues until the last possible moment for strategic reasons. Often,
+such motions seek to resolve an evidentiary issue where counsel does not want her
+opponent to mention the evidence in opening statement – e.g., motions to exclude
+evidence of a prior crime or bad act under Rule 404(b) of the Federal Rules of
+Evidence. This section of the trial book would identify the matters to be addressed or
+that may be raised by opposing counsel before opening statements and would include
+summaries of the arguments to be made and the supporting authorities and, to the
+extent possible, opposing authorities counsel may have to address.
+c The opening statement. There are many views about the signiﬁcance of an opening
+statement and what it should include. But its content is ordinarily a function of two
+variables: the central facts (as identiﬁed in the preliminary memorandum) and the
+lawyer’s strategy. Rarely would a lawyer include facts not identiﬁed as central to her
+theory of the case; often strategy will dictate holding back some of these. The object is
+to present the facts necessary to understand the theory of the case and to establish the
+central themes to be developed, but it may be necessary to avoid areas where counsel
+is uncertain how the trial will develop.9 But ordinarily the opening is where the
+foundation for theory and theme are established. Within the limits imposed by
+9 At the extreme are those occasional criminal defenses where the nature of the defense depends
+largely upon how the prosecution develops its case or where counsel is seeking to keep the defense
+cards concealed. There the defense opening may be little more than a peroration calling upon the
+jurors to keep open minds and reminding them that the burden is on the government to prove its
+case beyond any reasonable doubt and that the defendant need not even take the stand.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.013 Published online by Cambridge University Press
+
+
+--- Page 353 ---
+322
+Analysis of Evidence
+strategic and ethical considerations, the opening statement is also when the lawyer
+tells the story and establishes the themes she expects to develop through presentation
+of evidential data and to emphasize in closing argument. Its structure and delivery are
+functions of these objectives, plus rhetorical and communication considerations. In
+addition, the opening statement ordinarily lays out the program and storyline for the
+“play” to follow; for example, who will be witnesses and what they will contribute.
+The trial book will, at a minimum, include a checklist of points to be covered and an
+outline for counsel’s speech.
+d The Evidence. The evidence sections of the trial book ordinarily follow the order in
+which witnesses and exhibits will (or in which counsel anticipates they will) be called
+or used.
+i The opening party (plaintiff or prosecution) will typically have for each witness:
+a A statement of objectives to be achieved through this witness and a checklist.
+(What components of the theory must be established through this witness?
+Which evidential assertions on the key-list must be adduced here? How can this
+witness contribute to establishing the planned themes?)
+b A “script” of proposed questions and anticipated responses or, more likely, an
+outline of the testimony to be elicited from each witness, organized to bring out
+the central points in a dramatically effective way and structured to place
+emphasis on the propositions essential to the theory in a manner that develops
+the themes,10 including questions sufﬁcient to establish the necessary
+foundation for each exhibit to be introduced through that witness.
+c Copies (or abstracts) of any documents or other real evidence to be introduced,
+identiﬁed, or used through the witness.
+d A set of notes addressing various objections or other points of law likely to arise
+with references to cases or other authorities that counsel will use or anticipate
+her opponent will use with reference to the folder containing copies of those
+cases.
+e Copies (or abstracts) of any prior statements or transcripts of depositions that
+the witness gave at an earlier time.
+ii Opposing counsel’s trial book will contain for each of those witnesses:
+a A statement of counter-objectives. (Is the witness to be discredited? Can this
+witness be compelled to make assertions that are on the defense key-list or that
+will place the testimony on direct in a different context? And so on.)
+b A “script” of questions for anticipated cross-examinations or, more likely, a
+point outline indicating the lines of questioning that may be developed.
+10 Few experienced lawyers “script” the anticipated dialogue. For that reason and because “scripting”
+may raise serious ethical concerns, many trial practice teachers do not require it and some do not
+permit it. In the context of teaching the art of questioning, however, scripting can be a valuable
+exercise for students because the art of direct examination is far more difﬁcult than most young
+lawyers perceive. To present a dramatically effective and coherent conversation without using
+leading questions while assuring that the proper foundations are laid to establish the competence
+of the witness does not come naturally. Anderson and others teaching practice skills have found
+that the development of the necessary skills is accelerated if a proposed “script” is actually written
+out in advance of the examination and is available for pre- or post-performance critique.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.013 Published online by Cambridge University Press
+
+
+--- Page 354 ---
+The trial lawyer’s standpoint
+323
+c Documents or exhibits that the witness may be called upon to identify or that
+may, if permitted, be introduced during cross-examination.
+d Law notes for objections, with references to authorities.
+e Prior statements or deposition transcripts that may be used to refresh the
+witness’s recollection or impeach his or her credibility.
+iii For the defense case, the sections of the trial book are the same, but the roles are
+reversed. Counsel for the defense are concerned with direct examination of
+witnesses and introducing exhibits; counsel for the plaintiff or the government are
+concerned with cross examination of witnesses and blocking.
+iv The roles again shift for any rebuttal. The notes and copies for planned motions,
+stipulations, and other problems are interspersed appropriately.
+Interspersed in the witness-by-witness sections, the trial book will ordinarily contain
+copies of documents to be admitted and published and facts to be introduced by
+stipulation or by judicial notice with appropriate notes on the objectives to be
+achieved and the legal problems to be confronted in each instance. Finally, both
+sides will have outlines for motions to be made (or anticipated) at the close of
+the plaintiff’s or prosecution’s case (or at earlier stages) with supporting
+authorities.
+e The closing statement. For the trial book, an abstract and a speaking outline: But
+here the theory, theme, and law must be interwoven; the plausible story told. Based
+upon the evidential propositions established and the lawyer’s assessment of the best
+theory and theme now available, the closing argument is developed. The analysis
+developed in the Wigmorean chart and developed as the outline for the plausible
+story must, at the close of trial, be adjusted (mentally) for surprises that occurred
+during the trial. The task is translating the analysis into a persuasive story and
+argument.
+f Miscellaneous. Every trial book will also contain other materials that may be necessary,
+but will not be presented at trial – e.g., (i) a checklist of exhibits with space to record
+whether each was identiﬁed, admitted (with or without objection), or rejected (and
+on what basis); (ii) a master checklist to keep track of all the evidence to be introduced
+or opposed to assure that the essential data have been included; (iii) copies of any
+pre-trial papers that may be necessary at trial; (iv) the pleadings or pre-trial order, as
+a touchstone for relevance; the admissions, as the basis for introducing facts without
+testimony; (v) the objections or other law problems the court ruled upon before
+trial; and (vi) the jury instructions tendered (or to be tendered), approved, and
+rejected.
+3. The trial book: an art form
+Master chronologies, diagrams, key-lists, and charts are all devices for organizing
+and analyzing the available data. The skills required to prepare each go beyond the
+mechanical, beyond the logical analysis; art and judgment are required for each. So
+too, the trial book. The trial book should be a central organizational and analytical
+device.Itistheﬁnalpre-trialvehiclethroughwhichthelawyerputsthecasetogether.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.013 Published online by Cambridge University Press
+
+
+--- Page 355 ---
+324
+Analysis of Evidence
+During the trial, it constitutes the lawyer’s “bible.” But a trial is more than a mere
+presentation of facts and legal principles; judges and juries are neither computers
+nor logicians. The trial is an art form.
+The dramatic play and the theater provide useful artistic metaphors for the
+trial and courtroom. In this metaphor, the trial book is the producer-director’s
+masterproductionbook.Thelawyer’srolesareawesome.Sheistheeditor-producer-
+director.Thefactsavailabletoeachplayermustbeeditedandorganizedfordramatic
+effect as well as logical relevance. The actors must be rehearsed or prepared. The
+sequence in which each will appear and in which the story is to unfold must be
+planned and determined. The conventions of the “theater” must be analyzed to
+determine how to protect and enhance the one play and restrict and limit the
+options available to the other. All this must be planned before trial. During the
+trial, the lawyers take on additional roles as stage managers and major actors. And
+only rarely is there an opportunity to test the production on the road – the ﬁrst
+performance is typically the last. Two plays are competing on the same stage for
+one audience. One play (deserved or not) will get rave reviews; the other will be
+consigned to oblivion.11
+The metaphor can be carried too far. The conventions are ethical as well as
+legal. The system depends on the players observing established norms of con-
+duct whose violation might not be noticed by the judge-critic, but on whose exis-
+tence the entire system relies. But even so limited, the metaphor illustrates the art
+required in preparing the trial book and presenting the evidence and argument at
+trial.
+The trial book is central. It identiﬁes the theory, story, and themes to be
+developed at trial and the plan for their development. It creates and deﬁnes the
+sequence in which witnesses and other evidence will be presented to maximize their
+dramatic effect in relation to the theory, story, and themes chosen. But it also estab-
+lishesthedetail:planning,sometimesscripting,thedialogue(witnessexamination);
+outlining, sometimes scripting, counsel’s soliloquies (opening and closing); iden-
+tifying the physical exhibits (a scrap of cloth, a coat, a wheelchair, a map, a model,
+etc.); and specifying the manner in which each will be presented and used. The more
+complete the book, the less the stage manager has to carry in her head during the
+trial.
+And it should be clear that during the trial, the lawyer as actor, producer, and
+stage manager will have enough to do and is likely to lose the theory and theme and
+fail to present the story unless the production book is at hand and is a competent
+work of art as well as a complete reﬂection of the mechanics. Logical analysis and
+organization are always necessary conditions; never sufﬁcient.
+11 The metaphor should not for a moment obscure ethical responsibility of the lawyer. Not only
+is the trial a play with real consequences in terms of just and unjust outcomes, but also at every
+stage the lawyer must remember that the law and the profession impose obligations intended to
+advance the ascertainment of truth. Nonetheless, with that admonition, the dramatic metaphor
+is useful.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.013 Published online by Cambridge University Press
+
+
+--- Page 356 ---
+The trial lawyer’s standpoint
+325
+B. Two simple cases
+1. Suggested format
+Two mini-trial problems that are the basis of this exercise were developed for use
+in the Inns of Court School of Law in London for training would-be barristers.
+They take the form of a modiﬁed solicitor’s brief to a barrister. They also represent
+compact exercises by which the course-to-date can be put together.
+The problems are designed so that, where appropriate, a class can be divided into
+two-person law ﬁrms, for example, Law Firms A, B, C, and D. In an eight-person
+exercise, the Law Firms would be paired in the following manner. Law Firms B and
+D would represent the prosecution (or supply the prosecution witness); Law Firms
+A and C would represent the defendant (or supply the defense witness). The trial
+pairings would thus be:
+Police v. Weller
+Police
+v.
+Weller
+Counsel Firm:
+B
+C
+Witness Firm:
+A
+D
+Police v. Twist
+Police
+v.
+Twist
+Counsel Firm:
+D
+A
+Witness Firm:
+C
+B
+The full exercise would have three parts:
+1 Each ﬁrm would prepare a complete key-list and chart for the case it is to present.
+2 Each ﬁrm would prepare a trial book.12 An entire trial book should be less than ten
+typewritten pages doublespaced.
+3 Each case would be tried using the following rules:
+a Time allowances: (i) opening statements – two minutes each; (ii) direct and
+redirect – ﬁve minutes per witness; (iii) cross – three minutes per witness;
+(iv) closings – ﬁve minutes each. (The total time consumed by each trial should not
+exceed 30 minutes.)
+b Division of responsibility: One member of each ﬁrm would open and conduct the
+cross-examination of the opposing side’s witness; the other would conduct the
+direct and will close.
+c The law: The statutes deﬁning the alleged offenses are set out at the end of the two
+problems. Students should assume the law governing trafﬁc offenses and
+negligence is otherwise the same as that in their jurisdiction. Students outside the
+United Kingdom should remember that the law in England requires drivers to
+drive in the left lane and that the “near side” is the passenger side on the left, and
+the offside is the driver’s side on the right.
+The trial can be conducted as a jury trial in the United States or before a
+bench of magistrates in England and Wales. The non-participating members of
+12 The trial book should contain all those actions necessary to try the assigned case.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.013 Published online by Cambridge University Press
+
+
+--- Page 357 ---
+326
+Analysis of Evidence
+the class can constitute the jury or magistrates for each trial. Names and pronouns
+should be changed to conform to the gender of the parties and witnesses in each
+trial.
+2. Materials for Police v. Weller
+Brief to Counsel for the Prosecution
+IN THE HAVERING MAGISTRATES COURT
+Police
+v.
+Samuel Weller
+Counsel has herewith:
+1. Statement of P.C. 21X Heep.
+2. Police Plan
+The Defendant is charged with (a) driving without due care and attention contrary
+to section 3 of the Road Trafﬁc Act of 1972 and (b) failing to comply with a trafﬁc
+signal (give way sign) contrary to section 22 of the Road Trafﬁc Act 1972. The
+Defendant has the following previous convictions:
+19.3.last
+Camberwell Green Magistrates Court: Pedestrian Crossing
+Fine £10 Licence endorsed.
+11.12.last
+Marlborough Street Magistrates Court: Trafﬁc Signal
+(Automatic Trafﬁc Signal)
+Fine £25 Licence endorsed.
+Counsel is instructed accordingly.
+P.C. 21X Heep will say:13
+At 12.05 hours on December 28 last I was standing on the corner of Acacia Drive
+South and Sussex Road in North Woodford. Sussex Road is the major road, and
+there are “give way” signs 15 yards from the junction of Acacia Drive South and
+North and Sussex Road. There are markings on the road surface at the junction.
+I saw a Singer Gazelle motor car being driven along Acacia Road North towards
+the junction. I estimated its speed to be 30 m.p.h. The driver made no attempt to
+slow down until he was about 8 feet from the junction when he appeared to brake
+heavily. The vehicle stopped with the front about 8 feet onto the north carriageway
+of Sussex Road. A Jaguar motor car travelling east on Sussex Road was forced to
+swerve violently to its offside in order to avoid the Singer. I went over to the driver
+of the Singer who identiﬁed himself to be Samuel Weller aged 19, of 24 Marine
+13 Counsel and the witness should assume that this is a quotation of a statement made and signed
+by the Ofﬁcer in his police report.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.013 Published online by Cambridge University Press
+
+
+--- Page 358 ---
+The trial lawyer’s standpoint
+327
+Drive, Sandwich. I cautioned him, and he said, “I’m sorry ofﬁcer; I don’t know this
+neighbourhood.” I told him he would be reported with a view to his prosecution for
+careless driving and failing to obey a trafﬁc sign. At the time of the incident the sun
+was shining, but the road surface was wet from recent rain. Counsel should assume
+that this is a statement made by Ofﬁcer Heep.
+Brief to Counsel for Defendant
+IN THE HAVERING MAGISTRATES COURT
+Police
+v.
+Samuel Weller
+The Defendant is charged with:
+1. Careless Driving contrary to section 3 of the Road Trafﬁc Act 1972.
+2. Failing to comply with a trafﬁc signal contrary to section 22 of the Road Trafﬁc
+Act 1972.
+TheDefendantwishestopleadNotGuiltytobothcharges.Counselisaskedtoappear
+for the Defendant and endeavour to secure his acquittal, but if he be convicted, to
+enter a plea in mitigation. Samuel Weller of 24 Marine Drive, Sandwich, Kent will
+say:
+On Sunday, December 28, last,14 I was driving in my Singer Gazelle motor
+car on my way home from Epping where I had stayed the previous night with
+friends. At Woodford I lost my way and found myself driving through side roads.
+This was about midday. It had been raining but had stopped and the sun had
+come out. The roads were wet. At one time I was driving due south – the sun
+was low in the sky and was being reﬂected off the road surface so that it was
+difﬁcult to see ahead. When I reached the junction of Sussex Road and Acacia
+Drive, I did not notice the cross roads ahead – it seemed to me that the road
+went straight ahead. I was travelling about 25 m.p.h. When I was about 20 yards
+from Sussex Road, I noticed the road and braked heavily. I stopped at the line,
+although my bumper may have been over the line. A car went by from my right
+at that stage, and swerved. That was an unnecessary action because my car pre-
+sented no obstacle or danger. I did not notice the give way sign or the markings
+on the road, but I was half blinded by driving into the sun. A police ofﬁcer who
+apparently had been standing at the corner, came over and told me I would be
+reported for reckless driving. I told him I had been blinded by the dazzle from the
+road.
+I have two endorsements within the last year:
+14 Assume that December 28 last was a Sunday.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.013 Published online by Cambridge University Press
+
+
+--- Page 359 ---
+328
+Analysis of Evidence
+Police plan – Weller
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.013 Published online by Cambridge University Press
+
+
+--- Page 360 ---
+The trial lawyer’s standpoint
+329
+19.3.last
+Camberwell Green Magistrates Court: Pedestrian Crossing
+Fine £10 Licence endorsed.
+11.12.last
+Marlborough Street Magistrates Court: Trafﬁc Signal
+Fine £25 Licence endorsed.
+I am nineteen years old and passed my test last February. I am at the moment a
+ﬁtter but I hope to start working for my uncle on his minicab business next month.
+I also need my licence to take my girl friend out and I consider that my social life
+will be gravely restricted if I do not have a motor. I hope to bring a letter from my
+uncle to the court.
+3. Materials for Police v. Twist
+Brief to Counsel for the Prosecution
+IN THE WESTON MAGISTRATES COURT
+Police
+v.
+Oliver Twist
+Counsel will ﬁnd herewith:
+1. Statement of W.P.C. 213 D. Abbott
+2. Sketch Plan of the area
+The Defendant is charged that he:
+1. On the 8th day of December last in the Petty Sessional Division of Hayes,
+Middlesex, on a public road named Yeading Lane at the junction with Boundary
+Road did drive a motor vehicle to wit: an Austin 1100 motor car YMP 100A without
+due care and attention, contrary to section 3 of the Road Trafﬁc Act 1972.
+2. On the 8th day of December last in the Petty Sessional Division of Hayes,
+Middlesex, while driving a motor vehicle, to wit, an Austin 1100 motor car YMP
+100A, at the junction of Yeading Lane and Boundary Road did fail to comply with
+the indication given by a prescribed trafﬁc sign lawfully placed on or near the said
+Yeading Lane, contrary to section 22(1)(b) of the Road Trafﬁc Act 1972.
+3. On the 8th day of December last in the Petty Sessional Division of Hayes,
+Middlesex, drove a motor vehicle, to wit, an Austin 1100 motor car YMP 100A, the
+cylinder capacity of which did not exceed 50 cubic centimetres and the rear offside
+tyre of the which did not have a tread showing throughout three-quarters of the
+breadth of the said tread and round the entire circumference of the tyre, contrary
+to regulation 98(1)(b) of the Construction and Use Regulations 1972 and sections
+34, 65 and 40 of the Road Trafﬁc Act 1972.
+W. P. C. 213 D. Abbott “C” Division will say:
+At approximately 4.32 p.m. on the 8th December last, I was driving a police
+car west along Boundary Road Hayes Middlesex approaching the junction with
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.013 Published online by Cambridge University Press
+
+
+--- Page 361 ---
+330
+Analysis of Evidence
+Yeading Lane. At the same time the defendant Oliver Twist was driving his Austin
+1100 YMP 100A north along Yeading Lane towards the junction. There is a stop sign
+and a double line on Yeading Lane. He failed to stop at the double white line and a
+collision took place between the front offside of the Austin and the front nearside of
+the police car. There are no other witnesses. Visibility from the centre of the mouth
+of Yeading Lane east in the direction of Ealing is 60 yards.
+On 8th December, I was driving police car PVR 207E west along Boundary Road,
+Hayes in Middlesex on an emergency call. As I approached the junction of Yeading
+Lane (which was to my left) an Austin 1100 motor car YMP 100A suddenly drove
+into my path. I applied my brakes, skidded and stopped 60 yards from the junction
+on the wrong side of the road. Damage to my vehicle was to the front nearside,
+with scrape mark along the whole nearside. I returned to the scene of the accident
+where 1 saw Oliver Twist (aged 21). He agreed he was the driver of the vehicle which
+collided with my car. I cautioned him and he said “I’m sorry. I never saw you.”
+Damage to his car was to the front offside. I noticed the rear offside tyre was bald.
+Notice of intended prosecution was sent to the Defendant by recorded post on 20th
+December. I have since returned to the scene to check the relevant distances.
+Twist has 2 previous convictions:
+21st December (two years
+Ealing Magistrates Court, Excess Speed
+before the event)
+£10 L.E. (Licence endorsed)
+15th July (the year before
+Harrow Magistrates Court. Excess Speed
+the event)
+£25 L.E.
+Brief to Counsel for Defendant
+IN THE WESTON MAGISTRATES COURT
+26th January 1981
+Police
+v.
+Oliver Twist
+Counsel will ﬁnd herewith:
+1. Summonses against the Defendant (to be imagined)
+2. Statement by the Defendant
+3. Sketch Plan
+Instructing solicitors request counsel to act for the Defendant Oliver Twist who has
+been charged that he:
+1. On the 8th day of December last in the Petty Sessional Division of Hayes
+Middlesex on a public road named Yeading Lane at the junction with Boundary
+Road did drive a motor vehicle to wit: an Austin 1100 motor car YMP 100A without
+due care and attention, contrary to section 3 of the Road Trafﬁc Act 1972.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.013 Published online by Cambridge University Press
+
+
+--- Page 362 ---
+The trial lawyer’s standpoint
+331
+Sketch plan – Twist
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.013 Published online by Cambridge University Press
+
+
+--- Page 363 ---
+332
+Analysis of Evidence
+2. On the 8th day of December last in the Petty Sessional Division of Hayes
+Middlesex while driving a motor vehicle to wit an Austin 1100 motor car YMP
+100A, at the junction of Yeading Lane and Boundary Road did fail to com-
+ply with the indication given by a prescribed trafﬁc sign lawfully placed on or
+near the said Yeading Lane, contrary to section 22(1)(b) of the Road Trafﬁc Act
+1972.
+3. On the 8th day of December last in the Petty Sessional Division of Hayes
+Middlesex drove a motor vehicle, to wit an Austin 1100 motor car YMP 100A
+the cylinder capacity of which did not exceed 50 cubic centimetres and the rear
+offside tyre of which did not have a tread showing throughout three-quarters of the
+breadth of the said tread and round the entire circumference of the tyre, contrary
+to regulation 98(1)(b) of the Construction and Use regulations 1973 and sections
+34, 65 and 40 of the Road Trafﬁc Act 1972.
+The Defendant admits driving with a defective tyre but intends to contest the
+remaining charges.
+Counsel is referred to the Defendant’s statement herewith for full details of what
+occurred. Instructing solicitors understand that the visibility from the centre of the
+mouth of Yeading Lane east in the direction of Ealing is 60 yards. Counsel is asked
+to appear for the Defendant.
+Oliver Twist of 203 Uxbridge Road, Ealing, W5 will say:
+I am aged 21 and work at the Ace Motors Garage in Ealing as a salesman. It
+is essential for my job that I keep my licence. On 8th December I drove along
+Yeading Lane to the junction with Boundary Road. I was going home from a party
+at the garage. The weather was bad – pouring rain. The sun had set and it was
+dark. I stopped at the junction but could not see clearly to my right. The view
+was obscured by (a) a large tree and (b) a bend in the road. I began to edge care-
+fully out looking both ways. Suddenly a police car came tearing from my right
+and hit me. I saw the police car before it hit me and I had stopped. I was half
+out in the nearside lane of Boundary Road when the collision occurred. I don’t
+remember what the policewoman said, but she was very annoyed and discourte-
+ous. She told me she was going to throw the book at me when I tried to explain
+what happened. She scrutinised my car and found that the offside rear tyre was
+bald.
+I admit the tyre is bald. I do not admit I was guilty of any other summonses
+and I wish to plead NOT GUILTY to all the others. I did not receive the notice of
+intended prosecution until the day after Boxing Day. I do not remember the police
+ofﬁcer giving me verbal notice of intended prosecution.
+I have two previous convictions for driving offences:
+21 December (two years prior to event)
+Ealing Magistrates Court. Excess Speed
+£10 L.E. (Licence endorsed)
+15th July (one year prior to event)
+Harrow Magistrates Court. Excess Speed
+£25 L.E.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.013 Published online by Cambridge University Press
+
+
+--- Page 364 ---
+The trial lawyer’s standpoint
+333
+Road Trafﬁc Act 1972
+S3. Careless, and Inconsiderate, Driving
+If a person drives a motor vehicle on a road without due care and attention, or
+without reasonable consideration for other persons using the road, he shall be
+guilty of an offence.
+S22. Drivers to Comply with Trafﬁc Directions
+(1) Where a constable is for the time being engaged in the regulation of trafﬁc in
+a road, or where a trafﬁc sign, being a sign of the prescribed size, colour and type,
+or of another character authorized by the Secretary of State under the provisions in
+that behalf of the Road Trafﬁc Regulation Act of 1967, has been lawfully placed on
+or near a road, a person driving or propelling a vehicle who –
+(a) neglects or refuses to stop the vehicle or to make it proceed in, or keep to, a
+particular line of trafﬁc when directed so to do by the constable in the execution of his
+duty, or
+(b) fails to comply with the indication given by the sign,
+shall be guilty of an offence.
+(2) A trafﬁc sign shall not be treated for the purposes of this section as having
+been lawfully placed unless either –
+(a) the indication given by the sign is an indication of a statutory prohibition,
+restriction or requirement, or
+(b) it is expressly provided by or under any provision of this Act or of the Road
+Trafﬁc Regulation Act of 1967 that this section shall apply to the sign or to signs of a
+type of which the sign is one;
+and where the indication mentioned in paragraph (a) of this subsection is of the
+general nature only of the prohibition, restriction or requirement to which the sign
+relates, a person shall not be convicted of failure to comply with the indication
+unless he has failed to comply with the said prohibition, restriction or requirement.
+(3) For the purposes of this section a trafﬁc sign placed on or near a road shall
+be deemed to be of the prescribed size, colour and type, or of another character
+authorized as mentioned in subsection (1) above, and (subject to subsection (2)
+above) to have been lawfully so placed, unless the contrary is proved . . .
+C. The art of plausible proof: theory, story, and theme revisited
+1. Introduction
+1. Some questions. What are the central facts in dispute in Weller? Is it possible
+to develop a theory which, if accepted, would compel both the conclusion (a) that
+Weller was not driving without due care and attention, and the conclusion (b)
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.013 Published online by Cambridge University Press
+
+
+--- Page 365 ---
+334
+Analysis of Evidence
+that Weller did not fail to comply with the give way sign? From the standpoint of
+counsel for the prosecution, if the court had directed you to proceed on only one
+of the charges which would you have chosen? Would counsel for defense have been
+pleased by your decision? Are the same disputed facts central to both charges? What
+difference would it have made if either the events had occurred on July 28 or they
+had occurred in Nairobi, Kenya? These are questions that can be answered only by
+analysis. In the context of Weller, the analysis necessary to respond requires creative
+analysis, abductive as well as inductive reasoning.
+Analysis of the evidence in Twist should have yielded similar questions with one
+exception. Presumably, the analysis would not be as dramatically affected had the
+events occurred in July or in Nairobi. An analysis of Twist is likely to lead counsel
+to focus more attention on evidence that bears upon the credibility of the two
+witnesses than was appropriate in Weller. Why? Again these are questions that fall
+primarilywithinthedomainofanalysis.Acomparisonbetweenthekindsofanalysis
+needed in Twist with that needed in Weller should make it clear that technical skill
+and deﬁned protocols provide necessary tools but do not eliminate the need for
+creativity and judgment.
+Analysis that identiﬁed and yielded answers to questions such as those posed
+above should have enabled counsel to deﬁne the plausible theories available for each
+side in either case. Those theories in turn may have suggested, but did not dictate,
+thewayinwhichtheevidentialdataandargumentscouldbepresentedtodevelopan
+effective story consistent with the theory chosen. Does the story that either counsel
+in Weller might properly have chosen have as strong or dramatic a plot as the stories
+that might appropriately have been developed in Twist? Did you anticipate that the
+story presented by counsel for the police was likely to be signiﬁcantly different from
+that developed by counsel for Weller? How similar did you expect the competing
+stories to be in the trial of Police v. Twist ?
+The choice of a theory and a story in the two cases also illustrates the importance
+of theme. Does counsel for Weller have to attack the conduct and motives of Ofﬁcer
+Heep in any signiﬁcant way? Did the record provide material suggesting that such
+an attack could have been successfully mounted? Would the attack have been con-
+sistent with a sound defense theory or story? What were the appropriate themes in
+Weller? Contrast your responses to these questions with the responses you would
+give concerning the themes that counsel for Twist should try to establish in the
+cross-examination of Ofﬁcer Abbott and should emphasize in opening and closing
+arguments. If you participated in the full exercise, review your own performance
+and those of your colleagues in light of your responses. How would you do the job
+differently next time?
+2. Some notes. The materials that follow illustrate theories and stories that might
+have played an important role in famous (or in one instance ﬁctional) trials. For the
+most part, these materials are more interesting as literature than prose in presenting
+principles of proof and methods of analysis. As you read each, however, ask yourself
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.013 Published online by Cambridge University Press
+
+
+--- Page 366 ---
+The trial lawyer’s standpoint
+335
+how extensive and detailed an analysis of the evidence would have been necessary
+to enable a lawyer to select and develop themes and stories for cases in which real
+interests of real parties were at stake.
+2. More food for thought
+a. K. Llewellyn: Who are these men?15
+Who are the two men whose names recur, whose lives and honor are the immediate
+stake in all this story?
+Nicola Sacco, an Italian, resident in Massachusetts from his eighteenth year. A
+solid workman, who learned his trade outside of hours, a shoeworker, a “good
+cobbler” and “edger.” A simple-hearted devoted husband and father. A lover of
+nature – who in prison found difﬁculty writing to his friends unless blue sky heart-
+ened and cheered him through the bars. An idealist, bent on improving the lot of
+working-men, so strong, so unafraid in his convictions that on trial for his life,
+before a jury whom he knew to be prejudiced against such views, he preached his
+beliefs, prepared to be a martyr to his faith.
+Nicola Sacco (the same Nicola Sacco?), a foreigner discontented with our insti-
+tutions, yet content to abide among them. One who forsook all decent views for
+Socialism, even for Anarchism. Living and earning here, yet ﬂeeing to Mexico in fear
+of being drafted to defend the country. The user of a false name. A man who would
+lie lightly to his employer to cover up a morning on leave that he had spent in talk
+and not on business. A gun-toter. An agitator. A man too indifferent to American
+ways to seek during 12 years of freedom to learn English decently, too stupid to
+learn English decently during seven years in jail. An associate of that Vanzetti whom
+we know to have been convicted of an attempted holdup in Bridgewater.
+Bartolomeo Vanzetti, a man who had forsaken his home in Italy and a good living
+with a farmer-family whom he loved, because his conscience would not let him be a
+party to exploiting men. A man who, though without wife and children, astonished
+his neighbors by his steadiness and effort at his work. A man who, ready to throw
+himself into the place of danger in defense of his fellows, was chosen to go up to New
+York to discuss the further defense of Salsedo, a radical held incommunicado by
+the Federal authorities in their wild deportation drive of 1920; that Salsedo whose
+“questioning” is suspected of having driven him to seek relief in suicide. Vanzetti,
+a man whom person after person, of judgment, insight, and sensibility, learned to
+know after the time of his imprisonment; and whom each of those who learned to
+know him came to honor, respect, admire, even love. A man framed up before the
+15 Llewellyn (1962) Ch. 20. This was originally prepared as part of an unpublished study of the Sacco-
+Vanzetti case. The present portion has been published in Michael and Wechsler (1940) 1085, and
+in Joughin and Morgan (1948). The Michael and Wechsler notes [hereinafter designated “Michael
+& Wechsler”] have been retained. See Commonwealth v. Sacco, 255 Mass. 369, 151 N.E. 839 (1926),
+259 Mass. 128, 156 N.E. 57 (1927), 261 Mass. 12, 158 N.E. 167 (1927). The full record of all the
+proceedings has been published as The Sacco-Vanzetti Case (1929). For discussions of the case, see
+Frankfurter (1927); Kadane and Schum (1996).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.013 Published online by Cambridge University Press
+
+
+--- Page 367 ---
+336
+Analysis of Evidence
+present trial (on a charge made against Sacco, too, until for Sacco an unshakable
+alibi was proved) in order to make easy the conviction in the case in hand.
+Bartolomeo Vanzetti (the same Bartolomeo Vanzetti?), a radical leader, a speech-
+maker, an anarchistic agitator; closely concerned with that Salsedo who was dan-
+gerous enough to induce the Federal authorities to hold him incommunicado till,
+seemingly, he confessed his guilt by suicide. A guntoter, Vanzetti, as well. A man
+convicted previously of another desperate crime of violence. A man the more dan-
+gerous because of his brains and gift of leadership. A draft-dodger. A liar, who
+lied copiously and confessedly on his arrest. A believer in violence. An associate,
+a sympathizer, a “comrade” of those radicals who threatened and even exercised
+outrageous violence in efforts to terrify the authorities into giving him up without
+punishment.
+Opinions differ, you may observe, about these two. Two things are certain: they
+were Italians and radicals; they were accused of murder.
+From one angle, it makes no difference which of these two views of these two
+Italians you accept. Angel or devil, a man has a claim to a fair trial of his guilt. Angel
+or devil, he has a claim to a fair trial, not of his general social desirability, but of his
+guilt of the speciﬁc offense charged against him. Such is the letter of our law.
+b. Bywaters and Thompson: Who is this woman?
+What kind of person is Edith Thompson? She pictures herself as a great romantic
+lover, as someone who is prepared to risk anything “for a great big love like ours.”
+But she is deceiving herself as she deceived others: just as again and again she lied to
+her husband, to her family, to the police, even to her lover, so more often than not
+she deluded herself. Consider her ﬁrst as a wife and as a lover: She did not marry
+for love; when did she show affection or sympathy or mercy or remorse for her
+husband? She refused him companionship, she refused him sex, she refused him
+children. She made no effort to make her marriage work or to save it. She valued
+her job above her home, above her husband’s life, even above her love for Freddy –
+why else did they not elope? And what kind of lover is she? She complains, she nags,
+she coaxes, she ﬂatters, she wheedles; she dominates and manipulates this younger
+man who is more straightforward and less clever than she is. When she is feeling
+insecure she is, on her own admission, prepared to lie to him, to make up stories, to
+keep back presents, even to claim that she has tried to kill her husband. She values
+money and respectability above her love for Freddy and, when the crunch comes,
+she ditches him and puts the blame on him in order to save her skin: she denies her
+love. Who’s the loyal pal, the real lover in the end?
+No, this idea of a great romantic love is a great delusion. What is the truth?
+Edith Thompson is a calculating, manipulative woman who used others – includ-
+ing Freddy – for her own ends. She’s a competent business woman, a manager.
+She regularly looks to the future, she calculates. Her world is full of plans and
+pacts and plots and schemes. Plans for secret assignations, for getting a job abroad,
+for persuading Percy to divorce her, for suicide, and even for murder. There are
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.013 Published online by Cambridge University Press
+
+
+--- Page 368 ---
+The trial lawyer’s standpoint
+337
+telegrams and notes and prearranged signals, and, again and again, a desperate,
+persistent searching for ways to get rid of Percy without being found out – “when
+the time comes we shall need friends,” “we shall need witnesses,” she says; of
+course she wants fun, adventure, risk, even love of a sort: so long as it does not
+involve sacriﬁce of security, money, or respectability. What kind of great roman-
+tic is this who is not prepared to sacriﬁce anything except her husband and her
+lover?
+Questions
+1 For what kind of audience is this intended? What clues are to be found in this passage?
+Is it consistently addressed to the same audience?
+2 (a) What is the main purpose of the argument? (b) To what speciﬁc probanda is the
+passage relevant?
+3 In what ways does this strongly support the relevant probanda? Suggest ways in which
+the strength of the support might be increased within this particular framework.
+4 Identify elements in the passage that are clearly and unequivocally supported by the
+evidence (a) of Edith’s own words (b) by other evidence.
+5 Identify elements in the passage that (a) are not supported by any evidence;
+(b) involve exaggeration; (c) can be contradicted or explained away or rivaled.
+6 Redraft the passage within the framework of the same theory of its function in order
+to improve it.
+7 Compose an alternative picture of Edith’s character, based on a signiﬁcantly different
+theory. Make clear what you have in mind in respect to audience, relevance, and
+function; how it strengthens the case as a whole; and how strongly it is supported by
+evidence.
+8 Analyze this passage and your own in terms of how far there is a tension between logic
+and appeals to emotion and how far they mutually sustain each other.
+9 In what respects does this passage violate ethical norms or principles of fairness in
+argument?
+c. Is Ford Motor Company guilty of killing girls with a Pinto?16
+The ﬂat northern Indiana farmland is lifeless now. Only the naked oaks and maples
+break the emptiness, their branches standing like skeletons against the foreboding
+winter sky. A stubble of dead, farrowed cornstalks sticks through the snow, and there
+is no sound except for the wind. But the trees were full and green on that August
+afternoon in 1978, and the cornstalks stood high and ready to bear. The land was
+alive that day, as alive as the three Ulrich girls.
+Donna Ulrich, 18, from Roanoke, Ill., was visiting her cousins Judy and Lynn
+Ulrich in Osceola, a little town just outside Elkhart in northern Indiana. The girls
+were close – bound by blood, age, and interests. Donna was only a day older than
+Judy. Lynn was two years younger. All three were deeply religious, their social
+16 B. Dart, Atlanta Constitution, Jan. 28, 1980, §A.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.013 Published online by Cambridge University Press

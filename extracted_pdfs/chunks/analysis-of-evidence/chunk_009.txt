@@ -1,0 +1,721 @@
+# Chunk 9 of 26
+# Document: Analysis of Evidence
+# Characters: 49777
+
+--- Page 141 ---
+110
+Analysis of Evidence
+In response to the housekeeper’s call, I was dispatched to Vern’s home at 8:15, Monday
+morning. The housekeeper said she had arrived at 8:00 a.m. and discovered Vern’s
+body lying on the living room ﬂoor. The living room was a shambles. Upon examining
+the body, I found a scrap of brown Harris tweed cloth clutched in Vern’s right hand.
+(I extracted the scrap of cloth, placed it in an evidence bag, marked and sealed the bag,
+and subsequently delivered it to the police evidence custodian.)
+. . . After learning that Vern had been wealthy and that his sole surviving heir was
+a nephew named Archer, I proceeded to Archer’s house to interview him. I arrived at
+5:30 p.m., Wednesday. Archer stated he had been at home and had gone to bed early
+on Sunday and had gone directly to work Monday morning.
+. . . As I was departing, I observed a brown Harris tweed jacket in Archer’s front
+closet. It had a hole in the upper right hand sleeve.
+. . . At 7:30 a.m., Thursday, I returned with a warrant to search Archer’s home.
+I seized the jacket, placed it in an evidence bag, and sealed and marked the bag. A visual
+comparison of the scrap of cloth found in Vern’s hand and the jacket shows that the
+scrap and the jacket are the same color, texture, and weave. The scrap ﬁts in the hole in
+the upper right sleeve of the jacket . . .
+On the strength of this and other evidence, Archer has been arrested and indicted
+for the murder of Vern. You are now preparing for trial and planning what further
+investigations should be done. Your current provisional ultimate probandum is:
+“It was Archer who murdered Vern.” For today, you are only concerned with the
+relationship between the propositions supported by the scrap of cloth, the jacket,
+and Paul’s anticipated testimony with respect to these two items.
+1 Create and number a keylist of simple propositions which you could elicit as
+testimonial assertions from Detective Paul and the circumstantial propositions you
+would argue that the trier of fact should infer directly from these testimonial
+assertions and the scrap of cloth and the jacket and label. Each proposition should be
+phrased as a simple declarative statement to which the trier of fact might assign a
+truth value (for instance, true or false, probable or not probable). Each proposition
+representing a testimonial assertion or a physical object must be an autoptic
+proference the jury will hear or see.
+2 Given the ultimate probandum, “It was Archer who murdered Vern,” identify each
+intermediate proposition the trier of fact must infer in order to conclude that the
+evidential propositions you have listed support the conclusion that the ultimate
+probandum is true.
+3 Abduction: We are concerned here only with the scrap of cloth, the jacket, and the
+circumstances in which each was discovered. In light of these facts and the analysis
+you have developed, what additional evidential data might be available to strengthen
+or weaken the inference that P is true? State precisely the plausible hypotheses that
+should be investigated and speciﬁc evidence you would direct Paul to seek to support
+(or eliminate) each.
+4 Defense Counsel’s Preliminary Standpoint. You have been appointed to represent
+Archer. You have not met him. The prosecution has given you Paul’s reports. You
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 142 ---
+Principles of proof
+111
+have, of course, performed the same analysis as the prosecutor in order to evaluate the
+case and to determine what information you will seek from Archer and what other
+investigations you will make. Formulate a list of propositions that might explain away
+the prosecutor’s proposed inferences. Do the facts as reported by Paul suggest any
+possible propositions for which there might be evidential support and which would
+involve the rival or denial processes? List the potential propositions. Classify each
+proposition on your list as opponent’s explanation (OE), denial (OD), or rival (OR).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 143 ---
+4
+Methods of analysis
+A. Introduction
+The principles of inductive logic are the common tools of practical reasoning and
+are important to anyone who must make decisions based upon incomplete and
+fallible data. These tools are specially important in many professions. Society holds
+professionals to a higher standard of reasoning because, ordinarily, their decisions
+can signiﬁcantly affect the interests of individuals or society as a whole, and they
+are supposed to be competent to make such decisions. In one view, the highest
+standards may reasonably be required of doctors and lawyers. They undertake to
+solve problems of great importance for individuals, and their work in the aggregate
+is critical to society.
+Every profession that engages in fact analysis and reasoning must develop
+ways of recording and organizing the data in forms suitable for analysis and use.
+This is surely true for lawyers. At every stage, the lawyer must engage in analysis.
+Has my client provided me with sufﬁcient facts to state a claim for relief or a basis
+for a defense? What additional evidence should I seek to test and strengthen my
+client’s case? Given the evidence available to both sides, can the data be marshaled
+to persuade the relevant decision-maker that my client is entitled to satisfactory
+relief?
+Analysis must ordinarily precede use, and a system designed to record and orga-
+nize data in a manner that facilitates analysis will ordinarily differ signiﬁcantly from
+a system designed to facilitate the effective, post-analysis use of that data. The lawyer
+then needs a system under which the data can be organized and marshaled for pre-
+sentation in the appropriate context, be it counseling, negotiation, or trial. Here,
+the nature of the forum in which the evidence and arguments will be presented
+dictates the requirements for a system to order and organize the available data for
+its intended use.
+Lawyers have developed a variety of systems for recording and organizing data.
+The ﬁling system in a lawyer’s ofﬁce is designed to ensure information received on
+each matter and the products of any analysis or research are organized to facilitate
+retrieval for use. Chronologies have long been recognized as a useful device for
+organizing factual information for analysis. Over the past two decades, lawyers
+112
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.005 Published online by Cambridge University Press
+
+
+--- Page 144 ---
+Methods of analysis
+113
+(and other professionals) have developed sophisticated record management and
+indexing systems to facilitate analysis, often augmented by computerized support
+systems.1 So too, they have developed devices such as the trial book to organize the
+data for effective presentation to a tribunal in light of the analysis done. There has,
+however, been far less attention devoted to articulating the principles and protocols
+that should be applied in analyzing factual data in legal (and other) contexts in
+order to enhance the quality and the completeness of the analysis.
+In this chapter, we present a generalized set of procedures, a protocol, that we
+think may usefully be applied in any method of analysis. In Chapter 5, we present
+a simpliﬁed version of Wigmore’s chart method of analysis and show how the
+protocol can be adapted and applied to use that method. In Chapter 6, we describe
+the outline method of analysis and the uses of narrative and chronologies as analytic
+devices. In that chapter, we also describe how and when the different methods and
+devices can be used in the context of a case to be litigated and tried.
+B. The methods and a protocol for their use
+1. Methods of analysis and analytic devices
+In this book we present two methods of analysis – the “chart method” and the
+“outline method.” A “method of analysis” in this context is a method for record-
+ing and organizing data and for specifying the logical relationships among the
+propositions and how they can be marshaled to support or negate a fact of conse-
+quence. Each method of analysis results in a distinct product. The distinctive feature
+of the chart method is that the principal products are a key-list and a chart. The
+“key-list” contains all of the evidential and inferential propositions that can be mar-
+shaled to support or undermine the ultimate proposition to be proved, the ultimate
+probandum. The “chart” uses symbols to depict the claimed logical relationships
+between these propositions. (See page 139 below for an illustration.) The product
+of the outline method of analysis is an outline that simpliﬁes the complex propo-
+sition that is the ultimate probandum into simple propositions, the penultimate
+probanda, and uses them as the major headings in the outline. The major headings
+are then divided and subdivided into necessary intermediate propositions until the
+analyst reaches the evidential propositions – the propositions that express what the
+decision-maker will hear or see, if and when the case is tried.
+Wealsodescribetwoanalyticdevices–chronologiesandnarratives.2 An“analytic
+device”isatoolthataidsindevelopinglinesofinquiryfororintestingthequalityand
+1 On June 14, 2004, a search for “litigation support” using GOOGLE generated more than 290 sites
+where programs or information could be found.
+2 Wigmore thought that narratives constituted a separate “method of analysis” (Science, 821). For
+reasons described below, we maintain that narrative complements analysis but is not an alternative
+to analysis. Although narrative serves many purposes, we characterize it here as an analytic device
+to emphasize its role in the analytic process and reduce the temptation for the analyst to “skip” the
+more rigorous and demanding methods of analysis in favor of just constructing stories.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.005 Published online by Cambridge University Press
+
+
+--- Page 145 ---
+114
+Analysis of Evidence
+completeness of an analysis. Converting all of the available data into propositions
+ordered in a strict chronology, at any stage, simpliﬁes the task of discovering story
+possibilities that can be constructed from the available evidence. It simpliﬁes the
+task of discovering gaps that need to be ﬁlled. Narratives serve similar functions.
+For example, when an analysis of the available evidence has been completed shortly
+before trial, the question becomes: Can the analysis be converted into a coherent
+narrative that is consistent with the theory of the case and that accounts for the
+available evidence, but that does not depend upon facts for which there is no
+evidence? In contrast, when the analysis has been done at the investigative stage,
+the question may be: Does a narrative derived from that analysis reveal gaps that
+need to be ﬁlled or suggest additional lines of inquiry that need to be pursued?
+Constructing chronologies and plausible narratives that might be true at that stage
+can facilitate imaginative reasoning of the kind described in Chapter 2.
+The methods of analysis are complementary rather than rival. Each has special
+advantagesforspeciﬁcpurposesatvariousstagesofacase.Foreach,thequalityofthe
+productcanbeenhancedbythecarefulapplicationofaspeciﬁedsetofproceduresin
+its construction and use. We believe that every lawyer should be familiar with both
+methods, with the purposes for which each is best suited, and with the procedures,
+the protocol, by which each may be used to maximize its advantages, as well as with
+the ways in which the analytic devices can be used to facilitate and enhance the
+resulting product.
+2. A seven-step protocol for analysis: a generalized account
+In the context of a legal dispute, three questions must always be addressed:
+1 What is the ultimate proposition that must be proved?
+2 What are the data that are available?
+3 What are the plausible and defensible relationships between these data and the
+ultimate proposition?
+A method of analyzing evidence is basically a heuristic device for responding to
+these questions. As such, the device should have two components – (i) a practicable
+method for organizing and conducting the analysis and (ii) a system for recording
+or expressing the results of the analysis in a usable form.
+Experience suggests that the quality of an analysis and the resulting product are
+enhanced if those engaged in the task observe a known and systematic protocol. We
+believe the quality of the analysis of evidence in a legal dispute and the product that
+results from that analysis are likely to be enhanced if a systematic set of procedures
+is regularly employed. The protocol we have developed has seven steps:
+1 Clariﬁcation of standpoint;
+2 Formulation of the potential ultimate probandum or probanda;
+3 Formulation of the potential penultimate probanda;
+4 Formulation of the theories of the case;
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.005 Published online by Cambridge University Press
+
+
+--- Page 146 ---
+Methods of analysis
+115
+5 Recording the available data;
+6 Preparing the product(s); and
+7 Reﬁning and completing the analysis.
+Step 1. Clarify the standpoint of the analyst by giving clear and precise answers to
+four questions: Who am I? At what stage in what process am I? What materials are
+available for analysis? What am I trying to do?
+Standpoint is always a function of four dependent variables – time, objective (or
+purpose), materials available for analysis, and role. In academic law instruction,
+the point in time is typically post-trial and post-appeal. For the practitioner and,
+with appropriate exercises, for the student, the exercise may focus upon any stage:
+reviewing a trial record for appeal, developing a closing argument based upon
+evidence given, preparing a matter for trial based upon a completed investigation,
+investigatingamatterinpreparationforlitigationortrial,evaluatingaclient’sclaims
+in order to aid the decision whether to litigate, or even advising a client on proposed
+conduct or on how to structure proposed conduct with respect to the prospect of
+future litigation.
+The standpoint is also a function of the objectives of the analysis. These can
+usefully be divided into three main classes: organizational, evaluative, and advocacy
+objectives. One of the main values of a rigorous method of analysis is as a tool
+for organizing or ordering or structuring the evidence and the inferences derived
+from it, as a preliminary to pursuing some other objective, such as evaluating
+the “net persuasive effect” of the evidence or converting the analysis into a form
+suitable for the presentation of an argument in a forum, e.g., in a negotiation or at
+a trial.
+For Wigmore, and for most academic analyses, the objective is ordinarily to
+evaluate the evidence offered or reported to determine whether a case was rightly
+or justiﬁably decided with reference to some articulated standard – for instance,
+given the substantive law and the burden of proof the court found applicable,
+did the evidence support the factual conclusion necessary to sustain the result
+reached? This evaluative analysis may be done for different purposes – to determine
+whether the lawyer could have done better on closing argument or on appeal,
+whether the rules of admissibility operated to further or frustrate an inquiry to
+determine truth, etc. But all such exercises start from the assumption that the
+evidence presented to the trier of fact or the facts reported by the appellate court
+are ﬁxed.
+For example, the O. J. Simpson case is history. If we were to take the standpoint of
+a historian examining the trial record, we would need to differentiate the question,
+“Was the verdict justiﬁed?” from the question, “What actually happened?” It is one
+thingtoask,“WasthejuryjustiﬁedinacquittingSimpsononthebasisoftheevidence
+and arguments presented at trial?” It is another to ask, “Could the prosecution have
+presented a stronger case at the trial than they in fact did?” And still another to ask,
+“On the basis of all the evidence available today, can it now be established that it
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.005 Published online by Cambridge University Press
+
+
+--- Page 147 ---
+116
+Analysis of Evidence
+is beyond reasonable doubt that O. J. Simpson was guilty of the murder of Nicole
+Brown Simpson?”
+An advocacy objective is typically dominant when the student or the lawyer
+seeks to perform the analysis to assist in determining an appropriate course of
+conduct. What additional investigation or discovery should I seek to strengthen (or
+weaken) inferences necessary to the development of my client’s (or my adversary’s)
+case? What evidence must I highlight, and what evidence must I seek to exclude or
+minimize to develop my theory of the case?3
+The objectives that can be achieved are limited by the materials available for
+analysis. If the available material is a report of a decision by a court of appeal, the
+analyst can only determine whether the decision was supported by the facts that
+the court chose to report. She cannot determine whether the evidence presented
+at trial was sufﬁcient to support a determination that the accused was guilty. She
+cannot determine whether the court fairly summarized the evidence. If the material
+is the trial record from a decided case, the analyst might examine the competency
+of counsel in structuring and marshaling the evidence and arguments. She might
+be able to make a judgment about whether the evidence was sufﬁcient to enable
+the fact-ﬁnder (judge or jury) to determine that the ultimate probandum was or
+was not proven to the required degree of certainty. She could not, however, deter-
+mine whether the accused was guilty or innocent because she does not have access
+to the evidence that was not discovered or presented. The failure to identify an
+objective that can be achieved based upon the materials available is a common
+error that can have serious consequences. Midway in a project, the analyst may
+discover that the objective speciﬁed cannot be achieved with the data available.
+Either the objective must be amended (often not possible) or the job must be
+redone.
+A fourth variable is role. Role is always implicit once the objective is chosen. But
+it may be useful to consider the variable separately both to clarify objectives and
+to reveal possible personal biases of the person doing the analysis. For example,
+the lawyer preparing for trial must examine the evidence from three standpoints
+and three roles in order to do the job completely: ﬁrst, the role of advocate for her
+client; second, the standpoint and role of her opponent; and, ﬁnally, the role and
+standpoint of the trier of fact. What is her opponent likely to adopt as his theory of
+the case? To what extent will the triers of fact share the generalizations (or biases)
+upon which the probative force of her analysis and marshaling of the evidence
+depend?
+It is always important to deﬁne standpoint carefully from the outset and at each
+stage of the case. For present purposes, let us assume the role is that of a lawyer
+engaged to represent a client with respect to a contested matter, the outcome of
+which appears likely to depend upon the resolution of disputed questions of fact
+3 The concept of a “theory of the case” and related concepts are further developed below at page 118.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.005 Published online by Cambridge University Press
+
+
+--- Page 148 ---
+Methods of analysis
+117
+(as opposed to a dispute over the controlling legal principles). Throughout, the
+lawyer’s purpose will be to aid the client in determining and achieving the best
+possible outcome. Under this assumption, standpoint will vary according to the
+stage at which an analysis of the state of the evidence is undertaken.
+The objective of the analysis, and the tools available and useful, will also differ
+at different stages of a case. For example, at a ﬁrst interview the lawyer will be
+listeningandprobingforfactsthatwillmakeitpossibletoframeprovisionalultimate
+probanda as hypotheses. At that stage, these hypotheses will be tested by questions
+framed to determine whether there appears to be evidence available that would
+support each of the necessary elements of the hypotheses.
+Step 2. Formulate carefully and precisely the potential ultimate probandum or
+probanda. This does not come as naturally to students as an experienced lawyer
+might expect. It is surprising how often students fail to see that this is a crucial
+preliminary step that provides the focal point for the whole analysis. Without an
+ultimateprobandumthereisnotouchstoneofrelevance;ifitisincorrectlyorloosely
+formulated, the ensuing analysis is correspondingly vulnerable.
+The ﬁrst step then must be to formulate (or identify) the controlling propositions
+of law. The substantive propositions constitute the major premises; the ultimate
+probandum or probanda are the minor premises – those propositions of fact which,
+if found proven to the required degree, compel or support the conclusion that the
+party with the burden must prevail. Two caveats are important. First, the ultimate
+probandum should ordinarily be phrased in a way that respects the burden of proof.
+The lawyers for O. J. Simpson did not have to prove that he was not guilty; it was the
+prosecution’s burden to prove that he was. Second, the ultimate probandum should
+not include the standard of proof. The probative force of the evidence cannot be
+charted. The propositions deﬁning the burden of proof come into play after the
+analysis has been completed and the task shifts to an evaluation of the probative
+force of the evidence.4
+In the O. J. Simpson case,5 the ultimate probandum had to be derived from the
+rule of law deﬁning ﬁrst degree murder. Under Section 187(a) of the California
+Penal Code, “Murder is the unlawful killing of a human being . . . with malice
+aforethought.” That section might be rephrased as the major premise of a syllogism:
+4 It should be clear that analysis and evaluation cannot be completely compartmentalized in practice.
+As the analyst constructs an argument, she automatically appraises its strength. It is, however, useful
+to maintain the distinction in applying the protocols for analysis. See Chs. 8 and 9 below.
+5 People v. Simpson, No. BA0987211, California Superior Court (L.A. 1995). Schmalleger (1996)
+contains a useful and detailed (albeit slightly biased) account of the trial, including signiﬁcant
+portions of the trial transcript. Transcripts from the trial are available on-line at Westlaw Database
+OJ-TRANS. The trial record also appears, and in an organized and more user-friendly way, at
+www.simpson.walraven.org/. Several of the Famous American Trials series, including a useful
+version of the evidence in the O. J. Simpson Trial, are available at http://www.law.umkc.edu/
+faculty/projects/ftrials/ftrials.htm.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.005 Published online by Cambridge University Press
+
+
+--- Page 149 ---
+118
+Analysis of Evidence
+If a human being, a victim, is dead, and the victim died as a result of an unlawful act, and
+it was the accused who committed the act that caused the victim’s death, and the person
+who committed the act that caused the victim’s death acted with malice aforethought,
+then the accused is guilty of murder.
+For the murder of Nicole Brown Simpson (“NBS”), the ultimate probandum
+had to be a proposition that satisﬁed the conditions of that major premise. That
+proposition might be framed in the abstract as:
+NBS is dead; and NBS died as the result of an unlawful act; and it was Orenthal James
+Simpson (“OJS”) who committed the act that caused NBS’s death; and the person who
+committed the acts that caused NBS’s death acted with malice aforethought.
+Step 3. Formulate the potential penultimate probanda. Ordinarily the ultimate
+probandum or probanda are complex propositions with more than one condi-
+tion that must be satisﬁed. Determining the penultimate probanda, initially and at
+a minimum, requires that the analysts convert the complex ultimate probandum
+into a compound proposition and partition (and often sub-partition) that propo-
+sition into its component simple propositions. Once these penultimate probanda
+have been tentatively formulated, the lawyer should be in a position to visualize the
+overall structure of the case.
+IntheO.J.Simpsoncase,framingthepenultimateprobandarequirespartitioning
+theultimateprobandumuntilithasbeenreducedtoitselementsexpressedassimple
+declarative sentences, e.g.:
+1 NBS is dead.
+2 NBS died as the result of an unlawful act.
+3 It was OJS who committed the act that caused NBS’s death.
+4 The person who committed the acts that caused NBS’s death acted with malice
+aforethought.
+Step 4. Formulate the provisional theories of the case. The theory of the case is the
+logical statement formulated as an argument supporting one or more conclusions
+about the case as a whole. In Simpson, the only penultimate probandum in dis-
+pute was proposition three (identity): It was OJS who committed the act that
+caused NBS’s death.6 In that case, a central problem for the prosecution was to
+develop a credible theory that would explain why OJS would have committed the
+6 Simpson provides a good illustration of the importance of developing a coherent and consistent
+theory. Theoretically, defense counsel could have disputed proposition 4 (intent) by claiming the
+person who murdered NBS acted in the heat of passion. As a practical matter, the theory that the
+defense adopted forced them to take the position that proposition 4 was irrelevant to the defense.
+The defense denied that it was OJS who did the stabbing and offered evidence suggesting that there
+were others who might have done it. Having committed themselves to a reasonable-doubt-about-
+proposition 3 theory, they could not credibly argue that it was not OJS, but if it was OJS he was
+acting in the heat of passion. A trial lawyer may develop alternative theories, but she may not present
+conﬂicting theories, at least not in a jury trial.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.005 Published online by Cambridge University Press
+
+
+--- Page 150 ---
+Methods of analysis
+119
+murders – to identify a credible motive.7 The prosecution elected to proceed on a
+theory of control, a theory that might be summarized as follows:
+OJS had expressed jealous rage resulting in violence in his attempts to control
+NBS and prevent her from ﬁnally severing their relationship. His continuing
+jealous rage gave him a motive to murder her as the ultimate act of control, and
+the brutal manner in which she was murdered by multiple stab wounds shows
+that she was murdered by someone acting in a rage. OJS was the only person who
+had acted against NBS in a jealous rage. He had a motive to try to maintain his
+control and to prevent NBS from acting independently, and he went to her house
+to kill her as the ultimate act of control. Therefore, it was OJS who murdered
+NBS in a jealous rage.8
+Partitioning the ultimate probandum into simple declarative sentences that con-
+stitute the penultimate probanda identiﬁes the principal “facts of consequence” in
+the case.9 The speciﬁcation of a provisional theory of the case makes it possible
+to use a penultimate probandum as a “magnet” to attract the relevant evidential
+propositions.
+For example, in order to prove that “it was OJS who committed the acts that
+caused NBS’s death,” the prosecution had to prove that OJS had an opportunity to
+commit the acts. Thus, the analyst might look for evidential propositions bearing
+upon the time of NBS’s death and the time OJS was subsequently observed because
+they would be relevant to the proposition, “OJS had an opportunity to commit the
+violent acts that caused NBS’s death.”
+A post-trial analyst might use the “opportunity magnet” to examine the
+database – the evidence admitted during the trial. Using that magnet, her key-
+list would include relevant evidential propositions derived directly from the data.
+For example, Pablo Fuentes, who lived near NBS’s house, testiﬁed that he had heard
+the plaintive wail of a dog at 10:15 p.m. on the evening the murder was committed.
+Other witnesses testiﬁed that they later had found NBS’s dog wailing and with blood
+on its paws. From these propositions, the jury might have inferred the propositions
+necessary to demonstrate the logical relationship of those evidential propositions
+7 Theprosecutiondoesnothavetoprovemotiveinacriminalcase;itisnotapenultimateprobandum.
+Motive, if it exists, is relevant to show it was the accused who committed the act that caused the
+victim’s death. It may also be relevant to intent. In Simpson and in many cases, however, it is
+difﬁcult, sometimes impossible, to persuade a jury to convict without providing a persuasive reason
+explaining why the accused did it.
+8 See Schmalleger (1996) 57–59 (excerpt from “The Prosecution’s Opening Statement”). There were
+alternate theories that the prosecution might have chosen. For example, the prosecution team
+reportedly considered, but rejected, an “exploding bomb” theory: OJS went to NBS’s house that
+evening intending to vent his anger by committing an act of vandalism, such as slashing the tires
+on her car. His anger “exploded” when he found NBS with another man, Ronald Goldman (RLG),
+in the yard in front of her house.
+9 Once a witness has taken the stand, her credibility also becomes a fact of consequence. It should be
+clear that all of the evidential data offered at trial must be relevant to either one or more penultimate
+probandaortothecredibilityofawitness.SeeChapter2onrelevance(pages62–63)andtestimonial
+credibility (pages 65–70).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.005 Published online by Cambridge University Press
+
+
+--- Page 151 ---
+120
+Analysis of Evidence
+to a penultimate probandum – e.g., the plaintive wail of the dog that belonged to
+NBS and had blood on its paws supported an inference that the wailing was caused
+by the dog’s discovery that its mistress was dead, supporting the further inference
+that the murder occurred at or shortly after 10:15 p.m. Detective Vanetter testiﬁed
+that it took ﬁve minutes to drive from NBS’s house to OJS’s house. Alan Park, a
+chauffeur who was waiting for OJS, testiﬁed that a recently showered and calm and
+collected OJS emerged from his house at 11:00 p.m. to be driven to the airport. This
+testimony and the evidence supporting an inference that NBS died at 10:15 p.m.
+provided the basis upon which the prosecution had to persuade the jury that OJS
+had an opportunity to commit the murders – i.e. that he could have been present
+at NBS’s house at 10:15 p.m. and still have returned home, showered, disposed of
+his bloody garments, collected himself, and emerged from his house at 11:00 p.m.
+In other instances, it may be easier to start with an evidential proposition and
+reason “upward” to develop the inferred propositions that clarify its relevance. In
+the previous example, an analyst might initially ask why the testimony about a dog’s
+wailingat10:15p.m.wasrelevant,andworkupwarduntilshesawthatitwasrelevant
+to establishing the time of NBS’s death and that establishing the time of NBS’s death
+was necessary to determine whether OJS could have had an opportunity to kill
+NBS. Often, the need to reason upward occurs when pieces of the puzzle are “left
+over” – i.e. evidential data that seem relevant remain unused after the penultimate
+“magnets” have been applied to the entire mass of available evidential data. The
+process of ﬁtting these leftover pieces into the puzzle often forces revisions of the
+theory and penultimate probanda.
+Until the ﬁnal analysis is complete, the theories must remain provisional, subject
+to revision as the analysis proceeds. If the problem is a complex one involving a mass
+of evidence, it is highly likely that there will be a range of possible theories each of
+which could lead the analysis in signiﬁcantly different directions. In order to make
+the task manageable, it may be necessary to eliminate some possibilities and con-
+centrate on one or more speciﬁc theories. Even historians and scientists do not have
+inﬁnite time and resources to pursue endless lines of inquiry. Typically advocates
+have to develop a provisional theory that will guide their analysis at an early stage.
+Until the analysis is complete, they must remember that the theory is provisional
+and remains open to being revised or even changed as the analysis proceeds.
+The task of the lawyer is simpler than that of other analysts, such as the historian
+or the intelligence analyst. The lawyer has an opponent who will try to organize and
+marshal the evidence to prevent her adversary from prevailing. The lawyer can often
+limit the number of potential theories that should be examined by formulating the
+strongest potential theory or theories of the case for her opponent. The theories
+that need to be examined are those that, given the available evidence, hold the most
+promise in light of the plausible theories that her opponent may use.10
+10 In Chs. 6 and 10 we shall explore in some detail the nature of such theories, their relationship to
+“story,” “situation,” and “theme” in the context of advocacy, and their functions at different stages
+of litigation.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.005 Published online by Cambridge University Press
+
+
+--- Page 152 ---
+Methods of analysis
+121
+Step 5. Recording the available data. The evidential data must be recorded in
+propositional form. The dynamic nature of the development of a case over time
+makes it necessary that the lawyer have some adaptable generic devices that can
+be employed to record the data in an organized form and that can be expanded as
+the case develops. One common device of this kind is the chronology. Chronolo-
+gies can be developed in two forms. One form is a chronology based upon the
+individual witnesses, documents, or other items of evidence. For each potential
+witness and exhibit place the events that can be asserted or shown in chrono-
+logical order. The other form is a master chronology, which places each of the
+propositions supported by the data in a temporal sequence, indexed to the wit-
+nesses or documents by which they are to be established. So ordered, these propo-
+sitions describe the events that are known or believed to have occurred in the
+precise sequence in which they occurred. Such a chronology sets the events and
+documents in the order in which they occurred, the order in which most people
+think.
+As an analytic device, the chronology serves two functions. It helps the lawyer see
+where there are temporal gaps that need to be ﬁlled or explained. Moreover, it helps
+thelawyerseenarratives,“storypossibilities,”thatmightexplaintheeventstakenasa
+whole. Both devices enable the lawyer to identify areas where further investigation is
+necessary and should be productive. Because the chronology is ordered temporally,
+it can be revised and expanded as new evidential data are obtained.11 In most cases,
+a lawyer should begin to develop a master chronology rather early. Later in the case,
+a fully developed chronology may provide the framework for presenting the theory
+of the case as a story in the opening statement.
+Throughout all stages of the process, steps 1 through 5 are reﬂexive. The analyst
+needs to have a provisional ultimate probandum to identify possible theories and
+to establish some basis for selecting lines of investigation that are likely to produce
+relevant evidential data. At the outset, however, the lawyer needs some factual asser-
+tions (ordinarily the client’s statements) in order to identify potentially applicable
+principles of law that will enable her to frame ultimate and penultimate probanda
+as provisional hypotheses. The hypotheses so framed and the provisional theory
+adopted will guide further investigation, and that investigation, in turn, is likely to
+generate data that will require that the probanda and the theory be revised or that
+new or additional ones be provisionally adopted.
+Two points merit emphasis. First, in processes such as interviewing and investi-
+gation, these four steps are likely to be useful in differing sequences. Second, at any
+stage where the lawyer undertakes a comprehensive analysis to determine the state
+of the case at that time, each step will be required even though the probanda are
+provisional and the data incomplete.
+11 Some cases require alternative or additional generic devices. For example, if the location at which
+the events occurred is critical, physical diagrams or models may be important analytic devices.
+So too, in a products liability case, engineering models and blueprints may be necessary. In other
+complex cases, devices from other ﬁelds may be useful – for example, economic analysis in an
+antitrust case or statistical analysis in an employment discrimination case.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.005 Published online by Cambridge University Press
+
+
+--- Page 153 ---
+122
+Analysis of Evidence
+Step 6. Preparing the product(s). The product produced is a function of the method
+chosen – a key-list and chart in the chart method or an outline for the outline
+method. These methods and analytic devices overlap in ways that make it possible
+to convert material generated by an analytical device into the product of one of
+the methods of analysis and to transfer material recorded for one method into the
+product of the other. For example, the propositions in a master chronology are
+propositions that will appear in an outline and propositions from the chronology
+and the outline will appear in a key-list and chart.
+Step 7. Reﬁning and completing the analysis. Whatever the product, the objective is
+to develop a logically sound analysis that, in light of the analyst’s speciﬁc objectives,
+organizes a mass of evidence and identiﬁes the inferences necessary to relate all
+signiﬁcant relevant data to the ultimate proposition in issue. Typically, the process
+of revision and reﬁnement is continuous, with judgments previously made being
+revised in each succeeding step of the analysis to deal with any gaps discovered or
+ﬂaws in the reasoning that are revealed as the process proceeds. It is, however, the
+chart and key-list, or the outline completed through step 6, that makes it possible to
+analyze and evaluate the case-as-a-whole and to test the judgments initially made.
+This is where the true value of the analysis as both intellectual exercise and practical
+work emerges most clearly. For that reason, the ﬁnal analysis of the whole should
+be done as a separate step.
+Exercise
+Read and review the O. J. Simpson problem in Chapter 1. Prepare a list of the
+propositions concerning opportunity in chronological order. Develop an opportu-
+nity theory that would support the prosecution’s claim that the evidence showed
+beyond reasonable doubt that OJS could have murdered NBS and RLG. Develop a
+defense theory that would support the defense’s claim that it cannot be established
+beyond reasonable doubt that OJS could have murdered NBS and RLG. Both the
+prosecution and the defense theories must account for the three thumps that Kato
+Kaelin testiﬁed he had heard around 10:45 p.m. and the black man in dark clothes
+that Alan Parks testiﬁed he had seen approaching the house at 10:55 p.m.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.005 Published online by Cambridge University Press
+
+
+--- Page 154 ---
+5
+The chart method
+A. The chart method: an overview
+The chart method of analysis is the most rigorous of the three methods of analysis
+identiﬁed above. It is a technique that enables the analyst to construct, test, and
+reconstruct arguments about questions of fact. It requires that the analyst articulate
+every step in an argument, breaking down the argument into simple propositions,
+and then mapping or “charting” all the relations between those propositions and the
+penultimate probanda (or the components of a hypothesis). The logic is simple; the
+complexity lies in the materials to be analyzed and in identifying the relationships
+between the propositions in an extensive argument based on a mass of conﬂicting
+evidence. The logic is binary: Every relevant proposition either tends to support or
+tends to negate a single hypothesis or conclusion (the ultimate probandum). The
+technique is dialectical: The aim of the chart-maker should be to construct the most
+cogent possible argument for and against the ultimate conclusion and to relate the
+opposing arguments within a single coherent structure.
+The chart method structures the analysis at two levels – the macroscopic level
+and the microscopic level. The macroscopic level involves structuring the “top” of
+the chart. The ultimate and penultimate probanda must be determined based upon
+the law and, usually, restated after the analyst has formulated a provisional theory
+of the case. The penultimate probanda help the analyst identify which of the main
+propositions must be established to support each of the penultimate probanda.
+Ordinarily, there are subordinate probanda that can be immediately identiﬁed.
+For example, in a murder case the central question often is, “Was it the accused
+who committed the act that caused the victim’s death?” In such a case, the analyst
+must recognize that any evidence that supports an inference that the accused had
+opportunity or motive may be important. The subordinate propositions become
+metaphorical magnets the analyst can use in sorting the evidence and organizing
+different phases of the argument into discrete, manageable sectors. The key lies in
+anchoring the arguments about the case as a whole in a deﬁned standpoint, clear
+questions, and precisely formulated hypotheses or conclusions.
+The microscopic level requires precise and detailed analysis of the evidential
+data for each important phase of the argument. This “microscopic analysis” is
+123
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.006 Published online by Cambridge University Press
+
+
+--- Page 155 ---
+124
+Analysis of Evidence
+arduousandtime-consumingwork.However,withpractice,theanalystlearnssome
+basic principles of economy, by identifying crucial or important phases within an
+argument and focusing mainly on these. If a person’s jugular vein is severed, death
+is almost inevitable. In advocacy “going for the jugular” means concentrating one’s
+attack on the weakest point in an opponent’s argument or, more positively, building
+up support for a proposition which, if established, will ensure success. The chart
+method of analysis is particularly useful for identifying potentially key propositions
+that can be used to build or destroy a case.
+The two main products that distinguish the chart method from other methods of
+analysis are a “key-list” of all the propositions used in the argument and a detailed
+map showing how propositions inferred from the evidential data can be logically
+marshaled to provide the strongest arguments in support of and against the ultimate
+probandum. The method is disciplined and systematic, but a chart is a picture of
+the chart-maker’s beliefs about what constitutes the strongest argument. Judgment,
+selection, skill, and analytical capacity are required at every stage. The chart method
+is an aid to disciplined analysis, construction, and criticism of arguments; it should
+not be viewed as a substitute for thinking.
+B. The seven-step protocol for the chart method:
+a detailed account
+Mastering Wigmore’s chart method of analysis is similar to mastering any complex
+analytical skill. In learning it, you should try to cultivate the habit of going through
+a regular sequence of operations step-by-step. Steps 1 through 4 and 7 are common
+to all methods; steps 5 and 6 must be adapted to the chart method. To provide a
+solid foundation, we present a more detailed account of each of the steps, adapted
+to the chart method, using the United States v. Able case from Chapter 1 (page 23).
+Step1.Clarifying standpoint. The analyst must answer the four basic questions at the
+outset of any analysis project: Who am I? At what stage in what process am I? What
+materials are available for analysis? What am I trying to do? The consequences of
+failing to respond carefully to each of these questions can be dramatic and traumatic
+inapplyingthechartmethod.Atsomepointintryingtodevelopthechartedanalysis,
+usually after the investment of substantial time and effort, the deﬁciency is more
+likely to become apparent because the precision required for the chart method
+makes it far more difﬁcult to overlook any deﬁciencies.
+For purposes of learning how to apply the chart method, it is often helpful to
+adopt the standpoint of a historian making an ex post facto judgment about what
+happened (the event) on the basis of a ﬁnite body of evidence. In this context, a
+historian might deﬁne and pursue a single objective – the construction and eval-
+uation of the arguments for and against a speciﬁc conclusion. For example, she
+might seek to answer the question: Could a rational fact-ﬁnder have concluded
+that the evidence in the Sacco and Vanzetti (page 21) case, after the revelation that
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.006 Published online by Cambridge University Press
+
+
+--- Page 156 ---
+The chart method
+125
+bullet III could not have been ﬁred from the gun that ﬁred bullets I, II, and IV,
+established beyond a reasonable doubt that it was Sacco who ﬁred the shot that
+killed Berardelli?1
+Adopting the standpoint of a historian can serve to isolate the tasks of analysis
+and evaluation from other tasks. Historians do not have to concern themselves with
+proceduraltechnicalities,admissibility,questionsofrole,tactics,ethicalconstraints,
+or other “noise” factors to the same extent as participants in actual trials. On the
+other hand, historians do not have a formal concept of materiality that deﬁnes the
+ultimate probandum.2
+In analyzing trial records, law students often ﬁnd it difﬁcult to keep separate
+the concept of the original event (Did X happen?) and the proceedings at trial,
+which may have involved lack of due process, poor or unethical advocacy, or bias
+or prejudice on the part of the judge or jury (Did the evidence presented justify the
+result?). None of the latter factors should inﬂuence a historian’s judgment about
+the original event. Trial records are useful sources of evidence for a historian, but
+they may involve “noise” factors that are irrelevant to a historical judgment about
+the original event rather than the trial.
+In Able, our standpoint might be stated as follows. Who are we? We are the
+lawyers representing Richard Able in United States v. Able. The case is ready for trial
+and discovery has closed. The evidence in the case ﬁle is the only material available.
+We are preparing the case for trial and seek to marshal the available evidence and
+inferences to maximize the likelihood that Able will be found not guilty.
+Step2. Formulating the ultimate probandum. For every case, the lawyer must identify
+the rule or rules of law that will (or that she believes will) control the case and
+formulate a proposition or propositions of fact, the ultimate probandum, that must
+be proved in order to satisfy the conditions required by the rule or rules. For United
+States v. Able, we could have looked at the Internal Revenue Code for the proposition
+of law that the government’s ultimate probandum must satisfy, but for present
+purposes we need only look at the indictment. Because the court has denied Able’s
+motion to dismiss, it was established for this case, at the trial level, that the facts
+alleged in the indictment, if proved, are sufﬁcient to support a guilty verdict.3
+1 See Schum and Kadane (1996) for a full analysis.
+2 Of course, historians are not of one kind. They too have to be concerned with objectives, biases, and
+context. Even for the historian standpoint, role and objectives need to be deﬁned with precision.
+See Twining and Hampsher-Monk (2003), esp. Geller, “The Last Wedge” (at 122) and Anderson,
+“WigmoreMeets‘TheLastWedge’”(at140)foranillustrationoftheapplicationofthechartmethod
+to a historical problem. Other published applications of the chart method include Anderson (1999)
+(Huddleston); Dingley (1999) (The Ballpoint case – cf. the approach of Feteris (1999) to the same
+case); Wigmore, Science (Umilian and Hatchett).
+3 Our motion to dismiss the indictment would have asserted that the indictment failed to allege facts
+sufﬁcient to state a violation of Section 7201 of the Internal Revenue Code, i.e. that it failed to
+allege an ultimate probandum that satisﬁed the conditions mandated using Section 7201 as a major
+premise. Given our standpoint, the issues raised by that motion are matters to be considered by
+appellate counsel in the event Able is convicted.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.006 Published online by Cambridge University Press

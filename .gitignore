@@ -1,0 +1,26 @@
+# Ignore large PDF files (>100MB GitHub limit)
+# Use Git LFS for large files if needed
+extracted_pdfs/pdfs/*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,711 @@
+# Chunk 7 of 26
+# Document: Analysis of Evidence
+# Characters: 47075
+
+--- Page 111 ---
+Principles of proof
+79
+will be debated in the future. They represent “ﬁrst principles” that can usefully be
+employed by an advocate in urging that a speciﬁc rule of procedure or of evidence
+should be construed in a manner that favors the outcome she seeks – that is, they
+provide a basis for constructing arguments to persuade a court that the advocate’s
+position is consistent with the assumptions upon which the system is based and
+that her opponent’s is not.
+An understanding of these assumptions serves further purposes for law students.
+Theassumptionsprovideaframeworkforunderstandinghowtheprinciplesoflogic
+and their application in judicial trials ﬁt within the broader contexts of litigation
+andlawyeringprocessesgenerallyandtrialpracticespeciﬁcally.Thatframeworkalso
+establishes a basis for understanding how the contemporary rules of evidence and
+procedure have evolved. It also facilitates understanding the relationships between
+the formal rules of evidence that regulate admissibility and use and the principles
+of logic that provide the basis for practical argument and rational justiﬁcation.
+1. The tradition described
+The central tenet of the Rationalist Tradition is that the primary objective of adjec-
+tive(orprocedural)lawistheachievementof“rectitudeofdecision”inadjudication,
+that is to say the correct application of law to facts proved to be true. That tenet has
+threecorollariesthatbearuponthepresententerprise.First,withrespecttodisputed
+questionsoffact,thetenetassumesthatrealizationofthatobjectiveinvolvesthepur-
+suit of “truth” through rational means.2 That corollary requires assumptions of two
+kinds – epistemological assumptions concerning the possibility of making accurate
+present judgments about past events and reasoning assumptions concerning the
+principles to be applied to maximize the likelihood that present judgments about
+past events will be accurate. Second, the Rationalist Tradition reﬂects a persistent
+recognitionthatpursuitoftruthhasahigh,butnotoverriding,priorityasameansto
+secure justice under law (expletive justice). Third, the model of adjudication is itself
+instrumentalist in that the pursuit of truth through reason is only a means to achiev-
+ing the end of expletive justice viewed as the implementation of substantive law.
+Given this central tenet, the characteristic assumptions of discourse about evi-
+dence within the Rationalist Tradition can be succinctly stated: Epistemology is
+cognitivist rather than skeptical; a correspondence theory of truth is generally pre-
+ferred to a coherence theory of truth;3 the mode of decision-making is seen as
+2 Critical theorists, postmodernists, and others argue that this is not how judges or juries, in fact,
+resolve disputed questions of fact. See, e.g., Graham (1987); cf. Twining (1988); see also Nicolson
+(1994), Siegel (1994). The main “strategies of scepticism” are discussed in Rethinking, Ch. 4. Even
+they, however, would acknowledge that established rules require that decisions resolving such
+questions must be rationally justiﬁable.
+3 In the view of the authors, philosophical debates about coherence and correspondence theories of
+truth are not crucially important in this context as the model is ﬂexible enough to accommodate
+both kinds of theory. Historically most Anglo-American writers on evidence seem to have assumed
+some correspondence assumptions (Bentham’s theory of ﬁctions being a notable exception). Our
+own position approximates more closely to the “foundeherentism” of Haack (1993).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 112 ---
+80
+Analysis of Evidence
+“rational,” as contrasted with “irrational” modes such as battle, compurgation, or
+ordeal; the characteristic mode of reasoning is induction; and the pursuit of truth,
+as a means to justice under the law, commands a high, but not necessarily an over-
+riding, priority as a social value.
+The basic assumptions that underlie the Rationalist Tradition are summarized
+in the form of two models in table 3.1.
+The ﬁrst model, Model I, reconstructs a “Rationalist Model of Adjudication”; the
+second model, Model II, articulates the main epistemological and logical assump-
+tions of standard evidence discourse to be found in specialized secondary writings
+about evidence in the Anglo-American tradition. Part A of Model I is prescriptive:
+It states an aspiration and a standard by which actual rules, institutions, procedures,
+and practices may be evaluated. Acceptance of such standards involves no necessary
+commitment to the view that a particular system, or some aspect of it, at a particular
+time satisﬁes these standards either in its design or in its actual operation. Part B
+of the model is intended to represent typical claims or judgments of the kind “on
+the whole the system works well.” None of the leading theorists in the Rationalist
+Tradition were perfectionists who expected one hundred per cent conformity with
+the ideal. Some were highly critical of existing arrangements and practices.4
+Ifthepropositionsofthesecondmodelrepresentstandardelementsinrationalist
+theories of evidence, it should be clear that it is artiﬁcial to make a sharp distinction
+between theories of evidence and theories of adjudication: Generally speaking, the
+former presuppose or form part of the latter. Although there appears to be less of
+a consensus in the relevant literature about the ends and the achievements of the
+Anglo-American system of adjudication than about the logic and epistemology of
+proof, it is possible to postulate a rationalist model of adjudication as an ideal type
+that both ﬁts a rationalist theory of evidence and is recognizable as a reasonably
+sophisticated version of a widely held, if controversial, view. The ﬁrst model is a
+modiﬁed version of a Benthamite model of adjudication, presented in a way that
+suggests a number of possible points of departure or disagreement. Although not
+all leading evidence scholars have been legal positivists and utilitarians, a rationalist
+theory of evidence necessarily presupposes a theory of adjudication that postulates
+something like Bentham’s “rectitude of decision” as the main objective. There is
+scope for divergence on a number of points of detail, but not from what might be
+called the “rational core.”
+It is reasonable, and sufﬁcient for present purposes, to assert that by and large
+the leading Anglo-American scholars and theorists of evidence from Gilbert (1754)
+to Wigmore (and, for the most part, until the present) have either implicitly or
+explicitly accepted assumptions such as these, although not in this particular for-
+mulation. Two ideas were shared by all. First, they accepted as given the view that
+4 Indeed Bentham, whose Rationale of Judicial Evidence (1827) is the main source of the model,
+made his theory of adjudication the basis for a radical and far-ranging critique of English (and, to
+a lesser extent, Scottish and continental) procedure, practice, and rules of evidence in his day. See
+Rethinking at 71–92.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 113 ---
+Principles of proof
+81
+the Anglo-American system has adopted a “rational” mode of determining issues of
+fact in contrast with older “irrational” modes of proof. Second, a particular view of
+“rationality”wasadoptedortakenforgranted.Thisviewfounditsclassicexpression
+in English empirical philosophy in the writings of Bacon, Locke, and John Stuart
+Mill.
+ThisaccountoftheRationalistTraditionhasananalytical(aswellasanhistorical)
+aspect. Analytically, it is an attempt to reconstruct in the form of an “ideal type”
+an account of a set of basic assumptions about the aims and nature of adjudication
+and what is involved in reasoning about disputed questions of fact in that context.
+The test of success of this ideal type is its clarity, coherence, and usefulness as a
+tool of analysis of evidence discourse and doctrine. But in applying this test, it is
+important to distinguish between aspirational and complacent rationalism in respect
+of adjudication. The claim that the modern system of adjudication is “rational” is a
+statement of what is considered to be a feasible aspiration of the system; it does not
+necessarily involve commitment to the view that this aspiration is always, generally,
+or even sometimes, realized in practice. It is commonplace within the Rationalist
+Tradition to criticize existing practices, procedures, rules, and institutions in terms
+of their failure to satisfy the standards of this aspirational model.
+It is also useful to differentiate a third category, which might be referred to as
+optimistic rationalism. In invoking prescriptive standards, one often makes some
+judgment about the prospects for attaining or approximating such standards in
+practice in a given context. In the case of many writers on evidence and judicial
+processwhoacceptedsomevariantofPartAoftherationalistmodelofadjudication,
+it is reasonable to attribute to them the view that its standards represent a feasible
+aspiration rather than a remote or unattainable Utopian ideal. Even virulently criti-
+cal writers such as Bentham and Frank can be shown to have believed that their own
+favored recommendations would in practice lead to signiﬁcant increases in the level
+of rationality in adjudication. They were optimistic rationalists. In brief, almost
+all the leading writers in the mainstream of Anglo-American evidence scholarship
+were aspirational rationalists; most were optimistic rationalists most of the time;
+and many, but by no means all, were fairly complacent about the general operation
+of the adversary system in their own jurisdiction in their day.5
+2. Principles of proof, rules of procedure and evidence,
+and the Rationalist Tradition
+Contemporary rules of procedure and evidence make it clear that the assumptions
+identiﬁed in the Rationalist Tradition remain dominant today. Although a detailed
+analysis is beyond the scope of this book, the importance of those assumptions in
+understanding contemporary rules can be usefully illustrated here. We offer the
+illustrations that follow for two reasons – to suggest perspectives that students
+may wish to consider in studying the formal rules regulating procedure and the
+5 For a fuller description, see Rethinking 70–82.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 114 ---
+Table 3.1 The Rationalist Tradition: basic assumptions
+Model I A Rationalist model of adjudication
+Model II Rationalist theories of evidence and proof: some common assumptions
+A Prescriptive
+1 The direct end
+2 of adjective law
+3 is rectitude of decision through correct application
+4 of valid substantive laws
+5 deemed to be consonant with utility (or otherwise good)
+6 and through accurate determination
+7 of the true past facts
+8 material to
+9 precisely speciﬁed allegations expressed in categories
+deﬁned in advance by law, i.e. facts in issue,
+10 proved to speciﬁed standards of probability or likelihood
+11 on the basis of the careful
+12 and rational
+1 Knowledge about particular past events is possible.
+2 Establishing the truth about particular past events in issue in a case (the facts in
+issue) is a necessary condition for achieving justice in adjudication; incorrect
+results are one form of injustice.
+3 The notions of evidence and proof in adjudication are concerned with rational
+methods of determining questions of fact; in this context operative distinctions
+have to be maintained between questions of fact and questions of law, questions
+of fact and questions of value, and questions of fact and questions of opinion.
+4 The establishment of the truth of alleged facts in adjudication is typically a
+matter of probabilities, falling short of absolute certainty.
+5
+(a) Judgments about the probabilities of allegations about particular past
+events can and should be reached by reasoning from relevant evidence
+presented to the decision-maker;
+(b) The characteristic mode of reasoning appropriate to reasoning about
+probabilities is induction.
+13 weighing of
+14 evidence
+15 which is both relevant
+16 and reliable
+17 presented (in a form designed to bring out truth and
+discover untruth)
+18 to supposedly competent
+19 and impartial
+20 decision-makers
+21 with adequate safeguards against corruption
+22 and mistake
+23 and adequate provision for review and appeal.
+B Descriptive
+24 Generally speaking this objective is largely achieved
+25 in a consistent
+26 fair
+27 and predictable manner.
+6 Judgments about probabilities have, generally speaking, to be based on the
+available stock of knowledge about the common course of events; this is largely a
+matter of common sense supplemented by specialized scientiﬁc or expert
+knowledge when it is available.
+7 The pursuit of truth (i.e. seeking to maximize accuracy in fact-determination) is
+to be given a high, but not necessarily an overriding, priority in relation to other
+values, such as the security of the state, the protection of family relationships, or
+the curbing of coercive methods of interrogation.
+8 One crucial basis for evaluating “fact-ﬁnding” institutions, rules, procedures,
+and techniques is how far they are estimated to maximize accuracy in
+fact-determination – but other criteria such as speed, cheapness, procedural
+fairness, humaneness, public conﬁdence, and the avoidance of vexation for
+participants are also to be taken into account.
+9 The primary role of applied forensic psychology and forensic science is to
+provide guidance about the reliability of different kinds of evidence and to
+develop methods and devices for increasing such reliability.
+Note: Prescriptive rationalism: acceptance of A as both desirable and reasonably feasible. No commitment to B.
+Complacent rationalism: acceptance of A & B in re a particular system.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 115 ---
+84
+Analysis of Evidence
+admissibility and use of evidence in the courts, and to aid students in understanding
+the role that the principles of proof play in contemporary trial practice.
+Contemporary rules clearly reﬂect the central tenets of the Rationalist Tradition,
+although recent developments reﬂect a greater concern for ﬁnality and efﬁciency
+with concomitant reduced concern for establishing the truth. Consider, for exam-
+ple, the standards speciﬁed in the United States Federal Rules of Civil Procedure,
+Criminal Procedure, and Evidence. The rules governing civil cases are “to be con-
+strued to secure the just, speedy, and inexpensive determination of every action.”6
+The rules governing criminal proceedings “are intended to provide for the just
+determination of every criminal proceeding” and are to be “construed to secure
+simplicity in procedure, fairness in administration, and the elimination of unjusti-
+ﬁable expense and delay.”7 The rules regulating the admission and use of evidence
+in both kinds of proceedings are to be “construed to secure fairness in administra-
+tion, elimination of unjustiﬁable expense and delay, and promotion of growth and
+development of the law of evidence to the end that truth may be ascertained and
+proceedings justly determined.”8
+In England, the contemporary rules of civil procedure reﬂect a similar shift. They
+have been substantially reformed following the recommendations of Lord Woolf’s
+Final Report on Access to Justice (1996). The main concern underlying these reforms
+wastoreducecost,delay,andcomplexity;theprincipaloutcomehasbeentotransfer
+the main responsibility for case management from the parties and their lawyers to
+the courts. Some consider that the rules will have the tendency to sacriﬁce concern
+for rectitude of decision to efﬁciency. Rule 1 of the Civil Procedure Rules (1999)
+(CPR) states:
+Rule 1(1) These Rules are a new procedural code with the overriding objective of
+enabling the court to deal with cases justly.
+Rule 1.1(2) Dealing with a case justly includes, so far as is practicable: (a) ensuring that
+the parties are on an equal footing; (b) saving expenses; (c) dealing with the case in ways
+which are proportionate (i) to the amount of money involved; (ii) to the importance
+of the case; (iii) to the complexity of the issues; (iv) to the ﬁnancial position of each
+party; (d) ensuring that it is dealt with expeditiously and fairly; and (e) allotting to it an
+appropriate share of the court’s resources, while taking into account the need to allot
+resources to other cases.9
+A detailed study of these US Federal Rules would raise interesting questions.
+Each suggests or states that the ascertainment of truth and the correct application of
+6 Fed. R. Civ. P. 1.
+7 Fed. R. Crim. P. 2.
+8 Fed. R. Evid. 102. The position in England is similar. For example, Professor Ian Dennis writes:
+“Part of the aims of the law of evidence is therefore to articulate the constraints on the principle of
+free proof which would be logically entailed by the rationalist model of adjudication. Some of the
+criteria for constraint and their rationale are a matter of considerable and continuing controversy,
+but certain points seem reasonably plain” (Dennis (2002) 27). Dennis then usefully considers these
+constraints under four heads: (a) Expense and delay; (b) Procedural fairness; (c) Avoidance of error;
+(d) Pursuit of other values (id. 23–29).
+9 For an account and appraisal of the Woolf reforms see Zander (2003) and Jacob (2001).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 116 ---
+Principles of proof
+85
+substantive law is an important objective. Each, however, also states that potentially
+conﬂicting values, such as speed and the elimination of unjustiﬁable delay and
+expense, are also to be taken into account. None says how the balance is to be struck
+generally or in speciﬁc cases. Nor is it clear why the formulations in the three general
+codesadoptedintheUnitedStatesthroughsimilarprocessesbythesameauthorities
+are different or whether and to what extent the differences in language are intended
+to have any practical consequences in application.
+Partial answers to the questions that might be raised would require consideration
+of the kinds of aspirations the rules reﬂect and the reactions generated by current
+dissatisfaction with the seeming inability of the bench and bar to achieve them.
+There are few complacent rationalists in modern society. No one seriously claims
+that the Federal Rules of Civil Procedure have promoted “speedy and inexpensive
+determinations in every action” that comes before the American federal courts.
+Quite the contrary, many of those who now vigorously urge a turn to methods of
+alternative dispute resolution can fairly be characterized as pessimistic rationalists
+who think the aspirations of Model I can no longer be realized in the traditional
+model of adjudication. The extent to which plea bargaining is the principal means
+of resolving criminal proceedings reﬂects similar dissatisfaction on the criminal
+side.
+Another part of the answer, a more important part for those who expect to prac-
+tice in the system, may emerge from an understanding that the process through
+which the Federal Rules were formulated was political and the interests represented
+in that process reﬂect divergent views as to how the balance should be struck.10 As
+a practical matter, the rules ultimately adopted reﬂect political compromises, not
+articulations of principles viewed as theoretically correct. In this context, two points
+should be noted. First, ambiguity is a form of political compromise – the conﬂict
+that cannot be resolved is deferred and left for case-by-case resolution in the courts.
+Second, and perhaps related, the modern trend has been to expand the discretion
+of the trial judge and to restrict the scope of review on appeal from decisions on
+procedural or evidentiary matters. Thus, the political battle is legitimated and pro-
+ceeds in the courts on a day-to-day, case-by-case basis. How discretion is exercised
+in construing a rule may largely be a function of the social views of the particular
+judge, tempered by the persuasiveness of counsel.
+These points suggest some perspectives that students may ﬁnd useful in studying
+procedural and evidentiary rules. First, modern rules of procedure and formal
+rules of evidence are relatively recent phenomena. The very lack of complacency
+10 The proceedings that led to the adoption of the Federal Rules of Evidence are described in the
+Senate Judiciary Committee Report that accompanied the bill proposed to enact the rules. S. Rep.
+No. 1277, 93d Cong., 2d Sess., reprinted in 1974 U.S. Code, Cong. & Admin. News 7051–7052,
+7054–7055. The political aspect of the history of the Federal Rules of Evidence is emphasized in
+Wright & Graham (1977) §§5001–5006. Section 5006 deals directly with the drafting history. The
+legislative history, including the statements of those who appeared at the hearings in the House and
+Senate, is reproduced in Bailey and Trelles (1980). Amendments to the rules since their adoption
+are listed in Federal Rules of Evidence (House Judiciary Committee Print 2003) at v–x available at
+http://www.house.gov/judiciary/committee documents.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 117 ---
+86
+Analysis of Evidence
+is reﬂected in the frequency with which these rules are amended. Anyone studying
+such rules at a particular time should pay as much attention to the history of a
+rule and the political processes by which it reached its present formulation as to
+the text currently in force. The goal should be to understand the interests and
+the compromises reﬂected in the rule. The rules are likely to change during any
+practitioner’s career to reﬂect changes in the relative political power of those whose
+interests are affected. In this view, the notes of the advisory committees, the Federal
+Judicial Center, and the legislative committees concerning rules that were rejected
+or amended at various stages and the proposals that were rejected may be more
+revealing than the rule that was actually adopted. In England, both criminal and
+civil evidence have been a recurrent focus of attention in the past thirty years.11
+Second, something very similar to the prescriptive norms expressed in Model
+I remain the norms that deﬁne the range within which contemporary debates are
+conducted.Thosewhoargueforchangeordinarilyframetheirargumentstodemon-
+strate that the changes they seek will enhance the likelihood that truth will be ascer-
+tained without imposing further or undue costs or other burdens or, alternatively,
+that the change will reduce the costs or other burdens or will promote fairness
+in administration without signiﬁcantly diminishing the likelihood that truth will
+be ascertained. Some contemporary theorists argue that the assumptions underly-
+ing the model are ﬂawed and are merely political camouﬂage used to legitimate the
+status quo and that changes are designed to protect or enhance it. Nonetheless, these
+critics have yet to propose a serious alternative model.12 For that reason, proposals
+for change and arguments for construction and application are likely to proceed
+within the framework of the Rationalist Tradition for the foreseeable future. Thus,
+as a practical matter, lawyers should develop the ability to use the prescriptive norms
+effectively in argument.
+Contemporary rules of procedure and evidence also make clear the centrality of
+the principles of inductive reasoning and argument. The Federal Rules of Evidence
+governing relevance may be fairly viewed as an attempt to codify the assumptions
+underlying the rationalist theories of evidence and proof. For example, evidence
+is relevant if and only if it has some “tendency to make the existence of any fact
+that is of consequence to the litigation more probable or less probable than it
+would be without the evidence.”13 That rule can only be viewed as mandating a
+demonstration that requires the application of the principles of inductive logic to
+persuade a judge that the evidence under consideration, alone or in combination
+with other evidence, supports an inference or a chain of inferences that increases or
+decreasesthelikelihoodthatafactofconsequenceistrue.Therulethatmandatesthe
+admission of relevant evidence unless there exist speciﬁed grounds for its exclusion
+assumes that truth is an objective that can be achieved through rational means and
+establishes a base for assessing its priority in particular situations.14
+11 For an overview, see Zander (2003) 413–61.
+12 See Rethinking 77–82.
+13 Fed. R. Evid. 401. On the meaning of “fact of consequence,” see below, n. 18.
+14 Fed. R. Evid. 402.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 118 ---
+Principles of proof
+87
+From that perspective, most of the remaining rules of evidence can be viewed
+as falling into three categories – rules that justify the exclusion of evidence on the
+ground that it has improper prejudicial effects that outweigh its probative value,15
+rules that mandate or reﬂect a cost-beneﬁt analysis to prevent undue delay or con-
+sumption of time,16 and rules that reﬂect extrinsic policies viewed as overriding the
+ascertainment of truth as an objective.17 It should be clear that rules in the ﬁrst two
+categories also typically require application of the principles of inductive reasoning
+to identify the particular improper prejudice that evidence may generate and to
+frame the arguments that bear upon a comparison of the legitimate probative value
+and the illegitimate prejudicial effects in the particular case.
+We develop the speciﬁc uses of the principles in constructing such arguments
+later. For the moment, it should sufﬁce to note that the principles of practical
+reasoning and the assumptions upon which they are based will remain central to
+the common law model of adjudication, notwithstanding any changes that may be
+made in the formal rules. For that reason, the ability to apply them in analysis and
+argument is and will remain an essential lawyering skill.
+C. Rationale
+Wigmoreprovidedthestarting-pointofourwork,anditisimportanttounderstand
+his conception of the subject of evidence in law and how its two main parts (the
+principles of proof and the trial rules) are related. The following is his opening
+statement at the start of The Science.
+§1. What Is the Science of Judicial Proof? The study of the principles of Evidence,
+for a lawyer, falls into two distinct parts. One is Proof in the general sense, – the part
+concerned with the ratiocinative process of contentious persuasion, – mind to mind,
+counsel to judge or juror, each partisan seeking to move the mind of the tribunal. The
+other part is Admissibility, – the procedural rules devised by the law, and based on
+litigious experience and tradition, to guard the tribunal (particularly the jury) against
+erroneous persuasion. Hitherto, the latter has loomed largest in our formal studies, –
+has, in fact, monopolized them; while the former, virtually ignored, has been left to the
+chances of later acquisition, casual and empiric, in the course of practice. Here we have
+been wrong; and in two ways.
+15 The general principle is stated in Federal Rule of Evidence 403. Rules often have characteristics
+that reﬂect justiﬁcations from more than one category. Rules 404 and 609, for example, may fairly
+be viewed as codiﬁcations covering recurring situations where the improper prejudicial effects
+presumptively outweigh the legitimate probative value, but these rules also reﬂect values unrelated
+to the pure search for truth, such as the values expressed in the idea of judging “the act not the
+actor.” See Old Chief v. United States, 519 U.S. 172 (1997); R. v. Sang [1980] A.C. 402 (Eng.).
+16 See Rule 403 (the general principle); see also, e.g., Rules 405 (methods of proving character),
+701–704 (opinions and expert testimony), 902 (self-authenticating documents).
+17 The clearest examples are the rules protecting privileged communications, now reﬂected in
+Rule 501, and the constitutional exclusionary rules adopted to regulate improper conduct by
+law enforcement ofﬁcers without regard to the often dispositive probative value of the evidence
+thereby excluded.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 119 ---
+88
+Analysis of Evidence
+For one thing, there is, and there must be, a probative science – the principles of
+proof – independent of the artiﬁcial rules of procedure; hence, it can be and should be
+studied. This science, to be sure, may as yet be imperfectly formulated. But all the more
+need is there to begin in earnest to investigate and develop it. Furthermore, this process
+of Proof represents the objective in every judicial investigation. The procedural rules
+for Admissibility are merely a preliminary aid to the main activity, viz., the persuasion
+of the tribunal’s mind to a correct conclusion by safe materials. This main process is
+that for which the jury are there, and on which the counsel’s duty is focused.
+And, for another thing, the judicial rules of Admissibility are destined to lessen
+in relative importance during the next period of development. Proof will assume the
+important place; and we must therefore prepare ourselves for this shifting of emphasis.
+We must seek to acquire a scientiﬁc understanding of the principles of what may be
+called “natural” proof, – the hitherto neglected process . . .
+The principles of Proof, then, represent the natural processes of the mind in dealing
+with the evidential facts after they are admitted to the jury; while the rules of Admis-
+sibility represent the artiﬁcial legal rules peculiar to our Anglo-American jury-system.
+Hence the formershouldbestudiedﬁrst.Theybringinto play those reasoning processes
+which are already the possession of intelligent and educated persons. They familiarize
+the practitioner with the materials most commonly presented in trials at law, and thus
+prepare him to take up more readily the artiﬁcial rules of Admissibility devised by
+judicial experience for safeguarding legal investigations of fact.
+Moreover, this process of Proof is after all the most important in the trial. The trial
+culminates in either Proof or non-Proof. When the evidence is all in, the counsel sets
+himself to his ultimate and crucial task, i.e. that of persuading the jury that they should
+or should not believe the fact alleged in the issue. To do this, he must reason naturally,
+as all men reason and as juries can be shown how to reason. He must have familiarized
+himself with the logical processes which men naturally use, and with general experience
+as to the classes of inferences commonly called for in legal trials. Here he has no use for
+the artiﬁcial rules of Admissibility. Those have been disposed of, at the outset, by the
+judge.Theevidenceisin,andthequestionnowis,Whatisitseffect?Alltheartiﬁcialrules
+of Admissibility might be abolished; yet the principles of Proof would remain, so long as
+trials remain as a rational attempt to seek the truth in legal controversies . . . (Wigmore,
+Science §1 and 2)
+Notes and questions on rules of evidence concerning relevance
+1. The deﬁnition of relevance is the law’s codiﬁcation of the principles of logic.
+Consider the following provisions of the Federal Rules of Evidence:
+Rule 401. Deﬁnition of “Relevant Evidence.” “Relevant evidence” means evidence having
+any tendency to make the existence of any fact that is of consequence to the deter-
+mination of the action more probable or less probable than it would be without the
+evidence.18
+18 Strictly speaking, the only facts of consequence in a case are the penultimate probanda (including
+any probanda asserting an afﬁrmative defense) and probanda undermining or reinforcing the
+credibility of evidence that is relevant to a penultimate probandum.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 120 ---
+Principles of proof
+89
+Rule 402. Relevant Evidence Generally Admissible: Irrelevant Evidence Inadmissible. All
+relevant evidence is admissible, except as otherwise provided by the Constitution of the
+United States, by Act of Congress, by these rules, or by other rules prescribed by the
+Supreme Court pursuant to statutory authority. Evidence which is not relevant is not
+admissible.
+To what extent are the foregoing provisions a codiﬁcation of principles of
+“proof”? Are any of the provisions rules of “admissibility”? Would archeologists,
+historians, and scientists accept the law’s deﬁnition of relevance for application in
+their ﬁelds? What provisions of the rule deal with problems that are peculiar to
+courts?
+2. Rule 403 of the Federal Rules of Evidence is central. It provides:
+Rule 403. Exclusion of Relevant Evidence on Grounds of Prejudice, Confusion, or Waste of
+Time. Although relevant, evidence may be excluded if its probative value is substantially
+outweighed by the danger of unfair prejudice, confusion of the issues, or misleading
+the jury, or by considerations of undue delay, waste of time, or needless presentation
+of cumulative evidence.
+Rule403prescribesa“probativeequation”thetrialcourtmustapplyindetermin-
+ing whether an individual evidential proposition should be admitted. The unfair,
+misleading, or other improper prejudicial effects (PE) of the proffered evidential
+data must be identiﬁed and appraised. The legitimate probative value (PV) must
+be determined and weighed. Then the court must determine whether the improper
+prejudicial effects substantially outweigh the legitimate probative value – whether
+PE ≫PV.
+a What effects are improperly prejudicial? How should we measure the legitimate
+probative value?
+b Consider propositions 11 and 21 from the exercise at pages 41–43 above. The ultimate
+proposition to be proved is that “It was X who murdered Y.” The prosecutor wishes to
+offer evidence to show that:
+11 X has two convictions for shoplifting; the most recent occurred ﬁve years ago.
+21 Z [an alibi witness for X] is a prostitute.
+Is evidence that supports either proposition relevant? If so, to what “fact that is
+of consequence” in an action to determine whether “It was X who murdered Y”?
+Be precise. Would a scientist or an historian consider either proposition relevant?
+Should either or both propositions be admissible under Rule 403? State the analysis
+in support of and in opposition to admission precisely.
+3. Article IV of the Federal Rules of Evidence is entitled Relevancy and its Limits.
+Consider Rule 404.
+Rule 404. Character Evidence Not Admissible to Prove Conduct; Exceptions; Other Crimes
+(a) Character evidence generally. Evidence of a person’s character or a trait of his
+character is not admissible for the purpose of proving that he acted in conformity
+therewith on a particular occasion, except;
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 121 ---
+90
+Analysis of Evidence
+(i) Character of accused. Evidence of a pertinent trait of character offered by an
+accused, or by the prosecution to rebut the same; . . .
+(b) Other crimes, wrongs, or acts. Evidence of other crimes, wrongs, or acts is not
+admissible to prove the character of a person in order to show that he acted in
+conformity therewith. It may, however, be admissible for other purposes, such as
+proof of motive, opportunity, intent, preparation, plan, knowledge, identity, or
+absence of mistake or accident.19
+Is Rule 404 a codiﬁcation of a principle of proof or a rule restricting admissibility
+and use of logically relevant evidence? If it is a rule of admissibility, what values are
+served by this departure from the goal of “truth ascertainment”? Consider again
+propositions 11 and 22 set out above. Would Rule 404 require the exclusion of
+evidence offered to prove either or both propositions? Does Rule 404 suggest a
+policy that might enhance an argument that either or both propositions should in
+any event be excluded under Rule 403?
+D. Notes on terminology and inferential relationships
+In any inquiry that seeks to determine what happened based upon evidence, the
+person conducting the inquiry must have or develop a hypothesis to be tested (some-
+times framed as a question to be answered). Although the hypothesis will often be
+reﬁned during the investigation and analysis, a meaningful analysis can not be taken
+without a preliminary hypothesis. In determining whether evidence is relevant, the
+analyst must answer the question, “Relevant to what?” The “what” is the hypothesis.
+In legal contexts, the hypothesis is established by the governing law. In other
+words, assuming the applicable rule of law is clear, the proposition to be proved is a
+proposition that includes each of the material facts that must be proved in order to
+satisfy the conditions speciﬁed by the rule. Wigmore adopted and adapted the Latin
+term “factum probandum” (or simply “probandum”) to designate a proposition to
+be proved.
+If one views the applicable rule of law as the major premise in a deductive
+argument,thentheultimateprobandumistheminorpremise.Forexample,atypical
+statute deﬁning murder might read, “Murder is the unlawful killing of a human
+being . . . with malice aforethought.” That statute might be restated as the major
+premise of a syllogism as:
+If a human being (a victim) is dead, and the victim died as a result of an unlawful
+act, and it was the accused who committed the act that caused the victim’s death, and
+the person who committed the act acted with malice aforethought, then the accused is
+guilty of murder.
+In a murder case, the ultimate probandum would be the proposition that satisﬁed
+the requirements of the rule as restated. In “An investigation” presented in Chapter 1
+19 On character evidence in England, see Dennis (2002) Ch. 18; Zander (2003) 413–33.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 122 ---
+Principles of proof
+91
+at pp. 40–43, the ultimate probandum the prosecution would have to prove might
+be stated as:
+UP:
+Y is dead; and Y died as a result of an unlawful act; and it was X who
+committed the act that caused Y’s death; and X acted with malice afore-
+thought in committing the act.20
+The illustrations that follow draw upon propositions given in that exercise. To limit
+the need to refer back, propositions used here have been renumbered.
+In almost all instances, an ultimate probandum that is stated in formal terms
+is a compound statement, a statement containing more than one simple proposi-
+tion. Under any method of analysis one of the ﬁrst steps requires that the analyst
+divide (and sometimes subdivide) the ultimate probandum into simple proposi-
+tions, what Wigmore called and we will refer to as the “penultimate probanda.” Thus,
+the penultimate probanda in “An investigation” were that:
+1 Y is dead.
+2 Y died as the result of an unlawful act.
+3 It was X who committed the act that caused Y’s death.
+4 X acted with malice aforethought in committing the act.
+A penultimate probandum is a synonym for familiar terms used in other legal
+contexts. A penultimate probandum is a material fact. (The terms fact-in-issue and
+ultimate fact are synonyms in this context.) A penultimate probandum is also a
+fact of consequence, but the term fact of consequence includes more than just the
+penultimate probanda in a case. For example, when a witness takes the stand her
+credibility becomes a fact of consequence. So too, inferred propositions, such as the
+accused had motive or had opportunity, are often called facts of consequence.21
+All evidential data presented at trial must be presented in a form that the triers
+of fact can perceive with their senses. This evidence consists of only two types: testi-
+monial assertions made by a witness from the witness stand, that is, oral statements
+the triers of fact actually hear, and physical objects displayed to the triers of fact or,
+rarely, other forms of evidential data that can be perceived by one or more of the
+senses.22
+To avoid confusion, it is important to have terms that enable us to distinguish
+evidential data that the jurors (or other decision-makers) will perceive with one
+of their senses – will hear, see, smell, taste, or touch – from the propositions that
+the jurors will be asked to infer from those data. Specialized terminology is helpful
+20 In that problem, the police cadet had an assigned standpoint. He was a police cadet assigned, at
+the outset of the investigation, to analyze information as it was developed. One of the hypotheses
+the evidence suggested was, “It was X who committed the act that caused Y’s death.” (Standpoint
+is an important concept that is developed fully in Ch. 4.)
+21 See above, n. 18.
+22 Stipulated, admitted, or judicially noticed facts might be considered a third class, but these facts
+are actually inferences that triers of fact are instructed to accept as proven.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 123 ---
+92
+Analysis of Evidence
+because the terms “fact” and “evidence” have many overlapping and imprecise
+meanings. For example, a lawyer might properly argue that:
+a
+the fact that X had a motive to murder Y is evidence that X did murder Y.
+b
+the fact X was in Y’s house at 4:30 p.m., the time and place of Y’s murder, is evidence
+that X had opportunity to murder Y.
+c
+W3’s testimony that he saw X running out of Y’s house at 4:45 p.m. is evidence that
+W exited Y’s house at 4:45 p.m., which in turn is evidence that X was in Y’s house at
+4:30 p.m.
+Most listeners would understand each of these assertions notwithstanding the fact
+that the words “fact” and “evidence” had a different meaning in each.
+In a trial, W3’s testimonial assertion about X’s departure would be an evidential
+datum – an assertion the trier of fact would hear. The existence of an evidential
+datum cannot be contested. For example, if a witness testiﬁed, “The moon is made
+of green cheese,” the fact that the statement was made could not be disputed. But
+no one would accept the inference that the moon is in fact made of green cheese.
+Instead, most would infer that the witness was lying or was crazy or had a strange
+sense of humor.
+Wigmore adopted the term autoptic proference to describe an evidential datum
+that the decision-makers will perceive with one of their ﬁve senses.23 In the chapters
+thatfollow,theterms autoptic proference or evidential datum areusedtoidentifyevi-
+dence that the fact-ﬁnder will hear or see or otherwise perceive through their senses.
+An autoptic proference is only relevant if it makes a fact of consequence more
+or less probable than it would be in the absence of the autoptic proference. A fact
+of consequence is always a proposition to be inferred, a factum probandum. It is
+rare, however, that a penultimate probandum can be directly inferred from an
+autoptic proference. In almost all instances, there are one or more intermediate
+propositions, probanda, that must be accepted in order to demonstrate the logical
+relationship between the evidential datum and the penultimate probandum it is
+offered to support.
+Wigmore also used the term “factum probans” to describe an inferential propo-
+sition that is offered as support for a further inference, a factum probandum. It is
+important to note the terms “factum probans” and “factum probandum” can refer
+to the same proposition. Using this terminology, an autoptic proference is offered
+to support a factum probandum, which then becomes a “factum probans” offered to
+supportafurther“factumprobandum.”Wehavedroppedtheword“factum,”butthe
+terms “probans” and “probandum” are used throughout the remainder of the book.
+The point can be illustrated using propositions presented in “An investigation.”
+For example, from proposition 2, renumbered proposition 5 here, we may assume
+that at trial:
+23 This admittedly awkward term is more precise and broader than the commonly used “real
+evidence,” which is ambiguous.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press
+
+
+--- Page 124 ---
+Principles of proof
+93
+5 W1 will testify, “I saw a person with characteristics a, b, c, and d enter Y’s house at
+4:15 p.m. on January 1.”
+From this autoptic proference, we must ﬁrst infer the truth of the matter asserted:
+6 A person with characteristics a, b, c, and d entered Y’s house at 4:15 p.m. on January 1.
+Standing alone, neither the testimonial assertion, an autoptic proference, nor the
+inferred proposition is relevant to the provisional penultimate probandum:
+3 It was X who murdered Y.
+But there is another autoptic proference, the appearance of X, that the decision-
+maker would see,
+7 X
+From which she might infer,
+8 X has characteristics a, b, c, and d.
+The decision-maker might then combine inferred proposition 5 and 6, now each a
+probans, to support a further probandum:
+9 It was X who entered Y’s house at 4:15 p.m. on January 1.
+An advocate might urge that proposition 9 supports a further inference:
+10 X was in Y’s house at 4:30 p.m.
+based upon a generalization:
+11 People who enter a house usually remain for more than ﬁfteen minutes.
+That advocate could then argue that the assumed proposition 12 (based on propo-
+sition 1 in “An investigation”),
+12 Y died in his home at 4:30 p.m. on January 1 as the result of an unlawful act
+committed by another person,
+combines with inferred proposition 10 to support a further inference,
+13 X had an opportunity to commit the act that caused Y’s death,
+which in turn makes the fact of consequence, penultimate probandum 3 above,
+3 It was X who committed the act that caused Y’s death,
+somewhat more probable than it would in the absence of the autoptic proferences
+set out in propositions 5 and 6.
+It may be easier to understand the relationships among these propositions if they
+were depicted in charted form. This can be done using three of the symbols used in
+the “Chart method of analysis” which is presented in the next chapter. A testimonial
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.004 Published online by Cambridge University Press

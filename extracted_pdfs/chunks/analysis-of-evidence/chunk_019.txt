@@ -1,0 +1,761 @@
+# Chunk 19 of 26
+# Document: Analysis of Evidence
+# Characters: 49388
+
+--- Page 304 ---
+Necessary but dangerous
+273
+4. Judicial notice and cognitive consensus
+a. Judicial notice
+In most jurisdictions there are rules concerning “judicial notice,” that is to say “facts
+which need not to be proved.” For example, the Federal Rule 201(b) provides: “A
+judicially noticed fact must be one not subject to reasonable dispute in that it is
+either (1) generally well known within the territorial jurisdiction of the trial court or
+(2) capable of accurate and ready determination by resort to sources whose accuracy
+cannot reasonably be questioned.” Similarly a leading treatise on the law of evidence
+in England and Wales states:
+A judge may take judicial notice of facts which are matters of common knowledge and
+which could not be the subject of serious dispute. Hence it would be pointless and
+wasteful to require evidence of them. Hypothetical possibilities of notorious facts are
+limitless: textbook writers frequently cite as illustrations the date of Christmas and the
+death of Queen Victoria as facts which would be judicially noticed. Reported cases
+contain many examples. The courts have taken judicial notice of the fact that by the
+laws of nature, a fortnight is too short a period for human gestation; that cats are kept
+for domestic purposes; that London streets carry a large volume of trafﬁc, so that a boy
+employed to ride a bicycle through them runs a risk of injury; that the reception of
+television is a common feature of domestic life enjoyed primarily for the purposes of
+recreation; and that one of the popular forms of entertainment on television is a series
+of reconstructed trials which have a striking degree of realism. (Dennis (2002) 424–45.
+Citations omitted)
+The idea of judicial notice should not be confused with background knowledge
+or “common sense generalizations.” It is both wider and narrower. It is wider in that
+it includes knowledge of speciﬁc facts (that Lima is the capital of Peru; that the old
+Sumter Inn is nine miles from Hadley) (above, page 13). It is narrower because a
+great deal of “common sense” or “society’s stock of knowledge” is not well founded
+and its accuracy can reasonably be questioned.
+Once articulated, many “common sense generalizations” appear dubious on
+their face or are open to challenge on a variety of grounds. If so, they technically
+fall outside the scope of the doctrine of judicial notice. But in practice prosecutors,
+plaintiffs, defense counsel, and courts regularly rely on such beliefs, not because
+they are well founded, but because there is no practicable alternative.
+b. Cognitive consensus
+Writers on evidence talk of “a stock of knowledge” and tend to postulate a high
+degree of “cognitive consensus.” The following passage deserves to be treated as the
+locus classicus for this view:
+The inductivist analysis, [. . . ] presupposes only that when a juryman takes up his
+ofﬁce his mind is already adult and stocked with a vast number of commonplace
+generalizations about human acts, attitudes, intentions, etc., about the more familiar
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 305 ---
+274
+Analysis of Evidence
+features of the human environment, and about the interactions between these two
+kinds of factors, together with an awareness of many of the kinds of circumstances that
+are favourable or unfavourable to the application of each such generalization. Without
+this stock of information in everyday life he could understand very little about his
+neighbours, his colleagues, his business competitors, or his wife. He would be greatly
+handicapped in explaining their past actions or predicting their future ones. But with
+this information he has the only kind of background data he needs in practice for
+the assessment of inductive probabilities in the jury-room. He does not need to have
+tacitly ingested a mass of quantitative or numerical statistics for this purpose. Nor does
+he need implicitly to remember some sophisticated mathematical algorithm in order
+to compute the probabilities from the data. The inductive probability of the proposed
+conclusion on the facts before the court depends just on the extent to which the facts are
+favourable to some commonplace generalizations that connect them to the conclusion.
+Not that jurymen are incapable of disagreeing with one another in their assessment
+of the probability with which a proposed conclusion has been proved from undisputed
+facts. But on any rational reconstruction of their disagreement (when prejudice, per-
+sonal sympathy, sectional spite, and other irrational factors may be disregarded) the
+disagreement must normally be due to differences of opinion about the kinds of cir-
+cumstances that are favourable or unfavourable to the application of some particular
+common sense generalization. The main commonplace generalizations themselves are
+for the most part too essential a part of our culture for there to be any serious disagree-
+ment about them. They are learned from shared experiences, or taught by proverb,
+myth, legend, history, literature, drama, parental advice, and the mass media. When
+people ceased to believe that those who had insensitive areas of skin were in commerce
+with the Devil, it was symptomatic of a major cultural change. Similarly, so long as the
+jurymen at a criminal trial are the accused’s peers his case has a reasonable chance of
+being judged correctly by them, while if they belong to a different culture they are more
+likely to misjudge it even when trying to be fair. But there is still room for occasional
+disagreement, even within the same culture, about the kinds of circumstances that
+are favourable or unfavourable to the application of some particular common sense
+generalization. (L. Jonathan Cohen (1977) 274–76)
+This passage has been criticized as presenting a rather complacent view about
+common sense generalizations. It should be apparent that Cohen is making an
+argument based on a collection of general knowledge and synthetic-intuitive gen-
+eralizations that he assumes are so widely shared among the audience of scholars,
+lawyers, and judges to whom the argument is addressed that they do not merit fur-
+ther documentation or development. The main criticisms that have been advanced
+can be summarized as follows:13
+First, Cohen assumes that all jurors (and defendants) are male or sexless. But
+even within a given culture and class a cross-gender cognitive consensus cannot
+always be assumed on such matters as domestic violence, rape, equal pay, or more
+generally. Moreover, in a dynamic multi-class, multi-cultural society one cannot
+13 For a recent sympathetic critique see Stein (2005).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 306 ---
+Necessary but dangerous
+275
+assume an extensive cognitive consensus across classes or cultures or even within
+cultures. The idea of a cognitive consensus involving a common stock of knowledge
+or beliefs is highly problematic.14
+Second, and perhaps most important, standard versions of inferential reasoning
+are species of propositional logic. One infers conclusions from premises that are
+expressed as propositions. When we talk of “background generalizations” as the
+warrants or the glue in this kind of argument, there is a tendency to assume that
+we draw these from our stock of knowledge as ready-made propositions. But this
+is psychologically implausible. Instead an individual’s or a community’s stock of
+beliefs is unlikely to be stored in the form of a neatly categorized code or data base:
+A “stock of knowledge” does not consist of individual, empirically tested, and readily
+articulated propositions: rather, both individually and collectively, we have ill deﬁned
+agglomerations of beliefs that typically consist of a complex soup of more or less
+well-grounded information, sophisticated models, anecdotal memories, impressions,
+stories, myths, proverbs, wishes, stereotypes, speculations, and prejudices. Fact and
+value are not sharply differentiated. Nor are fact, fantasy and ﬁction. Nor can one take
+for granted either consistency or coherence within an individual’s or a society’s “stock
+of knowledge.” (Twining (1999) 362; Bazaar, 456)
+Third, insofar as an individual’s or a group’s stock of beliefs is like a bouillabaisse,
+it does not seem like an environment conducive to maintaining clear distinctions
+between is and ought, fact and value. Stereotypes, proverbs, and stories typically
+have an evaluative element – that is often their main point.15 Cohen’s formulation
+does not make sufﬁcient allowance for the relationship between values and facts
+in this kind of context – the inﬂuence of bias, prejudice, values, and so on, on
+perceptionsofsocialfacts.Cohenassumesthatempiricalgeneralizationscanreadily
+be distinguished from judgments of value.
+Fourth, the statement is over-simple in other respects; for example, it does not
+distinguishamongdifferentexamplesofgeneralizationsinrelationtotheirscientiﬁc
+status or empirical base, their level of generality, or the extent to which they are
+“purely” factual or contain other components – speculative or evaluative. So too, it
+does not adequately distinguish among ﬁrmly held beliefs, matters on which people
+have vague ideas, matters on which they are open to suggestion, and matters on
+which they are agnostic or would register as “don’t knows.”
+Soweneedtorecognizethattheideaofacognitiveconsensusinvolvingacommon
+stock of knowledge or beliefs is highly problematic. However, Cohen’s position can
+be defended up to a point. He allows that there is not a social consensus about every-
+thing; that the stock of knowledge is relative to a given society, and by implication to
+14 In the context of “globalization” the idea can be extended beyond a plural or a multi-cultural
+society to the point that for many purposes we can no longer treat societies, countries, or nations
+as self-contained units with clear and stable boundaries. However, John Rawls’s useful idea of an
+overlapping consensus can be used to curb tendencies to exaggerate the extent to which stocks of
+belief in fact vary across “cultures” (Rawls (1987); discussed GLT 69–75).
+15 Bazaar Ch. 16.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 307 ---
+276
+Analysis of Evidence
+particular subgroups within a society; and that the stock of knowledge can change
+over time. He points to the notion that with collegial decision-making, especially by
+a jury, the stock of knowledge is a pool drawn from all the members’ “experience.”16
+Moreover,incertainkindsofdecision-making,thetriersoffactsareselectedbecause
+of their special knowledge and/or values, for example, in jury selection, at least in
+the American system. So too, in arbitration it is typical to choose people for their
+expertise – that is, some special subcategory of general experience, or to choose
+people because of their biases or absence of bias or because they represent certain
+kinds of interests, with a view to having a balanced panel that may ﬁnd a middle
+way – for instance, one trade unionist, one representative of management, and one
+“neutral” (who may or may not be an expert).
+From the standpoint of the lawyer, both the view and the criticisms are impor-
+tant. Lawyers must identify from the evidence what generalizations may affect the
+decision-makers and how commonly and strongly held these generalizations are
+likely to be among them. They must rely in part upon their own stock of knowledge
+as members of the community, such knowledge about the speciﬁc decision-makers
+as they can legitimately acquire through voir dire or otherwise, and such additional
+knowledge as they may be able to acquire by study.
+5. Dangers of generalizations
+As Sidgwick observed, linking generalizations are often the main source of doubt in
+an argument. One of the claims for the chart method is that by forcing articulation
+of what is being (or might be) argued, one can more readily spot weak points in the
+argument.17 In the course of discussion we have seen some examples of weak gen-
+eralizations. Here is a summary list of some of the main weaknesses one can expect,
+especially in relation to experience based and synthetic-intuitive generalizations.
+Generalizations are dangerous18
+Generalizations are dangerous in argumentation about doubtful or disputed ques-
+tions of fact because they tend to provide invalid, illegitimate, or false reasons for
+accepting conclusions based on inference. They are especially dangerous when they
+are implicit or unexpressed. For example:
+i The warranting generalization may be indeterminate in respect of:
+a frequency or universality (all/most/some);
+b level of abstraction;
+c defeasibility (exceptions, qualiﬁcations);
+d precision or “fuzziness”;
+16 Some support for the consensus idea is to be found in writings about the jury in which research
+suggests that the tendency is toward consensus formation in that kind of decision-making (Abbott
+and Ball (eds.) (1999) Ch. 20).
+17 A useful technique for showing the weakness of an argument is to show that it relies on a general-
+ization that, once articulated, is obviously foolish (see above, page 272).
+18 This section is adapted from Twining (1999) 356–58.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 308 ---
+Necessary but dangerous
+277
+e empirical base/conﬁdence (accepted by scientiﬁc community; part of everyday
+ﬁrsthand/vicarious experience, speculative, etc.);
+ii It may be unclear as to identity (which generalization? There may be rival
+generalizations available to each side in a dialogue), or source (whose generalization?
+e.g. male/female experience in domestic violence cases).
+iii When articulated, a generalization may be expressed in value-laden language or in
+loaded categories.
+iv There are several reasons for treating such ideas as “common-sense generalizations”
+and “society’s stock of knowledge” with great caution.
+Some of the more obvious ones are as follows:
+a By no means all the beliefs in a social stock of knowledge will satisfy even quite relaxed
+tests of warranted beliefs. What passes as common sense is often easily shown to be
+untrue.
+b A high degree of consensus about the contents of the social stock of knowledge or
+beliefs cannot be taken for granted, especially in a plural or a stratiﬁed society. The
+extent of cognitive consensus varies according to time and place.
+c What is commonly referred to as a society’s “stock of knowledge” typically consists of
+a complex mixture of “scientiﬁc facts,” impressionistic beliefs, stereotypes, myths,
+proverbs, and so on. Value judgments (including prejudices, racist or gender
+stereotypes) may be masquerading as empirical propositions.19
+d The content of a “stock of knowledge” does not consist solely or mainly of
+ready-made generalizations, still less of empirical generalizations. Beliefs may be
+embedded in stories, examples, experience, etc., which are particular and which may
+not have been articulated in general terms. There is often considerable indeterminacy
+about what moral or general lesson or other generalization(s) may or will be
+extrapolated from such material.
+e What ofﬁcials, including courts, are prepared to recognize as “common sense” may
+not correspond with what most people in a given society in fact believe. Even in an
+open society some beliefs may be repressed as not being socially acceptable, politically
+correct, or otherwise proper. A regime may be “in advance” of public opinion in
+respect of such matters as gender, race, or class or vice versa. In repressive societies
+ofﬁcial versions of the truth may diverge very substantially from what people in fact
+believe.
+6. Generalizations: the practitioner’s standpoint
+Evaluating the strength of an argument or assessing the net persuasive effect of the
+evidence as a whole ordinarily depends upon the signiﬁcant generalizations that the
+decision-maker will or can be persuaded to apply. In all cases the decision-maker(s)
+will bring an array of generalizations (i.e. a stock of beliefs) that will affect and
+may control decisions of disputed questions of fact. It is accordingly important
+that lawyers identify generalizations that will or may play a role in a case and how
+19 See page 275 above.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 309 ---
+278
+Analysis of Evidence
+that role can be most effectively enhanced or minimized. This requires that they
+identify how signiﬁcant generalizations will enter the case; for instance, through
+the evidence or as part of the knowledge and beliefs that the fact-ﬁnder brings to
+the case. It is the latter that presents the more difﬁcult practical and theoretical
+questions.
+In preparing an argument for a decision-maker, the lawyer must ﬁrst identify
+and appraise the most signiﬁcant generalizations that are available to either side to
+enhance or diminish the strength or force of the potential arguments. Ordinarily,
+thisposesnospecialdifﬁcultywithrespecttowhatwehaveclassiﬁedasscientiﬁcand
+as general knowledge generalizations. The questions whether a claimed scientiﬁc
+generalization is well accepted or whether the evidence and an opinion necessary to
+establish it as a basis for argument are admissible poses questions of a kind that are
+familiar to lawyers and judges.20 Similarly, generalizations that are truly accepted
+on the basis of general knowledge in the relevant community must be viewed as
+established or simply shown and thus as operative in the case. The challenge here is
+for the advocate to use or to counter such generalizations effectively. The remaining
+kinds of generalizations present different and more subtle problems.
+a. Case-speciﬁc generalizations
+The advocate typically must confront several problems with case-speciﬁc general-
+izations. They must ﬁrst be identiﬁed and then decisions must be made to appraise
+the likelihood that the evidence that will invoke them will be admitted. Facts of the
+sort that Edith was 28 and Freddie was 20 will either be admitted or be apparent
+to the trier of fact. The facts that Freddie had long been employed as a clerk on
+ocean-going ships and that he was in fact carrying a knife on the evening of the
+murder are almost certainly going to be admitted in evidence at some stage of the
+proceedings.Itisthelawyer’sjobtoidentifythepossiblebackgroundgeneralizations
+these facts may evoke and to decide how they may be shaped and used in argument.
+In contrast, it is not clear whether evidence of Richard Able’s cocaine use or the
+extent to which evidence concerning the events at the disco and those surrounding
+his cashing the $25,000 check at a gambling casino will be admitted. Able’s lawyer
+must not only identify the possible generalizations that would be evoked, but must
+also plan arguments that confront the various contingencies.
+b. Experience-based and synthetic-intuitive generalizations
+Experience-based and synthetic-intuitive generalizations raise the same problems,
+but they also pose an additional difﬁculty. A lawyer may be able to gather in advance
+of trial signiﬁcant information about the individual judge’s experience and about
+signiﬁcant beliefs and biases that may inﬂuence that judge’s perception of the evi-
+dence. In a case tried by a jury, however, the problem is more complex. The lawyer’s
+primary opportunity to learn about and shape the experience-based and belief
+20 On admissibility of expert evidence see p. 300 below.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 310 ---
+Necessary but dangerous
+279
+generalizations likely to inﬂuence the trial outcome will occur during jury voir dire
+and selection.
+c. Formulation and appraisal
+Inadditiontoproblemsofidentiﬁcationandappraisal,however,thereistheproblem
+of formulation. This is a problem common to generalizations of all types, and it is
+peculiarly a problem that lawyers can shape through argument. The formulation of
+thegeneralizationcan vary in a number of respects: Itcanbeframedasauniversalor
+as a propensity statement or as something less than that (see above); it can be stated
+with varying degrees of precision; it can be stated at different levels of generality; it
+may contain an explicit or implicit judgment of value; the choice of words may be
+relatively neutral or mildly or strongly emotive; there may be expressed or implied
+exceptions or qualiﬁcations.
+For the lawyer, the choice of formulation is crucial. The precise, speciﬁc formu-
+lation may set up an irrebuttable syllogism compelling the conclusion sought, if the
+decision-maker accepts the generalization in that form as true. But in most cases,
+the generalization will not be either that well established or that widely shared and
+will probably be defeasible. No one believes that “All older women dominate all
+younger men all of the time,” and some potential jurors would probably reject such
+a generalization in its weakest form.
+In analyzing a generalization that plays a potentially important role in an argu-
+ment one can adopt a procedure similar to doing a detailed microscopic analysis of
+a selected phase of an argument for a Wigmorean chart: clarify standpoint; specify
+the proposition to be justiﬁed; specify the proposition or propositions offered as
+the basis for its justiﬁcation; identify and articulate the generalization(s) on which
+the justiﬁcation depends; submit the generalization(s) to the various tests that have
+been discussed above.21 Perhaps the main points can usefully be synthesized into a
+rough working protocol as follows:
+Protocol for assessing the plausibility and validity of a
+generalization in the context of an argument
+Standpoint: counsel for defense (pre-trial) in respect of an opponent’s potential
+generalization
+1 Will the generalization be stated expressly or merely implied?
+A. Express
+2 If expressly, is it precise?
+3 Is it ambiguous?
+4 Is it stated as a universal or is it qualiﬁed by a hedge as to frequency
+(usually/often/sometimes)?
+21 For a detailed discussion, illustrated with reference to Huddleston v. United States, see Anderson
+(1999) 461–77.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 311 ---
+280
+Analysis of Evidence
+5 Is it an empirical generalization (capable of being shown to be true or false)?
+6 Is it expressed in value laden or emotive terms?
+7 What is the empirical basis for the generalization: scientiﬁc evidence/general
+experience/common sense/speculation/prejudice?
+8 Can the truth of the generalization be reasonably disputed?
+9 Can you articulate a rival generalization that points in the opposite direction/
+supports a different conclusion?
+10 Does the least vulnerable/most plausible version of the generalization offer
+strong/moderate/weak/negligible support to the inference?
+B Implied
+11 Articulate the most persuasive version of the implicit generalization.
+12 Submit it to the tests of precision, ambiguity, hedges, empirical, value laden, empirical
+basis, disputability, rival, strength of support.
+B. Stories necessary, but dangerous
+We have seen in Chapter 6 that stories and story telling are central to fact determi-
+nation. A well-grounded story is crucial to organizing and presenting a persuasive
+argument. But like generalizations, story telling is vulnerable to abuse. It may be
+true that stories and story telling are psychologically necessary to decision-making
+in legal contexts, but they are dangerous in that they often can be used to violate
+logical standards, appeal to emotion rather than reason, and subvert legal principles
+and conventions.
+Empirical research by Bennett and Feldman (1981), Pennington and Hastie
+(1993), and others suggests that American juries determine “the truth” about
+alleged past events mainly by constructing and comparing stories rather than crit-
+ically evaluating arguments from evidence. These ﬁndings have been conﬁrmed in
+other disciplines (e.g., medical diagnosis and history) and extended to fact deter-
+mination by legal professionals and the police (e.g., Wagenaar et al. (1993)). Sim-
+ply put, the widely accepted thesis is that human beings need stories in order
+to make certain kinds of decisions and, more generally, to make sense of the
+world.
+The literature is less clear about the exact functions of story construction and
+comparison. Bennett and Feldman say they are used to ﬁll in gaps; others suggest in
+ordertobesatisﬁed,triersoffactneedtoexplainhumanmotivationandaction,even
+whenmotiveisnotamaterialfact,orwhenthefactstobedeterminedrelatetoastatic
+situation or a single “simple” fact such as identity. There is scope for disagreement
+as to whether stories are psychologically necessary in all situations involving fact
+determination in legal contexts (e.g., identity in a motiveless murder), but there
+seems to be a consensus that they are in practice felt to be very important a great
+deal of the time.
+Story telling can also be shown to be dangerous in legal contexts in that it can
+be, and is often, used to violate or evade conventional legal norms about relevance,
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 312 ---
+Necessary but dangerous
+281
+reliability, completeness, prejudicial effect, etc.22 It is widely regarded as appealing
+to intuition and emotion and as a vehicle for “irrational means of persuasion.”
+Examples of such dangers include:23
+i sneaking in irrelevant facts;
+ii sneaking in invented or ungrounded facts;
+iii suggesting facts by innuendo;24
+iv focusing attention on the actor rather than the act;25
+v appealing to hidden prejudices or stereotypes;
+vi telling the story in emotionally toned language;
+vii telling a story that may win sympathy for the speaker or the victim but is irrelevant
+to the argument;
+viii making use of dubious analogies;
+ix subverting lawyers’ distinctions between fact, law, and disposition and, more
+generally, fact and value; and
+x good stories pushing out true stories.26
+Most of these points are illustrated in the materials in Chapter 1 and in the
+questions and exercises at the end of this chapter. As with generalizations, one
+can develop a rough working protocol for testing the plausibility, coherence, and
+evidentiary support for a story, based upon the following questions:
+Protocol for assessing the plausibility, coherence, and evidentiary
+support for a story
+Standpoint: counsel (on either side) preparing for trial
+Is the story fully articulated? Or is it largely implied? If so, what exactly is the story?
+If articulated:
+Is the story internally consistent?
+Is there any evidence in this case that seems to conﬂict with the story?
+To what extent does the evidence in the case support this story?
+Are there any elements in the story not supported by evidence? To what extent are
+they based on speculation?
+Does the story sneak in expressly or by innuendo:
+Any irrelevant facts
+Any invented facts
+Any inadmissible facts?
+22 Such norms include: judge the act not the actor; consider only relevant evidence; argue from
+evidence, not speculation; and keep separate questions of fact, law, and disposition.
+23 For a detailed account see Rethinking Ch. 7, Bazaar Chs. 12–16.
+24 See Ch. 1, B 4 Sam’s Party.
+25 To give a simple example: at common law, evidence of disposition or bad character (such as prior
+convictions) is not normally admissible to support a criminal charge, but character is often an
+important but implicit part of a story (FRE 404–6). On the changes introduced in England by the
+Criminal Justice Act, 2003 see Roberts and Zuckerman (2004) 511–15; on the controversy behind
+these changes, see Zander (2003) 413–22.
+26 Bazaar Ch. 14.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 313 ---
+282
+Analysis of Evidence
+Can the story be told in a neutral way or does it expressly or impliedly involve value
+judgments?
+Does it appeal to hidden prejudices or stereotypes?
+Does the story ﬁt some familiar story, such as Cinderella or the parable of the Prodigal
+Son or Lady Macbeth? If so, what is the relevance of this?
+Does the story cast any of the actors in a bad light in a way that subverts the principle:
+judge the act, not the actor?
+Does the telling of the story distort the facts so that a good story (entertaining, funny,
+exciting etc.) squeezes out a less interesting true story?
+Does the story purport to “make sense” of the original episode or the motivation of
+one or more principal actors?
+Is the story calculated to win sympathy for the victim/complainant/accused beyond
+what is supported by particular evidence?
+Insofar as the story goes beyond the data, is it supported by plausible background
+generalizations?27
+C. The relationship between stories and generalizations
+If generalizations and stories are both necessary, but dangerous, how are they con-
+nected? It might be objected that the two theses apply to different spheres of dis-
+course. Generalizations are logically necessary in the context of rational argument;
+stories are psychologically necessary in the context of human decision making. The
+logical “dangers” are different from the dangers of poor “judgment.”
+The relationship between logic and psychology in relation to decision-making
+is a very large subject. Here, we conﬁne ourselves to two points. First, some of
+the functions of story telling are to do with human interaction and communi-
+cation, and are not performing a function in an argument. For example, in oral
+presentation by an advocate, stories may legitimately be used to attract and retain
+interest, set a comprehensible context, and provide concrete illustrations to assist
+understanding. They may, of course, be used to distract attention or win sym-
+pathy for the speaker or the victim independently of what is at issue and so on.
+So, some of the functions and dangers are to do with communication rather than
+argumentation.
+However, stories also seem to have a place within arguments and questions can be
+asked about the legitimacy, validity, or cogency of their place in this context. Some
+of the allegations about the dangers of stories seem to be appealing to standards of
+rationality. For example, a story-winning sympathy for the speaker independently
+of the issue can be criticized as irrelevant to the argument; where a good story
+27 In Anchored Narratives (1993) three Dutch psychologists, Wagenaar, Crombag, and Van Koppen,
+usefully link stories and generalizations. However, they greatly exaggerate the importance of gen-
+eralizations as direct “anchors” for stories, for generalizations should only be used to play this role
+in the absence of particular evidence to support the story. Particular evidence will nearly always
+give stronger support than a background generalization. A story is as vulnerable to attack as the
+generalizations that support it. See further Bazaar Ch. 13.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 314 ---
+Necessary but dangerous
+283
+pushes out a true story, it can be criticized on the ground its attraction is to do with
+something other than truth (e.g., excitement, reassurance, titillation), and undue
+weight is being given to it. (See Bazaar Ch. 14.) Where a story is used to ﬁll in gaps in
+the evidence, its justiﬁcatory force may be little or none, and it seems odd to claim
+that an argument about a question of fact is bolstered by claiming the situation is
+analogous to a work of ﬁction or a parable (Bazaar Ch. 16).
+One version of this position may be restated as follows: In ordinary life and
+in making important decisions we need stories in order to “make sense” of the
+world and of particular past events; in factual inquiries, including adjudication,
+for a story to be accepted as true it needs to be warranted by (or anchored in)
+evidence. A well-formed story needs to be coherent, but to be true, it must be both
+plausible and backed by particular evidence. Plausibility is tested by background
+generalizations; the truth of speciﬁc factual conclusions is tested by reasoning from
+particular evidence.
+There are also important examples, mainly in the Anglo-American literature on
+advocacy and adjudication, of claims that stories play a crucial role not merely in
+respect of presentation and rhetoric, but analytically as part of an argument. For
+instance, in a much cited paper, John W. Davis maintained, “in an appellate court
+the statement of the facts is not merely a part of the argument, it is more often than
+not the argument itself” (Davis (1953) 181). Similar statements have been made
+by Karl Llewellyn, James Boyd White, and other American jurists.28 The precise
+meanings of such statements are not always clear, but it is reasonable to interpret
+them as maintaining that such notions as stories need to be accommodated within
+a conception of rational argument in legal contexts. Such claims are controversial,
+but if, for the sake of argument, we accept them as plausible, the question remains:
+What is the relationship between stories and generalizations in this context?
+Perhaps the main link lies in the idea of “a stock of knowledge.” As we have seen, a
+“stock of knowledge” does not consist of individual, empirically tested, and readily
+articulated propositions, still less of empirical laws.29 Beliefs may be embedded
+in stories, examples, and experiences that are particular and may not have been
+articulated in general terms. There is often considerable indeterminacy about what
+moral or general lesson or other generalization(s) may or will be extrapolated from
+such material.
+Generalizations may be indeterminate as to their application; stories may be
+indeterminate as to their signiﬁcance. There is an intimate interaction between the
+general and the particular in all arguments about questions of fact. One aspect of
+the relationship between generalizations and stories can be usefully analyzed with
+greater precision. Generalizations are, by deﬁnition, general; stories are particular.30
+There is, as every lawyer knows, an intimate relationship between general rules and
+particular cases. Similarly, as every theologian and moralist should know, there is
+28 Rethinking Ch. 7.
+29 Above, pages 274–76.
+30 On the deﬁnition of a “story” see above, page 155.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 315 ---
+284
+Analysis of Evidence
+an intimate relationship between parables (and other morality tales) and their
+signiﬁcance. That signiﬁcance can be expressed in such terms as the point or
+the moral or some other general lesson or idea that it illustrates. Stories appeal
+strongly to the imagination. Part of that appeal lies in their concreteness and
+their particularity. That power can be undermined if the moral or point is spelled
+out or otherwise made explicit. Why this should be so is crucial in the present
+context.
+The idea of precedent as a source of law is an especially clear illustration of
+the interaction between the general and the particular.31 Because precedents are
+especially important in the common law, there has been much theorizing and
+controversy about “the problem of the ratio decidendi.” We need not venture into
+that old controversy here because on several relevant points there is widespread
+agreement. “The facts” of a case are particular. The facts, at least in a hard case,
+give rise to a question of law. Such questions of law should be expressed in general
+terms, not “Is the defendant guilty or liable?” but “In circumstances of this type,
+is the defendant guilty or liable?” In deciding the particular case, the court gives
+an authoritative answer to the question(s) of law. That answer may be explicit or
+implicit.
+The relationship between the facts, the issue(s), and the answer can be formally
+restated as follows: the facts = X happened; the issue = if X happens, then what?
+(legal consequence); the answer = whenever X happens, then Y.
+In this formulation X is a constant despite the transition from particular to
+general.Thistransitionfromaparticularsituationtogeneralquestionsandageneral
+answer involves a shift from “this was the situation” to “in situations of this type,
+the law prescribes . . . ” The crucial point in this context is that X is a constant. In
+short, X=X=X.
+One of the main problems in interpreting cases is that the level of generality of
+X is indeterminate. The same applies to “the moral” of parables and morality tales.
+But if the facts are known, and if X=X=X, how can X be clear at the particular
+level, but unclear at the general level? The answer is, of course, that how exactly the
+facts are to be categorized is also indeterminate. X represents a particular situation
+seen as a type. How precisely that situation should be interpreted, what elements
+are material, and what is the best or an appropriate description of the situation
+is a matter of interpretation. And, since X=X=X, the problem of interpreting X is
+almost constant.32
+Descriptions of situations are typically expressed in language. The choice of
+language is not signiﬁcant solely because of the more or less obvious rhetorical
+potential of emotive or value laden terms. For example, a categorization may be
+judged appropriate because it reﬂects the way a signiﬁcant reference group thinks or
+talks (for instance, using the concepts of a particular trade to describe the situation
+in a commercial case), or because it corresponds with or ﬁts, explicitly or implicitly,
+31 For a longer account, see Bazaar Ch. 16.
+32 Twining and Miers (1999) 307–8.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 316 ---
+Necessary but dangerous
+285
+some general principle or policy (for example describing a situation in a way that
+bringsoutthatanon-expertwasrelyingonthejudgmentofanexpertinareasonably
+proximate relationship).33 This idea of choosing appropriate categories to describe
+particular fact situations is at the core of Karl Llewellyn’s important, but elusive,
+idea of “situation sense.” 34
+Some of the alleged “dangers” of stories shared with generalizations include,
+for example, presenting unsupported facts as if they were anchored or appealing
+explicitly or implicitly to biases or prejudices. Perhaps the most obvious common
+element is indeterminacy: Indeterminacy as to what exactly is being argued or is the
+general signiﬁcance of the particular example. For example, what precisely is the
+moral of the parable of the prodigal son? Indeterminacy is generally presented as a
+weakness in an argument. But, as John Wisdom points out, one of the attractions
+of case by case argument is that one is not forced to deﬁne the boundaries of X in
+advance.35 It can be valid and sensible to say, “This is a clear case of X” without
+deﬁning X. That is part of the key to understanding the attraction of precedent
+at common law. It is a form of argument by analogy which does not commit the
+arguer to a position beyond what is needed for the case at hand.
+D. Generalizations, stories, and themes: questions and exercises
+The materials in Chapter 1 contain a great deal that is directly relevant to points
+made about stories and generalizations in Chapter 3 and this chapter. At this
+stage it may help to draw a lot of threads together by revisiting some of these
+examples.
+Generalizations
+Review the material on the testimony of Ofﬁcer Connolly in the Sacco and Vanzetti
+case (Ch. 1, C4a) to the effect that during his arrest Sacco attempted on several occa-
+sions to put his hand under his overcoat in spite of being warned not to. Figure 10.3
+is a reconstruction of the prosecution’s argument that Connolly’s testimony sup-
+ported the conclusion that Sacco took part in the robbery and murder at South
+Braintree on April 15, 1920. Each step in the chain of inferences involves an implicit
+generalization as a warrant.36
+33 ThisexampleisbasedonLordDenning’sfamous“persuasive”categorizationofthefactsinCandler
+v. Crane Christmas & Co. [1951] 1 All E. R. 428, which was concerned with whether there is ever
+a duty of care in respect of negligent misstatements causing ﬁnancial loss:
+They were professional accountants who prepared and put before him these accounts, knowing
+that he was going to be guided by them in making an investment in the company. On the faith
+of those accounts he did make the investment, whereas, if the accounts had been carefully
+prepared, he would not have made the investment at all. The result is that he has lost his money.
+Id. at 431.
+34 Llewellyn (1960) 230–34, discussed in Rethinking 230–32.
+35 Wisdom (1956), (1974) at 38–40.
+36 Foundations 88–90.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 317 ---
+286
+Analysis of Evidence
+Officer Connolly Testimony: Sacco attempted on several occasions to put his hand 
+under his overcoat in spite of being warned not to do so.
+Sacco did attempt on several occasions to put his hand under his overcoat in spite of 
+being warned not to do so.
+Sacco intended to draw the automatic pistol concealed under his belt.
+Sacco intended to use or threaten to use his automatic pistol on the arresting officers.
+Sacco intended to escape from the officers who had arrested him.
+Sacco was conscious of having committed a criminal act. 
+Sacco was conscious of having been involved in a robbery and shooting.
+The robbery and shooting of which Sacco was conscious took place in South 
+Braintree, Massachusetts on April 15, 1920.
+Sacco did commit the robbery and shooting in South Braintree, Massachusetts on  
+April 15, 1920.
+Figure 10.3 Vanzetti: Connolly’s testimony
+1 Adopting the standpoint of counsel for Sacco:
+a Articulate the least vulnerable formulation of the generalization that is needed as a
+warrant for each step in the chain of inferences;
+b Classify each generalization according to the scheme suggested in Chapter 10 (e.g.,
+case-speciﬁc, scientiﬁc/expert, etc.);
+c Assess the plausibility, reliability, and probative force of each generalization in this
+context;
+d How might counsel for Sacco deal with this item of evidence (i) in
+cross-examination of Connolly; (ii) in closing?
+2 Review the materials and questions in Chapter 1 Section B, especially B1 (Solomon),
+B3 (Joseph Bell and Sherlock Holmes), B4 (Sam’s Party), and C3a (The Brides in the
+Bath). In respect of each, identify, formulate, and categorize the explicit or implicit
+generalizations involved in the reasoning and assess their plausibility in their
+respective contexts.
+3 Review Sargent v. General Accident Co. (Ch. 1, C6). From the information provided
+and drawing on different kinds of generalizations, can you construct a plausible
+argument that:
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 318 ---
+Necessary but dangerous
+287
+a Upham Sargent was suicidal;
+b Given the length of the Nottaway River, an experienced outdoors man like Upham
+Sargent would have the skills to ﬁnd his way back to safety without getting lost,
+unless he has sustained a serious injury.
+4 Review the case of Huddleston v. United States (C3b). Consider carefully Question 2
+(a–d).
+5 Joseph Bell and Sherlock Holmes (B3).
+a To what extent does the reasoning of Joseph Bell rely on speciﬁc local knowledge,
+background generalizations, case-speciﬁc generalizations? Can these categories be
+clearly distinguished in this context?
+b What generalizations are implicit in Holmes’s reasoning towards the conclusion
+that Watson had been in Afghanistan? What is the weakest point in this chain of
+reasoning?
+Stories
+1 “The Nine Mile Walk” (Ch.1, C2). Kemelman has produced a splendid example of
+imaginative reasoning that has led to identifying two suspects, but it is a long way from
+proving the case against either of them. Assuming for the sake of argument that one of
+the suspects is in fact the murderer, construct an account of his movements during the
+past 24 hours that explains why he was in Hadley and why he made the remark about
+the nine mile walk. Bear in mind that any alibi claims can probably be checked fairly
+easily and that if he is caught lying this will weaken his position. Does the strategy of
+your story rely mainly on denial (OD), rival (OR), or explanation (OE)?
+2 Review the quotation from Lord Denning in Miller v. Jackson (Ch. 1, C3c).
+a How many examples of using a story to “cheat” can you ﬁnd in this text, read by
+itself?
+b Would your answer be different if the following “facts” were added: At the time
+Lintz was a depressed former mining village in County Durham; the Millers had a
+small child; the Millers were not the only people who had complained about the
+cricket; no evidence was adduced at trial about the attitude of the cows.
+Stories and argument
+In an appellate court, the statement of the facts is not merely a part of the argument, it
+is more often than not the argument itself. (John W. Davis (1940))
+It is trite that it is in the statement of facts that the advocate has his ﬁrst, best, and most
+precious access to the court’s attention. The court does not know the facts, and it wants
+to. It is trite among good advocates, that the statement of the facts can, and should in the
+very process of statement, frame the legal issue, and can and should, simultaneously
+produce the conviction that there is only one sound result. It is as yet less generally
+perceived as a conscious matter that the pattern of the facts as stated must be a simple
+pattern, with its lines of simplicity never lost under detail; else attention wanders, or
+(which is as bad) the effect is submerged in the court’s effort to follow the presentation
+or to organize the material for itself. (Karl Llewellyn (1962) 341–42)
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press
+
+
+--- Page 319 ---
+288
+Analysis of Evidence
+[W]e can say that both the history and the tapestry are in this respect like a law case: the
+lawyer knows that to prove his (or her) case he must not only demonstrate the truth or
+probability of certain propositions of fact; he must present to the judge or juror a way
+of looking at the cases as a whole that will make sense; and it must “make sense” not
+merely as a matter of factual likelihood, but as a predicate to judgment, as a basis for
+action. While a case can in a technical sense be refuted by disproving one element or
+another, in practice the lawyer knows that he must do more than that: he must offer the
+judge or juror an alternative place to stand, another way of making sense of the case as
+a whole. To do his job, that is, the lawyer must both engage in an accurate retelling of
+the facts and make his own claim for what they mean. (James Boyd White (1985) 160)
+Questions
+1 Are these passages concerned with questions of fact or questions of law or both?
+2 How can a statement of facts be an argument?
+3 Give an example of a persuasive statement of facts.
+4
+a Consider the case of In re the Estate of James Earl Warren in Chapter 12: Construct
+a persuasive story on behalf of James Warren Jr.
+b Many students preparing to try this case immediately see an analogy with the
+Parable of the Prodigal Son (St Luke, Ch. 15). They suggest that it could provide a
+powerful theme for one side, especially in closing argument.
+i What is the moral or point of the parable?
+ii Which side might use it to support their case in Warren?
+iii What fact of consequence in the Warren case might the analogy with the
+parable be used to support?
+iv How can the behavior of a father in Palestine in the time of Christ be relevant to
+making a judgment about the behavior of a father in the United States in the
+late twentieth century?
+v How can a ﬁctitious story that is nearly 2000 years old be used as evidence in a
+modern case?
+vi Can you think of a modern story that might be used to support the other side?37
+5 Edith Thompson. Construct a story about Edith’s relationship with Freddie and Percy
+that casts persuasive doubts on the prosecution case and is backed in all important
+respects by evidence reproduced in Chapter 7.
+6 It is said that good stories often ease out true stories. Give three examples.
+37 These issues are discussed in Bazaar Ch. 12.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.011 Published online by Cambridge University Press

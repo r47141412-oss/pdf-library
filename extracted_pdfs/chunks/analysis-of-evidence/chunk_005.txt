@@ -1,0 +1,753 @@
+# Chunk 5 of 26
+# Document: Analysis of Evidence
+# Characters: 49280
+
+--- Page 79 ---
+Fact investigation and the nature of evidence
+47
+to be tested, the propositions to be proved, and formal rules regulate the manner
+in which cases are prepared and the admissibility and use of evidence.
+In recent years, the study of evidence has gained a high proﬁle. In popular ﬁction,
+lawyer-novelists have sometimes outsold writers of traditional crime ﬁction. On
+television, as well as in bookstores, forensic scientists have joined the ranks of
+detectives through the works of Patricia Cornwell and programs, such as “Crime
+SceneInvestigation” (CBS television, 2003– ). In recentyears,internationalcriminal
+tribunals and truth and reconciliation commissions have proliferated, raising new
+problemsaboutevidenceandstorytelling.EventsinEasternEurope,Rwanda,South
+Africa, and Latin America have stimulated an enormous interest in “memory,”
+especially among historians.2 DNA is in the headlines regularly. In England several
+policeauthoritieshavebeenwonovertoFLINTS(ForensicLedIntelligenceSystem),
+a computer-based tool for investigating multiple crimes, and making links between
+crimes that were not previously thought to be connected.3 Evidence was a primary
+focus of attention in news about Iraq: the weapons inspections, Colin Powell’s
+presentation to the Security Council, the question of links with Al Qaeda, the search
+for “weapons of mass destruction,” and the investigations of the Commission on
+Terrorism into the tragic events of September 11, 2001 (“9/11”).
+Perhaps the strongest stimulus came from the terrorist attacks on 9/11. In the
+postmortem after the attacks on the World Trade Center in New York City and the
+Pentagon in Washington, D.C., it has been repeatedly alleged that the events could
+have been predicted because the US intelligence services had received several bits of
+informationbuttheyfailed“toconnectthedots”(orwhatSherlockHolmesreferred
+to as “triﬂes”). They had enough information to have predicted the event, but lacked
+the capacity to collate and analyze it. They did not have the capacity to “connect the
+dots” or methods for identifying as signiﬁcant a few triﬂes from the masses of data
+that ﬂowed into different agencies from a variety of sources. This diagnosis led to
+a reorganization of the intelligence services, changes in their training, and billions
+of dollars spent (or misspent) on efforts to develop computer programs aimed at
+assisting the process of analyzing intelligence data. The problems were encapsulated
+in the satirical cartoon shown in Figure 2.1.
+An article in The New Yorker in February 20034 reported interviews with leading
+ﬁgures in the CIA and the Pentagon who are concerned with improving intelligence
+analysis in the aftermath of 9/11. They included Donald Rumsfeld, George Tenet,
+and Robert Gates. The starting-point was a judgment that American intelligence
+agencies did not possess the analytic depth or the right methods of analysis accu-
+rately to assess possible threats. The diagnosis and the prescriptions were expressed
+largely in terms that are familiar to students of evidence and inference: the dangers
+of a commitment to a single hypothesis; the need to distinguish between generating
+ahypothesisandtestingitagainsttheavailabledata;thedifferentproblemsthatarise
+2 E.g. Nino (1996), Krog (1999), Amadiume and Na’im (2000).
+3 Richard Leary (2003).
+4 Jeffrey Goldberg (2003) 40–47.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 80 ---
+48
+Analysis of Evidence
+Figure 2.1 Connecting the dots
+from a surfeit of information and absence of relevant and credible evidence; the
+difference between ambiguity and incompleteness; the value of alternative interpre-
+tations of ambiguous evidence; the dangers of “mirror imaging,” that is “projecting
+of American values and beliefs onto America’s adversaries and rivals”; a tendency
+to confuse the unfamiliar with the improbable; the relationship between a calculus
+of risk and thresholds of credibility; the likelihood of political bias entering into
+judgments where the situation is uncertain. These and other problems have been
+documentedbytheCommissiononTerrorismandothers.Thoughthevocabularyis
+sometimes different, all of these ideas should be familiar to students of evidence and
+inference; some of them seem to be derived, directly or indirectly, from Wigmore
+(1913, 1937) and Schum (1994).
+The information that may have been available before 9/11 illustrates some of the
+difﬁculties associated with the task of “connecting the dots.” Before the terrorists
+used airplanes as ﬂying bombs to destroy the World Trade Center and damage the
+Pentagon, the FBI had received information that several foreign nationals from the
+Mideast, with little or no prior training or experience, had enrolled in different
+civilian ﬂying schools to learn how to ﬂy large commercial aircraft. It was widely
+reported that they wanted to learn how to steer and navigate civilian airliners, but
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 81 ---
+Fact investigation and the nature of evidence
+49
+not how to make landings or takeoffs in these aircraft, and that they had all paid
+cash for the lessons.5 Assuming that these were the facts that had been reported,
+how might the FBI dots have been connected?
+With the wisdom of hindsight, it was clear that the FBI dots, the training requests
+made by the foreign nationals who sought ﬂying lessons, were signiﬁcant informa-
+tion that was available before 9/11. Suppose that a well-trained analyst had focused
+on these dots because of an intuition that they were suspicious. She might have
+thought about this information by asking and answering the following questions:
+1 Identifying the reasons for suspicion. This seems suspicious: Why? Answer: because:
+a A trained pilot of any aircraft needs to know how to take off and land;
+b Several foreign nationals all doing something unusual in the same time may be
+acting in a coordinated way and belong to the same organization(s) or
+group(s);
+c A person who pays substantial sums of money using cash, rather than a credit card,
+check, or bank transfer, may be trying to conceal his identity or the source of the
+funds. Several people doing this simultaneously for the same type of transaction is
+even more suspicious. The analyst might have identiﬁed additional reasons for
+suspicion, but the reasons identiﬁed would have provided a sufﬁcient basis for the
+next step.
+2 Generating hypotheses. Why might someone want to be able to ﬂy and navigate a
+commercial airliner, but not to land or take off?
+a Innocent hypotheses.
+i They plan to learn to land and take off later. This is Part I of an unusual
+training scheme;
+ii Flying an aircraft is simulated in many video games and these “students” wish
+to design more realistic games;
+iii An airline is training non-pilot staff to relieve pilots on long haul ﬂights.
+b Sinister hypotheses.
+iv The ﬂights these persons will be on board are for carrying drugs (or other
+contraband). They do not want to disclose the aircraft’s destination to the pilot
+until the plane is almost there;
+v The “students” plan to hijack one or more civilian airliners and the hijackers
+wish to control the ﬂying and navigation prior to landing, but will force the
+pilot(s) to land at their chosen destination(s);
+5 These reports are contested. Staff investigators of the National Commission on Terrorist Attacks
+Upon the United States reported that, “According to their ﬂight instructors [in San Diego] Hamzi
+and Mihdhar [two al Qaeda terrorists] said they wanted to learn how to control an aircraft in ﬂight,
+but took no interest in take-offs or landings.” Staff Statement No. 16, “Outine of 9/11 Plot” (2004)
+at 14. In an earlier statement, they implied that the FBI did not have this information before 9/11.
+“Contrary to popular belief, Zacarias Moussaoui [the alleged twentieth hijacker] did not say he
+was not interested in learning how to take off and land. Instead, he stood out because, with little
+knowledge of ﬂying, he wanted to learn how to take off and land a Boeing 747.” Staff Statement
+No. 10, “Threats and Responses in 2001” (2004). See “Post 9/11 investigations: an exercise” below
+at pp. 52–53 for a fuller account.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 82 ---
+50
+Analysis of Evidence
+vi It is not intended that the planes should land because they will be blown up in
+midair;
+vii It is not intended that the airliners should land, because they will be used as
+“ﬂying bombs” directed at speciﬁc targets on an analogy with suicide bombers.
+The list needs to be kept open in case other possible hypotheses are suggested as the
+inquiry develops, but the hypotheses identiﬁed are sufﬁcient to enable the analysts to
+proceed.
+3 Eliminating some hypotheses. Hypotheses i and ii are the least plausible, given the
+number of “students,” the secrecy, and the departure from international regulations.
+Moreover, hypotheses i, ii, and iii could easily be checked. Fairly simple inquiries to
+determine the identity and background of the students and whether any foreign
+or domestic airlines had adopted training programs such as those identiﬁed in
+hypotheses i and iii should have enabled the analyst to determine whether they could
+be eliminated at this stage. The identities of the students and their backgrounds should
+have enabled the analyst to determine whether hypothesis ii could be eliminated.
+4 Prioritizing the remaining hypotheses. On the basis of this information alone, the
+analyst might have provisionally ranked hypotheses iv–vii in terms of seriousness,
+plausibility, and easiness to check. For example, hypothesis vi is very serious, but it is
+implausible because it is not necessary for hijackers to take control of a plane in order
+to blow it up, unless it is planned to blow it up near a target (see hypothesis vii).
+Hypothesis iv merits investigation, but in terms of the consequences, it is less serious
+than the remainder.6 Moreover, that hypothesis ought to have been relatively easy to
+pursue (and perhaps eliminate) through checks on the identity of the “students” and
+their associates and through information available to the FBI and to customs and
+drug enforcement agencies about the use of aircraft in transporting drugs (or other
+contraband).
+The size of the group, the seriousness of the danger, and the relative plausibility
+of the scenario, given this information, should have suggested to the analyst that
+hypothesis vii deserves the highest priority, but that hypothesis v also needed to
+be pursued as a matter of urgency. Of course, the possibility of further hypotheses
+must be kept open. In focusing on hypothesis vii, there would have been some fairly
+obvious ﬁrst lines of inquiry: for example, to what group(s) or organizations(s) do
+the students belong? Is there any information about the capabilities and intentions
+of these group(s) or organization(s)? What might be the targets of such attacks?
+What might be the timing? And so on. The evidence discovered in pursuing the ﬁrst
+6 Prior to 9/11, the FBI probably would have focused its resources on hypothesis iv. Throughout
+its history, the bureau has focused upon post-event investigations to develop criminal cases. The
+incentive structure rewarded agents based upon statistics reﬂecting arrests, indictments, and prose-
+cutions. Control over cases was in the ﬁeld ofﬁces, not FBI headquarters. These and other practices
+had established a law enforcement culture that constricted the bureau’s ability to gather and share
+informationandtousethatinformationforstrategicanalysisforterrorismprevention.SeeNational
+Commission on Terrorist Attacks Upon the United States, Staff Statement No. 9, “Law Enforce-
+ment, Counterterrorism, and Intelligence Collection in the United States Prior to 9/11.” That
+culture was deeply ingrained and resistant to change. See also Staff Statement No. 12, “Reforming
+Law Enforcement, Counterterrorism, and Intelligence Collection in the United States.”
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 83 ---
+Fact investigation and the nature of evidence
+51
+COMBINATIONS OF DOTS OR TRIFLES:
+A COMBINATORIAL EXPLOSION
+Given N dots/trifles, there are 2N –{N+1} possible 
+combinations of two or more of them. 
+Fact investigation unfolds over time
+Number of dots/trifles:       10               25               
+50                      100
+Combinations:                  1013       33,554,406        1.13(10)15
+1.27(10)30
+Figure 2.2 Possible combinations of two or more dots/triﬂes
+two lines of inquiry should have enabled the analyst to re-evaluate the plausibility
+of hypothesis v. Meanwhile, preventive action might have been taken in respect of
+these “students” before their courses ended.
+This exampleshows that even a single potentially signiﬁcant piece of information
+can be used to generate hypotheses, and to eliminate some, through a combination
+of imaginative reasoning and background knowledge. Each potentially plausible
+hypothesis can then be used to generate lines of inquiry, speciﬁc questions, and
+to serve as a metaphoric “magnet” for generating other information, which may
+or may not be already available. However, this report was quite unusual because a
+piece of isolated information (more accurately a small number of related dots) was
+sufﬁcient to arouse suspicion, focus attention, and be usable to generate hypotheses.
+It is much more common that an analyst must sift through large numbers of dots,
+each of which may seem trivial or insigniﬁcant on its own, seeking combinations
+whose signiﬁcance is greater than the sum of the individual parts.
+There are three basic problems inherent in the task of “connecting the dots.”
+First, we must decide which dots to connect. The number of possible combinations
+grows exponentially as the number of dots. Figure 2.2 illustrates the difﬁculties
+encountered in examining combinations of dots. For example, if there were just ﬁfty
+dots, there would be more than a million billion [1.13(10)15] possible combinations
+of two or more dots. In most instances there will be many more than ﬁfty dots to
+connect; in some cases, there may be thousands or even millions of dots to consider.
+Clearly, it makes no sense to examine all of these possible combinations, even if
+we had the fastest conceivable computer. This would be a strategy of examining
+everything in the hope of ﬁnding something. What we need are strategies for better
+using our imaginations in deciding which dots to combine. The questions posed in
+the example above provide an example of such a strategy.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 84 ---
+52
+Analysis of Evidence
+Second, combining dots or triﬂes involves more than just combining single items
+of information or details. Other dots come in the form of thoughts the analyst has
+about the meaning or signiﬁcance of these informational details. Connecting the
+dots involves combining thoughts as well as potential items of evidence. Third,
+the analyst must decide what the identiﬁable combinations of evidential dots and
+her thoughts about them might mean. Connecting these dots makes it possible to
+generate hypotheses, but this process is also involved in constructing defensible and
+persuasive arguments about hypotheses in light of the available evidence.
+Post 9/11 investigation: an exercise
+According to statements prepared by the National Commission on Terrorist Attacks
+on the United States and other information published during post 9/11 investiga-
+tions, agencies of the United States had the following information prior to 9/11.
+1 The Federal Aviation Administration had information claiming that, in the 1990s,
+associates of Usama Bin Ladin were interested in hijacking and using aircraft as a
+weapon. Moreover, the FAA had considered the potential for terrorist suicide
+hijackings in the United States not later than March 1998. There was, however, no
+evidence indicating that the FAA possessed any credible and speciﬁc intelligence that
+Usama Bin Ladin, Al Qaeda, or any other groups were actually plotting to hijack
+commercial airplanes and use them as weapons of mass destruction. The FAA
+discounted that threat in presentations that it made to air carriers in 2000 and 2001
+because it had “no indication that any group is currently thinking in that direction.”
+Staff Statement No. 3 at 4.
+2 On July 10, 2001, the Phoenix ofﬁce of the FBI sent a report of a ﬁeld investigation
+instituted in April 2000 whose purpose was “to advise the Bureau and the New York
+ofﬁce [the ‘Ofﬁce of Origin’ for the FBI’s Al Qaeda program] of the possibility of a
+coordinated effort by Usama Bin Ladin (UBL) to send students to the United States to
+attend civil aviation universities and colleges.” The memorandum reported that an
+“inordinate number of individuals of investigative interest” were or had attended civil
+aviation universities and colleges in Arizona, including Zakaria Soubra, a “hardcore
+Islamic extremist who views the U.S. as an enemy of Islam.” The Phoenix
+memorandum made many recommendations, including a recommendation that
+“FBIHQ should discuss this matter with other elements of the U.S. intelligence
+community and task the community for any information that supports Phoenix’s
+suspicions.”7
+3 On August 15, 2001, the Minneapolis FBI ﬁeld ofﬁce initiated an investigation
+concerning Zacarias Moussaoui. He had entered the country in February and had
+taken ﬂying lessons at ﬂight school in Oklahoma. On August 13, he began ﬂight
+7 A redacted copy of the Phoenix memorandum is reproduced in an appendix to the joint report of
+the U.S. Senate and House Select Committees on Intelligence that conducted a joint inquiry into
+intelligence activities before and after the terrorist attacks of September 11, 2001 (S. Rept. 107-351
+and House Rept. No. 107-792).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 85 ---
+Fact investigation and the nature of evidence
+53
+training at the Pan American ﬂight training school in Minneapolis. He stood out
+because, with little knowledge of ﬂying, he wanted to learn how to takeoff and land a
+Boeing 747. On August 15, he was detained by the Immigration and Naturalization
+Service on the ground that he was a French national who had overstayed his visa
+because the FBI agent who handled the case in conjunction with the INS
+representative on the Minneapolis Joint Terrorism Task Force suspected that
+Moussaoui wanted to hijack planes. The Minneapolis ofﬁce sent a summary of the
+investigation to FBI headquarters on August 18, with a request to the legal attach´e in
+Paris for assistance. The legal attach´e responded quickly. According to a letter sent by
+Special Agent Rowley to FBI director Robert Mueller after the 9/11 attacks, the attach´e
+advised that the French Intelligence had conﬁrmed Moussaoui’s afﬁliation with
+radical fundamentalist Islamic groups and activities connected to Usama Bin Ladin.
+(“The 9/11 Commission Report”) (2004) (the “9/11 Report”) at 273.
+4 In September 1999, the Central Intelligence Agency received a report that it had
+commissioned from the Federal Research Division of the Library of Congress titled,
+“The Sociology and Psychology of Terrorism: Who Becomes a Terrorist and Why?”
+(the “CIA Report”). In the executive summary, the authors concluded that
+“Al-Qaeda’s expected retaliation for the U.S. Cruise missile attack against al-Qaeda
+training facilities in Afghanistan on August 28, 1998, could take several forms of
+terrorist attack in the nation’s capital . . . Suicide bomber(s) belonging to an al-Qaeda
+Martyrdom Battalion could crash land an aircraft packed with high explosives (C-4
+and semtex) into the Pentagon, the headquarters of the Central Intelligence Agency
+(CIA), or the White House . . . ” CIA Report at 7. None of this information was treated
+with urgency prior to 9/11.
+Questions
+1 Put yourself in the position of the hypothetical FBI analyst described above. It is
+August, 2001. You have the information described in paragraphs 2 and 3 above.
+Assuming the information excited your suspicions, how would you proceed? Would
+your hypothesis have differed from those posed above? If so, how and why? What
+further immediate investigative steps would you have recommended?
+2 During the summer of 2001, the FAA, the FBI, and the CIA were aware that there was
+a heightened risk that terrorists would undertake major attacks in the near future.
+How would you have designed a system that might have brought all the dots noted
+above into a single database? If you were an analyst with access to such a database,
+what questions would you have asked that might have connected these dots?
+3 Put yourself in the position of a CIA analyst in the summer of 2001. You recalled and
+restudied the Library of Congress report and became concerned about the conclusion
+that al Qaeda might use aircraft as suicide bombs. Using the four-step methodology
+used by the hypothetical FBI agent, how would you have proceeded? What questions
+would you have sent to the FBI and FAA and other intelligence agencies to generate
+information to enable you to eliminate or support your priority hypothesis or
+hypotheses?
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 86 ---
+54
+Analysis of Evidence
+4 Now assume that you had been a supervisory agent in the FBI. You were aware of the
+generally heightened concern about terrorist threats and you had seen the Phoenix
+memo and investigative summary sent by the Minneapolis ﬁeld ofﬁce. In your
+capacity as supervising agent you received in late August 2001 the question you
+submitted in your capacity as a CIA analyst. How would you have responded? What
+additional actions by the FBI or other agencies would you have recommended?
+Recognizing that the FBI had limited resources and a culture that tended to
+“back-burner” investigative requests that were unrelated to the bureau’s crime-
+solving culture, how would you have prioritized these requests? Had your superiors
+declined to assign these requests the priority you thought they deserved, what if
+anything do you now think that you would have done?
+The examples based on 9/11 developed above illustrate three points that are
+central to understanding evidence in general, as well as evidence in legal contexts.
+i The ingredients of proof in law and in other contexts involve evidence, hypotheses,
+propositions to be proved, possible explanations, and arguments linking evidence and
+hypotheses. All of these ingredients must be generated as a result of imaginative
+reasoning, also called abductive reasoning. Generation of these ingredients is a major
+element of fact investigation. But the more familiar logical forms of reasoning,
+deductive and inductive, are also required in the testing of hypotheses and in the
+construction of arguments linking evidence and hypotheses. Computers can be of
+help in locating and sorting data, but no program has been developed or is likely to be
+developed to serve as a substitute for the imaginative reasoning possessed by human
+beings.
+ii Such reasoning activities cannot be productive in the absence of knowledge of the
+major properties or “credentials” of evidence. These credentials – relevance,
+credibility, and probative (inferential) force – have long been studied in the literature
+on evidence in the ﬁeld of law. In fact, there is a rich legacy of knowledge about these
+credentials that has accumulated in law and that could be taken to greater advantage
+by persons in many other disciplines as well as by practicing lawyers. This legacy has
+accumulated over the centuries largely as a result of repeated experiences in the
+crucible of adversarial encounters in our Anglo-American adversarial system for
+settling disputes.
+iii Evidence varies substantively, or in terms of its content, in a nearly inﬁnite fashion
+and comes from many different sources. There is a method, however, of classifying
+forms of evidence that is substance-blind. This method allows us to study and analyze
+evidence without regard to the content of the evidence.
+All of these general aspects of the study of evidence are an essential part of
+understanding evidence in legal and in other contexts. The next part deals with
+fact investigation, preserving the metaphor of generating dots, triﬂes, or details
+and ﬁnding potential explanations for those we generate during fact investigation.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 87 ---
+Fact investigation and the nature of evidence
+55
+Part C identiﬁes and explains the credentials of evidence. The last part explains the
+importance of using the substance-blind form in examining evidence.8
+B. Fact investigation: generating dots and explanations for them
+One of the most important and difﬁcult tasks in the practice of law is fact inves-
+tigation.9 Fact investigation involves the generation or discovery of the necessary
+ingredients of the later process of proof during which the parties present their com-
+petingviewsabout“thefacts”insomedispute.Theseingredientsincludehypotheses
+or propositions to be proved, evidence, and arguments linking hypotheses and evi-
+dence. Thus, fact investigation involves the analysis, as well as the gathering, of
+evidence.
+Fact investigation may also appropriately be termed fact inquiry because a crucial
+ingredient of fact investigation is the asking of questions. Fact investigation, as an
+ongoing process, is a dynamic activity; it takes place over time, and every episode
+is unique. The investigator learns different things at different times in response to
+questionssheasks.Asfactinvestigationproceeds,theinvestigatoroftenhashypothe-
+ses in search of evidence and, at the same time, evidence in search of hypotheses.
+Knowing what questions she should be asking at any given time is rarely obvious,
+except in hindsight. Often, the most productive questions cannot be asked until she
+obtains answers to many other questions that may not seem important at the time
+they are asked.
+In contrast, analysis is static. It is necessary at all stages of the process, but it is
+episodic rather than continuous. The investigator analyzes the then available data
+and hypotheses to reﬁne the hypotheses (or generate new ones) and to determine
+whether and how the investigation should be directed or redirected. Given the
+analysis done, what further questions need to be addressed?
+1. Types of logical reasoning and justiﬁcation
+Fact investigation in law shares many attributes that characterize discovery-related
+activities in other contexts such as science, history, medicine, and intelligence anal-
+ysis. In any context, investigation and analysis (and proof) require the use of the
+three standard forms of logic: deductive, inductive, and abductive. Arguments in
+8 A note on terminology: Lawyers are familiar with terms such as direct evidence, circumstantial
+evidence, real evidence, discovery, and corroboration, which have acquired technical legal meanings
+and have sometimes been the subject of controversy. These terms have different meanings when
+they are used by logicians, probabilists, newspaper reporters, and others. As this book is about the
+logic of proof, we have adopted deﬁnitions for a few terms (direct, circumstantial, corroboration)
+that ﬁt this framework and which diverge from technical legal usage. For the sake of precision
+we have also used a few terms that may be unfamiliar such as ancillary evidence, probandum, and
+autoptic proference. All of these terms are deﬁned in the Glossary.
+9 The term is taken from the title of a book on fact investigation by Binder and Bergman (1984).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 88 ---
+56
+Analysis of Evidence
+each of these forms can be expressed in the form of a syllogism. In deductive logic,
+the major premise must be a statement that is universally true:
+Deductive:
+All As are Bs
+X is an A
+X is [necessarily] a B.
+In inductive logic, in the sense of practical reasoning, the major premise is not
+universally true and ordinarily not stated. It is a generalization, a proposition, that
+may be true “usually,” “many times,” “more often than not,” “sometimes,” etc. It can
+however, be expressed in syllogistic form by articulating the generalization upon
+which an inference depends.
+Inductive:
+Many As are Bs
+X is an A
+X is probably a B
+Abductive reasoning is discussed in detail in the next section. It is the creative
+process of reasoning. Rather than reasoning from a hypothesis to a conclusion
+based upon the evidence, it involves reasoning from the evidence to a hypothesis
+that might explain it.
+Abductive:
+Surprising event A has occurred
+If H were true, A would follow
+There is reason to believe that H might be true.
+The applications of these forms of logic are described and illustrated in the
+materials that follow. For now, it is important to recognize that in legal and most
+other practical contexts a conclusion based upon the evidence can only be justiﬁed
+as rational through the use of one or more of these forms of logic.
+2. Abductive reasoning and the generation of a new idea
+In any context, investigation or discovery involves imaginative or creative thought.
+For many centuries it was assumed that the generation of hypotheses and new ideas
+involved some species of inductive reasoning. It was not until the late 1800s that
+questions arose regarding whether new ideas can arise by purely inductive means.
+It is one thing to justify some hypothesis inductively, based on evidence. But it is
+quite another thing to say how this hypothesis arose in the ﬁrst place.
+This distinction was considered carefully by Charles Sanders Peirce (1839–1914).
+Peirce argued that new ideas could not be generated by deductive reasoning, which
+shows that something is necessarily true. The price paid for necessity in such an
+argument is the absence of new information, since a deductive conclusion contains
+nothing that is not already included in its premises. Peirce also argued that new
+ideas cannot arise strictly on the basis of inductive reasoning. Such reasoning shows
+that some hypothesis is probably true, based on evidence. But this form of reasoning
+is involved in the justiﬁcation of a known hypothesis and does not explain how the
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 89 ---
+Fact investigation and the nature of evidence
+57
+Figure 2.3 A modiﬁed arch of knowledge
+hypothesis was generated or discovered in the ﬁrst place. Peirce argued that there
+must be another form of reasoning associated with discovery and the generation
+of hypotheses or possible explanations. He termed this third form of reasoning
+abduction, by means of which we show that something is possibly or plausibly true.
+Peirce associated abductive reasoning with ﬂashes of insight (Peirce (1903) 304):
+The abductive suggestion comes to us like a ﬂash. It is an act of insight, although of
+extremely fallible insight. It is true that the different elements of the hypothesis were in
+ourmindsbefore;butitistheideaofputtingtogetherwhatwehadneverbeforedreamed
+of putting together which ﬂashes the new suggestion before our contemplation.
+Peirce went on to put abductive reasoning in the following syllogistic form:
+The surprising fact E1 is observed;
+But if hypothesis H were true, E1 would be a matter of course,
+Thus, there is reason to suspect that H might be true.
+Theabductiveprocessisgraphicallyillustratedinthemodiﬁedarchofknowledge
+shown in Figure 2.3.10 Peirce’s abductive syllogism deﬁnes the upward arm. The
+downward arm can be similarly expressed in syllogistic form.
+If H were true, then one or more of facts E2, E3, and E4 ought to exist.
+Assume H is true.
+Thus, there is reason to believe that one or more of facts E2, E3, and E4 exist.
+10 Philosopher David Oldroyd (1986) developed the original arch of knowledge. As here, he used
+it as a metaphor to describe the process of investigation and discovery. We have modiﬁed it to
+make clear how the arch can be used to describe the reasoning involved in fact investigation and
+discovery in legal contexts.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 90 ---
+58
+Analysis of Evidence
+The value of a new hypothesis to an investigator rests not only on its ability
+to explain evidence she already has; it may also allow her to generate new lines of
+inquiry that have not been suggested by other hypotheses she had been entertaining.
+The abductive process is not static. As a result of exploring the lines of inquiry
+suggested by H1 or through other inquiries the investigator may discover new facts
+that require that H1 be revised or eliminated. For example, the items of evidence,
+E2, E3, and E4, that ought to have existed if H1 were true may not exist (or may
+not be found). In other words, H1 has failed this test. Instead, her inquiries may
+lead to the discovery of new items of evidence that makes it necessary to revise
+H1. So too, new lines of inquiry suggested by H1 may result in observations that
+suggest a new hypothesis, H2, different from H1. What we have to imagine are
+sequences of arches laid side by side as we generate more possible explanations or
+hypotheses.
+A second difﬁculty with Figure 2.3 involves the nature of the linkage between the
+initial observation and the hypothesis that the investigator generated to explain this
+observation. If the analyst is asked to show how some new hypothesis H1 explains
+E1, the phenomenon that allowed her to generate it, she encounters the necessity for
+constructing an often elaborate argument or chain of reasoning from her observa-
+tion to this new hypothesis H.11 For that reason, fact investigation activities always
+involve mixtures of abductive, inductive, and deductive reasoning.
+There is a direct connection between the theoretical matters we have just been
+discussing and the practice of fact investigation in law. It happens that, at the same
+time Peirce was developing his thoughts about abductive reasoning, across the
+Atlantic Sir Arthur Conan Doyle was developing the character of Sherlock Holmes.
+There is no evidence that Peirce and Conan Doyle each knew of the other’s work.
+Though Holmes describes his reasoning feats as “deductions,” it is clear that the
+form of his reasoning was abductive in nature.12
+3. Generating explanations for dots or triﬂes
+The importance of considering dots or triﬂes has never been better illustrated than
+in the exploits of Sherlock Holmes. In the Boscombe Valley Mystery, Holmes tells his
+colleague Dr. Watson (Baring-Gould, 1967, Vol. II, 148), “It was by an examination
+of the ground that I gained the triﬂing details which I gave to that imbecile Lestrade,
+as to the personality of the criminal.”
+Watson says: “But how did you gain them?”
+11 TheconstructionofcomplexargumentsbasedonevidenceisdiscussedanddevelopedinChapters3
+and 4.
+12 A valuable account of the connections between Peirce’s abductive reasoning and Holmes’s inves-
+tigative methods is the work of Umberto Eco and Thomas Sebeok (1983). Dr. Bell’s observations
+about a new patient, Holmes’s determination that Watson had returned from Afghanistan, and
+Kemelman’s “Nine mile walk” in Chapter 1 provide additional examples of Peirce’s abductive
+reasoning and illustrate the mixture of reasoning forms that are commonly required.
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 91 ---
+Fact investigation and the nature of evidence
+59
+Figure 2.4 Generating hypotheses from dots or triﬂes
+Holmes replies: “You know my method. It is founded on the observance of
+triﬂes.”
+The “triﬂes” Holmes mentioned refer to any single dot or detail obtained during
+fact investigation, whether it comes from a witness or from tangible evidence of
+some sort.
+In fact investigation, the number of triﬂes mounts up quickly as the process
+unfolds. In either a criminal or civil case each question posed may lead the investi-
+gator to a signiﬁcant number of triﬂes. Difﬁculties arise, as we illustrate in Figure 2.4
+above, when she begins the process of trying to make sense out of a rapidly accu-
+mulating collection of triﬂes. In this ﬁgure, each dot represents a triﬂe she has
+collected.
+As Figure 2.4 illustrates, on some occasions you might be fortunate in observing
+a single triﬂe that may suggest a new hypothesis – for example, in a criminal inves-
+tigation ﬁngerprints, DNA samples, shoe prints or other traces that can point to
+a particular suspect (hypothesis). In most cases, however, the generation of a new
+hypothesis or possibility is based upon a combination of several or many triﬂes. This
+is where the difﬁculties arise. The number of triﬂe combinations increases exponen-
+tially as the number of triﬂes gathered increases. The investigator as analyst must
+determine which triﬂe combinations to examine. Prescribed methods for analyzing
+the triﬂes and for marshaling the investigator’s or analyst’s thoughts become impor-
+tant at this stage. The principles of logic and the ways they are applied in analyzing
+evidence in a legal context are presented and illustrated in Chapter 3. Methods of
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 92 ---
+60
+Analysis of Evidence
+analysis that enable the analyst, be she an investigator or a lawyer preparing for trial,
+are presented in Chapters 4, 5, and 6.13
+C. On the credentials of evidence
+There are three major characteristics or credentials of an evidential datum that must
+beestablishedinanalyzingitsrelationshiptoahypothesis:Relevance,credibility,and
+probative [inferential] force or weight. No triﬂe comes with these credentials already
+established; these credentials rest upon arguments constructed by the analysts. For
+that reason, we must ﬁrst consider the major ingredients of arguments.
+1. Evidential foundations of argument
+Arguments consist of evidence, hypotheses, and statements called generalizations
+thatjustifylinkages between evidence and hypotheses.Metaphorically,anargument
+isachainofreasoningfromevidencetohypotheses.Linksinthesechainscorrespond
+to stages or steps in an argument. Each link exposes a source of possible doubt or
+uncertainty.
+In arguments based on evidence, there is a necessary distinction to be made
+between evidence of some event and the event itself. In symbols, E∗represents
+evidence (of some kind) about event E. Just because this evidence E∗says that event
+E occurred does not entail that E did occur. In fact, from E∗the decision-maker can
+only infer to some degree that event E did occur. For example, a witness Mary asserts
+E∗, that she saw Harold let the air out of his boss’s tires last Monday. Just because
+Mary makes this assertion does not mean that Harold did let the air out of his
+boss’s tires (event E). Mary’s credibility is open to question. The same idea applies
+to other forms of evidence. For example, Evidence E∗
+2 in the form of a photograph
+allegedly shows event E2, that Frank was in front of the bank shortly before it was
+robbed on March 4, at 3 p.m. The decision-maker must be concerned about the
+authenticity of this photo. This photo may have been doctored in various ways; it
+may also have been taken on a different day at a different time. Issues of credibility
+raise very important sources of doubt, but there are other doubts that arise when
+we attempt to relate evidence to hypotheses or matters we are trying to prove.
+In law a hypothesis is a proposition to be proved (a probandum). Probanda occur
+at several different levels in an argument. A probandum is always a proposition that
+in principle can be shown to be true or false. Levels of probanda in an argument
+are illustrated in Figure 2.5.
+In a legal case there will be a major or basic probandum at issue which we refer
+to as the ultimate probandum. The rule of law that will be applied to determine
+whether the plaintiff or the prosecutor is entitled to relief may be viewed as the
+major premise. The ultimate probandum is the minor premise. If the evidence
+13 Recent research suggests that how skillful we are at marshaling our existing thoughts and evidence
+inﬂuences how skillful we will be in generating new hypotheses and new lines of inquiry and
+evidence (Tillers and Schum (1991); Schum (1999)).
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 93 ---
+Fact investigation and the nature of evidence
+61
+Figure 2.5 Levels of probanda in an argument
+establishes that the ultimate probandum is true to the required degree of certainty,
+then the verdict must be for the prosecution or the plaintiff. In criminal cases, for
+example, an ultimate probandum includes all conditions that the prosecution must
+prove to be true beyond reasonable doubt, in order to justify a conviction. So, in a
+murder case, the prosecution must prove beyond reasonable doubt: that the victim
+is dead; that it was an unlawful act that caused the victim’s death; that it was the
+accused who committed that act; and that the accused had the intent required by
+the law of the jurisdiction in which the murder occurred. In civil cases the ultimate
+probandum consists of the ultimate facts the plaintiff must plead and prove in order
+to prevail.
+An ultimate probandum is either (rarely) a simple proposition or (usually) a
+compound proposition that can be broken down into simple propositions, each of
+which needs to be proved in order to prove the ultimate probandum. These simple
+propositions are termed penultimate probanda. These penultimate probanda are
+the material facts. The ﬁeld of law is unique in that the law deﬁnes the material facts
+or the speciﬁc propositions or elements that are necessary and sufﬁcient to prove
+some ultimate probandum.
+The evidence E∗in Figure 2.5 is linked to penultimate probandum P1 by a chain
+of reasoning indicated by propositions E, F, and G. Each of these propositions may
+be true or false and thus represent a source of doubt interposed between evidence E∗
+andpenultimateprobandumP1.Thesepropositionswerefertoasinterimprobanda.
+All probanda, ultimate, penultimate, and interim, are potential sources of doubt or
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 94 ---
+62
+Analysis of Evidence
+uncertainty. This is what the term probandum indicates; they are all matters to be
+proved.
+InFigure2.5,therearegeneralizations(labeledG1 throughG4)thatareassociated
+witheachlinkinthechainofreasoningfromevidenceE∗topenultimateprobandum
+P1.Thesegeneralizations,alsocalledwarrants (Toulmin,1964),supplyjustiﬁcations
+for each reasoning link. Generalizations are commonly “if then” statements that
+are inductive in nature; that is, they are hedged probabilistically in some way. For
+example, consider generalization G2 in Figure 2.5 that licenses the inference of
+proposition F from proposition E. This generalization might read: “If an event like
+E occurs, then (usually, frequently, often) an event like F will occur.” For example,
+assume that a police ofﬁcer testiﬁes in a narcotics case E∗that he observed person
+X passing a small packet of white powder to person Y at this time and place. From
+this evidence, the fact ﬁnder is asked to infer that X did pass a small packet of
+white powder to person Y at this time and place. The applicable generalization on
+which the inference is based might be stated as, “If a police ofﬁcer testifying under
+oath says that an event occurred, then this event almost certainly/probably/possibly
+did occur.” Some generalizations may be based on what is referred to as “common
+sense generalizations” while others are based on speciﬁc knowledge of phenomena
+that the events describe. The kinds of generalizations, as well as various inferential
+hazards they present, are described in Chapters 3, 4, and 10. These basic argument
+ingredients make it possible to provide an introductory account of the three basic
+credentials of evidence.
+2. On relevance
+When is a triﬂe evidence? The answer is: when its relevance to some material propo-
+sition or matter to be proved in the case at hand is demonstrated. The Federal Rules
+of Evidence in the United States provide a useful deﬁnition:
+Rule 401. Deﬁnition of “Relevant Evidence.” “Relevant evidence” means evidence having
+any tendency to make the existence of any fact that is of consequence to the deter-
+mination of the action more probable or less probable than it would be without the
+evidence.
+In order to be relevant, evidence must either make a penultimate probandum
+more or less probable (or must be relevant to the credibility of a witness or other
+evidenceofferedinthecase).Inshort,penultimateprobandasupplythetouchstones
+for establishing the relevance of evidence.
+There are two important species of relevant evidence – directly relevant evidence
+and indirectly relevant evidence.14 These are illustrated in Figure 2.6. Evidence E∗is
+14 The meaning of directly relevant and indirectly relevant should not be confused with the legal
+meaning of the direct and indirect evidence. The terms direct and indirect evidence have different
+meanings in law. In law, “[d]irect evidence is evidence which, if believed, resolves a matter in
+issue.” McCormick (1999) 278. All other evidence is indirect or circumstantial because “even if the
+circumstances depicted are accepted as true, additional reasoning is required to reach the desired
+conclusion.” Id. (See further below pp. 76–77.)
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
+
+
+--- Page 95 ---
+Fact investigation and the nature of evidence
+63
+Ancillary [indirectly relevant]
+evidence on the
+generalizations at each
+reasoning stage. Such evidence
+can either support or undermine
+a generalization.
+Interim probanda
+Pi: A penultimate probandum
+E*: Directly relevant evidence
+G
+F
+E
+A*4
+A*3
+A*2
+A*1
+Figure 2.6 Directly relevant and ancillary evidence
+directly relevant because it is linked directly by a chain of reasoning to a penultimate
+probandum P1. As a result, E∗is said to be directly relevant evidence if the chain of
+reasoning is defensible.
+The other four items of evidence A∗
+1, A∗
+2, A∗
+3, and A∗
+4 are also relevant, but
+only indirectly so. Although they are themselves not directly linked to a penulti-
+mate probandum, they are nevertheless relevant because they each bear upon the
+strength or weakness of links in the chain of reasoning set up by an item of directly
+relevant evidence. As a result, these four items are indirectly relevant or ancillary
+evidence.
+For example, a witness Willard testiﬁes that defendant Donald was at the scene
+of the crime when it happened. His evidence is admitted since it bears upon Don-
+ald’s opportunity to have committed the crime; i.e. it is directly relevant evidence.
+Then a rebuttal witness Ruth testiﬁes that she was with Willard at a location several
+miles away from the scene of the crime at the time the crime was committed. If
+what Ruth says is true, then Willard’s assertion cannot be true. Ruth’s testimony
+about Willard’s location is relevant because it makes it less probable that Donald
+had an opportunity to commit the crime. However, Ruth’s testimony, when con-
+sidered in light of Willard’s testimony, is also relevant because it diminishes or
+negates the credibility of Willard’s testimony about Donald. In other words, Ruth’s
+testimony is indirectly relevant and is ancillary evidence bearing upon Willard’s
+credibility.
+3. The credibility of evidence and its sources
+An item of evidence can be either a tangible item or a testimonial assertion. A major
+question is: To what extent can we believe what this evidence says? In other words,
+and in symbols, if E∗represents the evidence we have that event E occurred, the
+credibility question is: To what extent does E∗justify a belief or inference that event
+Cambridge Books Online © Cambridge University Press, 2009
+https://doi.org/10.1017/CBO9780511610585.003 Published online by Cambridge University Press
